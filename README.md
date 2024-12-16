@@ -1,1 +1,1 @@
-# ruccod
+# RuCCoD: Towards Automated ICD Coding in Russian
