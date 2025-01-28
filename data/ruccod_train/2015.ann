@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Гипотиреоз
+N1	Reference T1 ICD_codes:2025	E03.9
+T2	icd_code 16 20	ХАИТ
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 26 47	Кисты обеих долей щ/ж
+N3	Reference T3 ICD_codes:1701	D34
+T4	icd_code 49 92	Экзогенно-конституциональноке ожирение I ст
+N4	Reference T4 ICD_codes:2282	E66.0

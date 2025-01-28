@@ -1,0 +1,10 @@
+T1	icd_code 10 35	гиперплазия  эндометрия .
+N1	Reference T1 ICD_codes:9011	N85.0
+T2	icd_code 36 39	ВПЧ
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 41 51	Баквагиноз
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 52 84	Хронический сальпингит и оофорит
+N4	Reference T4 ICD_codes:8920	N70.1
+T5	icd_code 104 121	Эндометриоз матки
+N5	Reference T5 ICD_codes:8964	N80.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 20	ОРВИ: о.назофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 22 31	аденоидит
+N2	Reference T2 ICD_codes:6899	J35.2
+T3	icd_code 33 42	о.трахеит
+N3	Reference T3 ICD_codes:6797	J04.1
+T4	icd_code 44 64	Атопический дерматит
+N4	Reference T4 ICD_codes:7614	L20

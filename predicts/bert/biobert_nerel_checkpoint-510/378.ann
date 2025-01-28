@@ -1,0 +1,12 @@
+T1	icd_code 1 39	Дорсопатия шейного отдела позвоночника
+T2	icd_code 42 85	вертеброгенным мышечно-тоническим синдромом
+T3	icd_code 87 103	стойкая цефалгия
+T4	icd_code 118 128	обострение
+T5	icd_code 146 186	внутренней гидроцефалии  Атеросклероз ПА
+T6	icd_code 200 221	патологию Лор орагнов
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:5606	G44.2
+N4	Reference T4 ICD_codes:12781	T81.9
+N5	Reference T5 ICD_codes:6620	I67.2
+N6	Reference T6 ICD_codes:8315	M54.8

@@ -1,0 +1,10 @@
+T1	icd_code 54 57	ИБС
+N1	Reference T1 ICD_codes:6415	I25.9
+T2	icd_code 33 36	МКБ
+N2	Reference T2 ICD_codes:8754	N20
+T3	icd_code 39 51	пиелонефрит?
+N3	Reference T3 ICD_codes:8708	N11.1
+T4	icd_code 17 30	Хр.холецистит
+N4	Reference T4 ICD_codes:7491	K81.1
+T5	icd_code 0 16	Рефлюкс-эзофагит
+N5	Reference T5 ICD_codes:7189	K21

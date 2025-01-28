@@ -1,0 +1,6 @@
+T1	icd_code 0 21	хронический простатит
+N1	Reference T1 ICD_codes:8847	N41.1
+T2	icd_code 35 39	ДГПЖ
+N2	Reference T2 ICD_codes:8843	N40
+T3	icd_code 40 70	Возрастной андрогенный дефицит
+N3	Reference T3 ICD_codes:2180	E29.1

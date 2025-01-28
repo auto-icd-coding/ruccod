@@ -1,0 +1,8 @@
+T1	icd_code 1 8	ервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 11 24	Вульвовагинит
+N2	Reference T2 ICD_codes:8960	N77.1
+T3	icd_code 27 38	Миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 58 70	Хр. аднексит
+N4	Reference T4 ICD_codes:8920	N70.1

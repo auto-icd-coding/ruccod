@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Вторичный иммунодефицит
+N1	Reference T1 ICD_codes:1990	D84.9
+T2	icd_code 25 48	Герпесвирусная инфекция
+N2	Reference T2 ICD_codes:471	B00
+T3	icd_code 134 169	Сенсибилизация к бытовым аллергенам
+N3	Reference T3 ICD_codes:12745	T78.4

@@ -1,0 +1,4 @@
+T1	icd_code 0 27	Пролапс митрального клапана
+N1	Reference T1 ICD_codes:6452	I34.1
+T2	icd_code 33 55	Нарушения ритма сердца
+N2	Reference T2 ICD_codes:6545	I49.9

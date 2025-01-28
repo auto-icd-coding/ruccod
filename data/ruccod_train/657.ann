@@ -1,0 +1,4 @@
+T1	icd_code 0 20	вульгарные бородавки
+N1	Reference T1 ICD_codes:510	B07
+T2	icd_code 24 34	онихомикоз
+N2	Reference T2 ICD_codes:617	B35.1

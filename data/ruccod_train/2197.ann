@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Нарушение гликемии натощак
+N1	Reference T1 ICD_codes:10986	R73.0
+T2	icd_code 28 57	Многоузловой эутиреоидный зоб
+N2	Reference T2 ICD_codes:2029	E04.2

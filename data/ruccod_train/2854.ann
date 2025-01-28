@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8957	N76.8
+T2	icd_code 9 12	ФКМ
+N2	Reference T2 ICD_codes:8899	N60.1
+T3	icd_code 14 51	Нерегулярные менструации неуточненные
+N3	Reference T3 ICD_codes:9071	N92.6

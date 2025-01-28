@@ -1,0 +1,12 @@
+T1	icd_code 1 24	Цервицит   Хр. аднексит
+T2	icd_code 35 45	субремисии
+T3	icd_code 87 101	рубец на матке
+T4	icd_code 103 134	Ретенционные кисты эндоцервикса
+T5	icd_code 147 173	железисто -фиброзный полип
+T6	icd_code 176 182	канала
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:8385	M70.7
+N3	Reference T3 ICD_codes:9328	O34.2
+N4	Reference T4 ICD_codes:9033	N88.8
+N5	Reference T5 ICD_codes:9004	N84.0
+N6	Reference T6 ICD_codes:1055	C21.1

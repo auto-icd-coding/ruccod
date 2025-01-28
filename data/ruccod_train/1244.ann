@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ГЭРБ
+N1	Reference T1 ICD_codes:7189	K21
+T2	icd_code 41 52	гастропатию
+N2	Reference T2 ICD_codes:7254	K29.7

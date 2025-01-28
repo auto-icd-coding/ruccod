@@ -1,0 +1,14 @@
+T1	icd_code 0 14	Острый бронхит
+N1	Reference T1 ICD_codes:6860	J20.9
+T2	icd_code 37 62	ОРВИ, острый назофарингит
+N2	Reference T2 ICD_codes:6804	J06.8
+T3	icd_code 43 62	острый назофарингит
+N3	Reference T3 ICD_codes:6776	J00
+T4	icd_code 80 98	Острый риносинусит
+N4	Reference T4 ICD_codes:6786	J01.9
+T5	icd_code 112 133	Хронический тонзиллит
+N5	Reference T5 ICD_codes:6897	J35.0
+T6	icd_code 171 203	Железонедостаточная анемия, 1 ст
+N6	Reference T6 ICD_codes:1805	D50
+T7	icd_code 215 239	Бактериурия неуточненная
+N7	Reference T7 ICD_codes:8797	N30.9

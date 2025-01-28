@@ -1,0 +1,18 @@
+T1	icd_code 0 4	ГЭРБ
+N1	Reference T1 ICD_codes:7189	K21
+T2	icd_code 11 33	Недостаточность кардии
+N2	Reference T2 ICD_codes:7258	K31
+T3	icd_code 35 54	Хронический гастрит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 123 142	Хронический бульбит
+N4	Reference T4 ICD_codes:7246	K29
+T5	icd_code 155 178	Хронический  панкреатит
+N5	Reference T5 ICD_codes:7514	K86.1
+T6	icd_code 200 203	СРК
+N6	Reference T6 ICD_codes:7363	K58
+T7	icd_code 239 251	Дисбактериоз
+N7	Reference T7 ICD_codes:7404	K63.8
+T8	icd_code 261 264	ЖКБ
+N8	Reference T8 ICD_codes:7480	K80
+T9	icd_code 289 307	Реактивный гепатит
+N9	Reference T9 ICD_codes:7462	K75.2

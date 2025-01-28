@@ -1,0 +1,4 @@
+T1	icd_code 5 14	Мейбомеит
+N1	Reference T1 ICD_codes:5858	H01.8
+T2	icd_code 16 44	Реактивный отек нижнего века
+N2	Reference T2 ICD_codes:5859	H01.9

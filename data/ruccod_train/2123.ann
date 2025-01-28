@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Гипертрофия глоточной миндалины
+N1	Reference T1 ICD_codes:6898	J35.1
+T2	icd_code 38 59	Хронический аденоидит
+N2	Reference T2 ICD_codes:6902	J35.9

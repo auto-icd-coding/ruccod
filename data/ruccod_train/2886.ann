@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Перианальный дерматит
+N1	Reference T1 ICD_codes:7668	L29.0
+T2	icd_code 23 42	ронический геморрой
+N2	Reference T2 ICD_codes:6729	I84.8

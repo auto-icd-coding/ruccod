@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Мышечно-тонический  синдром
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 54 64	дорсопатии
+N2	Reference T2 ICD_codes:8307	M54
+T3	icd_code 66 110	распространенного остеохондроза позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1

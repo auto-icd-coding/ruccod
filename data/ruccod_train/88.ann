@@ -1,0 +1,4 @@
+T1	icd_code 0 8	Отомикоз
+N1	Reference T1 ICD_codes:6192	H62.2
+T2	icd_code 10 23	Наружный отит
+N2	Reference T2 ICD_codes:6177	H60.3

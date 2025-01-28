@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Дорсоппатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 12 24	Остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 59 74	грыжа МПД L4-L5
+N3	Reference T3 ICD_codes:8294	M51.1
+T4	icd_code 90 102	с-м ишиалгии
+N4	Reference T4 ICD_codes:8312	M54.4
+T5	icd_code 119 134	болевой синдром
+N5	Reference T5 ICD_codes:8441	M79.1

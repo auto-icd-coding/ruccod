@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 49 58	Грыжа ПОД
+N2	Reference T2 ICD_codes:7305	K44
+T3	icd_code 60 63	СРК
+N3	Reference T3 ICD_codes:7363	K58
+T4	icd_code 86 97	метеоризмом
+N4	Reference T4 ICD_codes:10788	R14

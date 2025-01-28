@@ -1,0 +1,8 @@
+T1	icd_code 0 49	Вегето-сосудистая дистония по гипермоторному типу
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 69 79	дорсопатия
+N2	Reference T2 ICD_codes:8305	M53.8
+T3	icd_code 88 96	сколиоза
+N3	Reference T3 ICD_codes:8225	M41.9
+T4	icd_code 114 118	 ЧМТ
+N4	Reference T4 ICD_codes:12859	T90.5

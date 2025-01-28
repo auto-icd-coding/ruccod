@@ -1,0 +1,10 @@
+T1	icd_code 0 29	Острый левосторонний гайморит
+N1	Reference T1 ICD_codes:6781	J01.1
+T2	icd_code 31 51	Хронический фарингит
+N2	Reference T2 ICD_codes:6876	J31.2
+T3	icd_code 64 85	Хронический тонзиллит
+N3	Reference T3 ICD_codes:6897	J35.0
+T4	icd_code 111 139	Искривление перегородки носа
+N4	Reference T4 ICD_codes:6893	J34.2
+T5	icd_code 141 159	Вазомоторный ринит
+N5	Reference T5 ICD_codes:6868	J30.0

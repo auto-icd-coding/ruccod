@@ -1,0 +1,8 @@
+T1	icd_code 29 39	эрозия ш\м
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 41 60	Дисфункция яичников
+N2	Reference T2 ICD_codes:2171	E28
+T3	icd_code 0 17	подострый вагинит
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 19 27	Цервицит
+N4	Reference T4 ICD_codes:8949	N76

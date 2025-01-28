@@ -1,0 +1,10 @@
+T1	icd_code 0 77	хронический антрум-гастрит с хеликобактерной обсеменённостью, фаза обострения
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 79 101	хронический холецистит
+N2	Reference T2 ICD_codes:7491	K81.1
+T3	icd_code 131 159	гиперкинезия желчного пузыря
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 161 179	дивертикулёз сигмы
+N4	Reference T4 ICD_codes:7356	K57.1
+T5	icd_code 181 195	с-м тораколгии
+N5	Reference T5 ICD_codes:8314	M54.6

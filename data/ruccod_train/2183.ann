@@ -1,0 +1,18 @@
+T1	icd_code 0 38	Гастроэзофагеальная рефлюксная болезнь
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 81 108	Аксиальная хиатальная грыжа
+N2	Reference T2 ICD_codes:7308	K44.9
+T3	icd_code 111 137	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7252	K29.5
+T4	icd_code 206 209	ЖКБ
+N4	Reference T4 ICD_codes:7480	K80
+T5	icd_code 254 258	ПХЭС
+N5	Reference T5 ICD_codes:7537	K91.5
+T6	icd_code 261 301	Хронический билиарнозависимый панкреатит
+N6	Reference T6 ICD_codes:7514	K86.1
+T7	icd_code 322 359	Дивертикулярная болезнь толстой кишки
+N7	Reference T7 ICD_codes:7358	K57.3
+T8	icd_code 362 385	Железодефицитная анемия
+N8	Reference T8 ICD_codes:1805	D50
+T1	icd_code 39 67	дистальный рефлюкс- эзофагит
+N1	Reference T1 ICD_codes:7190	K21.0

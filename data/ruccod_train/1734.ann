@@ -1,0 +1,4 @@
+T1	icd_code 0 43	Дисфункция яичников репродуктивного периода
+N1	Reference T1 ICD_codes:2177	E28.9
+T2	icd_code 46 80	Маточная беременность малого срока
+N2	Reference T2 ICD_codes:16792	Z32.0

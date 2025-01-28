@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Торакалгия
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 30 58	НЦД по гипертоническому типу
+N2	Reference T2 ICD_codes:4923	F45.3
+T3	icd_code 60 105	Дорсопатия шейно-грудного отдела позвоночника
+N3	Reference T3 ICD_codes:8306	M53.9

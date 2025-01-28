@@ -1,0 +1,6 @@
+T1	icd_code 2 17	Хрон.холецистит
+N1	Reference T1 ICD_codes:7491	K81.1
+T2	icd_code 39 63	Язвенная болезнь желудка
+N2	Reference T2 ICD_codes:7215	K25.9
+T3	icd_code 75 88	Стеатогепатоз
+N3	Reference T3 ICD_codes:7467	K76.0

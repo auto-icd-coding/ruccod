@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ЦВБ
+T2	icd_code 5 40	Хроническая ишемия  головного мозга
+T3	icd_code 90 119	вестибулоатактический синдром
+T4	icd_code 120 142	цефалгический синдромы
+T5	icd_code 145 168	эмоциональные нарушения
+N1	Reference T1 ICD_codes:6627	I67.9
+N2	Reference T2 ICD_codes:9978	P91.0
+N3	Reference T3 ICD_codes:6265	H81.9
+N4	Reference T4 ICD_codes:10929	R51
+N5	Reference T5 ICD_codes:4855	F34

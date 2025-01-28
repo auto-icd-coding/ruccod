@@ -1,0 +1,8 @@
+T1	icd_code 0 20	ОРВИ, реконвалесцент
+T2	icd_code 22 61	Инфекционный мононуклеоз Эпштейн - Барр
+T3	icd_code 86 104	герпеса 1и 2 типов
+T4	icd_code 106 120	герпеса 6 типа
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:592	B27.9
+N3	Reference T3 ICD_codes:481	B00.9
+N4	Reference T4 ICD_codes:481	B00.9

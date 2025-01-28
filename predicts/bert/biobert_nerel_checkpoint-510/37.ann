@@ -1,0 +1,6 @@
+T1	icd_code 10 45	неосложненное варикозное расширение
+T2	icd_code 104 105	-
+T3	icd_code 116 143	плоскостопие  Ожирение 1 ст
+N1	Reference T1 ICD_codes:6719	I83.9
+N2	Reference T2 ICD_codes:12199	T10.+.0
+N3	Reference T3 ICD_codes:8111	M21.4

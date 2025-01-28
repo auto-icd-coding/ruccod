@@ -1,0 +1,6 @@
+T1	icd_code 2 25	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 43 73	Дисциркуляторная энцефалопатия
+N2	Reference T2 ICD_codes:5816	G93.4
+T3	icd_code 84 103	гиперхолестеринэмия
+N3	Reference T3 ICD_codes:2350	E78.0

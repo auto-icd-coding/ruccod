@@ -1,0 +1,4 @@
+T1	icd_code 3 11	затяжнои
+T2	icd_code 13 29	гастоэнтероколит
+N1	Reference T1 ICD_codes:9409	O63.9
+N2	Reference T2 ICD_codes:7337	K52.9

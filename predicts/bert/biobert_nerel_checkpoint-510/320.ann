@@ -1,0 +1,18 @@
+T1	icd_code 2 31	Энцефалопатия сложного генеза
+T2	icd_code 34 48	метаболическая
+T3	icd_code 63 91	выраженная гемикрания справа
+T4	icd_code 93 135	умеренные вестибуло-атактические нарушения
+T5	icd_code 137 157	церебральная астения
+T6	icd_code 161 174	субкомпесация
+T7	icd_code 178 189	Цервикалгия
+T8	icd_code 205 229	алгическими проявлениями
+T9	icd_code 231 259	мышечно-тоническим синдромом
+N1	Reference T1 ICD_codes:5816	G93.4
+N2	Reference T2 ICD_codes:2411	E88.9
+N3	Reference T3 ICD_codes:1914	D69.8
+N4	Reference T4 ICD_codes:6265	H81.9
+N5	Reference T5 ICD_codes:5812	G93.0
+N6	Reference T6 ICD_codes:6132	H52.5
+N7	Reference T7 ICD_codes:8310	M54.2
+N8	Reference T8 ICD_codes:8441	M79.1
+N9	Reference T9 ICD_codes:8441	M79.1

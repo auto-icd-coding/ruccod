@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Вагинит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 36 42	Цистит
+N2	Reference T2 ICD_codes:8789	N30
+T3	icd_code 22 33	Бактериурия
+N3	Reference T3 ICD_codes:8835	N39

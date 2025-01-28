@@ -1,0 +1,12 @@
+T1	icd_code 0 39	Дорсопатия грудного отдела позвоночника
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 51 54	ВСД
+N2	Reference T2 ICD_codes:5801	G90.8
+T3	icd_code 111 140	Артериальная гипертензия 1 ст
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 144 163	гиперхолестеринемия
+N4	Reference T4 ICD_codes:2355	E78.5
+T5	icd_code 165 185	Удвоение левой почки
+N5	Reference T5 ICD_codes:10435	Q63
+T6	icd_code 70 109	дисфункция вегетативной нервной системы
+N6	Reference T6 ICD_codes:5795	G90

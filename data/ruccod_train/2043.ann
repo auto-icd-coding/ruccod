@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Аллергическая реакция
+N1	Reference T1 ICD_codes:12745	T78.4
+T2	icd_code 32 45	Токсикодермия
+N2	Reference T2 ICD_codes:7657	L27

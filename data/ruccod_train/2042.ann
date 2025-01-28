@@ -1,0 +1,8 @@
+T1	icd_code 39 56	цервикоторакалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 46 56	торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 1 11	Дорсопатия
+N3	Reference T3 ICD_codes:8285	M50-M54
+T4	icd_code 87 108	Мигрень проста форма
+N4	Reference T4 ICD_codes:5597	G43.0

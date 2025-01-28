@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ГЭРБ
+T2	icd_code 8 18	эзофагитом
+T3	icd_code 21 40	Хронический гастрит
+T4	icd_code 130 134	ДЖВП
+T5	icd_code 176 200	строения желчного пузыря
+N1	Reference T1 ICD_codes:7191	K21.9
+N2	Reference T2 ICD_codes:7190	K21.0
+N3	Reference T3 ICD_codes:7252	K29.5
+N4	Reference T4 ICD_codes:7500	K82.8
+N5	Reference T5 ICD_codes:7500	K82.8

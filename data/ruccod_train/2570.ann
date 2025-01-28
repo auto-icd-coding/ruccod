@@ -1,0 +1,8 @@
+T1	icd_code 1 18	Хронический запор
+N1	Reference T1 ICD_codes:7367	K59.0
+T2	icd_code 20 50	Малая аномалия желчного пузыря
+N2	Reference T2 ICD_codes:7509	K83.8
+T3	icd_code 54 81	перегиба в теле, дне, шейке
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 84 110	ДЖВП по гипомоторному типу
+N4	Reference T4 ICD_codes:7509	K83.8

@@ -1,0 +1,4 @@
+T1	icd_code 0 42	Образование в молочной железе неуточненное
+N1	Reference T1 ICD_codes:8907	N63
+T2	icd_code 44 87	флебит? подкожной вены левой молчной железы
+N2	Reference T2 ICD_codes:6705	I80.8

@@ -1,0 +1,6 @@
+T1	icd_code 24 39	эктопии ш\матки
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 66 80	ВПЧ - инфекция
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 85 91	Анемия
+N3	Reference T3 ICD_codes:1805	D50

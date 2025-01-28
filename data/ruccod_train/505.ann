@@ -1,0 +1,6 @@
+T1	icd_code 22 29	гатрит,
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 29 37	дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 38 40	НР
+T4	icd_code 67 101	Грыжа пищеводного отдела диафрагмы

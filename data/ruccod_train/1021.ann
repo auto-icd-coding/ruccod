@@ -1,0 +1,4 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 20 50	Угроза прерывания беременности
+N2	Reference T2 ICD_codes:9228	O20.0

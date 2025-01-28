@@ -1,0 +1,6 @@
+T1	icd_code 0 36	Пограничная артериальная гипертензия
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 38 50	Закрытая ЧМТ
+N2	Reference T2 ICD_codes:11244	S06.9
+T3	icd_code 53 108	остравматическое повреждения шейного отдела позвоночник
+N3	Reference T3 ICD_codes:11302	S13.4

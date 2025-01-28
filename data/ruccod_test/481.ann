@@ -1,0 +1,26 @@
+T1	icd_code 68 81	остеохондроза
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 84 127	вертеброгенным мышечно-тоническим синдромом
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 129 140	гипестезией
+N3	Reference T3 ICD_codes:10808	R20.1
+T4	icd_code 153 189	Вторичный стеноз позвоночного канала
+N5	Reference T4 ICD_codes:8268	M48.0
+T5	icd_code 207 217	антелистез
+N6	Reference T5 ICD_codes:8232	M43.1
+T6	icd_code 241 268	Плече-лопаточный периартрит
+N7	Reference T6 ICD_codes:8417	M75.8
+T7	icd_code 283 311	Артроз мелких суставов кисти
+N8	Reference T7 ICD_codes:8095	M19.8
+T8	icd_code 312 340	Моторно-сенсорная невропатия
+N9	Reference T8 ICD_codes:5702	G58.8
+T10	icd_code 0 38	Дороспатия шейного отдела позвоночника
+N4	Reference T10 ICD_codes:8290	M50.8
+T11	icd_code 377 407	Дисциркуляторная энцефалопатия
+N10	Reference T11 ICD_codes:6626	I67.8
+T12	icd_code 419 442	гипертонической болезни
+N11	Reference T12 ICD_codes:6359	I11.9
+T13	icd_code 444 471	церебрального атеросклероза
+N12	Reference T13 ICD_codes:6620	I67.2
+T9	icd_code 474 506	легкими когнитивными нарушениями
+N13	Reference T9 ICD_codes:2801	F06.7

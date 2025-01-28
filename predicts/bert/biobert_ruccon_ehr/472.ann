@@ -1,0 +1,6 @@
+T1	icd_code 0 46	Аллергический контактный дерматит,неуточненный
+T2	icd_code 48 92	Доброкачественное новообразование кожи груди
+T3	icd_code 95 100	невус
+N1	Reference T1 ICD_codes:7635	L23.9
+N2	Reference T2 ICD_codes:1579	D15
+N3	Reference T3 ICD_codes:1635	D22.9

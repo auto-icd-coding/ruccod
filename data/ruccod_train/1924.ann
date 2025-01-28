@@ -1,0 +1,16 @@
+T1	icd_code 5 39	Хроническая ишемия головного мозга
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 52 86	атеросклероза церебральных артерий
+N2	Reference T2 ICD_codes:6645	I70.8
+T3	icd_code 87 110	артериальной гипертонии
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 113 123	Дорсопатия
+N4	Reference T4 ICD_codes:8315	M54.8
+T5	icd_code 125 144	Шейный остеохондроз
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 146 163	цервикокраниалгия
+N6	Reference T6 ICD_codes:8310	M54.2
+T7	icd_code 176 197	миотонический синдром
+N7	Reference T7 ICD_codes:8441	M79.1
+T8	icd_code 199 223	умеренная вестибулопатия
+N8	Reference T8 ICD_codes:6264	H81.8

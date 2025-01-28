@@ -1,0 +1,10 @@
+T1	icd_code 30 60	аллергический  дерматит кистей
+T2	icd_code 87 105	Пиодермия кожи шеи
+T3	icd_code 109 126	Угревая   болезнь
+T4	icd_code 149 159	Паратиреоз
+T5	icd_code 161 170	Тиреоидит
+N1	Reference T1 ICD_codes:7625	L23
+N2	Reference T2 ICD_codes:7582	L08.0
+N3	Reference T3 ICD_codes:7829	L70.0
+N4	Reference T4 ICD_codes:2124	E20.9
+N5	Reference T5 ICD_codes:2048	E06.9

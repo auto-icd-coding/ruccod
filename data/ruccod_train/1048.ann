@@ -1,0 +1,6 @@
+T1	icd_code 70 97	Желудочковая экстрасистолия
+N1	Reference T1 ICD_codes:6541	I49.3
+T2	icd_code 38 62	Артериальная гипертензия
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 0 35	Кардиомиопатия неуточненного генеза
+N3	Reference T3 ICD_codes:6502	I42.9

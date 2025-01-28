@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Носительство ат к ТПО
+N1	Reference T1 ICD_codes:2025	E03.9
+T1	icd_code 23 30	ат к ТГ
+N1	Reference T1 ICD_codes:2025	E03.9

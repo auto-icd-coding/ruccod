@@ -1,0 +1,4 @@
+T1	icd_code 0 13	Острый ринит.
+N1	Reference T1 ICD_codes:6874	J31.0
+T2	icd_code 14 52	Острый катаральный назофаринголарингит
+N2	Reference T2 ICD_codes:6776	J00

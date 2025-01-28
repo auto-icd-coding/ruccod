@@ -1,0 +1,5 @@
+T1	icd_code 36 87	Воспаление и закупорка слуховой [евстахиевой] трубы
+T2	icd_code 130 144	Острый туботит
+N2	Reference T2 ICD_codes:6198	H65.0
+T3	icd_code 152 170	Вазомоторный ринит
+N3	Reference T3 ICD_codes:6866	J30

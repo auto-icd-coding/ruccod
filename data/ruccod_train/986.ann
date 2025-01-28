@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 17	Вагинит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 19 23	ИППП
+N3	Reference T3 ICD_codes:325	A64
+T4	icd_code 24 47	НМЦ по типу опсоменореи
+N4	Reference T4 ICD_codes:9057	N91
+T4	icd_code 48 52	ПИФЯ
+N4	Reference T4 ICD_codes:9057	N91

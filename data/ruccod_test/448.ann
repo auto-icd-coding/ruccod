@@ -1,0 +1,4 @@
+T1	icd_code 1 5	ОРВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 39 42	ГЭР
+N2	Reference T2 ICD_codes:7189	K21

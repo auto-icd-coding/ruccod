@@ -1,0 +1,4 @@
+T1	icd_code 0 40	Аллергический и кандидозный баланопостит
+N1	Reference T1 ICD_codes:8872	N48.1
+T2	icd_code 42 66	Кондиломы полового члена
+N2	Reference T2 ICD_codes:323	A63.0

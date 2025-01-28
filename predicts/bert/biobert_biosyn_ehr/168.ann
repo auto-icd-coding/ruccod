@@ -1,0 +1,12 @@
+T1	icd_code 0 20	Остеохондроз шейного
+T2	icd_code 22 30	грудного
+T3	icd_code 41 53	-крестцового
+T4	icd_code 62 74	позвоночника
+T5	icd_code 76 99	множественные протрузии
+T6	icd_code 102 140	дорзальные грыжи межпозвоночных дисков
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:1583	D15.7
+N3	Reference T3 ICD_codes:8573	M94.8
+N4	Reference T4 ICD_codes:1592	D16.6
+N5	Reference T5 ICD_codes:7375	K60.0
+N6	Reference T6 ICD_codes:8298	M51.8

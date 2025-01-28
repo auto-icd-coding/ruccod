@@ -1,0 +1,4 @@
+T1	icd_code 0 27	Гастродуоденит неуточненный
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 29 50	Ротавирусная инфекция
+N2	Reference T2 ICD_codes:64	A08.0

@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Пролапс МК
+N1	Reference T1 ICD_codes:6452	I34.1
+T2	icd_code 12 22	Пролапс ТК
+N2	Reference T2 ICD_codes:6338	I07.1
+T3	icd_code 24 63	Нарушение сердечного ритма неуточненное
+N3	Reference T3 ICD_codes:6545	I49.9
+T4	icd_code 66 78	Остеохондроз
+N4	Reference T4 ICD_codes:8229	M42.9
+T5	icd_code 80 90	Дорсопатия
+N5	Reference T5 ICD_codes:8316	M54.9

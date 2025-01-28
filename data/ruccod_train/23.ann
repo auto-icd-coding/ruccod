@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ОРИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 5 19	Острый синусит
+N2	Reference T2 ICD_codes:6779	J01
+T3	icd_code 20 40	Острый трахеобронхит
+N3	Reference T3 ICD_codes:6849	J20
+T4	icd_code 55 64	евстахеит
+N4	Reference T4 ICD_codes:6215	H68

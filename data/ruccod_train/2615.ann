@@ -1,0 +1,4 @@
+T1	icd_code 14 23	евстахеит
+N1	Reference T1 ICD_codes:6215	H68
+T2	icd_code 44 64	Острый трахеобронхит
+N2	Reference T2 ICD_codes:6849	J20

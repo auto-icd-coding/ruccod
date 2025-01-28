@@ -1,0 +1,8 @@
+T1	icd_code 0 5	ОРВИ,
+T2	icd_code 7 28	Острый ларинготрахеит
+T3	icd_code 30 72	Острый катаральный верхнечелюстной синусит
+T4	icd_code 79 86	явления
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6798	J04.2
+N3	Reference T3 ICD_codes:6780	J01.0
+N4	Reference T4 ICD_codes:10972	R68

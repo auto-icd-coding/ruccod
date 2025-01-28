@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 22 43	пояснично-крестцового
+T3	icd_code 77 106	мышечно-тоническим синдромами
+T4	icd_code 119 132	Люмбоишиалгия
+T5	icd_code 140 172	Грыжа межпозвонкового диска   L4
+T6	icd_code 173 175	L5
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:5669	G54.4
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:8312	M54.4
+N5	Reference T5 ICD_codes:8294	M51.1
+N6	Reference T6 ICD_codes:10687	Q93.4

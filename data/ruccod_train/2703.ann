@@ -1,0 +1,4 @@
+T1	icd_code 0 35	Герпетический везикулярный дерматит
+N1	Reference T1 ICD_codes:474	B00.1
+T2	icd_code 37 50	Экзема Капоши
+N2	Reference T2 ICD_codes:1177	C46.9

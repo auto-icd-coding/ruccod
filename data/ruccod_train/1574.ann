@@ -1,0 +1,12 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 19 66	Нарушение маточно-плацентарного кровотока 1Аст.
+N2	Reference T2 ICD_codes:9369	O43
+T3	icd_code 69 90	Синусовая брадикардия
+N3	Reference T3 ICD_codes:6544	I49.8
+T4	icd_code 93 124	Простой миопический астигматизм
+N4	Reference T4 ICD_codes:6129	H52.2
+T5	icd_code 127 147	Носовые кровотечения
+N5	Reference T5 ICD_codes:10750	R04.0
+T6	icd_code 149 180	Хронический тонзиллит, ремиссия
+N6	Reference T6 ICD_codes:6794	J03.9

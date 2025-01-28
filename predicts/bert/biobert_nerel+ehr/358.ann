@@ -1,0 +1,2 @@
+T1	icd_code 0 20	Киста левого яичника
+N1	Reference T1 ICD_codes:8995	N83.2

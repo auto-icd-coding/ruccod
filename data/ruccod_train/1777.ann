@@ -1,0 +1,4 @@
+T1	icd_code 0 36	Атеромы кожи волосистой части головы
+N1	Reference T1 ICD_codes:1636	D23
+T2	icd_code 38 62	Состояние после удаления
+N2	Reference T2 ICD_codes:16847	Z40.8

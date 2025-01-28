@@ -1,0 +1,6 @@
+T1	icd_code 2 15	иперандогения
+N1	Reference T1 ICD_codes:2173	E28.1
+T2	icd_code 20 32	Дерматопатия
+N2	Reference T2 ICD_codes:7674	L30
+T3	icd_code 36 57	Аппоплек4сия яичников
+N3	Reference T3 ICD_codes:9002	N83.9

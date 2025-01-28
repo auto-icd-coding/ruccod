@@ -1,0 +1,4 @@
+T1	icd_code 0 10	хр.гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 26 46	билиарная дискинезия
+N2	Reference T2 ICD_codes:7500	K82.8

@@ -1,0 +1,6 @@
+T1	icd_code 0 32	Доброкачествнные новообразования
+T2	icd_code 69 77	кератома
+T3	icd_code 99 119	остаточная гиперемия
+N1	Reference T1 ICD_codes:1636	D23
+N2	Reference T2 ICD_codes:7886	L85.1
+N3	Reference T3 ICD_codes:2282	E66.0

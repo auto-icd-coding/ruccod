@@ -1,0 +1,6 @@
+T1	icd_code 0 24	ОРВИ Острый ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 26 39	трахеобронхит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 41 83	Гипертоническая болезнь впервые выявленная
+N3	Reference T3 ICD_codes:6357	I11

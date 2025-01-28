@@ -1,0 +1,11 @@
+T1	icd_code 0 27	Нарушенная гликемия натощак
+N1	Reference T1 ICD_codes:10986	R73.0
+N7	Reference T1 ICD_codes:10986	R73.0
+T2	icd_code 47 68	инсулинорезистетность
+N2	Reference T2 ICD_codes:10985	R73
+T3	icd_code 71 77	НАЖБП,
+N3	Reference T3 ICD_codes:7467	K76.0
+T4	icd_code 78 86	ожирение
+N4	Reference T4 ICD_codes:2286	E66.9
+T5	icd_code 93 135	Диффузные изменения щит. железы, эутиреоз.
+N5	Reference T5 ICD_codes:2027	E04.0

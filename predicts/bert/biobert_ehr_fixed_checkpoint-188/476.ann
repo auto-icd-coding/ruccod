@@ -1,0 +1,8 @@
+T1	icd_code 0 24	острый диффузный бронхит
+T2	icd_code 26 30	ОРВИ
+T3	icd_code 32 44	ринофарингит
+T4	icd_code 62 80	Бронхиальная астма
+N1	Reference T1 ICD_codes:6860	J20.9
+N2	Reference T2 ICD_codes:6777	J00-J06
+N3	Reference T3 ICD_codes:6776	J00
+N4	Reference T4 ICD_codes:6945	J45.9

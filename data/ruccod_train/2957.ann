@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Аллергический ринит
+N1	Reference T1 ICD_codes:6871	J30.3
+T2	icd_code 21 29	Поллиноз
+N2	Reference T2 ICD_codes:6869	J30.1
+T3	icd_code 32 53	ГМперплазия аденоидов
+N3	Reference T3 ICD_codes:6899	J35.2

@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 11 31	Атрофический кольпит
+N2	Reference T2 ICD_codes:9089	N95.2
+T3	icd_code 35 43	аднексит
+N3	Reference T3 ICD_codes:8920	N70.1

@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7480	K80
+T2	icd_code 47 106	.Хронический паренхиматозный  билиарнозависимый  панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 109 135	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7256	K29.9
+T4	icd_code 149 169	Хронический геморрой
+N4	Reference T4 ICD_codes:6720	I84

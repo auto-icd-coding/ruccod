@@ -1,0 +1,12 @@
+T2	icd_code 23 36	Вульвовагинит
+N2	Reference T2 ICD_codes:8957	N76.8
+T3	icd_code 42 45	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T6	icd_code 119 129	Мастопатия
+N6	Reference T6 ICD_codes:8899	N60.1
+T1	icd_code 3 6	АМК
+N1	Reference T1 ICD_codes:9075	N93.9
+T7	icd_code 7 19	Альгоменорея
+N4	Reference T7 ICD_codes:9076	N94
+T4	icd_code 78 118	ВПР матки , неполная перегородка в матке
+N5	Reference T4 ICD_codes:10365	Q51.8

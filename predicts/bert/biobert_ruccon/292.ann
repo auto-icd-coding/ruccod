@@ -1,0 +1,12 @@
+T1	icd_code 0 49	Тендинит сухожилия длинной головки бицепса справа
+T2	icd_code 51 62	болезненный
+T3	icd_code 81 86	рубец
+T4	icd_code 114 126	Остеохондроз
+T5	icd_code 156 182	вертеброгенная цервикалгия
+T6	icd_code 184 218	Триггер правой трапецивидной мышцы
+N1	Reference T1 ICD_codes:8413	M75.2
+N2	Reference T2 ICD_codes:10931	R52.0
+N3	Reference T3 ICD_codes:7911	L91.0
+N4	Reference T4 ICD_codes:8228	M42.1
+N5	Reference T5 ICD_codes:8310	M54.2
+N6	Reference T6 ICD_codes:8314	M54.6

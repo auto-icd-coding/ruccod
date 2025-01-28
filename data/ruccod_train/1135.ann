@@ -1,0 +1,4 @@
+T1	icd_code 46 56	Эктопия ШМ
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 0 32	Хронический сальпингит и оофорит
+N2	Reference T2 ICD_codes:8920	N70.1

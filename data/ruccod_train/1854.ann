@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Комбинированное плоскостопие
+N1	Reference T1 ICD_codes:8111	M21.4
+T2	icd_code 29 44	Болевой синдром
+N2	Reference T2 ICD_codes:10934	R52.9

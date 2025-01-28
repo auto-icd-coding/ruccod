@@ -1,0 +1,6 @@
+T1	icd_code 0 24	острый диффузный бронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 73 105	острое респираторное заболевание
+N2	Reference T2 ICD_codes:6804	J06.8
+T3	icd_code 107 119	ринофарингит
+N3	Reference T3 ICD_codes:6776	J00

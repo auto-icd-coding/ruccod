@@ -1,0 +1,22 @@
+T1	icd_code 0 26	хронический антрум-гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 79 100	хронический дуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 119 142	ГЭРБ, неэрозивная форма
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 182 204	недостаточность кардии
+N4	Reference T4 ICD_codes:7267	K31.9
+T5	icd_code 207 247	хронический гепатит неуточнённого генеза
+N5	Reference T5 ICD_codes:7450	K73.9
+T6	icd_code 288 295	 цирроз
+N6	Reference T6 ICD_codes:7458	K74.6
+T7	icd_code 298 313	жировой гепатоз
+N7	Reference T7 ICD_codes:7467	K76.0
+T9	icd_code 338 392	синдром раздражённого кишечника с преобладанием диареи
+N9	Reference T9 ICD_codes:7364	K58.0
+T8	icd_code 315 337	реактивный панкреатит.
+N8	Reference T8 ICD_codes:7511	K85
+T10	icd_code 79 100	хронический  дуоденит
+N10	Reference T10 ICD_codes:7255	K29.8
+T3	icd_code 144 164	катаральный эзофагит
+N3	Reference T3 ICD_codes:7190	K21.0

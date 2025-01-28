@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Острый назофарингит
+T2	icd_code 34 48	на правой щеке
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:938	C00.2

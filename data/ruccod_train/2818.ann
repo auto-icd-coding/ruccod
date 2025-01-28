@@ -1,0 +1,2 @@
+T1	icd_code 0 20	острый гастроэнтерит
+N1	Reference T1 ICD_codes:7337	K52.9

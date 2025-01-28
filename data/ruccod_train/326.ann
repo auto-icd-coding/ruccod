@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Хронический пиелонефрит
+N1	Reference T1 ICD_codes:8707	N11.0
+T2	icd_code 45 54	Нефроптоз
+N2	Reference T2 ICD_codes:8780	N28
+T3	icd_code 63 75	Беременность
+N3	Reference T3 ICD_codes:16796	Z34

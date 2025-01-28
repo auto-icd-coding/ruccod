@@ -1,0 +1,12 @@
+T1	icd_code 88 96	Холангит
+N1	Reference T1 ICD_codes:7503	K83.0
+T2	icd_code 98 128	ДЖВП по гипокинетичекому типу.
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 129 178	Хронический гастрит с очаговой атрофией слизистой
+N3	Reference T3 ICD_codes:7251	K29.4
+T4	icd_code 227 244	вирусныей гепатит
+N4	Reference T4 ICD_codes:539	B18.9
+T5	icd_code 55 74	Токсический гепатит
+N5	Reference T5 ICD_codes:539	B18.9
+T6	icd_code 0 41	Хроническицй билиарнозависимый панкреатит
+N6	Reference T6 ICD_codes:7514	K86.1

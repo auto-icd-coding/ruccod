@@ -1,0 +1,6 @@
+T1	icd_code 38 47	люмбалгии
+N1	Reference T1 ICD_codes:8313	M54.5
+T2	icd_code 70 97	мышечно-тонический симптомы
+N2	Reference T2 ICD_codes:8333	M62
+T3	icd_code 99 111	Остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1

@@ -1,0 +1,14 @@
+T1	icd_code 0 25	Гипертоническая болезнь 1
+T2	icd_code 42 44	АГ
+T3	icd_code 48 60	Дислипидемия
+T4	icd_code 83 93	Дорсопатия
+T5	icd_code 95 127	Вертеброгенная цервикотораклагия
+T6	icd_code 129 162	обострение    атеросклеротический
+T7	icd_code 166 176	Стеноз ВСА
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:2354	E78.4
+N4	Reference T4 ICD_codes:8306	M53.9
+N5	Reference T5 ICD_codes:8310	M54.2
+N6	Reference T6 ICD_codes:6640	I70
+N7	Reference T7 ICD_codes:6605	I65.2

@@ -1,0 +1,8 @@
+T1	icd_code 0 10	ОЭО справа
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 12 20	Тубоотит
+N2	Reference T2 ICD_codes:6210	H66.9
+T3	icd_code 28 51	Кондуктивная тугоухость
+N3	Reference T3 ICD_codes:6278	H90.2
+T4	icd_code 67 82	Хр ринофарингит
+N4	Reference T4 ICD_codes:6776	J00

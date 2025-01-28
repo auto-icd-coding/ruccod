@@ -1,0 +1,4 @@
+T1	icd_code 15 23	глаукому
+N1	Reference T1 ICD_codes:6058	H40.9
+T2	icd_code 37 43	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1

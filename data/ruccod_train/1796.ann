@@ -1,0 +1,6 @@
+T1	icd_code 0 23	хронический пиелонефрит
+N1	Reference T1 ICD_codes:8707	N11.0
+T2	icd_code 38 59	хронический простатит
+N2	Reference T2 ICD_codes:8847	N41.1
+T3	icd_code 74 96	хронический эпидидимит
+N3	Reference T3 ICD_codes:8865	N45

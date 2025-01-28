@@ -1,0 +1,11 @@
+T1	icd_code 0 4	ИБС,
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 5 27	стенокардия напряжения
+N2	Reference T2 ICD_codes:6378	I20.8
+T3	icd_code 28 68	атеросклеротический  стеноз устья аорты.
+N3	Reference T3 ICD_codes:6457	I35.0
+T4	icd_code 84 106	Нарушение ритма сердца
+N4	Reference T4 ICD_codes:6545	I49.9
+N6	Reference T4 ICD_codes:6545	I49.9
+T5	icd_code 131 154	Гипертоническая болезнь
+N5	Reference T5 ICD_codes:6355	I10

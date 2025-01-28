@@ -1,0 +1,14 @@
+T1	icd_code 0 34	Травма шейного отдела позвоночника
+T2	icd_code 36 66	растяжение связочного аппарата
+T3	icd_code 68 83	Болевой синдром
+T4	icd_code 85 110	Ушиб мягких тканей головы
+T5	icd_code 143 149	черепа
+T6	icd_code 152 178	Артериальная гипертензия 3
+T7	icd_code 224 236	диабет 2 тип
+N1	Reference T1 ICD_codes:11308	S14.2
+N2	Reference T2 ICD_codes:11303	S13.5
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:11335	S20.2
+N5	Reference T5 ICD_codes:1763	D43.2
+N6	Reference T6 ICD_codes:6355	I10
+N7	Reference T7 ICD_codes:2076	E11.9

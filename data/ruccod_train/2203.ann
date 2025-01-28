@@ -1,0 +1,8 @@
+T1	icd_code 0 13	Диффузный зоб
+N1	Reference T1 ICD_codes:2027	E04.0
+T2	icd_code 28 48	Первичный гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9
+T3	icd_code 82 106	Артериальная гипертензия
+N3	Reference T3 ICD_codes:6357	I11
+T4	icd_code 108 111	ЖДА
+N4	Reference T4 ICD_codes:1805	D50

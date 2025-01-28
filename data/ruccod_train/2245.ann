@@ -1,0 +1,23 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 5 27	стенокардия напряжения
+N2	Reference T2 ICD_codes:6379	I20.9
+T3	icd_code 33 80	
+Гипертоническая болезнь 3 стадии. Степень АГ 2
+N3	Reference T3 ICD_codes:6357	I11
+T4	icd_code 82 104	 Дислипидемия. Риск-4(
+N4	Reference T4 ICD_codes:2357	E78.8
+T5	icd_code 122 126	ЦВБ:
+N5	Reference T5 ICD_codes:6627	I67.9
+T6	icd_code 127 131	ОНМК
+N6	Reference T6 ICD_codes:6638	I69.4
+T7	icd_code 171 215	Состояние после каротидной эндартериоэктомии
+N7	Reference T7 ICD_codes:6645	I70.8
+T8	icd_code 225 247	Токсическая нефропатия
+N8	Reference T8 ICD_codes:8728	N14.4
+T9	icd_code 249 274	Хроническая болезнь почек
+N9	Reference T9 ICD_codes:8749	N18
+T10	icd_code 297 310	ХПН 1 степени
+N10	Reference T10 ICD_codes:8749	N18
+T11	icd_code 312 346	Хроническая железодефицитня анемия
+N11	Reference T11 ICD_codes:1805	D50

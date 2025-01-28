@@ -1,0 +1,16 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8957	N76.8
+T2	icd_code 15 23	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 24 27	ПНЯ
+N3	Reference T3 ICD_codes:2175	E28.3
+T4	icd_code 33 50	Эндометриоз матки
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 53 67	ВПЧ - инфекция
+N5	Reference T5 ICD_codes:323	A63.0
+T6	icd_code 87 110	О. кондиломы  влагалища
+N6	Reference T6 ICD_codes:9020	N85.9
+T7	icd_code 113 132	Хр. сальпингоофорит
+N7	Reference T7 ICD_codes:8920	N70.1
+T8	icd_code 149 163	Тазовые спайки
+N8	Reference T8 ICD_codes:8934	N73.6

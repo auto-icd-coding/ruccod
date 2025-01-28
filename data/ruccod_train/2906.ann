@@ -1,0 +1,22 @@
+T1	icd_code 0 2	АГ
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 12 24	Дислипидемия
+N2	Reference T2 ICD_codes:2349	E78
+T3	icd_code 26 47	Избыточная масса тела
+N3	Reference T3 ICD_codes:2286	E66.9
+T4	icd_code 48 65	Синусовая аритмия
+N4	Reference T4 ICD_codes:6544	I49.8
+T5	icd_code 67 106	Синдром ранней реполяризации желудочков
+N5	Reference T5 ICD_codes:6524	I45.6
+T6	icd_code 112 137	Атерогенная  Дислипидемия
+N6	Reference T6 ICD_codes:2358	E78.9
+T7	icd_code 139 159	гипертриглицеридемия
+N7	Reference T7 ICD_codes:2351	E78.1
+T8	icd_code 162 170	Ожирение
+N8	Reference T8 ICD_codes:2286	E66.9
+T9	icd_code 177 212	Нарушение толерантности к углеводам
+N9	Reference T9 ICD_codes:10986	R73.0
+T10	icd_code 214 230	Гиперинсулинемия
+N10	Reference T10 ICD_codes:2410	E88.8
+T11	icd_code 232 254	Инсулинорезистентность
+N11	Reference T11 ICD_codes:2410	E88.8

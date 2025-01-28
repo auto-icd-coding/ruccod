@@ -1,0 +1,4 @@
+T1	icd_code 4 35	Простой миопический астигматизм
+N1	Reference T1 ICD_codes:6129	H52.2
+T2	icd_code 45 54	астенопия
+N2	Reference T2 ICD_codes:6138	H53.1

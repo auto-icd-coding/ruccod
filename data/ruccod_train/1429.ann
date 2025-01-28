@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Острый вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 16 31	Сальпингоофорит
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 33 36	ЭШМ
+N3	Reference T3 ICD_codes:9021	N86
+T4	icd_code 38 58	Беременность м\срока
+N4	Reference T4 ICD_codes:16796	Z34
+T5	icd_code 60 63	НМЦ
+N5	Reference T5 ICD_codes:9063	N91.5

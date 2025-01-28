@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Боль в грудной клетке
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 41 52	Кифосколиоз
+N2	Reference T2 ICD_codes:8225	M41.9
+T3	icd_code 54 79	деформация грудной клетки
+N3	Reference T3 ICD_codes:8581	M95.4
+T4	icd_code 81 107	Мышечно-тонический синдром
+N4	Reference T4 ICD_codes:8441	M79.1

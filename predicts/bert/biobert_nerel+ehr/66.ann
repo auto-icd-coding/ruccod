@@ -1,0 +1,12 @@
+T1	icd_code 0 9	Дорсалгии
+T2	icd_code 38 66	мышечно-тоническим синдромом
+T3	icd_code 75 102	остеохондрорза позвоночника
+T4	icd_code 126 147	спинальной амиотрафии
+T5	icd_code 162 196	-ишемсическая тунельная нейропатия
+T6	icd_code 220 226	нервов
+N1	Reference T1 ICD_codes:8316	M54.9
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8228	M42.1
+N4	Reference T4 ICD_codes:5505	G12.9
+N5	Reference T5 ICD_codes:8709	N11.8
+N6	Reference T6 ICD_codes:1317	C72.5

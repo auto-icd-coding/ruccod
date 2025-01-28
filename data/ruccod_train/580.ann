@@ -1,0 +1,11 @@
+T1	icd_code 0 16	Полип эндометрия
+N1	Reference T1 ICD_codes:9004	N84.0
+T3	icd_code 83 86	ПКЯ
+N3	Reference T3 ICD_codes:2174	E28.2
+T4	icd_code 88 125	Недостаточность лютеиновой фазы цикла
+N4	Reference T4 ICD_codes:2177	E28.9
+T5	icd_code 127 142	Гиперэстрогения
+N5	Reference T5 ICD_codes:2172	E28.0
+N6	Reference T5 ICD_codes:2172	E28.0
+T2	icd_code 18 59	Хронический двухсторонний сальпингоофорит
+N2	Reference T2 ICD_codes:8920	N70.1

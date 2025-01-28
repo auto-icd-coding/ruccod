@@ -1,0 +1,12 @@
+T1	icd_code 82 92	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 0 23	Гипертоническая болезнь
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 76 79	ЦВБ
+N3	Reference T3 ICD_codes:6627	I67.9
+T4	icd_code 94 106	Остеохондроз
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 112 138	мышечно-тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 140 184	Синдром вертебро-базиллярной недостаточности
+N6	Reference T6 ICD_codes:5611	G45.0

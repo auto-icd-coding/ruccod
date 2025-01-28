@@ -1,0 +1,4 @@
+T1	icd_code 2 41	герпетический   везикулярный   дерматит
+T2	icd_code 44 54	обострение
+N1	Reference T1 ICD_codes:474	B00.1
+N2	Reference T2 ICD_codes:12781	T81.9

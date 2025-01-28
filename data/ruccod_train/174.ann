@@ -1,0 +1,8 @@
+T1	icd_code 0 7	Синусит
+N5	Reference T1 ICD_codes:6786	J01.9
+T2	icd_code 17 20	ОРЗ
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 22 26	ГЭРБ
+N3	Reference T3 ICD_codes:7189	K21
+T4	icd_code 30 42	Хр. фарингит
+N4	Reference T4 ICD_codes:6876	J31.2

@@ -1,0 +1,16 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 29 54	остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 58 108	посттравматическая спондилопатия L2 и L3 позвонков
+N3	Reference T3 ICD_codes:8248	M45.6
+T4	icd_code 111 125	Ретролистез L2
+N4	Reference T4 ICD_codes:8233	M43.2
+T5	icd_code 128 142	 Антелитез  L4
+N5	Reference T5 ICD_codes:8232	M43.1
+T6	icd_code 147 166	Протрузии МПД L2-S1
+N6	Reference T6 ICD_codes:8293	M51.0
+T7	icd_code 169 192	деформирующий спондилез
+N7	Reference T7 ICD_codes:8239	M43.9
+T8	icd_code 169 205	деформирующий спондилез    люмбалгия
+N8	Reference T8 ICD_codes:8312	M54.4

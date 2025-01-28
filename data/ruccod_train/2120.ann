@@ -1,0 +1,12 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 8 16	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 28 31	ФКМ
+N3	Reference T3 ICD_codes:8899	N60.1
+T4	icd_code 42 52	Мастодиния
+N4	Reference T4 ICD_codes:8913	N64.4
+T5	icd_code 52 71	Эктопия шейки матки
+N5	Reference T5 ICD_codes:9021	N86
+T6	icd_code 98 118	Патология щит.железы
+N6	Reference T6 ICD_codes:2005	E00-E07

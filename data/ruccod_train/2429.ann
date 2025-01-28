@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Вульвовагинит кандидозный
+N1	Reference T1 ICD_codes:636	B37.3
+T2	icd_code 28 39	Миома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 54 65	эндометриоз
+N3	Reference T3 ICD_codes:8964	N80.0

@@ -1,0 +1,4 @@
+T1	icd_code 2 33	вазомоторный  ринит   на   фоне
+T2	icd_code 35 71	острого назофарингита     обострение
+N1	Reference T1 ICD_codes:6868	J30.0
+N2	Reference T2 ICD_codes:6776	J00

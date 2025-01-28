@@ -1,0 +1,8 @@
+T1	icd_code 14 25	миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 28 56	трофический кольпит, вагинит
+N2	Reference T2 ICD_codes:9089	N95.2
+T3	icd_code 58 64	Цистит
+N3	Reference T3 ICD_codes:8789	N30
+T4	icd_code 66 101	Несостоятельность мышц тазового дна
+N4	Reference T4 ICD_codes:8981	N81.8

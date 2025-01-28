@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Миатонический синдром
+N1	Reference T1 ICD_codes:5743	G71
+T2	icd_code 23 46	вегетативная дисфункция
+N2	Reference T2 ICD_codes:5795	G90

@@ -1,0 +1,10 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 9 17	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 25 44	Овуляторный синдром
+N3	Reference T3 ICD_codes:9076	N94
+T4	icd_code 46 66	Киста левого яичника
+N4	Reference T4 ICD_codes:8995	N83.2
+T5	icd_code 19 23	ИППП
+N5	Reference T5 ICD_codes:265	A50-A64

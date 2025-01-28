@@ -1,0 +1,6 @@
+T1	icd_code 1 15	Пяточные шпоры
+N1	Reference T1 ICD_codes:8434	M77.3
+T2	icd_code 31 71	Лигаментоз продольной подошвенной связки
+N2	Reference T2 ICD_codes:8349	M65
+T3	icd_code 73 100	Тендиноз ахиллова сухожилия
+N3	Reference T3 ICD_codes:8426	M76.6

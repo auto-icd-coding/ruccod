@@ -1,0 +1,4 @@
+T1	icd_code 0 50	Миофасциальный синдром левой переднеберцовой мышцы
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 58 87	Флебопатия нижних конечностей
+N2	Reference T2 ICD_codes:6715	I83

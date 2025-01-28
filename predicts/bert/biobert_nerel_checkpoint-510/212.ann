@@ -1,0 +1,4 @@
+T1	icd_code 5 17	нагноившийся
+T2	icd_code 32 40	халазион
+N1	Reference T1 ICD_codes:10916	R48.1
+N2	Reference T2 ICD_codes:5854	H00.1

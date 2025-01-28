@@ -1,0 +1,10 @@
+T1	icd_code 0 34	Аллергический ринит перистсирующий
+T2	icd_code 54 57	БОС
+T3	icd_code 59 67	ПИтщевая
+T4	icd_code 69 78	пыльцевая
+T5	icd_code 80 102	эпидермальная аллергия
+N1	Reference T1 ICD_codes:6872	J30.4
+N2	Reference T2 ICD_codes:8605	M99.9
+N3	Reference T3 ICD_codes:344	A67.9
+N4	Reference T4 ICD_codes:505	B05.9
+N5	Reference T5 ICD_codes:12745	T78.4

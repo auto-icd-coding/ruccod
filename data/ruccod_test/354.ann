@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Вагинит
+N1	Reference T1 ICD_codes:8957	N76.8
+T2	icd_code 16 40	самопроизвольный выкидыш
+N2	Reference T2 ICD_codes:9146	O03.9
+T3	icd_code 85 107	гиперплазия эндометрия
+N3	Reference T3 ICD_codes:9011	N85.0

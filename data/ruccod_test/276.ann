@@ -1,0 +1,10 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 27 33	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 51 62	Миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 64 87	Хронический пиелонефрит
+N4	Reference T4 ICD_codes:8707	N11.0
+T5	icd_code 89 100	Бактериурия
+N5	Reference T5 ICD_codes:8836	N39.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 60	Постменопаузальный остеопроз с переломом левой лучевой кости
+N1	Reference T1 ICD_codes:8452	M80.0
+T2	icd_code 61 87	Нарушение гликемии натощак
+N2	Reference T2 ICD_codes:10986	R73.0
+T3	icd_code 89 113	Артериальная гипертензия
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 115 127	Дислипидемия
+N5	Reference T4 ICD_codes:2349	E78

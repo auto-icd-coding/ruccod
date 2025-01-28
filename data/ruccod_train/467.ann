@@ -1,0 +1,16 @@
+T1	icd_code 1 16	Гиперандрогения
+N1	Reference T1 ICD_codes:2173	E28.1
+T2	icd_code 19 35	Гипоэстрогения
+N10	Reference T2 ICD_codes:2171	E28
+T3	icd_code 37 40	НЛФ
+N3	Reference T3 ICD_codes:2177	E28.9
+T4	icd_code 66 85	Эрозия шейки матки.
+N4	Reference T4 ICD_codes:9022	N87
+T5	icd_code 86 89	ВПГ
+N5	Reference T5 ICD_codes:471	B00
+N9	Reference T5 ICD_codes:471	B00
+N11	Reference T5 ICD_codes:471	B00
+T6	icd_code 117 120	ПКЯ
+N6	Reference T6 ICD_codes:2174	E28.2
+T7	icd_code 123 151	Мультифолликулярные  яичники
+N8	Reference T7 ICD_codes:2176	E28.8

@@ -1,0 +1,4 @@
+T1	icd_code 20 44	рваной раны левого плеча
+N1	Reference T1 ICD_codes:11595	S41
+T2	icd_code 16 19	ПХО
+N2	Reference T2 ICD_codes:16907	Z48.9

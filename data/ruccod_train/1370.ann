@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Нарушение менструального цикла
+N1	Reference T1 ICD_codes:9070	N92.5
+T2	icd_code 33 55	Хронический эндометрит
+N2	Reference T2 ICD_codes:8925	N71.9

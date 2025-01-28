@@ -1,0 +1,8 @@
+T1	icd_code 0 56	Гипертоническая болезнь II ст., артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 80 83	НТГ
+N2	Reference T2 ICD_codes:10986	R73.0
+T3	icd_code 85 96	Дислпидемия
+N3	Reference T3 ICD_codes:2349	E78
+T4	icd_code 98 114	Атеросклероз БЦА
+N4	Reference T4 ICD_codes:6645	I70.8

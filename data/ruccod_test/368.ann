@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 22 61	Инфекционный мононуклеоз Эпштейн - Барр
+N2	Reference T2 ICD_codes:589	B27.0
+T3	icd_code 73 93	носительство герпеса
+N3	Reference T3 ICD_codes:471	B00

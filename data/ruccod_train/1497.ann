@@ -1,0 +1,10 @@
+T1	icd_code 0 25	Множественная миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 26 44	Эрозия шейки матки
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 45 53	Цервицит
+N3	Reference T3 ICD_codes:8926	N72
+T4	icd_code 54 63	Аденомиоз
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 64 86	Гиперплазия эндометрия
+N5	Reference T5 ICD_codes:9011	N85.0

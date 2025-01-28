@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Хр тонзиллит
+T2	icd_code 36 57	Киста левой миндалины
+T3	icd_code 62 84	гипертрофический ринит
+N1	Reference T1 ICD_codes:6897	J35.0
+N2	Reference T2 ICD_codes:1543	D10.4
+N3	Reference T3 ICD_codes:6874	J31.0

@@ -1,0 +1,4 @@
+T1	icd_code 13 51	инородное тело волосистой части головы
+N1	Reference T1 ICD_codes:12241	T15
+T2	icd_code 0 11	укус  клеща
+N2	Reference T2 ICD_codes:14360	W57

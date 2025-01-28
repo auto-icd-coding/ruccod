@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Ретенционные кисты шеки матки.
+N1	Reference T1 ICD_codes:9027	N88
+T2	icd_code 32 39	Кольпит
+N2	Reference T2 ICD_codes:8949	N76

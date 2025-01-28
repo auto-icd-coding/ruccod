@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Фарингит
+T2	icd_code 25 30	Ринит
+T3	icd_code 46 55	Евстахеит
+T4	icd_code 69 80	Цервикалгия
+T5	icd_code 131 142	гипертензия
+N1	Reference T1 ICD_codes:6790	J02.9
+N2	Reference T2 ICD_codes:6874	J31.0
+N3	Reference T3 ICD_codes:6216	H68.0
+N4	Reference T4 ICD_codes:8310	M54.2
+N5	Reference T5 ICD_codes:6373	I15.9

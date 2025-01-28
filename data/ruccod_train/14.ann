@@ -1,0 +1,12 @@
+T1	icd_code 0 10	О. бронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 30 56	 Хр. обструктивный бронхит
+N2	Reference T2 ICD_codes:6939	J44.8
+T3	icd_code 95 103	Гепатоз.
+N3	Reference T3 ICD_codes:7467	K76.0
+T4	icd_code 106 110	МКБ.
+N4	Reference T4 ICD_codes:8754	N20
+T5	icd_code 113 124	Дорсопатия.
+N5	Reference T5 ICD_codes:8306	M53.9
+T6	icd_code 125 134	Люмбалгия
+N6	Reference T6 ICD_codes:8313	M54.5

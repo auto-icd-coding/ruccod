@@ -1,0 +1,4 @@
+T1	icd_code 34 54	Катаракта обоих глаз
+N1	Reference T1 ICD_codes:5991	H26.8
+T2	icd_code 0 18	Дистрофия сетчатки
+N2	Reference T2 ICD_codes:6039	H35.4

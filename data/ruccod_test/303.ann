@@ -1,0 +1,10 @@
+T1	icd_code 0 28	Субклинический тиреотоксикоз
+N1	Reference T1 ICD_codes:2032	E05
+T2	icd_code 52 56	ХАИТ
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 57 72	Болезнь Грейвса
+N3	Reference T3 ICD_codes:2033	E05.0
+T4	icd_code 74 102	многоузловой токсический зоб
+N4	Reference T4 ICD_codes:2035	E05.2
+T5	icd_code 105 121	Многоузловой зоб
+N5	Reference T5 ICD_codes:2039	E05.8

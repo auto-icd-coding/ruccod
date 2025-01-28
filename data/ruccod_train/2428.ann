@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Экзематозный дерматит
+N1	Reference T1 ICD_codes:7682	L30.9
+T2	icd_code 34 43	 дерматит
+N2	Reference T2 ICD_codes:7618	L20.9
+T3	icd_code 47 69	Аллергический дерматит
+N3	Reference T3 ICD_codes:7618	L20.9

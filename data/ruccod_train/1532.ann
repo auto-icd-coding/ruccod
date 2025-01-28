@@ -1,0 +1,4 @@
+T1	icd_code 0 32	Паранихия 1-го п-ца правой стопы
+N1	Reference T1 ICD_codes:7779	L60
+T2	icd_code 33 64	Плосковальгусная установка стоп
+N2	Reference T2 ICD_codes:8113	M21.6

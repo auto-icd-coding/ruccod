@@ -1,0 +1,10 @@
+T1	icd_code 0 50	люмбалгия  с  выраженными алгическими проявлениями
+T2	icd_code 52 80	мышечно-тоническим синдромом
+T3	icd_code 82 94	Остеохондроз
+T4	icd_code 139 151	Плоскостопие
+T5	icd_code 153 164	Артроз стоп
+N1	Reference T1 ICD_codes:8312	M54.4
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8228	M42.1
+N4	Reference T4 ICD_codes:8111	M21.4
+N5	Reference T5 ICD_codes:8096	M19.9

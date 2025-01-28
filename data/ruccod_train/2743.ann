@@ -1,0 +1,4 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8957	N76.8
+T2	icd_code 19 34	Папилломавирусы
+N2	Reference T2 ICD_codes:928	B97.7

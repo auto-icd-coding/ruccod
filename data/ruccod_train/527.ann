@@ -1,0 +1,23 @@
+T1	icd_code 0 19	Хронический бронхит
+N1	Reference T1 ICD_codes:6929	J42
+T2	icd_code 33 49	Пневмония легких
+N2	Reference T2 ICD_codes:6847	J18.8
+T3	icd_code 51 67	Эмфизема лекгких
+N3	Reference T3 ICD_codes:6930	J43
+N11	Reference T3 ICD_codes:6930	J43
+T4	icd_code 68 81	Пневмосклероз
+N4	Reference T4 ICD_codes:7006	J84.1
+T5	icd_code 129 152	Артериальная гипертония
+N5	Reference T5 ICD_codes:6355	I10
+T6	icd_code 159 162	ИБС
+N6	Reference T6 ICD_codes:6406	I25
+T7	icd_code 164 192	Постинфарктный кардиосклероз
+N7	Reference T7 ICD_codes:6409	I25.2
+T8	icd_code 194 230	Пароксизмальная мерцательная аритмия
+N8	Reference T8 ICD_codes:6536	I48
+T9	icd_code 232 248	Многоузловой зоб
+N9	Reference T9 ICD_codes:2029	E04.2
+T10	icd_code 250 258	Эутиреоз
+N10	Reference T10 ICD_codes:2053	E07.9
+T11	icd_code 83 122	Хроническая дыхательная недостаточность
+N12	Reference T11 ICD_codes:7045	J96

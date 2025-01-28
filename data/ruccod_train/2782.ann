@@ -1,0 +1,8 @@
+T1	icd_code 19 37	Лабиальный  герпес
+N1	Reference T1 ICD_codes:471	B00
+T2	icd_code 65 98	Онихомикоз 1 пальца  правой стопы
+N2	Reference T2 ICD_codes:617	B35.1
+T3	icd_code 100 138	Ониходистрофия  1 пальца  правой стопы
+N3	Reference T3 ICD_codes:7782	L60.1
+T4	icd_code 141 217	Кератомы правой подвздошной  области и передней  поверхности грудной  клетки
+N4	Reference T4 ICD_codes:7888	L85.3

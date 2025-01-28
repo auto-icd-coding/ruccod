@@ -1,0 +1,9 @@
+T1	icd_code 0 31	Нарушение гликемии неуточненнре
+N1	Reference T1 ICD_codes:10987	R73.9
+T2	icd_code 33 63	Гиперполактинемия неуточненная
+N2	Reference T2 ICD_codes:2134	E22.1
+T3	icd_code 66 76	Галакторея
+N3	Reference T3 ICD_codes:8912	N64.3
+T4	icd_code 77 127	
+Экзогенно - конституциональное ожирение I степени
+N4	Reference T4 ICD_codes:2282	E66.0

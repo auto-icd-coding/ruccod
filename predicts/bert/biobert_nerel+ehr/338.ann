@@ -1,0 +1,2 @@
+T1	icd_code 0 20	Острый наружний отит
+N1	Reference T1 ICD_codes:6181	H60.9

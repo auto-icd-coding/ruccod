@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Мастодиния
+N1	Reference T1 ICD_codes:8913	N64.4
+T2	icd_code 13 34	Межреберная невралгия
+N2	Reference T2 ICD_codes:5700	G58.0

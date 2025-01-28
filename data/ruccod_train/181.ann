@@ -1,0 +1,3 @@
+T1	icd_code 0 28	Функциональные нарушения ЖКТ
+N1	Reference T1 ICD_codes:7366	K59
+T2	icd_code 30 47	Афтозный стоматит

@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Острый трахеит
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 15 24	О.бронхит
+N2	Reference T2 ICD_codes:6849	J20

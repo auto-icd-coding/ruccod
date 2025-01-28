@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Острый катаральный риносинусит
+T2	icd_code 57 73	киста в/ч пазухи
+N1	Reference T1 ICD_codes:6786	J01.9
+N2	Reference T2 ICD_codes:6892	J34.1

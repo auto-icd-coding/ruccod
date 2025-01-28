@@ -1,0 +1,12 @@
+T1	icd_code 55 74	Эктопия шейки матки
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 51 54	ВПЧ
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 34 41	Кольпит
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 15 23	Ожирение
+N4	Reference T4 ICD_codes:2285	E66.8
+T5	icd_code 11 14	НМЦ
+N5	Reference T5 ICD_codes:9066	N92.1
+T6	icd_code 0 10	Дисменорея
+N6	Reference T6 ICD_codes:9081	N94.4

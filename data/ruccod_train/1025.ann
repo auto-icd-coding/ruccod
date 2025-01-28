@@ -1,0 +1,4 @@
+T1	icd_code 50 62	Перименоауза
+N1	Reference T1 ICD_codes:9088	N95.1
+T2	icd_code 0 47	Данных за острую гинекологическую патологию нет
+N2	Reference T2 ICD_codes:16607	Z01

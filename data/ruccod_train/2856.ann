@@ -1,0 +1,4 @@
+T1	icd_code 0 15	Острый фарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 20 43	Тремор рук неуточненный
+N2	Reference T2 ICD_codes:5539	G25.2

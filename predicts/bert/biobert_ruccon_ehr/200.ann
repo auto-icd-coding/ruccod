@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ИБС
+T2	icd_code 5 33	Атеросклероз брахиоцефальных
+T3	icd_code 35 46	стенозы ОСА
+T4	icd_code 74 81	артерий
+T5	icd_code 121 169	Жировая дегенерация печени с нарушением  функции
+N1	Reference T1 ICD_codes:6406	I25
+N2	Reference T2 ICD_codes:6620	I67.2
+N3	Reference T3 ICD_codes:8268	M48.0
+N4	Reference T4 ICD_codes:6686	I77.6
+N5	Reference T5 ICD_codes:7467	K76.0

@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Кандидозный кольпит
+N1	Reference T1 ICD_codes:636	B37.3
+T2	icd_code 35 54	Эктопия шейки матки
+N2	Reference T2 ICD_codes:9026	N87.9
+T3	icd_code 56 72	Носительство ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 80 90	эндометрий
+N4	Reference T4 ICD_codes:1526	D07.3
+T5	icd_code 94 103	Бесплодие
+N5	Reference T5 ICD_codes:9094	N97

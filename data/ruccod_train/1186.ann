@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Бактериальный вагиниоз
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 23 31	Цервицит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 33 48	эктопия ш/матки
+N3	Reference T3 ICD_codes:9021	N86

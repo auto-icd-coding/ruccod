@@ -1,0 +1,6 @@
+T1	icd_code 0 3	АИТ
+N1	Reference T1 ICD_codes:2045	E06.3
+T2	icd_code 5 20	Гиперандрогения
+N2	Reference T2 ICD_codes:2173	E28.1
+T3	icd_code 22 25	НТГ
+N3	Reference T3 ICD_codes:10986	R73.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 47	хронический гастродуоденит неуточнённого генеза
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 67 70	ОКИ
+N2	Reference T2 ICD_codes:68	A08.4

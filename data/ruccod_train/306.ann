@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Вальгусная деформация стоп
+N1	Reference T1 ICD_codes:8107	M21.0
+T2	icd_code 28 37	угоухость
+N2	Reference T2 ICD_codes:6281	H90.5
+T1	icd_code 27 37	Тугоухость
+N1	Reference T1 ICD_codes:8107	M21.0

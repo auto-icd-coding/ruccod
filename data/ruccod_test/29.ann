@@ -1,0 +1,16 @@
+T1	icd_code 0 40	Хронический билиарнозависимый панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 56 93	Дивертикулярная болезнь толстой кишки
+N2	Reference T2 ICD_codes:7358	K57.3
+T3	icd_code 97 135	Хронический   смешанный гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 181 199	ГЭРБ, неэрозивная 
+N4	Reference T4 ICD_codes:7190	K21.0
+T5	icd_code 206 226	катаральный эзофагит
+N5	Reference T5 ICD_codes:7187	K20
+T6	icd_code 244 266	недостаточность кардии
+N6	Reference T6 ICD_codes:7193	K22.0
+T7	icd_code 268 272	ГПОД
+N7	Reference T7 ICD_codes:7308	K44.9
+T8	icd_code 275 290	жировой гепатоз
+N8	Reference T8 ICD_codes:7467	K76.0

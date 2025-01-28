@@ -1,0 +1,6 @@
+T2	icd_code 38 71	Образование левой молочной железы
+N2	Reference T2 ICD_codes:8907	N63
+T3	icd_code 73 113	Узловая мастопатия левой молочной железы
+N3	Reference T3 ICD_codes:1646	D24
+T1	icd_code 1 37	Диффузная дисгормональная мастопатия
+N1	Reference T1 ICD_codes:8899	N60.1

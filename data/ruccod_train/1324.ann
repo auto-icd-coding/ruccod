@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 11 22	Цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 23 32	Дорсалгия
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 35 82	Остеохондроз шейно-грудного отдела позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 107 138	умеренный миотонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 140 147	Сколиоз
+N6	Reference T6 ICD_codes:8221	M41.3

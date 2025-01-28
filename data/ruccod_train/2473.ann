@@ -1,0 +1,8 @@
+T1	icd_code 0 15	ВПС: дефект МПП
+N1	Reference T1 ICD_codes:10146	Q21.0
+T2	icd_code 40 58	Недостаточность ТК
+N2	Reference T2 ICD_codes:6338	I07.1
+T3	icd_code 91 113	 Дилатация полости ПЖ.
+N3	Reference T3 ICD_codes:6421	I27.0
+T4	icd_code 93 113	Дилатация полости ПЖ
+N4	Reference T4 ICD_codes:6493	I42.0

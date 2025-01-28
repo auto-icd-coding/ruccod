@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 38 72	Аномалья развития желчного пузыря.
+N2	Reference T2 ICD_codes:10331	Q44
+T3	icd_code 72 93	Дисбиоциноз кишечника
+N3	Reference T3 ICD_codes:7404	K63.8

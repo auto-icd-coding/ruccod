@@ -1,0 +1,6 @@
+T1	icd_code 0 24	Сосудистые головные боли
+N1	Reference T1 ICD_codes:5605	G44.1
+T2	icd_code 26 42	Остеохондроз ШОП
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 75 78	ЖДА
+N3	Reference T3 ICD_codes:1805	D50

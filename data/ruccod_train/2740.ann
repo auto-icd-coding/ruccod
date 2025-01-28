@@ -1,0 +1,9 @@
+T1	icd_code 0 38	Железодефицитная анемия легкой степени
+N1	Reference T1 ICD_codes:1805	D50
+T2	icd_code 50 54	
+ВСД
+N2	Reference T2 ICD_codes:4924	F45.30
+T3	icd_code 69 109	 дисфункция вегетативной нервной системы
+N3	Reference T3 ICD_codes:4924	F45.30
+T4	icd_code 123 134	Хр.геморрой
+N4	Reference T4 ICD_codes:6729	I84.8

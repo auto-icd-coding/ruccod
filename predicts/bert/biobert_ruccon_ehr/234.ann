@@ -1,0 +1,2 @@
+T1	icd_code 0 19	ОРВИ, выздоровление
+N1	Reference T1 ICD_codes:6777	J00-J06

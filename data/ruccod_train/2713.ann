@@ -1,0 +1,14 @@
+T1	icd_code 0 40	Тендинит сгибателей пальцев правой стопы
+N1	Reference T1 ICD_codes:12060	S93.5
+T2	icd_code 54 64	Дорсопатия
+N2	Reference T2 ICD_codes:8305	M53.8
+T3	icd_code 82 110	 остеохондроз позвоночника. 
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 182 223	Артроз крестцово-подвздошных сочленений? 
+N4	Reference T4 ICD_codes:8293	M51.0
+T5	icd_code 184 223	Артроз крестцово-подвздошных сочленений
+N5	Reference T5 ICD_codes:8072	M16.6
+T6	icd_code 225 234	Сакралгия
+N6	Reference T6 ICD_codes:8315	M54.8
+T7	icd_code 246 261	болевой синдром
+N7	Reference T7 ICD_codes:8441	M79.1

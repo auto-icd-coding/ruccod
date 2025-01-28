@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Ъронический гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 57 85	Астеноипохондрический синдрм
+N2	Reference T2 ICD_codes:4922	F45.2

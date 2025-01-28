@@ -1,0 +1,6 @@
+T1	icd_code 4 11	гастрит
+T2	icd_code 13 41	Дискинезия билиарного тракта
+T3	icd_code 44 54	Гельминтоз
+N1	Reference T1 ICD_codes:7254	K29.7
+N2	Reference T2 ICD_codes:7500	K82.8
+N3	Reference T3 ICD_codes:859	B83.9

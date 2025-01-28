@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Вагинит
+N1	Reference T1 ICD_codes:8960	N77.1
+T2	icd_code 0 20	Вагинит  уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8

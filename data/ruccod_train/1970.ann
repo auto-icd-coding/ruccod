@@ -1,0 +1,6 @@
+T1	icd_code 19 23	ДЖВП
+N1	Reference T1 ICD_codes:7500	K82.8
+T2	icd_code 25 40	Билиарный сладж
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 0 17	Эрозивный гастрит
+N3	Reference T3 ICD_codes:7247	K29.0

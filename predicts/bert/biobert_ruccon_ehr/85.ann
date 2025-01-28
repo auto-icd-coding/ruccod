@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ВСД
+T2	icd_code 5 58	соматоформная дисфункция вегетативной нервной системы
+T3	icd_code 73 96	Железодефицитная анемия
+T4	icd_code 98 107	ухудшение
+N1	Reference T1 ICD_codes:4924	F45.30
+N2	Reference T2 ICD_codes:4923	F45.3
+N3	Reference T3 ICD_codes:1805	D50
+N4	Reference T4 ICD_codes:12403	T33-T35

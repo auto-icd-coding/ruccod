@@ -1,0 +1,4 @@
+T1	icd_code 28 50	аллергический дерматит
+N1	Reference T1 ICD_codes:7634	L23.8
+T2	icd_code 0 26	вирусный ладонный дерматит
+N2	Reference T2 ICD_codes:7674	L30

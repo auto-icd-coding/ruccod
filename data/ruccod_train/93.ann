@@ -1,0 +1,8 @@
+T1	icd_code 0 32	Хронический сальпингит и оофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 62 70	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T4	icd_code 104 108	ВПЧ(
+N4	Reference T4 ICD_codes:928	B97.7
+T3	icd_code 73 107	Неполная  перегородка влагалищаВПЧ
+N3	Reference T3 ICD_codes:10358	Q51.1

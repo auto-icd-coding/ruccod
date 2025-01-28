@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Хронический парапроктит
+N1	Reference T1 ICD_codes:7374	K60
+T2	icd_code 25 49	Ректальный наружный свищ
+N2	Reference T2 ICD_codes:7378	K60.3

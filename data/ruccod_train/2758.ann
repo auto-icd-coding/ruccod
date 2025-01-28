@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Первичный гипотиреоз
+N1	Reference T1 ICD_codes:2017	E03
+T2	icd_code 37 59	Инсулинорезистентность
+N2	Reference T2 ICD_codes:2054	E10

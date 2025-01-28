@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Бронхиальняа атсма
+N1	Reference T1 ICD_codes:6941	J45
+T2	icd_code 58 60	ДН
+N2	Reference T2 ICD_codes:7045	J96
+T3	icd_code 105 125	Хронический  бронхит
+N3	Reference T3 ICD_codes:6929	J42

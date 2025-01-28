@@ -1,0 +1,6 @@
+T1	icd_code 0 12	АГ 2 степени
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 14 21	ВРВ н/к
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 22 27	 ЦВБ?
+N3	Reference T3 ICD_codes:6626	I67.8

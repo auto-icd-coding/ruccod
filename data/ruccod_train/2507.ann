@@ -1,0 +1,4 @@
+T1	icd_code 0 38	Атопический дерматит неясной этиологии
+N1	Reference T1 ICD_codes:7614	L20
+T2	icd_code 40 58	Реактивный гепатит
+N2	Reference T2 ICD_codes:521	B15-B19

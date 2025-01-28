@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Торакалгия
+T2	icd_code 60 105	Дорсопатия шейно-грудного отдела позвоночника
+N1	Reference T1 ICD_codes:8314	M54.6
+N2	Reference T2 ICD_codes:8305	M53.8

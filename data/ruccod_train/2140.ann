@@ -1,0 +1,6 @@
+T1	icd_code 0 9	Гонартроз
+N1	Reference T1 ICD_codes:8082	M17.9
+T3	icd_code 45 53	тендинит
+N3	Reference T3 ICD_codes:8429	M76.9
+T2	icd_code 33 43	Лигаментит
+N2	Reference T2 ICD_codes:8429	M76.9

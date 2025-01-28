@@ -1,0 +1,6 @@
+T1	icd_code 0 17	инороднее тело  \
+T2	icd_code 29 30	в
+T3	icd_code 38 46	половине
+N1	Reference T1 ICD_codes:12246	T15.9
+N2	Reference T2 ICD_codes:1518	D06.0
+N3	Reference T3 ICD_codes:1655	D26.7

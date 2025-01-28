@@ -1,0 +1,12 @@
+T1	icd_code 0 27	Распространенная дорсопатия
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 41 52	ЦЕрвикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 77 103	Мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 128 157	Дорсопатия поясничного отдела
+N4	Reference T4 ICD_codes:8313	M54.5
+T5	icd_code 159 183	Вертеброгенная люмбалгия
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 54 75	Межреберная невралгия
+N6	Reference T6 ICD_codes:8442	M79.2

@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ОРЗ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 4 23	Аллергический ринит
+N2	Reference T2 ICD_codes:6872	J30.4
+T3	icd_code 26 35	Аденоидит
+N3	Reference T3 ICD_codes:6901	J35.8

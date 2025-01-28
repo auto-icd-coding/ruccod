@@ -1,0 +1,8 @@
+T1	icd_code 0 33	Хронический поверхностный гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 35 53	эрозивный дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 68 122	Дискинезия желчевыводящих путей  по гипомоторному типу
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 125 187	Хроническая язвенная болезнь луковицы двенадцатиперстной кишки
+N4	Reference T4 ICD_codes:7224	K26.7

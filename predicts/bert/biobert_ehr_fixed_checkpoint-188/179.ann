@@ -1,0 +1,8 @@
+T1	icd_code 0 8	Эутиреоз
+T2	icd_code 9 22	Нормогликемия
+T3	icd_code 25 47	Инсулинорезистентность
+T4	icd_code 48 69	Избыточная масса тела
+N1	Reference T1 ICD_codes:2025	E03.9
+N2	Reference T2 ICD_codes:212	A39.4
+N3	Reference T3 ICD_codes:2065	E10.9
+N4	Reference T4 ICD_codes:2282	E66.0

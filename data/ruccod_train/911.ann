@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Кератопатия
+N1	Reference T1 ICD_codes:5944	H18.1
+T2	icd_code 57 63	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 99 122	миопический астигматизм
+N3	Reference T3 ICD_codes:6133	H52.6

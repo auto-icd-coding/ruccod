@@ -1,0 +1,10 @@
+T1	icd_code 0 26	Урогенитальный уреаплазмоз
+N1	Reference T1 ICD_codes:324	A63.8
+T2	icd_code 29 59	Киста левой бартлиновой железы
+N2	Reference T2 ICD_codes:8945	N75.0
+T3	icd_code 61 67	Цистит
+N3	Reference T3 ICD_codes:8797	N30.9
+T4	icd_code 69 89	Киста левого яичника
+N4	Reference T4 ICD_codes:8993	N83.0
+T5	icd_code 91 102	Энтероколит
+N5	Reference T5 ICD_codes:7337	K52.9

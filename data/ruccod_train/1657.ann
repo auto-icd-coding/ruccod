@@ -1,0 +1,4 @@
+T1	icd_code 0 39	Субъективный шум в ушах неясного генеза
+N1	Reference T1 ICD_codes:6298	H93.1
+T2	icd_code 67 103	Объемное образование головного мозга
+N2	Reference T2 ICD_codes:1763	D43.2

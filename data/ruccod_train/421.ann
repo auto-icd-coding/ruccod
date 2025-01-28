@@ -1,0 +1,4 @@
+T1	icd_code 4 19	сальпингоофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 36 52	Фибромиома матки
+N2	Reference T2 ICD_codes:1647	D25

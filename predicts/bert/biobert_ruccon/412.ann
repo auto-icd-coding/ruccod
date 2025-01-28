@@ -1,0 +1,4 @@
+T1	icd_code 0 49	Повреждение передней крестообразной связки левого
+T2	icd_code 122 129	Синовит
+N1	Reference T1 ICD_codes:11973	S83.5
+N2	Reference T2 ICD_codes:8357	M65.9

@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 10 22	Эндоцервицит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 24 36	Миома  матки
+N3	Reference T3 ICD_codes:1647	D25

@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Диффузная мастопатия
+N1	Reference T1 ICD_codes:8899	N60.1
+T2	icd_code 22 28	Липома
+N2	Reference T2 ICD_codes:1605	D17.9

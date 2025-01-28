@@ -1,0 +1,8 @@
+T1	icd_code 0 52	Артериальная гипертензия атеросклеротического генеза
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 60 93	Атеросклеротический кардиосклероз
+N2	Reference T2 ICD_codes:6408	I25.1
+T3	icd_code 95 97	НК
+N3	Reference T3 ICD_codes:6546	I50
+T4	icd_code 101 122	Аллергическая реакция
+N4	Reference T4 ICD_codes:12745	T78.4

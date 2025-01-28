@@ -1,0 +1,10 @@
+T1	icd_code 0 10	дорсопатия
+N1	Reference T1 ICD_codes:5679	G55.3
+T2	icd_code 43 87	меренный болевой и мышечнотонический синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 89 92	ЦВБ
+N3	Reference T3 ICD_codes:6620	I67.2
+T4	icd_code 94 97	ХИМ
+N4	Reference T4 ICD_codes:6627	I67.9
+T5	icd_code 116 167	ипертонической болезни, церебрального атеросклероза
+N5	Reference T5 ICD_codes:6622	I67.4

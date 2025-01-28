@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 27 34	цервико
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 34 43	люмбалгия
+N3	Reference T3 ICD_codes:8313	M54.5

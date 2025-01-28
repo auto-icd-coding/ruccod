@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Носовые кровотечения
+N1	Reference T1 ICD_codes:10750	R04.0
+T2	icd_code 22 34	Коагулопатия
+N2	Reference T2 ICD_codes:1895	D65-D69

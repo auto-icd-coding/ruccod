@@ -1,0 +1,8 @@
+T1	icd_code 0 54	ПОЛИОСТЕОАРТРОЗ С ПРЕИМУЩЕСТВЕННЫМ ПОРАЖЕНИЕМ КОЛЕННЫХ
+N1	Reference T1 ICD_codes:8056	M15
+T2	icd_code 100 116	ХР. АХИЛЛОБУРСИТ
+N2	Reference T2 ICD_codes:8426	M76.6
+T3	icd_code 130 163	ШЕЙНОГРУДНОЙ СКОЛИОЗ ПОЗВОНОЧНИКА
+N3	Reference T3 ICD_codes:8224	M41.8
+T4	icd_code 165 192	УМЕРЕННО ВЫРАЖЕННЫЙ БОЛЕВОЙ
+N4	Reference T4 ICD_codes:10930	R52

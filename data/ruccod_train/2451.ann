@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 28	Цервикокранилгия
+N2	Reference T2 ICD_codes:10929	R51

@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Вазомоторный аллергический ринит.
+N1	Reference T1 ICD_codes:6866	J30
+T2	icd_code 34 69	Рецидивирующие носовые кровотечения
+N2	Reference T2 ICD_codes:10750	R04.0

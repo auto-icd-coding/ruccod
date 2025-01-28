@@ -1,0 +1,6 @@
+T1	icd_code 5 15	Пресбиопия
+N1	Reference T1 ICD_codes:6131	H52.4
+T2	icd_code 27 37	катаракта.
+N2	Reference T2 ICD_codes:5985	H26
+T3	icd_code 38 65	Ангиопатия сосудов сетчатки
+N3	Reference T3 ICD_codes:6035	H35.0

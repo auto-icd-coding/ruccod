@@ -1,0 +1,14 @@
+T1	icd_code 0 6	ОРВИ, 
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 33 44	онъюнктивит
+N2	Reference T2 ICD_codes:5899	H10
+T3	icd_code 52 64	дакриоцистит
+N3	Reference T3 ICD_codes:5879	H04.3
+T4	icd_code 80 83	ВПС
+N4	Reference T4 ICD_codes:10171	Q24
+T5	icd_code 100 115	Рахит 2степени,
+N5	Reference T5 ICD_codes:10149	Q21.3
+T6	icd_code 101 115	Рахит 2степени
+N6	Reference T6 ICD_codes:2245	E55
+T1	icd_code 13 29	О. ринофарингит,
+N1	Reference T1 ICD_codes:6776	J00

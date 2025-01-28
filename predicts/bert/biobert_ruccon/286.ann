@@ -1,0 +1,4 @@
+T1	icd_code 0 50	Варикозное расширение вен обеих нижних конечностей
+T2	icd_code 74 82	Дерматит
+N1	Reference T1 ICD_codes:6719	I83.9
+N2	Reference T2 ICD_codes:7682	L30.9

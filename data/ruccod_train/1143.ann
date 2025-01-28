@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Абдоминальное ожирение 1 степени
+N1	Reference T1 ICD_codes:2282	E66.0
+T2	icd_code 54 97	Комбинированное плоскостопие с обеих сторон
+N2	Reference T2 ICD_codes:8113	M21.6
+T3	icd_code 100 137	Двусторонние гонартроз вне обострения
+N3	Reference T3 ICD_codes:8075	M17
+T4	icd_code 140 181	коксартроз в стадии умеренного обострения
+N4	Reference T4 ICD_codes:8065	M16
+T5	icd_code 183 186	НФС
+N5	Reference T5 ICD_codes:8131	M23.5
+T6	icd_code 193 214	Косое положение таза.
+N6	Reference T6 ICD_codes:9315	O33.0

@@ -1,0 +1,4 @@
+T1	icd_code 1 26	ОРВИ с кишечным синдромом
+T2	icd_code 39 44	ГЭР ?
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:7191	K21.9

@@ -1,0 +1,9 @@
+T1	icd_code 0 14	Гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 34 36	Нр
+T3	icd_code 52 70	Эрозивный гастрит.
+N3	Reference T3 ICD_codes:7254	K29.7
+T4	icd_code 71 98	Дуодено-гастральный рефлюкс
+N4	Reference T4 ICD_codes:7266	K31.8
+T5	icd_code 100 107	Бульбит
+N5	Reference T5 ICD_codes:7255	K29.8

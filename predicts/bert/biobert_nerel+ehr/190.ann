@@ -1,0 +1,10 @@
+T1	icd_code 0 4	орви
+T2	icd_code 6 26	Двусторнний гайморит
+T3	icd_code 38 44	.ринит
+T4	icd_code 56 69	трахеобронхит
+T5	icd_code 95 102	синдром
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6785	J01.8
+N3	Reference T3 ICD_codes:6874	J31.0
+N4	Reference T4 ICD_codes:6797	J04.1
+N5	Reference T5 ICD_codes:10972	R68

@@ -1,0 +1,6 @@
+T1	icd_code 0 41	Варикозная болезнь вен нижних конечностей
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 43 77	Ретикулярный варикоз рассыпной тип
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 79 82	ХВН
+N3	Reference T3 ICD_codes:6744	I87.2

@@ -1,0 +1,16 @@
+T1	icd_code 2 14	ДОА коленных
+N1	Reference T1 ICD_codes:8081	M17.5
+T2	icd_code 17 40	ТБС в стадии обострения
+N2	Reference T2 ICD_codes:72	A15-A19
+T3	icd_code 41 69	Комбинированное плоскостопие
+N3	Reference T3 ICD_codes:8111	M21.4
+T4	icd_code 74 94	Ретикулярный варикоз
+N4	Reference T4 ICD_codes:6715	I83
+T5	icd_code 96 124	телеангиэктатическая болезнь
+N5	Reference T5 ICD_codes:7939	L95.9
+T6	icd_code 126 167	ХВН 1 класс клинических проявлений по СЕА
+N6	Reference T6 ICD_codes:6744	I87.2
+T7	icd_code 171 193	Абдоминальное ожирение
+N7	Reference T7 ICD_codes:2282	E66.0
+T8	icd_code 206 234	Постменопаузальный остеопоро
+N8	Reference T8 ICD_codes:8473	M82.8

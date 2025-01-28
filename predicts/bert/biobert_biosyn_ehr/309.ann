@@ -1,0 +1,6 @@
+T1	icd_code 5 17	Гарднереллёз
+T2	icd_code 19 28	Хламидиоз
+T3	icd_code 29 40	Уреаплазмоз
+N1	Reference T1 ICD_codes:247	A44.8
+N2	Reference T2 ICD_codes:311	A56.8
+N3	Reference T3 ICD_codes:762	B58.9

@@ -1,0 +1,6 @@
+T1	icd_code 0 24	НМЦ в фертильном периоде
+N1	Reference T1 ICD_codes:9071	N92.6
+T2	icd_code 26 46	Киста левого яичника
+N2	Reference T2 ICD_codes:8993	N83.0
+T3	icd_code 47 72	Кисты бартолиниевых желез
+N3	Reference T3 ICD_codes:8945	N75.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 15	острый фарингит
+N1	Reference T1 ICD_codes:6790	J02.9
+T2	icd_code 25 36	Токсидермии
+N2	Reference T2 ICD_codes:7662	L27.9

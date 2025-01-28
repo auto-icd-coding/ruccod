@@ -1,0 +1,10 @@
+T1	icd_code 4 27	урогенитальная инфекция
+N1	Reference T1 ICD_codes:319	A60.0
+T2	icd_code 29 40	Уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 51 54	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 69 72	ВПГ
+N4	Reference T4 ICD_codes:471	B00
+T5	icd_code 75 84	ГЕПАТИТ С
+N5	Reference T5 ICD_codes:537	B18.2

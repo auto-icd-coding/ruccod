@@ -1,0 +1,10 @@
+T1	icd_code 0 33	Хронический поверхностный гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 53 88	дуодено-гастральным рефлюксом желчи
+N2	Reference T2 ICD_codes:7266	K31.8
+T3	icd_code 89 115	Деформация желчного пузыря
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 117 150	Функциональная кишечная диспепсия
+N4	Reference T4 ICD_codes:7257	K30
+T5	icd_code 170 194	дисбактериозом кишечника
+N5	Reference T5 ICD_codes:7398	K63

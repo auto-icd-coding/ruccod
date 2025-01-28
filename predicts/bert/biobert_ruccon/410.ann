@@ -1,0 +1,4 @@
+T1	icd_code 0 35	Левосторонний эксудативный гайморит
+T2	icd_code 37 82	Двухсторонний острый средний катаральный отит
+N1	Reference T1 ICD_codes:6780	J01.0
+N2	Reference T2 ICD_codes:6210	H66.9

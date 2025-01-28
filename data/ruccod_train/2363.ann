@@ -1,0 +1,8 @@
+T1	icd_code 0 8	Эндометр
+N1	Reference T1 ICD_codes:8972	N80.9
+T2	icd_code 11 19	киста ПЯ
+N2	Reference T2 ICD_codes:8993	N83.0
+T3	icd_code 21 30	Аденомиоз
+N3	Reference T3 ICD_codes:9012	N85.1
+T4	icd_code 31 49	Спайки малого таза
+N4	Reference T4 ICD_codes:9115	N99.4

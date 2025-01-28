@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 29	Дисфункция яичников
+N2	Reference T2 ICD_codes:2177	E28.9
+T3	icd_code 31 34	ПВИ
+N3	Reference T3 ICD_codes:323	A63.0

@@ -1,0 +1,5 @@
+T1	icd_code 1 24	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 61 73	Дислипидемия
+T3	icd_code 75 102	Атеросклероз сонных артерий
+N3	Reference T3 ICD_codes:6645	I70.8

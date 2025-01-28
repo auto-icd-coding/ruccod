@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Доброкачественные новообразования
+N1	Reference T1 ICD_codes:1713	D36
+T2	icd_code 35 60	Ксантелазма верхнего векм
+N2	Reference T2 ICD_codes:5867	H02.6

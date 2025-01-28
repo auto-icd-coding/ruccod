@@ -1,0 +1,10 @@
+T1	icd_code 0 46	Гипертоническая болезнь  2 ст Риск 3 ремиссия.
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 47 60	Ожирение 2 ст
+N2	Reference T2 ICD_codes:2282	E66.0
+T3	icd_code 62 69	Подагра
+N3	Reference T3 ICD_codes:8021	M10
+T4	icd_code 87 90	ПМК
+N4	Reference T4 ICD_codes:6452	I34.1
+T5	icd_code 92 96	ГМЛЖ
+N5	Reference T5 ICD_codes:6558	I51.7

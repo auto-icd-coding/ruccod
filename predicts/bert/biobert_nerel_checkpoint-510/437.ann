@@ -1,0 +1,8 @@
+T1	icd_code 0 33	Двухсторонний гонартроз 3 степени
+T2	icd_code 35 56	обострение периартроз
+T3	icd_code 74 81	перелом
+T4	icd_code 120 161	Хроническая варикозная болезнь вен нижних
+N1	Reference T1 ICD_codes:8076	M17.0
+N2	Reference T2 ICD_codes:8064	M15.9
+N3	Reference T3 ICD_codes:12231	T14.2
+N4	Reference T4 ICD_codes:6719	I83.9

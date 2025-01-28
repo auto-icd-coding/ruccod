@@ -1,0 +1,4 @@
+T1	icd_code 47 55	гайморит
+N1	Reference T1 ICD_codes:6779	J01
+T2	icd_code 59 90	Инородное тело левой в/ч пазухи
+N2	Reference T2 ICD_codes:12250	T17.1

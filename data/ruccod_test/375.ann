@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОрВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 6 21	острый фарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 24 45	острый ларинготрахеит
+N3	Reference T3 ICD_codes:6798	J04.2
+T4	icd_code 61 84	Вторичный иммунодефицит
+N4	Reference T4 ICD_codes:1990	D84.9

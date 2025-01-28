@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Лактационный мастит
+T2	icd_code 26 41	молочной железы
+N1	Reference T1 ICD_codes:9590	O92.7
+N2	Reference T2 ICD_codes:1802	D48.6

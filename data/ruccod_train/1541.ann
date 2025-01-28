@@ -1,0 +1,6 @@
+T1	icd_code 58 70	дислипидемия
+N1	Reference T1 ICD_codes:2354	E78.4
+T2	icd_code 0 21	Аутоимунный тиреоидит
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 45 55	гипотиреоз
+N3	Reference T3 ICD_codes:2025	E03.9

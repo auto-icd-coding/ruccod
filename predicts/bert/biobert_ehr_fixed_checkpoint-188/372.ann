@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 12 52	Остеохондроз шейного отдела позвоночника
+T3	icd_code 54 86	Вертеброгенная цервикобрахиалгия
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8228	M42.1
+N3	Reference T3 ICD_codes:8310	M54.2

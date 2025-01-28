@@ -1,0 +1,8 @@
+T1	icd_code 0 14	Острый гастрит
+N1	Reference T1 ICD_codes:7248	K29.1
+T2	icd_code 17 60	Функциональное расстройство желчного пузыря
+N2	Reference T2 ICD_codes:7501	K82.9
+T3	icd_code 62 71	Иерсиниоз
+N3	Reference T3 ICD_codes:33	A04.6
+T4	icd_code 73 125	Синдром избыточного бактериального роста в кишечнике
+N4	Reference T4 ICD_codes:10804	R19.8

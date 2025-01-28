@@ -1,0 +1,6 @@
+T1	icd_code 1 37	Диффузная дисгормональная мастопатия
+T2	icd_code 73 91	Узловая мастопатия
+T3	icd_code 115 122	Участок
+N1	Reference T1 ICD_codes:8899	N60.1
+N2	Reference T2 ICD_codes:8899	N60.1
+N3	Reference T3 ICD_codes:1518	D06.0

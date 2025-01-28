@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 25 30	запор
+N2	Reference T2 ICD_codes:7367	K59.0

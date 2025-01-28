@@ -1,0 +1,13 @@
+T1	icd_code 0 10	дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 46 58	остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 60 83	деформирующий спондилез
+N3	Reference T3 ICD_codes:8266	M47.9
+T4	icd_code 120 146	плечелопаточный периартроз
+T5	icd_code 161 168	цервико
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 160 176	 цервикоцефалгии
+N6	Reference T6 ICD_codes:5606	G44.2
+T7	icd_code 219 246	мышечно-тонический синдромы
+N7	Reference T7 ICD_codes:8333	M62

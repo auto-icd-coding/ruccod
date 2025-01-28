@@ -1,0 +1,6 @@
+T1	icd_code 1 7	Анемия
+T2	icd_code 10 34	Нарушение электролитного
+T3	icd_code 47 59	Гипогликемия
+N1	Reference T1 ICD_codes:1811	D50.9
+N2	Reference T2 ICD_codes:1905	D68.9
+N3	Reference T3 ICD_codes:2115	E16.2

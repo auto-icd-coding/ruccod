@@ -1,0 +1,3 @@
+T1	icd_code 0 34	Растяжение апоневроза правой кисти
+N1	Reference T1 ICD_codes:11797	S63
+N2	Reference T1 ICD_codes:11805	S63.7

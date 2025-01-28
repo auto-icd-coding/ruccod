@@ -1,0 +1,4 @@
+T1	icd_code 0 50	Подкожное новообразование левой околоушной области
+N1	Reference T1 ICD_codes:1797	D48.1
+T2	icd_code 52 59	атерома
+N2	Reference T2 ICD_codes:1636	D23

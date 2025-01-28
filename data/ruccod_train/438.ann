@@ -1,0 +1,12 @@
+T1	icd_code 0 20	Мочекаменная болезнь
+N1	Reference T1 ICD_codes:8754	N20
+N7	Reference T1 ICD_codes:8754	N20
+T2	icd_code 22 51	Конкремент левого мочеточника
+N2	Reference T2 ICD_codes:8758	N20.2
+T3	icd_code 54 88	Острый левосторонний уретеропиелит
+N3	Reference T3 ICD_codes:8836	N39.0
+T4	icd_code 118 151	Острый гастроэнтерит неуточненный
+N4	Reference T4 ICD_codes:7337	K52.9
+N6	Reference T4 ICD_codes:7337	K52.9
+T5	icd_code 205 221	Спаечная болезнь
+N5	Reference T5 ICD_codes:7412	K66.0

@@ -1,0 +1,5 @@
+T1	icd_code 9 21	гинекомастия
+N1	Reference T1 ICD_codes:8906	N62
+N3	Reference T1 ICD_codes:8906	N62
+T2	icd_code 37 63	Ожирение по женоскому типу
+N2	Reference T2 ICD_codes:2285	E66.8

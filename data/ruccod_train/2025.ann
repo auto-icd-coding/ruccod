@@ -1,0 +1,6 @@
+T1	icd_code 74 94	 Бронхиальная астма
+N1	Reference T1 ICD_codes:6942	J45.0
+T2	icd_code 0 19	Аллергический ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 43 71	Бронхообстурктивны й синдром
+N3	Reference T3 ICD_codes:6940	J44.9

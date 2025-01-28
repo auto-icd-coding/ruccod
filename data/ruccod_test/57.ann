@@ -1,0 +1,4 @@
+T1	icd_code 0 37	сколиоз грудногго отдела позвоночника
+N1	Reference T1 ICD_codes:8221	M41.3
+T2	icd_code 39 57	корешковый синдром
+N2	Reference T2 ICD_codes:8309	M54.1

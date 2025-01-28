@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Острый трахеит
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 26 36	Дорсопатия
+N2	Reference T2 ICD_codes:8315	M54.8
+T3	icd_code 38 48	Торакалгся
+N3	Reference T3 ICD_codes:8314	M54.6

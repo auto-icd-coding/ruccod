@@ -1,0 +1,4 @@
+T1	icd_code 1 25	ОРВИ: ринофаринготрахеит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 27 40	Хр. тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0

@@ -1,0 +1,10 @@
+T1	icd_code 0 13	Острый цистит
+T2	icd_code 16 30	Острый уретрит
+T3	icd_code 33 56	Хронический пиелонефрит
+T4	icd_code 58 68	обострение
+T5	icd_code 71 74	МКБ
+N1	Reference T1 ICD_codes:8791	N30.0
+N2	Reference T2 ICD_codes:8817	N34.1
+N3	Reference T3 ICD_codes:8707	N11.0
+N4	Reference T4 ICD_codes:12781	T81.9
+N5	Reference T5 ICD_codes:10930	R52

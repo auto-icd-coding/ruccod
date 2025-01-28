@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Пролапс митрального клапана 1 степени
+T2	icd_code 40 61	кардиальным синдромом
+N1	Reference T1 ICD_codes:6452	I34.1
+N2	Reference T2 ICD_codes:1024	C16.0

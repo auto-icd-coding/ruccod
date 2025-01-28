@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Ушиб первого пальца левой стопы
+N1	Reference T1 ICD_codes:12017	S90.1
+T2	icd_code 43 72	перелом костей первого пальца
+N2	Reference T2 ICD_codes:12042	S92.4

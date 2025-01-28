@@ -1,0 +1,7 @@
+T1	icd_code 4 25	Ангиосклероз сетчатки
+N1	Reference T1 ICD_codes:6034	H35
+T2	icd_code 27 40	Гиперметропия
+N2	Reference T2 ICD_codes:6127	H52.0
+T3	icd_code 57 67	Пресбиопия
+T4	icd_code 68 87	Незрелая катарактаю
+N3	Reference T4 ICD_codes:5985	H26

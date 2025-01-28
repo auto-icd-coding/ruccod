@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Острый риносинусит
+N1	Reference T1 ICD_codes:6779	J01
+T2	icd_code 34 47	Хр. тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0

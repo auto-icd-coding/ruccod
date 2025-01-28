@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Гематома
+N1	Reference T1 ICD_codes:12772	T81.0
+T2	icd_code 0 30	Гематома правой молочной желез
+N2	Reference T2 ICD_codes:8898	N60.0
+T2	icd_code 32 60	киста правой молочной железы
+N2	Reference T2 ICD_codes:8898	N60.0

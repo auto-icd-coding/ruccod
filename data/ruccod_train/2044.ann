@@ -1,0 +1,14 @@
+T1	icd_code 20 51	цервикоторакоалгический синдром
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 27 51	торакоалгический синдром
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 60 70	дорсопатии
+N3	Reference T3 ICD_codes:8285	M50-M54
+T4	icd_code 90 102	остеохондроз
+N4	Reference T4 ICD_codes:8226	M42
+T5	icd_code 160 187	церебро-васкулярной болезни
+N5	Reference T5 ICD_codes:6627	I67.9
+T6	icd_code 189 219	дисциркуляторной энцефалопатии
+N6	Reference T6 ICD_codes:6620	I67.2
+T7	icd_code 234 263	Мигренеподобные головные боли
+N7	Reference T7 ICD_codes:5602	G43.9

@@ -1,0 +1,8 @@
+T1	icd_code 0 27	Вегето-сосудистая дистония.
+N1	Reference T1 ICD_codes:5795	G90
+T2	icd_code 28 40	Остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 81 110	мышечно-тоническим синдромом.
+N3	Reference T3 ICD_codes:8333	M62
+T4	icd_code 111 122	Гипертиреоз
+N4	Reference T4 ICD_codes:2025	E03.9

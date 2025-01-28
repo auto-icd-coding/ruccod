@@ -1,0 +1,4 @@
+T1	icd_code 1 28	Хр.левосторонний сальпингит
+N1	Reference T1 ICD_codes:8920	N70.1
+T2	icd_code 29 35	Экзема
+N2	Reference T2 ICD_codes:7615	L20-L30

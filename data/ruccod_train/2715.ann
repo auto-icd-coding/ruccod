@@ -1,0 +1,4 @@
+T1	icd_code 2 26	Невралгия лучевого нерва
+N1	Reference T1 ICD_codes:5685	G56.3
+T2	icd_code 28 83	Посттравматический артрит левого лучезапястного сустава
+N2	Reference T2 ICD_codes:8093	M19.1

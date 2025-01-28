@@ -1,0 +1,10 @@
+T1	icd_code 0 26	Атрофический вульвовагинит
+N1	Reference T1 ICD_codes:9089	N95.2
+T2	icd_code 28 37	Аденомиоз
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 39 61	Патологический климакс
+N3	Reference T3 ICD_codes:9088	N95.1
+N5	Reference T3 ICD_codes:9088	N95.1
+T4	icd_code 63 86	Варикоз вен малого таза
+N4	Reference T4 ICD_codes:6737	I86.2
+N6	Reference T4 ICD_codes:6737	I86.2

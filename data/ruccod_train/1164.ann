@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 21	О. ринофарингит
+N2	Reference T2 ICD_codes:6787	J02

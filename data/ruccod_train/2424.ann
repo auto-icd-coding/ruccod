@@ -1,0 +1,26 @@
+T1	icd_code 0 12	Дислипидемия
+N1	Reference T1 ICD_codes:2357	E78.8
+T2	icd_code 14 94	Атеросклероз аорты и  брахиоцефальных артерий (стенозы ОСА  до 43 % НСА до 63 %)
+N2	Reference T2 ICD_codes:6642	I70.0
+T3	icd_code 96 133	Транзиторная артериальная гипертензия
+N3	Reference T3 ICD_codes:6357	I11
+T4	icd_code 157 179	Хронический пиелонефри
+N4	Reference T4 ICD_codes:8707	N11.0
+T5	icd_code 204 213	нефроптоз
+N5	Reference T5 ICD_codes:8783	N28.8
+T6	icd_code 215 233	Хронический цистит
+N6	Reference T6 ICD_codes:8792	N30.1
+T7	icd_code 247 258	Бактериурия
+N7	Reference T7 ICD_codes:8836	N39.0
+T8	icd_code 281 312	цервикоторакоалгический синдром
+N8	Reference T8 ICD_codes:8314	M54.6
+T9	icd_code 321 331	дорсопатии
+N9	Reference T9 ICD_codes:8306	M53.9
+T10	icd_code 351 376	остеохондроза позвоночник
+N10	Reference T10 ICD_codes:8228	M42.1
+T11	icd_code 398 425	Нейроциркуляторная дистония
+N11	Reference T11 ICD_codes:4923	F45.3
+T12	icd_code 446 474	Астено-невротический синдром
+N12	Reference T12 ICD_codes:4934	F48.0
+T13	icd_code 476 515	Вегетативная дисфункция нервной системы
+N13	Reference T13 ICD_codes:4923	F45.3

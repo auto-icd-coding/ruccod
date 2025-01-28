@@ -1,0 +1,6 @@
+T1	icd_code 0 44	стихающее обострение хронического простатита
+T2	icd_code 45 54	о.уретрит
+T3	icd_code 65 75	воспаление
+N1	Reference T1 ICD_codes:8847	N41.1
+N2	Reference T2 ICD_codes:8817	N34.1
+N3	Reference T3 ICD_codes:8925	N71.9

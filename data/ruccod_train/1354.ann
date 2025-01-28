@@ -1,0 +1,5 @@
+T1	icd_code 61 91	
+Пигментный невус левого бедра
+N1	Reference T1 ICD_codes:1626	D22
+T2	icd_code 0 19	Себорейная кератома
+N2	Reference T2 ICD_codes:7881	L82

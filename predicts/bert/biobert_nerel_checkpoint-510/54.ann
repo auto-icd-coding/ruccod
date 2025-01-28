@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Острый 2хст
+T2	icd_code 12 34	средний  перфорат отит
+T3	icd_code 46 58	ринофарингит
+N1	Reference T1 ICD_codes:10780	R10.0
+N2	Reference T2 ICD_codes:6210	H66.9
+N3	Reference T3 ICD_codes:6776	J00

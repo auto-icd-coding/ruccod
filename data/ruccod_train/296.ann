@@ -1,0 +1,4 @@
+T1	icd_code 0 4	Дгпж
+N1	Reference T1 ICD_codes:8843	N40
+T2	icd_code 7 28	хронический простатит
+N2	Reference T2 ICD_codes:8847	N41.1

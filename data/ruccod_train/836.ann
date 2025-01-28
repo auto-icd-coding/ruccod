@@ -1,0 +1,10 @@
+T1	icd_code 0 43	Генерализованное соматоформное расстройство
+N1	Reference T1 ICD_codes:4919	F45
+T2	icd_code 57 72	панических атак
+N2	Reference T2 ICD_codes:4878	F41
+T3	icd_code 75 78	НЦД
+N3	Reference T3 ICD_codes:4919	F45
+T4	icd_code 109 138	Астено-невротический синдром.
+N4	Reference T4 ICD_codes:4934	F48.0
+T5	icd_code 140 152	Остеохондроз
+N5	Reference T5 ICD_codes:8228	M42.1

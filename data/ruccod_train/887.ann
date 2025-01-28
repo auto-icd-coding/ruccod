@@ -1,0 +1,6 @@
+T1	icd_code 0 9	Дорсалгия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 18 43	сколиотической деформации
+N2	Reference T2 ICD_codes:8217	M41
+T3	icd_code 90 118	мышечно-тоническим синдромом
+N3	Reference T3 ICD_codes:8333	M62

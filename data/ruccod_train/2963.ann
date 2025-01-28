@@ -1,0 +1,6 @@
+T1	icd_code 0 33	Функциональная кишечная диспепсия
+N1	Reference T1 ICD_codes:7257	K30
+T2	icd_code 53 77	дисбактериозом кишечника
+N2	Reference T2 ICD_codes:7404	K63.8
+T3	icd_code 86 119	Хронический поверхностный гастрит
+N3	Reference T3 ICD_codes:7250	K29.3

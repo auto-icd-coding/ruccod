@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Эутиреоз
+N1	Reference T1 ICD_codes:2049	E07
+T2	icd_code 25 47	Инсулинорезистентность
+N2	Reference T2 ICD_codes:10986	R73.0
+T3	icd_code 48 69	Избыточная масса тела
+N3	Reference T3 ICD_codes:2286	E66.9

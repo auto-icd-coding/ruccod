@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Периоральный дерматит
+N1	Reference T1 ICD_codes:7674	L30
+T2	icd_code 24 50	Гиперплазия сальной железы
+N2	Reference T2 ICD_codes:7853	L73.9

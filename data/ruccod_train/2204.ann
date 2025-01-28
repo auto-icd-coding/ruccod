@@ -1,0 +1,6 @@
+T1	icd_code 1 28	иммунодефицит  неуточненный
+N1	Reference T1 ICD_codes:1990	D84.9
+T2	icd_code 37 47	ВПГ 6 типа
+N2	Reference T2 ICD_codes:481	B00.9
+T3	icd_code 52 82	интерфероновая недостаточность
+N3	Reference T3 ICD_codes:1989	D84.8

@@ -1,0 +1,10 @@
+T1	icd_code 0 29	О. гастроэнтерит неуточненный
+N1	Reference T1 ICD_codes:7337	K52.9
+T4	icd_code 126 141	О. панкреатит.?
+N4	Reference T4 ICD_codes:7511	K85
+T5	icd_code 154 169	 прободная язва
+N5	Reference T5 ICD_codes:7208	K25.1
+T2	icd_code 34 53	Хр. гастродуоденит.
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 57 86	Язвенная боолезнь 12п.к. рем.
+N3	Reference T3 ICD_codes:7225	K26.9

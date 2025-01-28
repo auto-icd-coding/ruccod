@@ -1,0 +1,10 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 84 135	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 136 145	Дисформия
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 146 156	дискинезия
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 157 181	дисхолия желчного пузыря
+N5	Reference T5 ICD_codes:7509	K83.8

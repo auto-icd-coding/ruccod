@@ -1,0 +1,7 @@
+T1	icd_code 0 34	Хроническая ишемия головного мозга
+N1	Reference T1 ICD_codes:6617	I67
+N4	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 59 89	дисциркуляцией в ВБ - бассейне
+N2	Reference T2 ICD_codes:5611	G45.0
+T3	icd_code 111 121	Дорсопатия
+N3	Reference T3 ICD_codes:8306	M53.9

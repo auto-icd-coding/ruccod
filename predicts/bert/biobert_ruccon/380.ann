@@ -1,0 +1,8 @@
+T1	icd_code 27 30	ХСН
+T2	icd_code 41 74	Атеросклеротический кардиосклероз
+T3	icd_code 76 78	СД
+T4	icd_code 122 130	Ожирение
+N1	Reference T1 ICD_codes:6547	I50.0
+N2	Reference T2 ICD_codes:6408	I25.1
+N3	Reference T3 ICD_codes:2099	E14
+N4	Reference T4 ICD_codes:2286	E66.9

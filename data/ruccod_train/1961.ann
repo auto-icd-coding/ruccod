@@ -1,0 +1,6 @@
+T1	icd_code 51 85	Анемия легкой степени неуточненная
+N1	Reference T1 ICD_codes:1811	D50.9
+T2	icd_code 28 47	Гиперхолестеринемия
+N2	Reference T2 ICD_codes:2357	E78.8
+T3	icd_code 0 27	Головная боль неуточненная.
+N3	Reference T3 ICD_codes:5609	G44.8

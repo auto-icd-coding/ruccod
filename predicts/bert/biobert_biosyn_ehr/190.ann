@@ -1,0 +1,8 @@
+T1	icd_code 6 26	Двусторнний гайморит
+T2	icd_code 39 44	ринит
+T3	icd_code 56 69	трахеобронхит
+T4	icd_code 82 102	астенический синдром
+N1	Reference T1 ICD_codes:6785	J01.8
+N2	Reference T2 ICD_codes:6874	J31.0
+N3	Reference T3 ICD_codes:6797	J04.1
+N4	Reference T4 ICD_codes:2798	F06.67

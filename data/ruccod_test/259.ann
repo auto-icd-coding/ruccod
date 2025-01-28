@@ -1,0 +1,4 @@
+T1	icd_code 0 20	ФКМ(фиброзная форма)
+N1	Reference T1 ICD_codes:8899	N60.1
+T2	icd_code 21 57	Сецернирующая правая молочная железа
+N2	Reference T2 ICD_codes:8908	N64

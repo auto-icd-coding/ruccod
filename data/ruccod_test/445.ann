@@ -1,0 +1,8 @@
+T1	icd_code 0 25	Головные боли неуточенные
+N1	Reference T1 ICD_codes:10929	R51
+T2	icd_code 27 37	Дорсопатия
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 46 59	 остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 91 111	Носовые кровотечения
+N4	Reference T4 ICD_codes:10750	R04.0

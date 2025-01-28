@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Узловой зоб
+N1	Reference T1 ICD_codes:2031	E04.9
+T2	icd_code 13 45	Аутоиммунный тиреоидит, эутиреоз
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 47 60	Гипергликемия
+N3	Reference T3 ICD_codes:10985	R73

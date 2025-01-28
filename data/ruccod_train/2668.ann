@@ -1,0 +1,12 @@
+T1	icd_code 2 19	ОРЗ: ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 34	трахеобронхит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 58 69	Цервикалгия
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 82 106	Головная боль напряжения
+N4	Reference T4 ICD_codes:5606	G44.2
+T5	icd_code 143 153	Торакалгия
+N5	Reference T5 ICD_codes:8314	M54.6
+T6	icd_code 167 176	Люмбалгия
+N6	Reference T6 ICD_codes:8312	M54.4

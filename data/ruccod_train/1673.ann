@@ -1,0 +1,8 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 16 36	Генитальный кандидоз
+N2	Reference T2 ICD_codes:636	B37.3
+T3	icd_code 39 48	Люмбалгия
+N3	Reference T3 ICD_codes:8312	M54.4
+T4	icd_code 51 78	С-м раздраженного кишечника
+N4	Reference T4 ICD_codes:7363	K58

@@ -1,0 +1,10 @@
+T1	icd_code 0 9	О вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 12 21	цернвицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 23 42	Лейкоплакия ш\матки
+N3	Reference T3 ICD_codes:9021	N86
+T4	icd_code 45 67	Гиперплазия эндометрия
+N4	Reference T4 ICD_codes:9011	N85.0
+T5	icd_code 71 80	Аденомиоз
+N5	Reference T5 ICD_codes:8964	N80.0

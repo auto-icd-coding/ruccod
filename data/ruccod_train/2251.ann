@@ -1,0 +1,10 @@
+T1	icd_code 0 42	Хронический гипоацидный? гастрит, дуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 111 115	ГЭРБ
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 117 137	Кандидозный эзофагит
+N3	Reference T3 ICD_codes:641	B37.8
+T4	icd_code 139 143	ДЖВП
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 156 169	Хр.панкреатит
+N5	Reference T5 ICD_codes:7514	K86.1

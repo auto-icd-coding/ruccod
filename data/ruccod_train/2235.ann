@@ -1,0 +1,12 @@
+T1	icd_code 0 25	ОРВИ. Острый ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 27 41	Острый трахеит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 43 64	Хронический тонзиллит
+N3	Reference T3 ICD_codes:6897	J35.0
+T4	icd_code 77 104	
+Гипертоническая болезнь II
+N4	Reference T4 ICD_codes:6357	I11
+T5	icd_code 148 193	
+СД 2 типа, легкой степени, компенсированный.
+N5	Reference T5 ICD_codes:2076	E11.9

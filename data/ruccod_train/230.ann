@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ИБС.
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 5 27	Стенокардия напряжения
+N2	Reference T2 ICD_codes:6378	I20.8
+T3	icd_code 51 82	атеросклероза коронарных и БЦА.
+N3	Reference T3 ICD_codes:6645	I70.8
+T4	icd_code 83 106	Гипертоническая болезнь
+N4	Reference T4 ICD_codes:6355	I10
+T5	icd_code 120 134	Гиперлипидемия
+N5	Reference T5 ICD_codes:2355	E78.5

@@ -1,0 +1,8 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 23 43	сальпингит и оофорит
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 66 94	Эндометриоз матки (аденомиоз
+N3	Reference T3 ICD_codes:8964	N80.0
+T4	icd_code 100 105	ВМС
+N4	Reference T4 ICD_codes:16778	Z30.5

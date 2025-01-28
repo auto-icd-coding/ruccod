@@ -1,0 +1,10 @@
+T1	icd_code 0 37	Фокальные изменения щитовидной железы
+T2	icd_code 39 47	Эутиреоз
+T3	icd_code 50 78	Нарушение углеводного обмена
+T4	icd_code 81 109	Нарушение кальциевого обмена
+T5	icd_code 112 130	Дефицит витамина D
+N1	Reference T1 ICD_codes:2052	E07.8
+N2	Reference T2 ICD_codes:2025	E03.9
+N3	Reference T3 ICD_codes:2328	E74.9
+N4	Reference T4 ICD_codes:2379	E83.5
+N5	Reference T5 ICD_codes:2247	E55.9

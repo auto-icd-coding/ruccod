@@ -1,0 +1,10 @@
+T1	icd_code 0 9	Диссомния
+N1	Reference T1 ICD_codes:5635	G47.9
+T2	icd_code 12 42	Тревожная депрессивная реакция
+N2	Reference T2 ICD_codes:4897	F43.22
+T3	icd_code 46 56	Дорсопатия
+N3	Reference T3 ICD_codes:8306	M53.9
+T4	icd_code 58 68	Торакалгия
+N4	Reference T4 ICD_codes:8314	M54.6
+T5	icd_code 93 120	Астеноневротический синдром
+N5	Reference T5 ICD_codes:4923	F45.3

@@ -1,0 +1,18 @@
+T1	icd_code 0 38	Артериальная гипертензия  неуточненная
+N1	Reference T1 ICD_codes:6356	I10-I15
+T2	icd_code 54 81	Симптоматическая гипертония
+N2	Reference T2 ICD_codes:6373	I15.9
+T3	icd_code 82 106	Эссенциальная гипертония
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 107 157	Вегетососудистая дистония по гипертоническому типу
+N4	Reference T4 ICD_codes:5795	G90
+T5	icd_code 159 166	Пролапс
+N5	Reference T5 ICD_codes:6452	I34.1
+T6	icd_code 168 186	недостаточность МК
+N6	Reference T6 ICD_codes:6451	I34.0
+T7	icd_code 212 216	ДЖВП
+N7	Reference T7 ICD_codes:7500	K82.8
+T8	icd_code 229 244	Билиарный сладж
+N8	Reference T8 ICD_codes:7500	K82.8
+T9	icd_code 246 266	Мочекаменная болезнь
+N9	Reference T9 ICD_codes:8755	N20-N23

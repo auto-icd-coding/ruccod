@@ -1,0 +1,6 @@
+T1	icd_code 12 15	ПЭП
+N1	Reference T1 ICD_codes:9978	P91.0
+N3	Reference T1 ICD_codes:10003	P96
+N4	Reference T1 ICD_codes:5816	G93.4
+T2	icd_code 17 42	синдром мышечной дистонии
+N2	Reference T2 ICD_codes:5527	G24

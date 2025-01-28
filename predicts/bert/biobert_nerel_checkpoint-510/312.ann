@@ -1,0 +1,8 @@
+T1	icd_code 2 26	Артериальная гипертензия
+T2	icd_code 64 110	Стресс-индуцированная артериальная гипертензия
+T3	icd_code 128 167	диастолическая артериальная гипертензия
+T4	icd_code 173 185	Вторичная АГ
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:6357	I11
+N4	Reference T4 ICD_codes:6373	I15.9

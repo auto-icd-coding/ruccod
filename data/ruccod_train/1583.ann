@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Синовиит левого коленного сустава
+N1	Reference T1 ICD_codes:8356	M65.8
+T2	icd_code 35 67	Повреждение латерального мениска
+N2	Reference T2 ICD_codes:8129	M23.3

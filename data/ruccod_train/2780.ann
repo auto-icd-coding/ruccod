@@ -1,0 +1,8 @@
+T1	icd_code 1 25	Дискинезия толстой кишки
+N1	Reference T1 ICD_codes:7372	K59.8
+T2	icd_code 28 32	СИБР
+N2	Reference T2 ICD_codes:10804	R19.8
+T3	icd_code 34 65	Хронический холецистопанкреатит
+N3	Reference T3 ICD_codes:7517	K86.8
+T4	icd_code 79 105	Хронический гастродуоденит
+N4	Reference T4 ICD_codes:7246	K29

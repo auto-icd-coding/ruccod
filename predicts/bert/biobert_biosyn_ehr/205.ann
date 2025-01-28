@@ -1,0 +1,6 @@
+T1	icd_code 0 44	Дисфункция сфинктера Одди по билиарном утипу
+T2	icd_code 57 76	Вторичный ? гастрит
+T3	icd_code 78 116	Гастроэзофагеальная рефлюксная болезнь
+N1	Reference T1 ICD_codes:7507	K83.4
+N2	Reference T2 ICD_codes:7252	K29.5
+N3	Reference T3 ICD_codes:7191	K21.9

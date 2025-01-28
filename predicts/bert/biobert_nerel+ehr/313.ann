@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Узловые образования щитовидной железы
+T2	icd_code 39 49	Гипотиреоз
+N1	Reference T1 ICD_codes:2029	E04.2
+N2	Reference T2 ICD_codes:2025	E03.9

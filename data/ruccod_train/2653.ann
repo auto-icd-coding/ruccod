@@ -1,0 +1,6 @@
+T1	icd_code 0 14	О. назофаринго
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 14 22	трахеит,
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 34 45	О. гайморит
+N3	Reference T3 ICD_codes:6781	J01.1

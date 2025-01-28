@@ -1,0 +1,8 @@
+T1	icd_code 1 16	Острый фарингит
+T2	icd_code 33 45	Острый ринит
+T3	icd_code 61 76	Острый ларингит
+T4	icd_code 93 105	Беременность
+N1	Reference T1 ICD_codes:6790	J02.9
+N2	Reference T2 ICD_codes:6776	J00
+N3	Reference T3 ICD_codes:6796	J04.0
+N4	Reference T4 ICD_codes:16794	Z32.9

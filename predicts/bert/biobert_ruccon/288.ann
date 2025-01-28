@@ -1,0 +1,4 @@
+T1	icd_code 0 60	Доброкачественное пароксизмальное позиционное головокружение
+T2	icd_code 62 75	головные боли
+N1	Reference T1 ICD_codes:6260	H81.1
+N2	Reference T2 ICD_codes:10929	R51

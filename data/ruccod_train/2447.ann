@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:4923	F45.3
+T2	icd_code 71 77	Анемия
+N2	Reference T2 ICD_codes:1893	D64.9
+T3	icd_code 90 117	Пролапс митрального клапана
+N3	Reference T3 ICD_codes:6452	I34.1
+T4	icd_code 119 138	Ангиопатия сетчатки
+N4	Reference T4 ICD_codes:6697	I79.2
+T1	icd_code 5 58	соматоформная дисфункция вегетативной нервной системы
+N1	Reference T1 ICD_codes:4923	F45.3

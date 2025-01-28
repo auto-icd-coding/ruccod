@@ -1,0 +1,20 @@
+T1	icd_code 0 31	Хондромаляция гиалинового хряща
+N1	Reference T1 ICD_codes:8571	M94.2
+T2	icd_code 44 62	Реактивный синовит
+N2	Reference T2 ICD_codes:8349	M65
+T4	icd_code 75 87	Ахиллобурсит
+N3	Reference T4 ICD_codes:8426	M76.6
+T5	icd_code 97 128	Негоризонтальная установка таза
+N4	Reference T5 ICD_codes:8582	M95.5
+T6	icd_code 130 154	Двусторонне плоскостопие
+N6	Reference T6 ICD_codes:8113	M21.6
+T7	icd_code 207 242	Тендинит лучевого разгибателя кисти
+N5	Reference T7 ICD_codes:8437	M77.8
+T8	icd_code 244 275	хондромаляция гиалинового хряща
+N8	Reference T8 ICD_codes:8571	M94.2
+T9	icd_code 288 307	Реактивный синовит.
+N7	Reference T9 ICD_codes:8357	M65.9
+T10	icd_code 308 311	НФС
+N10	Reference T10 ICD_codes:8155	M25.8
+T3	icd_code 64 67	НФС
+N9	Reference T3 ICD_codes:8155	M25.8

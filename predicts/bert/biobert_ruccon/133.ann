@@ -1,0 +1,4 @@
+T1	icd_code 20 41	фиброзного компонента
+T2	icd_code 43 82	Дорсопатия грудного отдела позвоночника
+N1	Reference T1 ICD_codes:2386	E84.9
+N2	Reference T2 ICD_codes:8314	M54.6

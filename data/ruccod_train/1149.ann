@@ -1,0 +1,4 @@
+T1	icd_code 0 39	хр двусторонний верхнечелюстной синусит
+N1	Reference T1 ICD_codes:6878	J32.0
+T2	icd_code 42 73	искривление носовой перегородки
+N2	Reference T2 ICD_codes:6893	J34.2

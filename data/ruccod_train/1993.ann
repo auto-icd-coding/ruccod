@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 11 28	Цервикокраниалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 52 69	цервикокраниалгия
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 31 50	Шейный остеохондроз
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 80 102	 миотонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 105 129	умеренная вестибулопатия
+N6	Reference T6 ICD_codes:6264	H81.8
+T7	icd_code 132 154	Синкопальные состояния
+N7	Reference T7 ICD_codes:10937	R55

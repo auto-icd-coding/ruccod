@@ -1,0 +1,4 @@
+T2	icd_code 14 21	Уретрит
+N2	Reference T2 ICD_codes:8815	N34
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72

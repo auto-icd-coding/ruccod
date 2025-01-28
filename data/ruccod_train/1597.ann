@@ -1,0 +1,8 @@
+T1	icd_code 0 52	Вертеброгенный поясничный мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 61 72	остеопороза
+N2	Reference T2 ICD_codes:8468	M81.8
+T3	icd_code 74 115	компрессионных переломов L1, L5 позвонков
+N3	Reference T3 ICD_codes:11464	S32.0
+T4	icd_code 124 175	дегенеративно-дистрофических изменений позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1

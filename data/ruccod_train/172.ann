@@ -1,0 +1,6 @@
+T1	icd_code 0 26	хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 67 79	дизбактериоз
+N2	Reference T2 ICD_codes:7398	K63
+T3	icd_code 109 120	гельминтозы
+N3	Reference T3 ICD_codes:842	B81

@@ -1,0 +1,6 @@
+T1	icd_code 142 178	Объемное образование головного мозга
+N1	Reference T1 ICD_codes:1693	D33
+T2	icd_code 0 29	Головная боль неясного генеза
+N2	Reference T2 ICD_codes:5609	G44.8
+T3	icd_code 85 115	мышечно-тоническим компонентом
+N3	Reference T3 ICD_codes:8441	M79.1

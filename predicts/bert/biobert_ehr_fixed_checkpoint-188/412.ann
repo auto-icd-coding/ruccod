@@ -1,0 +1,6 @@
+T1	icd_code 0 67	Повреждение передней крестообразной связки левого коленного сустава
+T2	icd_code 108 120	аутопластика
+T3	icd_code 122 129	Синовит
+N1	Reference T1 ICD_codes:11973	S83.5
+N2	Reference T2 ICD_codes:7677	L30.2
+N3	Reference T3 ICD_codes:8357	M65.9

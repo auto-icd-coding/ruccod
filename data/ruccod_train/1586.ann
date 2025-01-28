@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Хронический холецистит
+N1	Reference T1 ICD_codes:7491	K81.1
+T2	icd_code 46 49	ЖКБ
+N2	Reference T2 ICD_codes:7480	K80
+T3	icd_code 52 83	Синдром раздраженного кишечника
+N3	Reference T3 ICD_codes:7363	K58

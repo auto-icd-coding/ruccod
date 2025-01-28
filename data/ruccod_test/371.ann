@@ -1,0 +1,8 @@
+T1	icd_code 1 24	Перегиб желчного пузыря
+N1	Reference T1 ICD_codes:7500	K82.8
+T2	icd_code 26 34	ГепатитА
+N2	Reference T2 ICD_codes:520	B15
+T3	icd_code 36 52	Болезнь Жильбера
+N3	Reference T3 ICD_codes:2369	E80.4
+T4	icd_code 54 77	знтеровирусная инфекция
+N4	Reference T4 ICD_codes:608	B34.1

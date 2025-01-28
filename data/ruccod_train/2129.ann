@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Эрозия шейки матки
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 20 40	Киста левого яичника
+N2	Reference T2 ICD_codes:8995	N83.2

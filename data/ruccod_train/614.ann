@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 40 49	орсопатия
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 58 86	мышечнотонического синдрома.
+N3	Reference T3 ICD_codes:8333	M62

@@ -1,0 +1,8 @@
+T1	icd_code 0 39	Вегетативная дисфункция нервной системы
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 84 110	Вертеброгенная цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 113 141	умеренным мышечно-тоническим
+N3	Reference T3 ICD_codes:8441	M79.1
+T1	icd_code 42 65	цефалгическим синдромом
+N1	Reference T1 ICD_codes:5801	G90.8

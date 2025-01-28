@@ -1,0 +1,8 @@
+T1	icd_code 31 59	Нарушения углеводного обмена
+N1	Reference T1 ICD_codes:2328	E74.9
+T2	icd_code 18 29	Узловой зоб
+N2	Reference T2 ICD_codes:2031	E04.9
+T3	icd_code 6 16	Гипотиреоз
+N3	Reference T3 ICD_codes:2025	E03.9
+T4	icd_code 0 4	ХАИТ
+N4	Reference T4 ICD_codes:2048	E06.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 37	На момент осмотра практически здорова
+N1	Reference T1 ICD_codes:16596	Z00
+T2	icd_code 39 56	Хр гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9

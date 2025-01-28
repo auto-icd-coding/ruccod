@@ -1,0 +1,11 @@
+T1	icd_code 0 4	ДЖВП
+N1	Reference T1 ICD_codes:7281	K38.9
+T2	icd_code 35 69	аномалии развития желчного пузыря.
+N2	Reference T2 ICD_codes:10331	Q44
+T3	icd_code 70 99	Токсическое поражение печени.
+N3	Reference T3 ICD_codes:7430	K71
+T4	icd_code 100 127	Хронический гастродуоденит,
+N4	Reference T4 ICD_codes:7246	K29
+T5	icd_code 128 148	ассоциированный с НР
+T6	icd_code 162 179	роническая ЯБЛДПК
+N6	Reference T6 ICD_codes:7216	K26

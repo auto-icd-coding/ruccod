@@ -1,0 +1,4 @@
+T1	icd_code 0 5	Микоз
+N1	Reference T1 ICD_codes:721	B49
+T2	icd_code 9 32	Шиповатый гиперкератоз.
+N2	Reference T2 ICD_codes:7884	L85

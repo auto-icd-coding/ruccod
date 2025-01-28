@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 5 34	Астеноневротическое состояние
+N2	Reference T2 ICD_codes:4937	F48.9

@@ -1,0 +1,12 @@
+T1	icd_code 1 9	Цефалгия
+N1	Reference T1 ICD_codes:10929	R51
+T2	icd_code 44 58	сосудистая,ГБН
+N2	Reference T2 ICD_codes:5605	G44.1
+T3	icd_code 28 42	вертеброгенная
+N3	Reference T3 ICD_codes:10929	R51
+T4	icd_code 61 71	Дорсопатия
+N4	Reference T4 ICD_codes:8305	M53.8
+T5	icd_code 73 84	цервикалгия
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 86 89	ВСД
+N6	Reference T6 ICD_codes:4924	F45.30

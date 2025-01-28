@@ -1,0 +1,4 @@
+T1	icd_code 22 34	Олигоменорея
+N1	Reference T1 ICD_codes:9061	N91.3
+T2	icd_code 4 21	Гипорогестронемия
+N2	Reference T2 ICD_codes:8962	N80

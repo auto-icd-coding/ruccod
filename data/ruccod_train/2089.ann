@@ -1,0 +1,4 @@
+T1	icd_code 0 17	Опоясывющей лишай
+N1	Reference T1 ICD_codes:495	B02.9
+T2	icd_code 19 31	Беременность
+N2	Reference T2 ICD_codes:16794	Z32.9

@@ -1,0 +1,14 @@
+T1	icd_code 0 47	Вирусиндуцированное иммунодефицитное состояние 
+N1	Reference T1 ICD_codes:1990	D84.9
+T2	icd_code 63 92	Аллергический риноконъюктивит
+N2	Reference T2 ICD_codes:6872	J30.4
+T3	icd_code 94 101	Полипоз
+N3	Reference T3 ICD_codes:6886	J33.0
+T4	icd_code 103 125	Эпидермальная аллергия
+N4	Reference T4 ICD_codes:7625	L23
+T5	icd_code 127 137	Гельминтоз
+N5	Reference T5 ICD_codes:771	B65-B83
+T6	icd_code 140 159	Гиперглобулин-Еемия
+N6	Reference T6 ICD_codes:11001	R77.1
+T7	icd_code 162 170	Поллиноз
+N7	Reference T7 ICD_codes:6869	J30.1

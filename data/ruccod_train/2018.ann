@@ -1,0 +1,14 @@
+T1	icd_code 0 17	Хр гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 104 124	Спазм сфинктора Одди
+N2	Reference T2 ICD_codes:7518	K86.9
+T3	icd_code 126 129	ЖКБ
+N3	Reference T3 ICD_codes:7483	K80.1
+T4	icd_code 167 224	 Хронический билиарнозависимый паренхиматозный панкреатит
+N4	Reference T4 ICD_codes:7517	K86.8
+T5	icd_code 279 291	Дислипидемия
+N5	Reference T5 ICD_codes:2349	E78
+T6	icd_code 70 102	Гипертензия протоков подж железы
+N6	Reference T6 ICD_codes:7514	K86.1
+T3	icd_code 131 166	хронический калькулезный холецистит
+N3	Reference T3 ICD_codes:7483	K80.1

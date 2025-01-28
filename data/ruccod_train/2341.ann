@@ -1,0 +1,7 @@
+T1	icd_code 0 34	Головная боль на фоне повышения АД
+N1	Reference T1 ICD_codes:5605	G44.1
+T2	icd_code 35 77	
+Синдром позвоночной артерии остеохондроз 
+N2	Reference T2 ICD_codes:8262	M47.0
+T3	icd_code 65 77	остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1

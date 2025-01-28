@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 45 55	Кардиалгия
+N2	Reference T2 ICD_codes:10769	R07.2

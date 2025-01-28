@@ -1,0 +1,8 @@
+T1	icd_code 0 20	Дисфункция  яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 37 59	Киста правого яичника(
+N2	Reference T2 ICD_codes:8992	N83
+T3	icd_code 76 85	Аденомиоз
+N3	Reference T3 ICD_codes:8964	N80.0
+T4	icd_code 86 97	Миома матки
+N4	Reference T4 ICD_codes:1647	D25

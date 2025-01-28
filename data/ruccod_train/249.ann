@@ -1,0 +1,7 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 22 33	Уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 35 38	ЦМВ
+N3	Reference T3 ICD_codes:574	B25
+N4	Reference T3 ICD_codes:580	B25.9

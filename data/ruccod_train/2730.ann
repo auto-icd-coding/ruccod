@@ -1,0 +1,4 @@
+T1	icd_code 0 18	О.катаральный отит
+N1	Reference T1 ICD_codes:6179	H60.5
+T2	icd_code 27 34	О.ринит
+N2	Reference T2 ICD_codes:6776	J00

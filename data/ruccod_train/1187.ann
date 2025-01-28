@@ -1,0 +1,14 @@
+T1	icd_code 0 8	Ишиалгия
+N1	Reference T1 ICD_codes:8311	M54.3
+T2	icd_code 35 82	закрытой травмы поясничного отдела позвоночника
+N2	Reference T2 ICD_codes:11497	S34
+T3	icd_code 139 164	деформирующего спондилеза
+N3	Reference T3 ICD_codes:8261	M47
+T4	icd_code 166 198	левостороннего грудного сколиоза
+N4	Reference T4 ICD_codes:8217	M41
+T5	icd_code 200 244	грудо-поясничного остеохондроза позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 247 261	радикулопатией
+N6	Reference T6 ICD_codes:8309	M54.1
+T7	icd_code 285 313	мышечно-тоническим синдромом
+N7	Reference T7 ICD_codes:8441	M79.1

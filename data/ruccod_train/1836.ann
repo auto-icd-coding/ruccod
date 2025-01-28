@@ -1,0 +1,4 @@
+T1	icd_code 0 50	АТОПИЧЕСКИЙ ДЕРМАТИТ Эритематозно-сквамозная форма
+N1	Reference T1 ICD_codes:7614	L20
+T2	icd_code 51 69	Микоз гладкой кожи
+N2	Reference T2 ICD_codes:713	B48

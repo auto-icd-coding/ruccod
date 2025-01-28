@@ -1,0 +1,7 @@
+T3	icd_code 112 145	Продольно-поперечное плоскостопие
+N3	Reference T3 ICD_codes:8111	M21.4
+T2	icd_code 70 111	Молоткообразные деформации 2 и 3 пальцев.
+N2	Reference T2 ICD_codes:8103	M20.4
+N4	Reference T2 ICD_codes:8097	M20
+T1	icd_code 0 68	Вальгусная деформация плюснефалангового сустава первого пальца стопы
+N1	Reference T1 ICD_codes:8097	M20

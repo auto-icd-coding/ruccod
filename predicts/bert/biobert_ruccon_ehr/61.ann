@@ -1,0 +1,4 @@
+T1	icd_code 0 32	Артрозо-артрит коленных суставов
+T2	icd_code 34 50	Обострение слева
+N1	Reference T1 ICD_codes:8082	M17.9
+N2	Reference T2 ICD_codes:486	B01.8

@@ -1,0 +1,14 @@
+T1	icd_code 0 3	АМК
+T2	icd_code 36 44	Овуляция
+T3	icd_code 65 85	кисты левого яичника
+T4	icd_code 88 92	СПКЯ
+T5	icd_code 94 109	Гиперандрогения
+T6	icd_code 112 120	Цервицит
+T7	icd_code 121 140	Эктопия шейки матки
+N1	Reference T1 ICD_codes:8759	N20.9
+N2	Reference T2 ICD_codes:1659	D28.0
+N3	Reference T3 ICD_codes:8995	N83.2
+N4	Reference T4 ICD_codes:2174	E28.2
+N5	Reference T5 ICD_codes:2173	E28.1
+N6	Reference T6 ICD_codes:8926	N72
+N7	Reference T7 ICD_codes:9021	N86

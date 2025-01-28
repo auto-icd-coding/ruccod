@@ -1,0 +1,5 @@
+T1	icd_code 0 15	Папилломавирусы
+N1	Reference T1 ICD_codes:928	B97.7
+T2	icd_code 27 36	папиллома
+T3	icd_code 69 120	Мелкие бородавки на указательном пальце правой руки
+N3	Reference T3 ICD_codes:510	B07

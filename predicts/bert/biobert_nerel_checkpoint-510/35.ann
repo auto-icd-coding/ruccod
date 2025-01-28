@@ -1,0 +1,12 @@
+T1	icd_code 0 22	Хронический холецистит
+T2	icd_code 24 34	обострение
+T3	icd_code 36 41	Колит
+T4	icd_code 43 73	Синдрм раздраженного кишечника
+T5	icd_code 76 96	Острый гастроэнтерит
+T6	icd_code 154 175	Гиперплазия хвостатой
+N1	Reference T1 ICD_codes:7491	K81.1
+N2	Reference T2 ICD_codes:12781	T81.9
+N3	Reference T3 ICD_codes:7337	K52.9
+N4	Reference T4 ICD_codes:7365	K58.9
+N5	Reference T5 ICD_codes:70	A09
+N6	Reference T6 ICD_codes:2194	E32.0

@@ -1,0 +1,8 @@
+T1	icd_code 1 21	Острый назофариингит
+T2	icd_code 32 39	течение
+T3	icd_code 40 44	ОРВИ
+T4	icd_code 45 59	Острый трахеит
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:930	B99
+N3	Reference T3 ICD_codes:6777	J00-J06
+N4	Reference T4 ICD_codes:6797	J04.1

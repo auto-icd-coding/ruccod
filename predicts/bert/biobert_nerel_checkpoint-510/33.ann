@@ -1,0 +1,4 @@
+T1	icd_code 3 14	Иридоциклит
+T2	icd_code 53 74	Миопия слабой степени
+N1	Reference T1 ICD_codes:5964	H20.9
+N2	Reference T2 ICD_codes:6128	H52.1

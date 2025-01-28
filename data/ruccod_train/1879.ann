@@ -1,0 +1,14 @@
+T1	icd_code 0 44	Дисфункция яичников репродуктиывного периода
+N1	Reference T1 ICD_codes:2176	E28.8
+T2	icd_code 46 59	Вульвовагинит
+N2	Reference T2 ICD_codes:8950	N76.0
+T3	icd_code 120 156	беременности по типу трубного аборта
+N3	Reference T3 ICD_codes:9123	O00.1
+T4	icd_code 191 223	Наружный генитальный эндометриоз
+N4	Reference T4 ICD_codes:8971	N80.8
+T5	icd_code 240 261	Начальные признаки вн
+N5	Reference T5 ICD_codes:6719	I83.9
+T6	icd_code 263 283	эндометриоза т/матки
+N6	Reference T6 ICD_codes:8971	N80.8
+T7	icd_code 286 304	Гиперпролактинемия
+N7	Reference T7 ICD_codes:2134	E22.1

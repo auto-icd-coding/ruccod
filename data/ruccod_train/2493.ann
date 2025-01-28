@@ -1,0 +1,4 @@
+T1	icd_code 0 10	дисменорея
+N1	Reference T1 ICD_codes:9082	N94.5
+T2	icd_code 11 32	киста правого яичника
+N2	Reference T2 ICD_codes:8995	N83.2

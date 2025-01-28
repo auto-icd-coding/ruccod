@@ -1,0 +1,4 @@
+T1	icd_code 4 21	Олигоменорея СПКЯ
+T2	icd_code 23 35	Излишний вес
+N1	Reference T1 ICD_codes:2174	E28.2
+N2	Reference T2 ICD_codes:10969	R63.5

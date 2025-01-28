@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 55 108	Дорсопатия грудного и поясничного отдела позвоночника
+N2	Reference T2 ICD_codes:8315	M54.8
+T3	icd_code 23 53	Угроза прерывания беременности
+N3	Reference T3 ICD_codes:9228	O20.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 17	Хронический запор
+N1	Reference T1 ICD_codes:7367	K59.0
+T2	icd_code 18 49	Дискинезия желчевыводящих путей
+N2	Reference T2 ICD_codes:7509	K83.8

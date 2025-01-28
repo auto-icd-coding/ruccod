@@ -1,0 +1,4 @@
+T1	icd_code 32 44	Хр. гастрит,
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 0 3	ЯБЖ
+N2	Reference T2 ICD_codes:7214	K25.7

@@ -1,0 +1,12 @@
+T1	icd_code 0 43	Хронический гиперацидный? гастрит, дуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 111 128	ГЭРБ с эзофагитом
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 142 164	Недостаточность кардии
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 166 197	Дискинезия желчевыводящих путей
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 211 262	Дисфункция панкреато-билиарной системы на фоне ДЖВП
+N5	Reference T5 ICD_codes:7500	K82.8
+T6	icd_code 264 277	Хр.панкреатит
+N6	Reference T6 ICD_codes:7514	K86.1

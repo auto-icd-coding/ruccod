@@ -1,0 +1,14 @@
+T1	icd_code 138 176	Варикозное расширение вен н\кнечностей
+N1	Reference T1 ICD_codes:6719	I83.9
+T2	icd_code 104 135	Дискинезия желчевыводящих путей
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 0 10	Дорсопатия
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 178 181	ХВН
+N4	Reference T4 ICD_codes:6715	I83
+T5	icd_code 186 197	Бактериурия
+N5	Reference T5 ICD_codes:8835	N39
+T6	icd_code 44 53	Дорзалгия
+N6	Reference T6 ICD_codes:8307	M54
+T7	icd_code 66 92	Хр . поверхностный гастрит
+N7	Reference T7 ICD_codes:7250	K29.3

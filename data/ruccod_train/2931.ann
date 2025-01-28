@@ -1,0 +1,10 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 13 53	Остеохондроз шейного отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 55 81	Мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 123 136	Цервикогенная
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 123 147	Цервикогенная краниалгия
+N5	Reference T5 ICD_codes:8310	M54.2

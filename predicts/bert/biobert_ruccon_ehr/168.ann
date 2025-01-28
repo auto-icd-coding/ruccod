@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Остеохондроз
+T2	icd_code 76 99	множественные протрузии
+T3	icd_code 102 140	дорзальные грыжи межпозвоночных дисков
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:7375	K60.0
+N3	Reference T3 ICD_codes:8298	M51.8

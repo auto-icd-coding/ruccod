@@ -1,0 +1,8 @@
+T1	icd_code 0 39	Иммунодефицитное состояние неуточненное
+N1	Reference T1 ICD_codes:1990	D84.9
+T2	icd_code 41 62	Хронический тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0
+T3	icd_code 64 93	Аллергический риноконъюктивит
+N3	Reference T3 ICD_codes:6866	J30
+T4	icd_code 124 145	Хронический простатит
+N4	Reference T4 ICD_codes:8847	N41.1

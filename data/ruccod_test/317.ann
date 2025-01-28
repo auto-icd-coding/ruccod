@@ -1,0 +1,4 @@
+T1	icd_code 15 34	острый средний отит
+N1	Reference T1 ICD_codes:6210	H66.9
+T2	icd_code 36 55	Острый назофарингит
+N2	Reference T2 ICD_codes:6776	J00

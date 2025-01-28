@@ -1,0 +1,10 @@
+T1	icd_code 4 14	Пресбиопия
+N1	Reference T1 ICD_codes:6131	H52.4
+T2	icd_code 16 39	Миопический астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2
+T3	icd_code 41 70	Деструкция стекловидного тела
+N3	Reference T3 ICD_codes:6068	H43.8
+T4	icd_code 73 115	оновая ангиопатия по гипертоническому типу
+N4	Reference T4 ICD_codes:6697	I79.2
+T5	icd_code 121 151	Начальная возрастная катаракта
+N5	Reference T5 ICD_codes:5980	H25.0

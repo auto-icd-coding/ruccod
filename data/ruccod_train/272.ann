@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Дерматит контактный
+N1	Reference T1 ICD_codes:7625	L23
+T2	icd_code 45 57	Дерматофития
+N2	Reference T2 ICD_codes:614	B35

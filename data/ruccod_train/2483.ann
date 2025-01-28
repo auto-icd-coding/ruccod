@@ -1,0 +1,8 @@
+T1	icd_code 0 33	Хронический гиперацидный? гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 102 106	ГЭРБ
+N2	Reference T2 ICD_codes:7191	K21.9
+T3	icd_code 120 142	Недостаточность кардии
+N3	Reference T3 ICD_codes:7305	K44
+T4	icd_code 144 153	Грыжа ПОД
+N4	Reference T4 ICD_codes:7305	K44

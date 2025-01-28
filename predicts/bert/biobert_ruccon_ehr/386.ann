@@ -1,0 +1,6 @@
+T1	icd_code 0 3	НЦД
+T2	icd_code 7 22	смешанному типу
+T3	icd_code 24 44	Синусовая тахикардия
+N1	Reference T1 ICD_codes:5801	G90.8
+N2	Reference T2 ICD_codes:1379	C81.2
+N3	Reference T3 ICD_codes:10737	R00.0

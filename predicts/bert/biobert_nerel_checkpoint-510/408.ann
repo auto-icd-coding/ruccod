@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 24	остаточные явления
+T3	icd_code 26 55	Тромбоцитоз неясной этиологии
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:8098	M20-M25
+N3	Reference T3 ICD_codes:1913	D69.6

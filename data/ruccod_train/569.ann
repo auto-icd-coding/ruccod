@@ -1,0 +1,10 @@
+T1	icd_code 0 22	Гипермобильный синдром
+N1	Reference T1 ICD_codes:8190	M35
+T2	icd_code 37 62	патело-феморальный артроз
+N2	Reference T2 ICD_codes:8091	M19
+T3	icd_code 69 81	Менископатия
+N3	Reference T3 ICD_codes:8125	M23
+T4	icd_code 83 116	Дегенеративные изменения менисков
+N4	Reference T4 ICD_codes:8125	M23
+T5	icd_code 118 142	Артроз коленных суставов
+N5	Reference T5 ICD_codes:8080	M17.4

@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Головные боли напряжения
+N1	Reference T1 ICD_codes:5606	G44.2
+T2	icd_code 26 29	ДТЗ
+N2	Reference T2 ICD_codes:2033	E05.0

@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Микоз ногтя
+T2	icd_code 36 73	Дистрофия ногтя 1 пальца правой стопы
+T3	icd_code 76 96	Новообразования кожи
+N1	Reference T1 ICD_codes:617	B35.1
+N2	Reference T2 ICD_codes:7784	L60.3
+N3	Reference T3 ICD_codes:1636	D23

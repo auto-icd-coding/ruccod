@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Дисплазия шейки матки
+N1	Reference T1 ICD_codes:9024	N87.1
+T2	icd_code 33 41	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 43 88	Фолликулярно-иышечная гипертрофия шейки матки
+N3	Reference T3 ICD_codes:9032	N88.4

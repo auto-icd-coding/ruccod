@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Бронхиальная астма
+N1	Reference T1 ICD_codes:6941	J45
+T2	icd_code 96 125	Аллергическая риносинусопатия
+N2	Reference T2 ICD_codes:6866	J30
+T3	icd_code 128 156	Эпидермальная сенсибилизация
+N3	Reference T3 ICD_codes:7614	L20

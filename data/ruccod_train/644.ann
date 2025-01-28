@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 38 45	гастрит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 57 64	бульбит
+N3	Reference T3 ICD_codes:7255	K29.8
+T4	icd_code 66 74	эзофагит
+N4	Reference T4 ICD_codes:7187	K20

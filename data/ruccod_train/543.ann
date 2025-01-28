@@ -1,0 +1,9 @@
+T1	icd_code 0 28	Атрезия цервикального канала
+N1	Reference T1 ICD_codes:9027	N88
+T2	icd_code 30 48	Полипоз эндометрия
+N2	Reference T2 ICD_codes:9004	N84.0
+T3	icd_code 51 71	Дисфункция яичников.
+N3	Reference T3 ICD_codes:2171	E28
+T4	icd_code 72 91	Аденома шейки матки
+N4	Reference T4 ICD_codes:1652	D26
+N5	Reference T4 ICD_codes:1653	D26.0

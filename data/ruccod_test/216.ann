@@ -1,0 +1,10 @@
+T1	icd_code 0 37	Фокальные изменения щитовидной железы
+N1	Reference T1 ICD_codes:2052	E07.8
+T3	icd_code 50 78	Нарушение углеводного обмена
+N2	Reference T3 ICD_codes:2328	E74.9
+T4	icd_code 81 109	Нарушение кальциевого обмена
+N4	Reference T4 ICD_codes:2379	E83.5
+T5	icd_code 112 130	Дефицит витамина D
+N5	Reference T5 ICD_codes:2247	E55.9
+T6	icd_code 133 154	Избыточная масса тела
+N6	Reference T6 ICD_codes:2286	E66.9

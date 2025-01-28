@@ -1,0 +1,8 @@
+T1	icd_code 0 57	Внебольничная правосторонняя сегментарная бронхопневмония
+N1	Reference T1 ICD_codes:6844	J18.0
+T2	icd_code 74 78	ОРВИ
+N2	Reference T2 ICD_codes:6804	J06.8
+T3	icd_code 100 115	Острый фарингит
+N3	Reference T3 ICD_codes:6787	J02
+T4	icd_code 126 138	Острый ринит
+N4	Reference T4 ICD_codes:6871	J30.3

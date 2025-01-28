@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 9 21	назофарингит
+T3	icd_code 26 48	вирусный? конъюнктивит
+T4	icd_code 50 72	Респираторный аллергоз
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6776	J00
+N3	Reference T3 ICD_codes:599	B30.9
+N4	Reference T4 ICD_codes:6920	J39.3

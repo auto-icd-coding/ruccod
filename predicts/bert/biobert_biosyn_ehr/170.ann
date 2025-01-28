@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Острый ларинготрахеит
+T2	icd_code 45 49	ОРВИ
+T3	icd_code 51 66	острый фарингит
+T4	icd_code 85 97	Острый ринит
+N1	Reference T1 ICD_codes:6798	J04.2
+N2	Reference T2 ICD_codes:6777	J00-J06
+N3	Reference T3 ICD_codes:6790	J02.9
+N4	Reference T4 ICD_codes:6776	J00

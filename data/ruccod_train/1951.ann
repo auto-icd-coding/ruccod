@@ -1,0 +1,6 @@
+T1	icd_code 23 26	СРК
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 0 21	Реактивный панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 28 47	Хронический гастрит
+N3	Reference T3 ICD_codes:7250	K29.3

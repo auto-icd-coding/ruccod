@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 37	Остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 117 148	Протрузия межпозвонкового диска
+N3	Reference T3 ICD_codes:8292	M51
+T4	icd_code 156 163	Цервико
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 163 172	люмбалгия
+N5	Reference T5 ICD_codes:8313	M54.5
+T6	icd_code 174 200	Мышечно-тонический синдром
+N6	Reference T6 ICD_codes:8333	M62
+T7	icd_code 202 223	статические нарушения
+N7	Reference T7 ICD_codes:10840	R27

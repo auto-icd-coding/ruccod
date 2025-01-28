@@ -1,0 +1,7 @@
+T1	icd_code 0 53	СОматоформная дисфункция вегетативной нервной системы
+N1	Reference T1 ICD_codes:4923	F45.3
+T3	icd_code 95 117	судорожным компонентом
+N3	Reference T3 ICD_codes:10832	R25.2
+T2	icd_code 55 76	Синкопальное состоние
+N2	Reference T2 ICD_codes:10937	R55
+N4	Reference T2 ICD_codes:10937	R55

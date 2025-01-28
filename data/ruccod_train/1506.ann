@@ -1,0 +1,6 @@
+T1	icd_code 0 33	Хронический атрофический  гастрит
+N1	Reference T1 ICD_codes:7251	K29.4
+T2	icd_code 35 43	дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 57 109	Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8

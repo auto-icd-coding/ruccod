@@ -1,0 +1,4 @@
+T1	icd_code 42 51	аденоидит
+N1	Reference T1 ICD_codes:6899	J35.2
+T2	icd_code 1 22	Обструктивный бронхит
+N2	Reference T2 ICD_codes:6860	J20.9

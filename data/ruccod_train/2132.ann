@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ДЖВП
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 8 43	Хронический  атрофический   гастрит
+N2	Reference T2 ICD_codes:7251	K29.4

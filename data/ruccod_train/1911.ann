@@ -1,0 +1,4 @@
+T1	icd_code 0 15	острый  синусит
+N1	Reference T1 ICD_codes:6786	J01.9
+T2	icd_code 24 41	катаральный  отит
+N2	Reference T2 ICD_codes:6200	H65.2

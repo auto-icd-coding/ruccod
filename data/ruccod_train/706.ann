@@ -1,0 +1,10 @@
+T1	icd_code 12 20	цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 21 40	 Эрозия шейки матки
+N2	Reference T2 ICD_codes:9022	N87
+T3	icd_code 68 83	сальпингоофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 103 134	Наружно-генитальный эндометриоз
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 136 174	Спаечный процесс в органах малого таза
+N5	Reference T5 ICD_codes:8934	N73.6

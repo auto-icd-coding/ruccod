@@ -1,0 +1,14 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 5 27	Стенокардия напряжения
+N2	Reference T2 ICD_codes:6378	I20.8
+T3	icd_code 37 66	Постинфарктный кардиосклкероз
+N3	Reference T3 ICD_codes:6409	I25.2
+T4	icd_code 70 93	Гипертоническая болезнь
+N4	Reference T4 ICD_codes:6357	I11
+T5	icd_code 126 144	Дорсопатия шейного
+N5	Reference T5 ICD_codes:8291	M50.9
+T7	icd_code 183 210	остеохондроза позвоночгника
+N7	Reference T7 ICD_codes:8226	M42
+T8	icd_code 226 252	мышечно-тонический синдром
+N8	Reference T8 ICD_codes:8439	M79

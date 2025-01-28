@@ -1,0 +1,6 @@
+T1	icd_code 0 31	Дискинезия желчевыводящих путей
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 44 67	Билиарный сладж-синдром
+N2	Reference T2 ICD_codes:7499	K82.4
+T3	icd_code 69 75	Анемия
+N3	Reference T3 ICD_codes:1893	D64.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 6 29	Кардиалгия неуточненная
+N2	Reference T2 ICD_codes:6379	I20.9

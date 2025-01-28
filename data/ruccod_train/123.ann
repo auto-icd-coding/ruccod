@@ -1,0 +1,5 @@
+T1	icd_code 0 10	дорзалгия,
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 11 28	цервикокраниалгия
+T3	icd_code 70 95	Вегетососудистая дистония
+N3	Reference T3 ICD_codes:5795	G90

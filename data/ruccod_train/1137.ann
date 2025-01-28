@@ -1,0 +1,6 @@
+T1	icd_code 34 75	Гипертоническая болезнь II ст. Степень 2.
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 76 88	Дислипидемия
+N2	Reference T2 ICD_codes:2354	E78.4
+T3	icd_code 130 167	полная блокада левой ножки пучка Гиса
+N3	Reference T3 ICD_codes:6508	I44

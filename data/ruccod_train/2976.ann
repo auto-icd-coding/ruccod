@@ -1,0 +1,25 @@
+T1	icd_code 0 26	Дисфункция синусового узла
+N1	Reference T1 ICD_codes:6543	I49.5
+T2	icd_code 39 61	синусовая брадиаритмия
+N2	Reference T2 ICD_codes:10738	R00.1
+T3	icd_code 73 84	АV- блокада
+N3	Reference T3 ICD_codes:6511	I44.2
+T4	icd_code 109 187	
+Блокада правой ножки пучка Гиса
+Неспецифические  позиционные ST-T изменения.
+
+N4	Reference T4 ICD_codes:6520	I45.2
+T5	icd_code 145 188	Неспецифические  позиционные ST-T изменения
+N5	Reference T5 ICD_codes:16635	Z03.5
+T6	icd_code 191 201	Кардиалгия
+N6	Reference T6 ICD_codes:10769	R07.2
+T7	icd_code 235 265	
+Функциональный шум в сердце.
+
+N7	Reference T7 ICD_codes:10747	R03.0
+T8	icd_code 242 269	Функциональный шум в сердце
+N8	Reference T8 ICD_codes:10742	R01.0
+T9	icd_code 284 304	ПМК без регургитации
+N9	Reference T9 ICD_codes:6452	I34.1
+T10	icd_code 307 337	Малые аномалии развития сердца
+N10	Reference T10 ICD_codes:10144	Q20.9

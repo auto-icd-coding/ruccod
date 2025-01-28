@@ -1,0 +1,7 @@
+T1	icd_code 0 18	Вазомоторный ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+N4	Reference T1 ICD_codes:6868	J30.0
+T3	icd_code 86 115	Искривление перегородки носав
+N3	Reference T3 ICD_codes:6890	J34
+T2	icd_code 47 83	Синехии левсой половины полости носа
+N2	Reference T2 ICD_codes:6895	J34.8

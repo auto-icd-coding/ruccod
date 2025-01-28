@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Сахарный диабет 2 типа
+N1	Reference T1 ICD_codes:2054	E10
+T2	icd_code 121 124	ХБН
+N2	Reference T2 ICD_codes:8752	N18.9
+T3	icd_code 145 159	полиневропатии
+N3	Reference T3 ICD_codes:5735	G64

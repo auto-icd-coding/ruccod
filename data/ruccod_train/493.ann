@@ -1,0 +1,13 @@
+T1	icd_code 17 24	гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 25 27	НР
+T3	icd_code 31 39	Дуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 55 66	 холецистит
+N4	Reference T4 ICD_codes:7493	K81.9
+T5	icd_code 70 96	холестероз желчного пузыря
+N5	Reference T5 ICD_codes:7494	K82
+T6	icd_code 103 123	билиарный панкреатит
+N6	Reference T6 ICD_codes:7515	K86.2
+T7	icd_code 159 211	Синдром избыточного бактериального роста в кишечнике
+N7	Reference T7 ICD_codes:10804	R19.8

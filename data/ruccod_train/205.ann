@@ -1,0 +1,2 @@
+T1	icd_code 0 25	дисфункция слуховой трубы
+N1	Reference T1 ICD_codes:6221	H69.9

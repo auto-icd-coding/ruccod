@@ -1,0 +1,8 @@
+T1	icd_code 0 17	Хр. лев. аднексит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 20 24	СПКЯ
+N2	Reference T2 ICD_codes:2171	E28
+T3	icd_code 26 37	Микоплазмоз
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 41 51	Мастопатия
+N4	Reference T4 ICD_codes:8904	N60.9

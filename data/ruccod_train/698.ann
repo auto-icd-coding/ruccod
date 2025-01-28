@@ -1,0 +1,6 @@
+T1	icd_code 0 31	Респираторная вирусная инфекция
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 61 72	ринофраинго
+N2	Reference T2 ICD_codes:6873	J31
+T3	icd_code 72 80	ларингит
+N3	Reference T3 ICD_codes:6905	J37.0

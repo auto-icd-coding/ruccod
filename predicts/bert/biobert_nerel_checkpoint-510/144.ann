@@ -1,0 +1,4 @@
+T1	icd_code 0 27	Патологии щитовидной железы
+T2	icd_code 29 57	нарушение углеводного обмена
+N1	Reference T1 ICD_codes:2052	E07.8
+N2	Reference T2 ICD_codes:2328	E74.9

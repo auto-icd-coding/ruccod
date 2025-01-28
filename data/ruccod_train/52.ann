@@ -1,0 +1,6 @@
+T1	icd_code 35 38	ХПН
+N1	Reference T1 ICD_codes:8749	N18
+T2	icd_code 42 53	Рабдомиолиз
+N2	Reference T2 ICD_codes:8341	M62.8
+T3	icd_code 57 90	Нарушение кальц-фосфатного обмена
+N3	Reference T3 ICD_codes:2126	E21.0

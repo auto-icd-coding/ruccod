@@ -1,0 +1,4 @@
+T1	icd_code 4 13	фиброзная
+T2	icd_code 80 95	узлообразование
+N1	Reference T1 ICD_codes:2386	E84.9
+N2	Reference T2 ICD_codes:10950	R59.9

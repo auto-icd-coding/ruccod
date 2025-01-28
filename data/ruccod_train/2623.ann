@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Базалиома
+N1	Reference T1 ICD_codes:1152	C44
+T2	icd_code 11 26	Синдром Горлина
+N2	Reference T2 ICD_codes:1717	D36.9

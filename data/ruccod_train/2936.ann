@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Постпункционная пульсирующая гематома
+N1	Reference T1 ICD_codes:12772	T81.0
+T2	icd_code 41 68	Постравматическая аневризма
+N2	Reference T2 ICD_codes:12772	T81.0
+T3	icd_code 105 149	Артериоло-венозная постравматическая фистула
+N3	Reference T3 ICD_codes:6680	I77.0

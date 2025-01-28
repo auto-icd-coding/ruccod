@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 44 82	Хронический паренхиматозный панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 84 117	Функциональная кишечная диспепсия
+N3	Reference T3 ICD_codes:7257	K30
+T4	icd_code 40 42	ЯБ
+N4	Reference T4 ICD_codes:7225	K26.9

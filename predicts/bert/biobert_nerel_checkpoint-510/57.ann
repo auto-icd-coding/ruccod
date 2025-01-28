@@ -1,0 +1,4 @@
+T1	icd_code 0 7	сколиоз
+T2	icd_code 39 63	корешковый синдром слева
+N1	Reference T1 ICD_codes:8225	M41.9
+N2	Reference T2 ICD_codes:8214	M40.3

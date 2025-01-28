@@ -1,0 +1,10 @@
+T1	icd_code 0 38	Дорсопатия шейного отдела позвоночника
+T2	icd_code 41 89	Вертеброгенный шейный мышечно-тонический синдром
+T3	icd_code 91 122	левосторонняя цервикобрахиалгия
+T4	icd_code 146 149	Соп
+T5	icd_code 151 194	Синдром правого карпального канала, компенс
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8310	M54.2
+N4	Reference T4 ICD_codes:146	A24.0
+N5	Reference T5 ICD_codes:5682	G56.0

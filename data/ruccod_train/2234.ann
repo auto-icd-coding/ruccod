@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Вертеброгенная цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 35 73	дегенеративно-дистрофических изменений
+N2	Reference T2 ICD_codes:8232	M43.1
+T3	icd_code 106 127	протрузия диска С5-С6
+N3	Reference T3 ICD_codes:8287	M50.1
+T2	icd_code 75 93	антеспондилолистез
+N2	Reference T2 ICD_codes:8232	M43.1

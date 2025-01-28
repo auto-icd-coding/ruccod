@@ -1,0 +1,12 @@
+T1	icd_code 5 31	Острый назофаринголарингит
+T2	icd_code 33 40	Синусит
+T3	icd_code 43 62	Серная пробка слева
+T4	icd_code 65 89	Дисфункция слуховых труб
+T5	icd_code 95 128	Острый аденовирусный конъюнктивит
+T6	icd_code 164 170	Миопия
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6786	J01.9
+N3	Reference T3 ICD_codes:6185	H61.2
+N4	Reference T4 ICD_codes:6220	H69.8
+N5	Reference T5 ICD_codes:5902	H10.1
+N6	Reference T6 ICD_codes:6128	H52.1

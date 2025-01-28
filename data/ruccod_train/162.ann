@@ -1,0 +1,12 @@
+T1	icd_code 0 7	Цервико
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 7 17	брахиалгия
+N2	Reference T2 ICD_codes:8418	M75.9
+T3	icd_code 19 29	Торакалгия
+N3	Reference T3 ICD_codes:5700	G58.0
+T4	icd_code 48 74	мышечно-тонический синдром
+N4	Reference T4 ICD_codes:8333	M62
+T5	icd_code 76 93	Внутренний ячмень
+N5	Reference T5 ICD_codes:5850	H00
+T3	icd_code 31 74	Распространенный мышечно-тонический синдром
+N3	Reference T3 ICD_codes:5700	G58.0

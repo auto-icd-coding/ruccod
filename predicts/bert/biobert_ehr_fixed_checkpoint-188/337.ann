@@ -1,0 +1,12 @@
+T1	icd_code 0 27	Распространенная дорсопатия
+T2	icd_code 29 40	цервикалгия
+T3	icd_code 42 51	дорсалгия
+T4	icd_code 53 62	люмбалгия
+T5	icd_code 64 90	мышечно-тонический синдром
+T6	icd_code 124 127	ССС
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8315	M54.8
+N4	Reference T4 ICD_codes:8313	M54.5
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:6557	I51.6

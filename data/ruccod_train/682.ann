@@ -1,0 +1,6 @@
+T1	icd_code 0 33	Кардиосклероз атеросклеротический
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 36 76	Нарушение внурижелудочковой проводимости
+N2	Reference T2 ICD_codes:6526	I45.9
+T3	icd_code 83 112	 блокада правой ветви п. Гиса
+N3	Reference T3 ICD_codes:6518	I45.0

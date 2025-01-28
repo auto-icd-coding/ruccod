@@ -1,0 +1,4 @@
+T1	icd_code 14 25	в/ч синусит
+N1	Reference T1 ICD_codes:6780	J01.0
+T2	icd_code 34 38	ОРВИ
+N2	Reference T2 ICD_codes:6776	J00

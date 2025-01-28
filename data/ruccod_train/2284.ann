@@ -1,0 +1,6 @@
+T1	icd_code 0 30	Новорожденная,период адаптации
+N1	Reference T1 ICD_codes:9617	P00-P96
+T2	icd_code 31 69	Несостоятельнось носослезного канальца
+N2	Reference T2 ICD_codes:5882	H04.6
+T3	icd_code 77 96	Пеленочный дерматит
+N3	Reference T3 ICD_codes:7624	L22

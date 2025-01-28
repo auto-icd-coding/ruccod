@@ -1,0 +1,10 @@
+T1	icd_code 0 25	Гигрома 1 ПФС левой стопы
+T2	icd_code 28 57	Артроз голеностопного сустава
+T3	icd_code 65 93	таранно-ладьевидного сустава
+T4	icd_code 100 105	стопы
+T5	icd_code 107 128	мелких суставов стопы
+N1	Reference T1 ICD_codes:7286	K40.2
+N2	Reference T2 ICD_codes:8082	M17.9
+N3	Reference T3 ICD_codes:12706	T69.0
+N4	Reference T4 ICD_codes:10474	Q66.9
+N5	Reference T5 ICD_codes:8366	M67.0

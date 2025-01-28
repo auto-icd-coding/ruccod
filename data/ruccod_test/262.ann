@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 5 24	острый назофарингит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 26 46	Вирус эпштейна барра
+N3	Reference T3 ICD_codes:605	B33.8
+T4	icd_code 48 87	Лимфоаденопатия подчелюстных лимфоузлов
+N4	Reference T4 ICD_codes:10948	R59.0
+T5	icd_code 89 140	Атип.микст-инфекция  (Хламидия.Микоплазма пневмония
+N5	Reference T5 ICD_codes:6831	J15.7

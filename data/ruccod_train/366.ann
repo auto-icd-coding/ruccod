@@ -1,0 +1,5 @@
+T1	icd_code 21 30	папилломы
+T2	icd_code 31 40	бородавки
+N2	Reference T2 ICD_codes:510	B07
+T3	icd_code 43 53	гемангиомы
+N3	Reference T3 ICD_codes:1607	D18.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 20	Первичный гипотиреоз
+N1	Reference T1 ICD_codes:2017	E03
+T2	icd_code 37 59	Аутоиммунный тиреоидит
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 61 74	Гипергликемия
+N3	Reference T3 ICD_codes:10985	R73
+T4	icd_code 76 87	Узловой зоб
+N4	Reference T4 ICD_codes:2031	E04.9

@@ -1,0 +1,12 @@
+T1	icd_code 15 25	спондилез,
+N1	Reference T1 ICD_codes:8261	M47
+T2	icd_code 26 40	спондилолистез
+N2	Reference T2 ICD_codes:8230	M43
+T3	icd_code 60 90	мышечно-спастическим синдромом
+N3	Reference T3 ICD_codes:8333	M62
+T4	icd_code 93 107	радикулопатией
+N4	Reference T4 ICD_codes:8309	M54.1
+T5	icd_code 138 145	сколиоз
+N5	Reference T5 ICD_codes:8225	M41.9
+T6	icd_code 154 190	Синдром скользящего реберного хряща?
+N6	Reference T6 ICD_codes:8569	M94.0

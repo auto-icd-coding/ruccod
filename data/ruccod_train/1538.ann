@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Острый пиелонефрит
+N1	Reference T1 ICD_codes:8704	N10
+T2	icd_code 20 43	Вторичный острый цистит
+N2	Reference T2 ICD_codes:8791	N30.0

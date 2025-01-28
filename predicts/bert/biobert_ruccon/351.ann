@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Нарушение гликемии натощак
+T2	icd_code 61 71	щитовидной
+N1	Reference T1 ICD_codes:10987	R73.9
+N2	Reference T2 ICD_codes:1704	D35.1

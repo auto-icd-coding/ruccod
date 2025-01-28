@@ -1,0 +1,4 @@
+T1	icd_code 6 25	острый ринофарингит
+T2	icd_code 27 38	отит справа
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6181	H60.9

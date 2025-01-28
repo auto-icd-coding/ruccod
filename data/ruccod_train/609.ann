@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Ксероз кожи
+N1	Reference T1 ICD_codes:7888	L85.3
+T2	icd_code 13 31	Экзема левой кисти
+N2	Reference T2 ICD_codes:7674	L30

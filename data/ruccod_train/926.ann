@@ -1,0 +1,4 @@
+T1	icd_code 1 36	артрох 1 плюсне-фаланговых суставов
+N1	Reference T1 ICD_codes:8042	M13
+T2	icd_code 50 62	плоскостопие
+N2	Reference T2 ICD_codes:8111	M21.4

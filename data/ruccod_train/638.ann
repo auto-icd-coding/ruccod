@@ -1,0 +1,18 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 44 47	МКБ
+N2	Reference T2 ICD_codes:8754	N20
+T3	icd_code 69 93	Хронический пиелонефрит,
+N3	Reference T3 ICD_codes:8707	N11.0
+T4	icd_code 104 126	Хронический панкреатит
+N4	Reference T4 ICD_codes:7515	K86.2
+T5	icd_code 129 140	Миома матки
+N5	Reference T5 ICD_codes:1647	D25
+T6	icd_code 142 163	Хронический тонзиллит
+N6	Reference T6 ICD_codes:6897	J35.0
+T7	icd_code 187 195	гастрит,
+N7	Reference T7 ICD_codes:7246	K29
+T8	icd_code 218 228	Дорсопатия
+N8	Reference T8 ICD_codes:8306	M53.9
+T9	icd_code 230 242	Остеохондроз
+N9	Reference T9 ICD_codes:8228	M42.1

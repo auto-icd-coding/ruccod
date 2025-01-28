@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Полипоз эндометрия
+N1	Reference T1 ICD_codes:9004	N84.0
+T2	icd_code 45 64	Цистаденома яичника
+N2	Reference T2 ICD_codes:1657	D27

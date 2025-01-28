@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 18	о. тонзиллит
+N2	Reference T2 ICD_codes:6791	J03
+T3	icd_code 20 34	о.назофарингит
+N3	Reference T3 ICD_codes:6776	J00

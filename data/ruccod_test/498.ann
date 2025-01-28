@@ -1,0 +1,10 @@
+T1	icd_code 0 44	Гипертоническая болезнь 1 стадия. Степень АГ
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 48 60	Дислипидемия
+N2	Reference T2 ICD_codes:2355	E78.5
+T3	icd_code 83 93	Дорсопатия
+N3	Reference T3 ICD_codes:8306	M53.9
+T4	icd_code 110 127	цервикотораклагия
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 143 176	атеросклеротический    Стеноз ВСА
+N5	Reference T5 ICD_codes:6620	I67.2

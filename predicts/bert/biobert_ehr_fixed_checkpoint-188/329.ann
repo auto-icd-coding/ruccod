@@ -1,0 +1,14 @@
+T1	icd_code 0 32	Тораколюмбоишиалгический синдром
+T2	icd_code 34 60	мышечно-тонический синдром
+T3	icd_code 69 79	дорсопатии
+T4	icd_code 99 125	остеохондроза позвоночника
+T5	icd_code 159 178	диска  на уровне L5
+T6	icd_code 183 209	Дискогенная  радикулопатия
+T7	icd_code 229 230	5
+N1	Reference T1 ICD_codes:8312	M54.4
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8305	M53.8
+N4	Reference T4 ICD_codes:8228	M42.1
+N5	Reference T5 ICD_codes:8295	M51.2
+N6	Reference T6 ICD_codes:8309	M54.1
+N7	Reference T7 ICD_codes:10687	Q93.4

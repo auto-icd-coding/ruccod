@@ -1,0 +1,8 @@
+T1	icd_code 0 13	Серные пробки
+N1	Reference T1 ICD_codes:6185	H61.2
+T2	icd_code 24 46	Правосторонний туботит
+N2	Reference T2 ICD_codes:6216	H68.0
+T3	icd_code 48 79	Искривление носовой перегородки
+N3	Reference T3 ICD_codes:6893	J34.2
+T4	icd_code 90 111	субатрофический ринит
+N4	Reference T4 ICD_codes:6866	J30

@@ -1,0 +1,4 @@
+T1	icd_code 0 28	хронический цистопиелонефрит
+T2	icd_code 50 61	бактериурия
+N1	Reference T1 ICD_codes:8707	N11.0
+N2	Reference T2 ICD_codes:8836	N39.0

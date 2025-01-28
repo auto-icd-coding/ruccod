@@ -1,0 +1,4 @@
+T1	icd_code 14 23	катаракта
+N1	Reference T1 ICD_codes:5992	H26.9
+T2	icd_code 29 38	артифакия
+N2	Reference T2 ICD_codes:5996	H27.8

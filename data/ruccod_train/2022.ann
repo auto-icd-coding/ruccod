@@ -1,0 +1,4 @@
+T1	icd_code 54 100	 нарушением венозного оттока из полости черепа
+N1	Reference T1 ICD_codes:6627	I67.9
+T2	icd_code 12 35	 миофасциальный синдром
+N2	Reference T2 ICD_codes:8441	M79.1

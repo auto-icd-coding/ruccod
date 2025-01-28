@@ -1,0 +1,10 @@
+T1	icd_code 3 30	Распространенная дорсопатия
+T2	icd_code 47 77	С3-С4  двигательного  сегмента
+T3	icd_code 79 125	Сколиоз пояснично-грудного отдела позвоночника
+T4	icd_code 141 159	цервико-торакалгия
+T5	icd_code 168 213	мышечно-тонический и нерезкий болевой синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:1314	C72.2
+N3	Reference T3 ICD_codes:8221	M41.3
+N4	Reference T4 ICD_codes:8314	M54.6
+N5	Reference T5 ICD_codes:8441	M79.1

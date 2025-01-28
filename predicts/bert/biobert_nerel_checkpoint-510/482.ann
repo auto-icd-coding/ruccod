@@ -1,0 +1,8 @@
+T1	icd_code 0 14	Острый гастрит
+T2	icd_code 32 60	Неинфекционный гастроэнтерит
+T3	icd_code 70 94	клинических симптоматики
+T4	icd_code 96 100	ОРВИ
+N1	Reference T1 ICD_codes:7248	K29.1
+N2	Reference T2 ICD_codes:7337	K52.9
+N3	Reference T3 ICD_codes:10972	R68
+N4	Reference T4 ICD_codes:6777	J00-J06

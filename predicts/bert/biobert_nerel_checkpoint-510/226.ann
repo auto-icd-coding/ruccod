@@ -1,0 +1,8 @@
+T1	icd_code 0 2	хр
+T2	icd_code 3 10	гастрит
+T3	icd_code 18 24	обостр
+T4	icd_code 26 46	билиарная дискинезия
+N1	Reference T1 ICD_codes:5806	G91.2
+N2	Reference T2 ICD_codes:7254	K29.7
+N3	Reference T3 ICD_codes:6646	I70.9
+N4	Reference T4 ICD_codes:7500	K82.8

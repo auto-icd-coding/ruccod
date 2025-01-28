@@ -1,0 +1,4 @@
+T1	icd_code 0 18	ОРВИ. Назофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 35	Лимфаденопатия
+N2	Reference T2 ICD_codes:6747	I88

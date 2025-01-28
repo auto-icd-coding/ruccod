@@ -1,0 +1,12 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 52 84	Язвенная болезнь луковицы 12п.к.
+N2	Reference T2 ICD_codes:7224	K26.7
+T3	icd_code 94 103	Дисформия
+N3	Reference T3 ICD_codes:8106	M21
+T4	icd_code 104 144	гипермоторная дискинезия желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 145 167	Дисбактериоз кишечника
+N5	Reference T5 ICD_codes:7404	K63.8
+T6	icd_code 168 178	Токсокароз
+N6	Reference T6 ICD_codes:853	B83.0

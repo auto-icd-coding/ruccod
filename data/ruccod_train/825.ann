@@ -1,0 +1,6 @@
+T1	icd_code 0 20	ОРВИ острый фарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 22 42	хронический гайморит
+N2	Reference T2 ICD_codes:6878	J32.0
+T3	icd_code 44 63	хронический фронтит
+N3	Reference T3 ICD_codes:6877	J32

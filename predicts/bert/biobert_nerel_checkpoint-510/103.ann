@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Повреждение
+T2	icd_code 52 82	окклюзивный тромбоз левых ЗББВ
+N1	Reference T1 ICD_codes:10894	R45.4
+N2	Reference T2 ICD_codes:6711	I82.2

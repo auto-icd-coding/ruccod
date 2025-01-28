@@ -1,0 +1,4 @@
+T1	icd_code 4 26	хронический пеиодонтит
+N1	Reference T1 ICD_codes:7098	K04
+T2	icd_code 26 59	.Разрушение коронковой части зуба
+N2	Reference T2 ICD_codes:7087	K03

@@ -1,0 +1,17 @@
+T2	icd_code 66 87	ВПС: двустворчатый АК
+N2	Reference T2 ICD_codes:10165	Q23.1
+T3	icd_code 130 155	инфекционного эндокардита
+N3	Reference T3 ICD_codes:6447	I33
+T5	icd_code 268 307	протезирования АК механическим протезом
+N5	Reference T5 ICD_codes:17275	Z95.2
+T6	icd_code 376 418	 ишемического кардиоэмболического инсульта
+N6	Reference T6 ICD_codes:6639	I69.8
+N8	Reference T6 ICD_codes:6638	I69.4
+T7	icd_code 536 561	Депрессивное расстройство
+N7	Reference T7 ICD_codes:4857	F34.1
+T8	icd_code 497 517	пирамидного дефицита
+N9	Reference T8 ICD_codes:5836	G96.8
+T4	icd_code 177 202	порок АК+недостаточность.
+N4	Reference T4 ICD_codes:6459	I35.2
+T1	icd_code 0 37	Постоянная форма мерцательной аритмии
+N1	Reference T1 ICD_codes:6536	I48

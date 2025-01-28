@@ -1,0 +1,2 @@
+T1	icd_code 0 15	перелом копчика
+N1	Reference T1 ICD_codes:11470	S32.2

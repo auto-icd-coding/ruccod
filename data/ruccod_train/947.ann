@@ -1,0 +1,6 @@
+T1	icd_code 0 22	ангиосклероз сетчатки,
+N1	Reference T1 ICD_codes:6035	H35.0
+T2	icd_code 0 21	ангиосклероз сетчатки
+N2	Reference T2 ICD_codes:6039	H35.4
+T2	icd_code 22 48	хориоретинальная дистрофия
+N2	Reference T2 ICD_codes:6039	H35.4

@@ -1,0 +1,24 @@
+T1	icd_code 0 32	OU - зрелая катаракта обоих гла
+N1	Reference T1 ICD_codes:5992	H26.9
+T2	icd_code 56 59	ГБ
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 83 95	 Хр. бронхит
+N3	Reference T3 ICD_codes:6492	I42
+T4	icd_code 34 50	ИБС: стенокардия
+N4	Reference T4 ICD_codes:6378	I20.8
+T5	icd_code 108 123	Многоуловой зоб
+N5	Reference T5 ICD_codes:2029	E04.2
+T6	icd_code 127 130	ЯБЖ
+N6	Reference T6 ICD_codes:7215	K25.9
+T7	icd_code 150 170	 холецистопанкреатит
+N7	Reference T7 ICD_codes:7517	K86.8
+T8	icd_code 182 199	Гемангиома печени\n
+N8	Reference T8 ICD_codes:1607	D18.0
+T9	icd_code 201 219	Хронический цистит
+N9	Reference T9 ICD_codes:8793	N30.2
+T10	icd_code 231 236	ВБВНК
+N10	Reference T10 ICD_codes:6719	I83.9
+T11	icd_code 13 22	катаракта
+N11	Reference T11 ICD_codes:5985	H26
+T12	icd_code 182 199	Гемангиома печени
+N12	Reference T12 ICD_codes:1606	D18

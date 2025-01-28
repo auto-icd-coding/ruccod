@@ -1,0 +1,12 @@
+T1	icd_code 0 20	Генитальный кандидоз
+N1	Reference T1 ICD_codes:637	B37.4
+T2	icd_code 22 48	Урогенитальный уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 67 76	Бесплодие
+N3	Reference T3 ICD_codes:9101	N97.9
+T4	icd_code 80 89	Цервицит.
+N4	Reference T4 ICD_codes:8926	N72
+T6	icd_code 105 109	ОАГА
+N6	Reference T6 ICD_codes:16803	Z35.2
+T5	icd_code 89 104	Гиперандрогения
+N5	Reference T5 ICD_codes:2153	E25

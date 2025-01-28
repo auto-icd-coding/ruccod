@@ -1,0 +1,4 @@
+T1	icd_code 0 10	мастопатия
+N1	Reference T1 ICD_codes:8899	N60.1
+T2	icd_code 11 41	дисгормональная гиперплазия мж
+N2	Reference T2 ICD_codes:8896	N60

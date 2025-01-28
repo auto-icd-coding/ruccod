@@ -1,0 +1,6 @@
+T1	icd_code 0 34	Хронический  поверхностный гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 48 57	Метеоризм
+N2	Reference T2 ICD_codes:10788	R14
+T3	icd_code 59 81	Дисбактериоз кишечника
+N3	Reference T3 ICD_codes:7404	K63.8

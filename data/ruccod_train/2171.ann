@@ -1,0 +1,10 @@
+T1	icd_code 3 13	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 46 55	торакалги
+N2	Reference T2 ICD_codes:5700	G58.0
+T3	icd_code 59 95	болевой и мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 97 127	Миофасциальный болевой синдром
+N4	Reference T4 ICD_codes:8441	M79.1
+T5	icd_code 157 181	Головная боль напряжения
+N5	Reference T5 ICD_codes:5606	G44.2

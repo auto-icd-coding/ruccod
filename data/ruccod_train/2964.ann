@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 22 37	О.трахеобронхит
+N2	Reference T2 ICD_codes:6860	J20.9
+T3	icd_code 45 90	очаговые и инфильтративные изменения в легких
+N3	Reference T3 ICD_codes:7054	J98.4
+T4	icd_code 92 106	О.конъюнктивит
+N4	Reference T4 ICD_codes:5904	H10.3

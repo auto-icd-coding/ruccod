@@ -1,0 +1,10 @@
+T1	icd_code 0 26	хронический антрум-гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 79 99	ГЭРБ, эрозивная форм
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 152 156	ГПОД
+N3	Reference T3 ICD_codes:7308	K44.9
+T4	icd_code 158 179	реактивный панкреатит
+N4	Reference T4 ICD_codes:7518	K86.9
+T5	icd_code 181 195	СРК с запорами
+N5	Reference T5 ICD_codes:7363	K58

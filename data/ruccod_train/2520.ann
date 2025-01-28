@@ -1,0 +1,2 @@
+T1	icd_code 0 16	Проверка р манту
+N1	Reference T1 ICD_codes:16381	Y58.0

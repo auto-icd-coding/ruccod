@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Коагулопатия неуточненная
+N1	Reference T1 ICD_codes:1905	D68.9
+T2	icd_code 27 52	Антифосфолипидный синдром
+N2	Reference T2 ICD_codes:1904	D68.8
+T3	icd_code 54 75	Замершая беременность
+N3	Reference T3 ICD_codes:9132	O02.0

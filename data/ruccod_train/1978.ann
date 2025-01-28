@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Кератодермия левой стопы
+N1	Reference T1 ICD_codes:7891	L86
+T2	icd_code 25 35	Онихомикоз
+N2	Reference T2 ICD_codes:617	B35.1

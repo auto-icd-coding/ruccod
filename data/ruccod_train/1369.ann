@@ -1,0 +1,8 @@
+T1	icd_code 0 36	Артропатия правого коленного сустава
+N1	Reference T1 ICD_codes:8034	M12
+T2	icd_code 38 65	тендинит разгибателя голени
+N2	Reference T2 ICD_codes:8426	M76.6
+T3	icd_code 66 100	Краевой разрыв медиального мениска
+N3	Reference T3 ICD_codes:8128	M23.2
+T4	icd_code 102 146	Гипотрофия четырёхглавой мышцы правого бедра
+N4	Reference T4 ICD_codes:8333	M62

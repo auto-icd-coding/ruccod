@@ -1,0 +1,4 @@
+T1	icd_code 13 24	гипертензия
+T2	icd_code 59 84	остеохондроз позвоночника
+N1	Reference T1 ICD_codes:6373	I15.9
+N2	Reference T2 ICD_codes:8228	M42.1

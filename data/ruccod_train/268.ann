@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Эпидидимит
+N1	Reference T1 ICD_codes:8865	N45
+T2	icd_code 17 38	Хронический простатит
+N2	Reference T2 ICD_codes:8847	N41.1
+T3	icd_code 50 54	ИППП
+N3	Reference T3 ICD_codes:325	A64

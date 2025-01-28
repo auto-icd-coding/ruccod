@@ -1,0 +1,15 @@
+T1	icd_code 0 12	Хр. аднексит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 40 47	трубную
+T3	icd_code 66 83	Эндометриоз матки
+N3	Reference T3 ICD_codes:8964	N80.0
+T4	icd_code 84 100	Носительница ВМС
+N4	Reference T4 ICD_codes:16771	Z30
+T5	icd_code 101 109	Цервицит
+N5	Reference T5 ICD_codes:8926	N72
+T6	icd_code 101 121	Цервицит хламидийной
+N6	Reference T6 ICD_codes:305	A56
+T7	icd_code 122 136	уреаплазменной
+N7	Reference T7 ICD_codes:324	A63.8
+T8	icd_code 147 153	Вагини
+N8	Reference T8 ICD_codes:8949	N76

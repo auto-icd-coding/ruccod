@@ -1,0 +1,14 @@
+T1	icd_code 0 32	Вертеброгенная цервикоторакалгия
+T2	icd_code 41 92	дегенеративно-дистрофических изменений позвоночника
+T3	icd_code 94 106	протрузии С4
+T4	icd_code 122 140	мышечно-тонический
+T5	icd_code 150 157	синдром
+T6	icd_code 159 193	Вертеброгенная компрессия левой ПА
+T7	icd_code 196 211	вестибулопатией
+N1	Reference T1 ICD_codes:8310	M54.2
+N2	Reference T2 ICD_codes:8296	M51.3
+N3	Reference T3 ICD_codes:924	B97.3
+N4	Reference T4 ICD_codes:8441	M79.1
+N5	Reference T5 ICD_codes:10972	R68
+N6	Reference T6 ICD_codes:6743	I87.1
+N7	Reference T7 ICD_codes:6265	H81.9

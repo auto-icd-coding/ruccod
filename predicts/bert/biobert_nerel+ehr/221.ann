@@ -1,0 +1,8 @@
+T1	icd_code 2 28	иммунодефицит неуточненный
+T2	icd_code 42 50	инфекция
+T3	icd_code 66 89	простудные  заболевания
+T4	icd_code 95 105	лимфаденит
+N1	Reference T1 ICD_codes:1990	D84.9
+N2	Reference T2 ICD_codes:263	A49.9
+N3	Reference T3 ICD_codes:723	B50-B64
+N4	Reference T4 ICD_codes:6751	I88.9

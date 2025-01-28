@@ -1,0 +1,8 @@
+T1	icd_code 0 44	Фокальные зобные изменения щитовидной железы
+N1	Reference T1 ICD_codes:2049	E07
+T2	icd_code 46 56	Гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9
+T3	icd_code 60 86	Нарушение гликемии натощак
+N3	Reference T3 ICD_codes:10986	R73.0
+T4	icd_code 88 101	Гипокальцемия
+N4	Reference T4 ICD_codes:2379	E83.5

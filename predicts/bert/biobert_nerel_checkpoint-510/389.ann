@@ -1,0 +1,8 @@
+T1	icd_code 0 32	продольнопоперечное плоскостопие
+T2	icd_code 34 40	Старые
+T3	icd_code 59 68	переломы?
+T4	icd_code 87 107	Деформирующий артроз
+N1	Reference T1 ICD_codes:8111	M21.4
+N2	Reference T2 ICD_codes:10936	R54
+N3	Reference T3 ICD_codes:12233	T14.2.1
+N4	Reference T4 ICD_codes:8095	M19.8

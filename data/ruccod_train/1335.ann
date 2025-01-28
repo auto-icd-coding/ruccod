@@ -1,0 +1,12 @@
+T1	icd_code 0 19	Аллергический ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+T2	icd_code 60 80	Атопический дерматит
+N2	Reference T2 ICD_codes:7625	L23
+T3	icd_code 114 153	Пищевая, пыльцевая? грибковая? аллергия
+N3	Reference T3 ICD_codes:12747	T78.9
+T4	icd_code 155 193	Острая респираторная вирусная инфекция
+N4	Reference T4 ICD_codes:6804	J06.8
+T5	icd_code 195 214	Острый назофарингит
+N5	Reference T5 ICD_codes:6776	J00
+T6	icd_code 217 226	Аденоидит
+N6	Reference T6 ICD_codes:6899	J35.2

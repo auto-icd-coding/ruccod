@@ -1,0 +1,4 @@
+T1	icd_code 0 41	Гипертоническая болезнь 2 ст. АГ 2 ст Р 3
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 42 45	МКБ
+N2	Reference T2 ICD_codes:8756	N20.0

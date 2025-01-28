@@ -1,0 +1,4 @@
+T1	icd_code 5 16	Астигматизм
+N1	Reference T1 ICD_codes:6129	H52.2
+T2	icd_code 24 51	Ангиопатия сосудов сетчатки
+N2	Reference T2 ICD_codes:6017	H31.9

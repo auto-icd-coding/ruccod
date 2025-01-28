@@ -1,0 +1,4 @@
+T1	icd_code 47 55	Отомикоз
+N1	Reference T1 ICD_codes:6192	H62.2
+T2	icd_code 0 46	Острый наружный диффузный правосторонний отит.
+N2	Reference T2 ICD_codes:6171	H60

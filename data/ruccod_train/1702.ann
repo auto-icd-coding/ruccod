@@ -1,0 +1,4 @@
+T1	icd_code 99 120	Избыточная масса тела
+N1	Reference T1 ICD_codes:2281	E66
+T2	icd_code 69 97	Рецидив узлового зоба справа
+N2	Reference T2 ICD_codes:2026	E04

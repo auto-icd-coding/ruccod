@@ -1,0 +1,19 @@
+T1	icd_code 0 51	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N1	Reference T1 ICD_codes:7189	K21
+T2	icd_code 41 52	эзофагитом.
+N2	Reference T2 ICD_codes:7189	K21
+T3	icd_code 65 73	гастрит,
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 91 93	Нр
+T5	icd_code 114 123	Дисформия
+N5	Reference T5 ICD_codes:7494	K82
+T6	icd_code 125 134	искинезия
+N6	Reference T6 ICD_codes:7281	K38.9
+T7	icd_code 135 159	дисхолия желчного пузыря
+N7	Reference T7 ICD_codes:7494	K82
+T8	icd_code 171 181	панкреатит
+N8	Reference T8 ICD_codes:7515	K86.2
+T9	icd_code 182 192	Гельминтоз
+N9	Reference T9 ICD_codes:849	B82
+T7	icd_code 160 181	Реактивный панкреатит
+N7	Reference T7 ICD_codes:7494	K82

@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Эктопия ШМ
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 12 26	Рубец на матке
+N2	Reference T2 ICD_codes:9328	O34.2

@@ -1,0 +1,4 @@
+T1	icd_code 0 29	Артериальная гипертензия 1 ст
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 41 63	вторичную гипертензию.
+N2	Reference T2 ICD_codes:6373	I15.9

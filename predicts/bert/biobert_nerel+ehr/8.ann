@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Соматически
+T2	icd_code 20 40	Атопический дерматит
+N1	Reference T1 ICD_codes:16597	Z00-Z13
+N2	Reference T2 ICD_codes:7618	L20.9

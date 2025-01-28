@@ -1,0 +1,4 @@
+T1	icd_code 0 25	Резаные раны правой кисти
+N1	Reference T1 ICD_codes:11766	S61.7
+T2	icd_code 48 87	Липома верхней трети правого предплечья
+N2	Reference T2 ICD_codes:1605	D17.9

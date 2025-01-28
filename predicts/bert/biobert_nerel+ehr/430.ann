@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+T2	icd_code 72 87	Дисткинезия ЖВП
+T3	icd_code 90 130	Синдром избыточного бактериального роста
+T4	icd_code 132 144	Острый ринит
+N1	Reference T1 ICD_codes:7256	K29.9
+N2	Reference T2 ICD_codes:7509	K83.8
+N3	Reference T3 ICD_codes:256	A48.8
+N4	Reference T4 ICD_codes:6776	J00

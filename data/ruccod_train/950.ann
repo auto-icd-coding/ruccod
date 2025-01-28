@@ -1,0 +1,2 @@
+T1	icd_code 0 16	Поликистоз почек
+N1	Reference T1 ICD_codes:10416	Q61

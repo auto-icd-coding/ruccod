@@ -1,0 +1,12 @@
+T1	icd_code 1 11	Дорсопатия
+T2	icd_code 42 66	Вертеброгенная люмбалгия
+T3	icd_code 67 84	цервикокраниалгия
+T4	icd_code 86 122	болевой и мышечно-тонический синдром
+T5	icd_code 139 152	влияние на ПА
+T6	icd_code 155 170	вестибулопатией
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8312	M54.4
+N3	Reference T3 ICD_codes:8310	M54.2
+N4	Reference T4 ICD_codes:8441	M79.1
+N5	Reference T5 ICD_codes:16251	Y44.7
+N6	Reference T6 ICD_codes:6265	H81.9

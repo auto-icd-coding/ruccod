@@ -1,0 +1,4 @@
+T1	icd_code 5 55	Подострый конъюнктивит с аллергическим компонентом
+N1	Reference T1 ICD_codes:5902	H10.1
+T2	icd_code 57 61	ПИНА
+N2	Reference T2 ICD_codes:6039	H35.4

@@ -1,0 +1,4 @@
+T1	icd_code 0 45	Острый левосторонний катаральный средний отит
+N1	Reference T1 ICD_codes:6198	H65.0
+T2	icd_code 47 66	Аллергический ринит
+N2	Reference T2 ICD_codes:6866	J30

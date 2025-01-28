@@ -1,0 +1,8 @@
+T1	icd_code 0 11	ВПЧ  16 тип
+N1	Reference T1 ICD_codes:928	B97.7
+T2	icd_code 30 43	ВПЧ ш\матки
+N2	Reference T2 ICD_codes:322	A63
+T3	icd_code 55 70	сальпингоофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 95 101	Анемия
+N4	Reference T4 ICD_codes:1805	D50

@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Ячмень правого глаза
+N1	Reference T1 ICD_codes:5850	H00
+T2	icd_code 22 40	Бронхиальная астма
+N2	Reference T2 ICD_codes:6941	J45

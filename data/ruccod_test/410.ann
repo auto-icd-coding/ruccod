@@ -1,0 +1,4 @@
+T1	icd_code 14 35	эксудативный гайморит
+N1	Reference T1 ICD_codes:6780	J01.0
+T2	icd_code 51 82	острый средний катаральный отит
+N2	Reference T2 ICD_codes:6198	H65.0

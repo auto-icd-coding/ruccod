@@ -1,0 +1,10 @@
+T1	icd_code 150 161	факосклероз
+N1	Reference T1 ICD_codes:5993	H27
+T2	icd_code 125 144	Катаракта начальная
+N2	Reference T2 ICD_codes:5980	H25.0
+T3	icd_code 87 99	конъюнктивит
+N3	Reference T3 ICD_codes:5899	H10
+T4	icd_code 0 13	Гиперметропия
+N4	Reference T4 ICD_codes:6127	H52.0
+T5	icd_code 52 79	ангиопатия сосудов сетчатки
+N5	Reference T5 ICD_codes:6034	H35

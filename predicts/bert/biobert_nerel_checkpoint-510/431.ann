@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Лимфаденопатия
+T2	icd_code 27 43	острую патологию
+N1	Reference T1 ICD_codes:6747	I88
+N2	Reference T2 ICD_codes:10931	R52.0

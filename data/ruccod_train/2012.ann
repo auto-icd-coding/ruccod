@@ -1,0 +1,16 @@
+T1	icd_code 0 26	Люмбоишиалгический синдром
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 93 105	остеохондроз
+N2	Reference T2 ICD_codes:8226	M42
+T3	icd_code 232 244	остеохондроз
+N3	Reference T3 ICD_codes:8226	M42
+T4	icd_code 162 168	цервик
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 176 185	лгический
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 170 185	оракоалгический
+N6	Reference T6 ICD_codes:8314	M54.6
+T7	icd_code 63 73	дорсопатии
+N7	Reference T7 ICD_codes:8305	M53.8
+T8	icd_code 202 212	дорсопатии
+N8	Reference T8 ICD_codes:8305	M53.8

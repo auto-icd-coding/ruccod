@@ -1,0 +1,5 @@
+T1	icd_code 0 22	Аллергический дерматит
+N1	Reference T1 ICD_codes:7625	L23
+N3	Reference T1 ICD_codes:7635	L23.9
+T2	icd_code 36 56	вторичной пиодермией
+N2	Reference T2 ICD_codes:7582	L08.0

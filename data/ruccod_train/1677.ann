@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Фокальные включения щитовидной железы
+N1	Reference T1 ICD_codes:2030	E04.8
+T2	icd_code 39 52	Тиреотоксикоз
+N2	Reference T2 ICD_codes:2040	E05.9
+T3	icd_code 55 91	Ситуационный невроз с нарушением сна
+N3	Reference T3 ICD_codes:5628	G47

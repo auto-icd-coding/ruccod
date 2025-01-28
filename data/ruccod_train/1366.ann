@@ -1,0 +1,6 @@
+T1	icd_code 0 42	Полисегментарный остеохондроз позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 46 60	радикулопатией
+N2	Reference T2 ICD_codes:8309	M54.1
+T3	icd_code 105 143	умеренным мышечно-тоническим синдромом
+N3	Reference T3 ICD_codes:8441	M79.1

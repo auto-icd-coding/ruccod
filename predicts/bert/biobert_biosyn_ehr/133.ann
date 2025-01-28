@@ -1,0 +1,4 @@
+T1	icd_code 6 41	преобладанием фиброзного компонента
+T2	icd_code 43 82	Дорсопатия грудного отдела позвоночника
+N1	Reference T1 ICD_codes:2385	E84.8
+N2	Reference T2 ICD_codes:8314	M54.6

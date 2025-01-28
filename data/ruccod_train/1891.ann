@@ -1,0 +1,10 @@
+T1	icd_code 0 56	Гипертончиеская болезнь, стадия и риск требуют уточнения
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 90 96	НК 0-1
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 98 120	Нарушение ритма средца
+N3	Reference T3 ICD_codes:6545	I49.9
+T4	icd_code 122 148	Пароксизмальная тахикардия
+N4	Reference T4 ICD_codes:6545	I49.9
+T5	icd_code 151 192	Стенозирующий атеросклероз сонных артерий
+N5	Reference T5 ICD_codes:6645	I70.8

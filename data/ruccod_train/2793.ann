@@ -1,0 +1,12 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 6 21	Острый фарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 23 37	Острый бронхит
+N3	Reference T3 ICD_codes:6849	J20
+T4	icd_code 69 77	Дебют БА
+N4	Reference T4 ICD_codes:6945	J45.9
+T5	icd_code 39 66	Бронхообструктивный синдром
+N5	Reference T5 ICD_codes:6936	J44
+T6	icd_code 80 103	Хронический пиелонефрит
+N6	Reference T6 ICD_codes:8707	N11.0

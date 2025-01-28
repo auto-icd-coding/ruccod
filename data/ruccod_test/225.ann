@@ -1,0 +1,2 @@
+T1	icd_code 0 24	изменения структуры кожи
+N1	Reference T1 ICD_codes:10826	R23.4

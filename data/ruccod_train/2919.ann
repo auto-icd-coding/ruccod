@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ДЖВП
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 6 25	Хронический гастрит
+N2	Reference T2 ICD_codes:7252	K29.5
+T3	icd_code 67 79	Дислипидемия
+N3	Reference T3 ICD_codes:2349	E78
+T4	icd_code 81 84	СРК
+N4	Reference T4 ICD_codes:7365	K58.9
+T5	icd_code 86 93	Подагра
+N5	Reference T5 ICD_codes:8027	M10.9

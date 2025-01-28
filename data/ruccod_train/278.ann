@@ -1,0 +1,13 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 24 44	сальпингит и оофорит
+N2	Reference T2 ICD_codes:8920	N70.1
+T3	icd_code 46 63	Эндометриоз матки
+N3	Reference T3 ICD_codes:8964	N80.0
+T4	icd_code 77 107	Спаечный процесс в малом тазу 
+N4	Reference T4 ICD_codes:8934	N73.6
+N7	Reference T4 ICD_codes:9115	N99.4
+T5	icd_code 109 117	Кандидоз
+N5	Reference T5 ICD_codes:637	B37.4
+T6	icd_code 120 137	Полип  эндометрия
+N6	Reference T6 ICD_codes:9004	N84.0

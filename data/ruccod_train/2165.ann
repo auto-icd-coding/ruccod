@@ -1,0 +1,20 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:4923	F45.3
+T2	icd_code 27 39	Дислипидемия
+N2	Reference T2 ICD_codes:2357	E78.8
+T3	icd_code 41 77	Начальные признаки атеросклероза БЦА
+N3	Reference T3 ICD_codes:6645	I70.8
+T4	icd_code 79 106	Пролапс митрального клапана
+N4	Reference T4 ICD_codes:6452	I34.1
+T5	icd_code 136 163	Ангиопатия сосудов сетчатки
+N5	Reference T5 ICD_codes:6697	I79.2
+T6	icd_code 192 245	Соматоформная дисфункция вегетативной нервной системы
+N6	Reference T6 ICD_codes:4923	F45.3
+T7	icd_code 249 259	Гипотиреоз
+N7	Reference T7 ICD_codes:2025	E03.9
+T8	icd_code 261 294	Хронический поверхностный гастрит
+N8	Reference T8 ICD_codes:7250	K29.3
+T9	icd_code 312 332	Хронический дуоденит
+N9	Reference T9 ICD_codes:7255	K29.8
+T10	icd_code 350 360	Дорсопатия
+N10	Reference T10 ICD_codes:8306	M53.9

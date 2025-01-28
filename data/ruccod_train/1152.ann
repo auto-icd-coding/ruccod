@@ -1,0 +1,6 @@
+T1	icd_code 1 42	Синдром раздраженного кишечника с диареей
+N1	Reference T1 ICD_codes:7364	K58.0
+T2	icd_code 46 64	Острый энтероколит
+N2	Reference T2 ICD_codes:7331	K51.9
+T3	icd_code 91 94	ОКИ
+N3	Reference T3 ICD_codes:36	A04.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 26 53	НЦД по гипотоническому типу
+N2	Reference T2 ICD_codes:5801	G90.8

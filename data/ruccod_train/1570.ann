@@ -1,0 +1,4 @@
+T1	icd_code 0 17	ВСД по смеш. типу
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 34 53	Гиперхолестеринемия
+N2	Reference T2 ICD_codes:2354	E78.4

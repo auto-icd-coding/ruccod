@@ -1,0 +1,6 @@
+T1	icd_code 0 22	ВСД по смешанному типу
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 24 62	НСР по типу пароксизмальной тахикардии
+N2	Reference T2 ICD_codes:6544	I49.8
+T3	icd_code 67 79	Беременность
+N3	Reference T3 ICD_codes:16796	Z34

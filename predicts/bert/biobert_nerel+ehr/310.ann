@@ -1,0 +1,6 @@
+T1	icd_code 0 25	ортостатическая гипотония
+T2	icd_code 29 32	ВСД
+T3	icd_code 36 56	гипотоническому типу
+N1	Reference T1 ICD_codes:6760	I95.1
+N2	Reference T2 ICD_codes:4924	F45.30
+N3	Reference T3 ICD_codes:6762	I95.8

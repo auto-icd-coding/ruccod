@@ -1,0 +1,10 @@
+T1	icd_code 0 22	Хронический холецистит
+N1	Reference T1 ICD_codes:7491	K81.1
+T2	icd_code 37 56	Хронический гастрит
+N2	Reference T2 ICD_codes:7252	K29.5
+T3	icd_code 81 114	: атеросклетический кардиосклероз
+N3	Reference T3 ICD_codes:6408	I25.1
+T4	icd_code 116 128	Дислипидемия
+N4	Reference T4 ICD_codes:2357	E78.8
+T5	icd_code 130 145	Нарушения ритма
+N5	Reference T5 ICD_codes:6545	I49.9

@@ -1,0 +1,4 @@
+T1	icd_code 16 28	остеохондроз
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 30 44	Спондилоартроз
+N2	Reference T2 ICD_codes:8266	M47.9

@@ -1,0 +1,14 @@
+T1	icd_code 0 10	ДЭ 1-2 ст.
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 19 43	артериальной гипертензии
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 44 54	шейном о/х
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 101 111	Дорсопатия
+N4	Reference T4 ICD_codes:8315	M54.8
+T5	icd_code 112 121	Люмбалгия
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 122 132	Торакалгия
+N6	Reference T6 ICD_codes:8314	M54.6
+T7	icd_code 69 94	атактическими нарушениями
+N7	Reference T7 ICD_codes:10835	R26

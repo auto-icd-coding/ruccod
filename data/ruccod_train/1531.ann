@@ -1,0 +1,10 @@
+T1	icd_code 0 20	Острый трахеобронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 22 28	Коклюш
+N2	Reference T2 ICD_codes:205	A37.9
+T3	icd_code 30 53	Респираторный хламидиоз
+N3	Reference T3 ICD_codes:304	A55
+T4	icd_code 54 65	микоплазмоз
+N4	Reference T4 ICD_codes:261	A49.3
+T5	icd_code 68 88	немия легкой степени
+N5	Reference T5 ICD_codes:1805	D50

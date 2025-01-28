@@ -1,0 +1,14 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 90 94	НК 0
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 97 117	Синусовая тахикардия
+N3	Reference T3 ICD_codes:10734	R00
+T4	icd_code 119 152	Преходящие нарушения ритма сердца
+N4	Reference T4 ICD_codes:6545	I49.9
+T5	icd_code 154 197	Синдром вертебро-базилярной недостаточности
+N5	Reference T5 ICD_codes:5611	G45.0
+T6	icd_code 200 221	Дислипидемия 2 Б типа
+N6	Reference T6 ICD_codes:2352	E78.2
+T7	icd_code 223 236	Гиперурикемия
+N7	Reference T7 ICD_codes:2363	E79.9

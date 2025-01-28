@@ -1,0 +1,6 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 9 44	Мочесолевой диатез оксалатного типа
+N2	Reference T2 ICD_codes:8759	N20.9
+T3	icd_code 47 65	Хронический цистит
+N3	Reference T3 ICD_codes:8792	N30.1

@@ -1,0 +1,8 @@
+T1	icd_code 0 30	Хронический эрозивный  гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 92 112	Язвенная болезнь 12п
+N2	Reference T2 ICD_codes:7220	K26.3
+T3	icd_code 115 141	Дуоденогастральный рефлюкс
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 144 148	ДЖВП
+N4	Reference T4 ICD_codes:7509	K83.8

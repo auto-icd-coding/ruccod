@@ -1,0 +1,18 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6358	I11.0
+T2	icd_code 83 123	Постоянная форма фибрилляции предсердий,
+N2	Reference T2 ICD_codes:6536	I48
+T3	icd_code 124 136	тахисистолия
+N3	Reference T3 ICD_codes:10737	R00.0
+T4	icd_code 138 141	ХСН
+N4	Reference T4 ICD_codes:6547	I50.0
+T5	icd_code 163 171	Ожирение
+N5	Reference T5 ICD_codes:2281	E66
+T6	icd_code 183 211	Хронич.обструктивный бронхит
+N6	Reference T6 ICD_codes:6939	J44.8
+T7	icd_code 225 233	Эмфизема
+N7	Reference T7 ICD_codes:6930	J43
+T8	icd_code 235 258	Диффузный пневмосклероз
+N8	Reference T8 ICD_codes:7004	J84
+T9	icd_code 260 262	ДН
+N9	Reference T9 ICD_codes:7047	J96.1

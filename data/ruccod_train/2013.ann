@@ -1,0 +1,4 @@
+T1	icd_code 0 6	Миозит
+N1	Reference T1 ICD_codes:8317	M60
+T2	icd_code 8 12	ДЖВП
+N2	Reference T2 ICD_codes:7500	K82.8

@@ -1,0 +1,4 @@
+T1	icd_code 0 17	ассиметрия осанки
+T2	icd_code 20 27	сколиоз
+N1	Reference T1 ICD_codes:10476	Q67.0
+N2	Reference T2 ICD_codes:8225	M41.9

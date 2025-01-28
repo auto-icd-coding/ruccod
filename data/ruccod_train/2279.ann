@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Крапивница
+N1	Reference T1 ICD_codes:7728	L50.8
+T2	icd_code 20 33	Токсикодермия
+N2	Reference T2 ICD_codes:7662	L27.9

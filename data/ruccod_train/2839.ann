@@ -1,0 +1,4 @@
+T1	icd_code 0 34	Функциональное нарушение кишечника
+N1	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 37 40	СРК
+N2	Reference T2 ICD_codes:7363	K58

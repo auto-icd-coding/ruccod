@@ -1,0 +1,6 @@
+T1	icd_code 0 50	Варикозное расширение вен правой нижней конечности
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 98 124	Тромбофлебит подкожных вен
+N2	Reference T2 ICD_codes:6701	I80.0
+T3	icd_code 189 216	Состояние после флебэктомии
+N3	Reference T3 ICD_codes:16949	Z54.0

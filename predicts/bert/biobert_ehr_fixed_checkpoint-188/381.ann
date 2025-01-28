@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 12 67	Остеохондроз  пояснично-крестцового отдела позвоночника
+T3	icd_code 70 81	Спондилолиз
+T4	icd_code 83 110	антеролистез  L5 - позвонка
+T5	icd_code 146 176	Нестабильность   L5  -сегмента
+T6	icd_code 178 202	Вертеброгенная люмбалгия
+T7	icd_code 219 226	синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8228	M42.1
+N3	Reference T3 ICD_codes:8231	M43.0
+N4	Reference T4 ICD_codes:8232	M43.1
+N5	Reference T5 ICD_codes:8303	M53.2
+N6	Reference T6 ICD_codes:8312	M54.4
+N7	Reference T7 ICD_codes:10972	R68

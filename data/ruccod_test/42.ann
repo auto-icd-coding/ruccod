@@ -1,0 +1,4 @@
+T1	icd_code 0 41	Остеохондроз грудного отдела позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 43 66	С-м позвоночной артерии
+N2	Reference T2 ICD_codes:5611	G45.0

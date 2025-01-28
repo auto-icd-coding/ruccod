@@ -1,0 +1,12 @@
+T1	icd_code 0 51	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 53 79	Хронический гастродуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 194 203	Дисформия
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 204 214	дискинезия
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 215 239	дисхолия желчного пузыря
+N5	Reference T5 ICD_codes:7509	K83.8
+T6	icd_code 240 253	Гепатомегалия
+N6	Reference T6 ICD_codes:10791	R16.0

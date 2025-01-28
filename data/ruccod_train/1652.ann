@@ -1,0 +1,16 @@
+T1	icd_code 0 35	Гипертоническая болезнь II ст 3 ст.
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 36 39	ХСН
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 43 60	Гиперлипидемия 2б
+N3	Reference T3 ICD_codes:2352	E78.2
+T4	icd_code 62 89	Атеросклероз сонных артерий
+N4	Reference T4 ICD_codes:6645	I70.8
+T5	icd_code 115 127	желудочковые
+N5	Reference T5 ICD_codes:6541	I49.3
+T6	icd_code 130 159	наджелудочковые экстрасистолы
+N6	Reference T6 ICD_codes:6539	I49.1
+T7	icd_code 161 172	Узловой зоб
+N7	Reference T7 ICD_codes:2028	E04.1
+T8	icd_code 91 113	Нарушения ритма сердца
+N8	Reference T8 ICD_codes:6537	I49

@@ -1,0 +1,6 @@
+T1	icd_code 1 36	Острый  катаральный фаринголарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 100 123	Хроническипй тонзиллит,
+N2	Reference T2 ICD_codes:6794	J03.9
+T3	icd_code 54 82	Острый двусторонний тубоотит
+N3	Reference T3 ICD_codes:6216	H68.0

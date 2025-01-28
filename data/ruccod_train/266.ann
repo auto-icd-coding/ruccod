@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ДЖВП
+N1	Reference T1 ICD_codes:7281	K38.9
+T2	icd_code 27 48	 Хроническийй гастрит
+N2	Reference T2 ICD_codes:7246	K29

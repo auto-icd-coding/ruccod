@@ -1,0 +1,14 @@
+T1	icd_code 0 27	хронический гастродуоденит 
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 67 90	ГЭРБ, неэрозивная форма
+N2	Reference T2 ICD_codes:7191	K21.9
+T3	icd_code 91 112	 катаральный эзофагит
+N3	Reference T3 ICD_codes:7187	K20
+T4	icd_code 151 173	недостаточность кардии
+N4	Reference T4 ICD_codes:7305	K44
+T5	icd_code 177 198	реактивный панкреатит
+N5	Reference T5 ICD_codes:7514	K86.1
+T6	icd_code 201 213	дизбактериоз
+N6	Reference T6 ICD_codes:10804	R19.8
+T7	icd_code 242 254	сальмонеллёз
+N7	Reference T7 ICD_codes:18	A02.9

@@ -1,0 +1,6 @@
+T1	icd_code 23 52	НРС по типу синусовой аритмии
+N1	Reference T1 ICD_codes:6531	I47
+T2	icd_code 6 20	Острый трахеит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 0 4	ОРВИ
+N3	Reference T3 ICD_codes:6804	J06.8

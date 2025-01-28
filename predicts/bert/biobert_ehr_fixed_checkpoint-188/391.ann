@@ -1,0 +1,10 @@
+T1	icd_code 1 75	Внебольничная  очаговая слианая  пневмония в нижней  доли  левого  легкого
+T2	icd_code 114 144	бронхоспастическим   синдромом
+T3	icd_code 154 178	Гипертоническая  болезнь
+T4	icd_code 209 228	Гиперхолестеринемия
+T5	icd_code 229 278	Вегетососудистая  дистония  по  крдиальному  типу
+N1	Reference T1 ICD_codes:6845	J18.1
+N2	Reference T2 ICD_codes:6428	I28.8
+N3	Reference T3 ICD_codes:6359	I11.9
+N4	Reference T4 ICD_codes:2350	E78.0
+N5	Reference T5 ICD_codes:4924	F45.30

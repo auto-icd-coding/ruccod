@@ -1,0 +1,8 @@
+T1	icd_code 0 9	Аденомиоз
+T2	icd_code 30 45	толщи миометрия
+T3	icd_code 56 87	ретроцервикального эндометриоза
+T4	icd_code 89 126	Эндометриоидная киста правого яичника
+N1	Reference T1 ICD_codes:8964	N80.0
+N2	Reference T2 ICD_codes:1230	C54.2
+N3	Reference T3 ICD_codes:8971	N80.8
+N4	Reference T4 ICD_codes:8995	N83.2

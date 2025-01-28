@@ -1,0 +1,11 @@
+T1	icd_code 0 14	Гиперлипидемия
+N1	Reference T1 ICD_codes:2355	E78.5
+T2	icd_code 20 38	Атеросклероз аорты
+N2	Reference T2 ICD_codes:6642	I70.0
+T3	icd_code 40 89	экстракраниального отдела брахиоцефальных артерий
+N3	Reference T3 ICD_codes:6645	I70.8
+N6	Reference T3 ICD_codes:6645	I70.8
+T4	icd_code 108 145	Варикозная болезнь нижних конечностей
+N4	Reference T4 ICD_codes:6719	I83.9
+T5	icd_code 147 150	ХВН
+N5	Reference T5 ICD_codes:6744	I87.2

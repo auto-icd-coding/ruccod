@@ -1,0 +1,7 @@
+T1	icd_code 0 24	Дискинезия толстой кишки
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 55 81	Хронический гастродуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 83 97	Диспанкреатизм
+T4	icd_code 99 117	Корешковый синдром
+N4	Reference T4 ICD_codes:5664	G54

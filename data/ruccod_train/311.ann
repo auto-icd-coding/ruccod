@@ -1,0 +1,5 @@
+T1	icd_code 0 18	Дисбиоз  влагалища
+N1	Reference T1 ICD_codes:9044	N89.8
+T2	icd_code 19 31	Эндоцервикоз
+N2	Reference T2 ICD_codes:9027	N88
+N3	Reference T2 ICD_codes:9027	N88

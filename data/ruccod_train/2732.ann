@@ -1,0 +1,4 @@
+T1	icd_code 0 29	Абсцесс левой паховой облости
+N1	Reference T1 ICD_codes:7561	L02.4
+T2	icd_code 30 66	Состояние после оперативного лечения
+N2	Reference T2 ICD_codes:16949	Z54.0

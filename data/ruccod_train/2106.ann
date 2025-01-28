@@ -1,0 +1,4 @@
+T1	icd_code 0 40	Остеохондроз шейного отдела позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 42 66	астено-невротический с-м
+N2	Reference T2 ICD_codes:4934	F48.0

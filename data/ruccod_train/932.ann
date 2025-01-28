@@ -1,0 +1,15 @@
+T1	icd_code 0 15	ПВИ шейки матки
+N1	Reference T1 ICD_codes:323	A63.0
+T3	icd_code 128 141	Носитель ВПЧ.
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 142 173	Рубцовая деформация шейки матки
+N4	Reference T4 ICD_codes:9033	N88.8
+N8	Reference T4 ICD_codes:9033	N88.8
+T2	icd_code 175 184	Аденомиоз
+N2	Reference T2 ICD_codes:8964	N80.0
+T5	icd_code 187 203	Гиперэстрагения.
+N5	Reference T5 ICD_codes:2172	E28.0
+T7	icd_code 216 238	Гиперплазия эндометрия
+N7	Reference T7 ICD_codes:9010	N85
+T6	icd_code 203 215	Хр. аднексит
+N6	Reference T6 ICD_codes:8917	N70

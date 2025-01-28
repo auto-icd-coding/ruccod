@@ -1,0 +1,10 @@
+T1	icd_code 0 49	Гастроэзофагально-рефлюксная болезнь с эзофагитом
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 64 94	Хронический антральный гастрит
+N2	Reference T2 ICD_codes:7250	K29.3
+T3	icd_code 95 122	дуодено-гастральный рефлюкс
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 123 151	Дисфункция билиарного тракта
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 152 173	Функциональные запоры
+N5	Reference T5 ICD_codes:7367	K59.0

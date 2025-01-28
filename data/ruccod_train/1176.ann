@@ -1,0 +1,6 @@
+T1	icd_code 8 18	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 20 44	Вертеброгенная люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 54 76	болевой, миотонический
+N3	Reference T3 ICD_codes:8441	M79.1

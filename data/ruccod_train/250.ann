@@ -1,0 +1,6 @@
+T1	icd_code 0 16	Острый фарингит.
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 17 35	Вазомоторный ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 37 50	Серные пробки
+N3	Reference T3 ICD_codes:6185	H61.2

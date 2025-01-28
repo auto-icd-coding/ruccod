@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Оталгия
+N1	Reference T1 ICD_codes:6293	H92.0
+T2	icd_code 15 36	Околоушной лимфаденит
+N2	Reference T2 ICD_codes:7572	L04.0
+T3	icd_code 44 72	Нейропатия тройничного нерва
+N3	Reference T3 ICD_codes:5643	G51.0

@@ -1,0 +1,8 @@
+T1	icd_code 28 39	юмбоишалгия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 48 60	Остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 104 116	Грыжи дисков
+N3	Reference T3 ICD_codes:8295	M51.2
+T4	icd_code 131 140	протрузии
+N4	Reference T4 ICD_codes:8292	M51

@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Внутренний
+T2	icd_code 22 31	тромбозом
+N1	Reference T1 ICD_codes:1518	D06.0
+N2	Reference T2 ICD_codes:6554	I51.3

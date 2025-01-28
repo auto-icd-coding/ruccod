@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 61 98	Грыжа пищеводного отверстия диафрагмы
+N2	Reference T2 ICD_codes:7305	K44

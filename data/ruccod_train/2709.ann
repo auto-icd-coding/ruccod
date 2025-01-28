@@ -1,0 +1,6 @@
+T1	icd_code 0 87	Постнагрузочный Тендосиновиит сухожилий длиной и короткой головок бицепса правого плеча
+N1	Reference T1 ICD_codes:11654	S46.1
+T2	icd_code 89 111	Двусторонний гонартроз
+N2	Reference T2 ICD_codes:8082	M17.9
+T3	icd_code 113 124	торакоалгия
+N3	Reference T3 ICD_codes:8314	M54.6

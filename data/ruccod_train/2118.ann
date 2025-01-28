@@ -1,0 +1,19 @@
+T1	icd_code 0 34	Острая внебольничная н/д пневмония
+N1	Reference T1 ICD_codes:6845	J18.1
+T2	icd_code 105 115	
+Хр ринит.
+N2	Reference T2 ICD_codes:6874	J31.0
+T3	icd_code 132 143	Хр фарингит
+N3	Reference T3 ICD_codes:6876	J31.2
+T4	icd_code 161 164	ИБС
+N4	Reference T4 ICD_codes:6406	I25
+T5	icd_code 166 169	НРС
+N5	Reference T5 ICD_codes:6545	I49.9
+T6	icd_code 171 189	Пароксизм форма МА
+N6	Reference T6 ICD_codes:6536	I48
+T7	icd_code 249 253	ДКМП
+N7	Reference T7 ICD_codes:6493	I42.0
+T8	icd_code 258 260	ГБ
+N8	Reference T8 ICD_codes:6357	I11
+T9	icd_code 280 283	ХСН
+N9	Reference T9 ICD_codes:6547	I50.0

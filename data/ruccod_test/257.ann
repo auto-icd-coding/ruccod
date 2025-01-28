@@ -1,0 +1,16 @@
+T2	icd_code 68 83	Болевой синдром
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 85 110	Ушиб мягких тканей головы
+N3	Reference T3 ICD_codes:11134	S00
+T4	icd_code 136 149	травму черепа
+N4	Reference T4 ICD_codes:11262	S09.8
+T5	icd_code 152 176	Артериальная гипертензия
+N5	Reference T5 ICD_codes:6355	I10
+T6	icd_code 215 236	Сазарный диабет 2 тип
+N6	Reference T6 ICD_codes:2066	E11
+T7	icd_code 238 246	Ожирение
+N7	Reference T7 ICD_codes:2281	E66
+T1	icd_code 0 34	Травма шейного отдела позвоночника
+N1	Reference T1 ICD_codes:11304	S13.6
+T1	icd_code 36 66	растяжение связочного аппарата
+N1	Reference T1 ICD_codes:11304	S13.6

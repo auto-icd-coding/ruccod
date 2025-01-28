@@ -1,0 +1,10 @@
+T1	icd_code 1 9	Поллиноз
+T2	icd_code 11 38	аллергия на пыльцу деревьев
+T3	icd_code 51 73	Эпидермальная аллергия
+T4	icd_code 83 91	аллергия
+T5	icd_code 93 112	Гиперглобулин-Еемия
+N1	Reference T1 ICD_codes:2646	F06.0
+N2	Reference T2 ICD_codes:6869	J30.1
+N3	Reference T3 ICD_codes:12745	T78.4
+N4	Reference T4 ICD_codes:12745	T78.4
+N5	Reference T5 ICD_codes:11001	R77.1

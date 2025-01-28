@@ -1,0 +1,4 @@
+T1	icd_code 0 36	Вросший ноготь 1 пальца правой стопы
+N1	Reference T1 ICD_codes:7781	L60.0
+T2	icd_code 38 55	гнойный паронихий
+N2	Reference T2 ICD_codes:7565	L03.0

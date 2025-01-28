@@ -1,0 +1,4 @@
+T1	icd_code 0 43	Острый двусторонний верхнечелюстной синусит
+T2	icd_code 45 73	Острый левосторонний фронтит
+N1	Reference T1 ICD_codes:6780	J01.0
+N2	Reference T2 ICD_codes:6781	J01.1

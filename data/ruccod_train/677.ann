@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 22 37	Гиперандрогения
+N2	Reference T2 ICD_codes:2154	E25.0

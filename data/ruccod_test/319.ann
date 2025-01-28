@@ -1,0 +1,6 @@
+T1	icd_code 0 50	Варикозное расширение вен правой нижней конечности
+N1	Reference T1 ICD_codes:6717	I83.9
+T2	icd_code 72 95	Трофическая пигментация
+N2	Reference T2 ICD_codes:7870	L81
+T3	icd_code 157 206	Варикозное расширение вен левой нижней конечности
+N3	Reference T3 ICD_codes:6719	I83.9

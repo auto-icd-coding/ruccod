@@ -1,0 +1,12 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 47 105	Гастроэзофагеальная рефлюксная болезнь  в стадии эзофагита
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 108 112	НЖБП
+N3	Reference T3 ICD_codes:7467	K76.0
+T5	icd_code 132 135	ЖКБ
+N5	Reference T5 ICD_codes:7480	K80
+T6	icd_code 166 174	Ожирение
+N4	Reference T6 ICD_codes:2281	E66
+T7	icd_code 212 245	язвенная болезнь 12 перстной киши
+N7	Reference T7 ICD_codes:7216	K26

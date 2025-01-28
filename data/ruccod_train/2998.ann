@@ -1,0 +1,10 @@
+T1	icd_code 0 35	Нарушение ритма сердца неуточненное
+N1	Reference T1 ICD_codes:6545	I49.9
+T2	icd_code 38 64	Пароксизмальная тахикардия
+N2	Reference T2 ICD_codes:6535	I47.9
+T3	icd_code 67 94	Желудочковая экстрасистолия
+N3	Reference T3 ICD_codes:6541	I49.3
+T4	icd_code 97 144	Вегето-сосудистая дистония по кардиальному типу
+N4	Reference T4 ICD_codes:4924	F45.30
+T5	icd_code 147 211	Дискогенная торакалгия с выраженным мышечно-тоническим синдромом
+N5	Reference T5 ICD_codes:8264	M47.2

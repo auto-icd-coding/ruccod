@@ -1,0 +1,10 @@
+T1	icd_code 79 83	ГЭРБ
+N1	Reference T1 ICD_codes:7191	K21.9
+T2	icd_code 104 124	катаральный эзофагит
+N2	Reference T2 ICD_codes:7187	K20
+T3	icd_code 166 203	дивертикулярная болезнь толстой кишки
+N3	Reference T3 ICD_codes:7358	K57.3
+T4	icd_code 0 26	хронический антрум-гастрит
+N4	Reference T4 ICD_codes:7253	K29.6
+T5	icd_code 216 229	дивертикулита
+N5	Reference T5 ICD_codes:7358	K57.3

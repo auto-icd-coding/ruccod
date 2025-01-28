@@ -1,0 +1,8 @@
+T1	icd_code 0 18	Гиперпролактенемия
+N1	Reference T1 ICD_codes:2134	E22.1
+T2	icd_code 21 30	Гирсутизм
+N2	Reference T2 ICD_codes:7822	L68.0
+T3	icd_code 31 58	Мультифолликулярные яичники
+N3	Reference T3 ICD_codes:9095	N97.0
+T4	icd_code 59 74	Угревая болезнь
+N4	Reference T4 ICD_codes:7828	L70

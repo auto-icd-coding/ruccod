@@ -1,0 +1,4 @@
+T1	icd_code 0 42	Синдром раздраженного кишечника с  запором
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 44 53	ректоцеле
+N2	Reference T2 ICD_codes:8980	N81.6

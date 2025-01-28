@@ -1,0 +1,10 @@
+T1	icd_code 159 171	Дислипидемия
+N1	Reference T1 ICD_codes:2354	E78.4
+T2	icd_code 0 28	Узловой зоб 1 степени по ВОЗ
+N2	Reference T2 ICD_codes:2028	E04.1
+T3	icd_code 30 50	Первичный гипотиреоз
+N3	Reference T3 ICD_codes:2025	E03.9
+T4	icd_code 77 114	хроническиого аутоимунного тиреоидита
+N4	Reference T4 ICD_codes:2045	E06.3
+T5	icd_code 116 157	Постменопаузальный метаболический синдром
+N5	Reference T5 ICD_codes:9088	N95.1

@@ -1,0 +1,10 @@
+T1	icd_code 0 31	Дискинезия желчевыводящих путей
+N1	Reference T1 ICD_codes:7500	K82.8
+T2	icd_code 57 87	Липоматоз поджелудочной железы
+N2	Reference T2 ICD_codes:7518	K86.9
+T3	icd_code 90 123	Функциональная кишечная диспепсия
+N3	Reference T3 ICD_codes:7257	K30
+T4	icd_code 143 167	дисбактериозом кишечника
+N4	Reference T4 ICD_codes:7398	K63
+T5	icd_code 169 193	Дерматит неясного генеза
+N5	Reference T5 ICD_codes:7647	L25

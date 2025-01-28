@@ -1,0 +1,22 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 23 30	сколиоз
+N2	Reference T2 ICD_codes:8225	M41.9
+T3	icd_code 32 70	иполордоз шейного отдела позвоночника.
+N3	Reference T3 ICD_codes:8215	M40.4
+T4	icd_code 71 110	Гиперкифоз грудного отдела позвоночника
+N4	Reference T4 ICD_codes:8208	M40
+T5	icd_code 112 157	Верхний (шейно-плечевой) перекрестный синдром
+N5	Reference T5 ICD_codes:8302	M53.1
+T6	icd_code 159 184	Латерофлексия таза справа
+N6	Reference T6 ICD_codes:9314	O33
+T7	icd_code 186 226	Остеохондроз шейного отдела позвоночника
+N7	Reference T7 ICD_codes:8226	M42
+T8	icd_code 267 293	Мышечно-тонический синдром
+N8	Reference T8 ICD_codes:8441	M79.1
+T9	icd_code 295 327	Синдром натяжения шейного отдела
+N9	Reference T9 ICD_codes:8302	M53.1
+T10	icd_code 330 348	индром цервикалгии
+N10	Reference T10 ICD_codes:8310	M54.2
+T11	icd_code 350 370	Астенический синдром
+N11	Reference T11 ICD_codes:4934	F48.0

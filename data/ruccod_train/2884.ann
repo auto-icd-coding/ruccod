@@ -1,0 +1,14 @@
+T1	icd_code 3 6	ЦВБ
+N1	Reference T1 ICD_codes:6627	I67.9
+T2	icd_code 8 11	ХИМ
+N2	Reference T2 ICD_codes:6627	I67.9
+T3	icd_code 36 61	церебральном атеросклероз
+N3	Reference T3 ICD_codes:6620	I67.2
+T4	icd_code 64 88	S- образная извитость ПА
+N4	Reference T4 ICD_codes:6603	I65.0
+T5	icd_code 102 131	вестибулоатактический синдром
+N5	Reference T5 ICD_codes:6265	H81.9
+T6	icd_code 155 190	очагово-органическое заболевание гм
+N6	Reference T6 ICD_codes:2424	F00-F09
+T7	icd_code 193 221	астено-невротический синдром
+N7	Reference T7 ICD_codes:4934	F48.0

@@ -1,0 +1,4 @@
+T1	icd_code 31 71	Лигаментоз продольной подошвенной связки
+T2	icd_code 73 90	Тендиноз ахиллова
+N1	Reference T1 ICD_codes:8423	M76.3
+N2	Reference T2 ICD_codes:8426	M76.6

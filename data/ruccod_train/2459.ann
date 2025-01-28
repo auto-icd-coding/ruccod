@@ -1,0 +1,4 @@
+T1	icd_code 0 44	Новообразование правой половины полости носа
+N1	Reference T1 ICD_codes:1086	C30
+T2	icd_code 46 80	Хронический полипозный риносинусит
+N2	Reference T2 ICD_codes:6877	J32

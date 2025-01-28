@@ -1,0 +1,4 @@
+T1	icd_code 0 18	отрубевидный лишай
+N1	Reference T1 ICD_codes:626	B36.0
+T2	icd_code 19 49	Гиперпигментация неуточненная.
+N2	Reference T2 ICD_codes:7880	L81.9

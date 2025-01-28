@@ -1,0 +1,2 @@
+T1	icd_code 0 17	Первичный сифилис
+N1	Reference T1 ICD_codes:276	A51.0

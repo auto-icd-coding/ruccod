@@ -1,0 +1,4 @@
+T1	icd_code 0 29	Холодовая экзема правой кисти
+N1	Reference T1 ICD_codes:7614	L20
+T2	icd_code 30 40	онихомикоз
+N2	Reference T2 ICD_codes:617	B35.1

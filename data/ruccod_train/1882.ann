@@ -1,0 +1,10 @@
+T1	icd_code 33 64	Хронический вазомоторный ринит.
+N1	Reference T1 ICD_codes:6871	J30.3
+T2	icd_code 65 86	хронический тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0
+T3	icd_code 99 109	Ронхопатия
+N3	Reference T3 ICD_codes:10756	R06
+T4	icd_code 125 159	синдромом обструктивного апноэ сна
+N4	Reference T4 ICD_codes:5632	G47.3
+T5	icd_code 0 31	Искривление носовой перегородки
+N5	Reference T5 ICD_codes:6893	J34.2

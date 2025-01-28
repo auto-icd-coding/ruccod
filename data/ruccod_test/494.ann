@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Хроническая передняя анальная трещина
+N1	Reference T1 ICD_codes:7376	K60.1
+T2	icd_code 39 75	Гипертрофированные анальные бахромки
+N2	Reference T2 ICD_codes:6727	I84.6

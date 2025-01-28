@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ЗЧМТ
+N1	Reference T1 ICD_codes:11217	S06.0
+T2	icd_code 6 33	Сотрясение головного мозга 
+N2	Reference T2 ICD_codes:11217	S06.0

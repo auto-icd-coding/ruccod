@@ -1,0 +1,6 @@
+T1	icd_code 0 33	Ановуляторная дисфункция яичников
+N1	Reference T1 ICD_codes:2176	E28.8
+T2	icd_code 34 52	НЛФ-Синдром неовул
+N2	Reference T2 ICD_codes:2176	E28.8
+T3	icd_code 70 73	ЖГЭ
+N3	Reference T3 ICD_codes:9011	N85.0

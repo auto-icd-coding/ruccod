@@ -1,0 +1,8 @@
+T1	icd_code 28 37	МАРС ДТЛЖ
+N1	Reference T1 ICD_codes:10144	Q20.9
+T2	icd_code 38 55	Нарушение осанки.
+N2	Reference T2 ICD_codes:8226	M42
+T3	icd_code 56 68	Плоскостопие
+N3	Reference T3 ICD_codes:8111	M21.4
+T4	icd_code 69 77	Аденоиды
+N4	Reference T4 ICD_codes:6896	J35

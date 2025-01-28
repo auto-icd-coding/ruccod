@@ -1,0 +1,6 @@
+T1	icd_code 1 9	Эзофагит
+N1	Reference T1 ICD_codes:7187	K20
+T2	icd_code 11 64	Остеохондроз грудного, поясичного отдела позвоночника
+N2	Reference T2 ICD_codes:8226	M42
+T3	icd_code 68 91	Носитель гепатита HbsAG
+N3	Reference T3 ICD_codes:16721	Z22.5

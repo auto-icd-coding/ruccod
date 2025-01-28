@@ -1,0 +1,4 @@
+T1	icd_code 0 24	ВСД по кардиальномц типу
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 26 59	Тревожно-депрессивное растройство
+N2	Reference T2 ICD_codes:4883	F41.8

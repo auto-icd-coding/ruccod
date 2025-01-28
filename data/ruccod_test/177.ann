@@ -1,0 +1,18 @@
+T2	icd_code 98 111	Тиреотоксикоз
+N2	Reference T2 ICD_codes:2033	E05.0
+T3	icd_code 146 167	Шейная лимфаденопатия
+N3	Reference T3 ICD_codes:10948	R59.0
+T4	icd_code 183 204	хронический тиреоидит
+N4	Reference T4 ICD_codes:2044	E06.2
+T5	icd_code 218 233	тиреотоксикозом
+N5	Reference T5 ICD_codes:2040	E05.9
+T6	icd_code 235 261	Пароксизмальная тахикардия
+N6	Reference T6 ICD_codes:6535	I47.9
+T7	icd_code 274 294	астенический синдром
+N7	Reference T7 ICD_codes:10935	R53
+T8	icd_code 296 342	Нарушение менструального цикла неясного генеза
+N8	Reference T8 ICD_codes:9071	N92.6
+T1	icd_code 42 97	Вегетативно-сосудистая дистония по гипотоническому типу
+N1	Reference T1 ICD_codes:5801	G90.8
+T9	icd_code 435 487	гиперсекрецию паращитовидных желез (гиперпаратиреоз)
+N9	Reference T9 ICD_codes:2129	E21.3

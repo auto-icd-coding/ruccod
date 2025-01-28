@@ -1,0 +1,8 @@
+T1	icd_code 0 20	Атопический дерматит
+N1	Reference T1 ICD_codes:7614	L20
+T2	icd_code 49 65	Пищевая аллергия
+N2	Reference T2 ICD_codes:12742	T78.1
+T3	icd_code 67 94	Постстрептокковый миокардит
+N3	Reference T3 ICD_codes:6483	I40.0
+T4	icd_code 136 162	Герпетическая ВЭБ-инфекция
+N4	Reference T4 ICD_codes:589	B27.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 10 16	Цистит
+N2	Reference T2 ICD_codes:8791	N30.0

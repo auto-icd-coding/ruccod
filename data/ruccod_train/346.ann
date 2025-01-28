@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 17	уретрит
+N2	Reference T2 ICD_codes:8815	N34
+T3	icd_code 18 25	Гонорея
+N3	Reference T3 ICD_codes:294	A54
+T4	icd_code 31 38	адексит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 56 59	АГС
+N5	Reference T5 ICD_codes:2154	E25.0

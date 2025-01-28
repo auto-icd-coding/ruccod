@@ -1,0 +1,18 @@
+T1	icd_code 95 97	. 
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 97 139	Распространенный остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 141 167	Мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 169 178	Люмбалгия
+N4	Reference T4 ICD_codes:8312	M54.4
+T5	icd_code 180 191	Цервикалгия
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 0 11	Хр.фарингит
+N6	Reference T6 ICD_codes:6876	J31.2
+T7	icd_code 23 45	Желчнокаменная болезнь
+N7	Reference T7 ICD_codes:7488	K80.8
+T8	icd_code 46 61	ДЖВП обострение
+N8	Reference T8 ICD_codes:7500	K82.8
+T9	icd_code 61 72	.Хр.гастрит
+N9	Reference T9 ICD_codes:7250	K29.3

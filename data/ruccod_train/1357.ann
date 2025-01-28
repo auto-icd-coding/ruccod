@@ -1,0 +1,8 @@
+T1	icd_code 107 129	Реактивный  панкреатит
+N1	Reference T1 ICD_codes:7511	K85
+T2	icd_code 84 98	гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 0 46	Синдром раздраженного  кишечника   без  диареи
+N3	Reference T3 ICD_codes:7365	K58.9
+T4	icd_code 59 77	Дисбиоз  кишечника
+N4	Reference T4 ICD_codes:10804	R19.8

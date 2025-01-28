@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Теносиновит правого коленного сустава
+N1	Reference T1 ICD_codes:8349	M65
+T2	icd_code 39 64	Болевой и отечный синдром
+N2	Reference T2 ICD_codes:10930	R52

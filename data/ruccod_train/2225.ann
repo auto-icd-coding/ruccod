@@ -1,0 +1,6 @@
+T1	icd_code 1 13	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 18 25	оофорит
+N2	Reference T2 ICD_codes:8921	N70.9
+T3	icd_code 50 72	О. кондиломы влагалища
+N3	Reference T3 ICD_codes:510	B07

@@ -1,0 +1,4 @@
+T1	icd_code 0 53	Соматоформная дисфункция вегетативной нервной системы
+N1	Reference T1 ICD_codes:4923	F45.3
+T2	icd_code 57 77	Хронический фарингит
+N2	Reference T2 ICD_codes:6876	J31.2

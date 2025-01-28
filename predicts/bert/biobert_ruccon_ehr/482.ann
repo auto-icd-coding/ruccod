@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Острый гастрит
+T2	icd_code 16 30	реконвалесцент
+T3	icd_code 32 60	Неинфекционный гастроэнтерит
+T4	icd_code 82 94	симптоматики
+T5	icd_code 96 116	ОРВИ, реконвалесцент
+N1	Reference T1 ICD_codes:7248	K29.1
+N2	Reference T2 ICD_codes:6743	I87.1
+N3	Reference T3 ICD_codes:7337	K52.9
+N4	Reference T4 ICD_codes:10972	R68
+N5	Reference T5 ICD_codes:6777	J00-J06

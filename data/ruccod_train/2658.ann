@@ -1,0 +1,6 @@
+T1	icd_code 0 26	ОРВИ по типу ринофарингита
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 28 37	ларингита
+N2	Reference T2 ICD_codes:6796	J04.0
+T3	icd_code 39 46	бронхит
+N3	Reference T3 ICD_codes:6860	J20.9

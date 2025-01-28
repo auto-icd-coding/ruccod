@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 21 29	дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 43 95	Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8
+T4	icd_code 102 122	Хронический геморрой
+N4	Reference T4 ICD_codes:6720	I84

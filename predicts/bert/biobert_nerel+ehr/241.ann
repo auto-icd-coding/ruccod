@@ -1,0 +1,14 @@
+T1	icd_code 0 12	Эндоцервицит
+T2	icd_code 14 33	Полипоз  эндометрия
+T3	icd_code 35 53	Эндометриоз  матки
+T4	icd_code 56 107	Остроконечные кондиломы  вульвы  и стенок влагалища
+T5	icd_code 117 125	яичников
+T6	icd_code 162 176	желтого   тела
+T7	icd_code 189 220	Спаячный процесс в  малом  тазу
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:9004	N84.0
+N3	Reference T3 ICD_codes:8964	N80.0
+N4	Reference T4 ICD_codes:323	A63.0
+N5	Reference T5 ICD_codes:1739	D39.1
+N6	Reference T6 ICD_codes:8994	N83.1
+N7	Reference T7 ICD_codes:9115	N99.4

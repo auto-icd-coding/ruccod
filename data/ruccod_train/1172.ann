@@ -1,0 +1,6 @@
+T1	icd_code 0 65	Гипертоническая болезнь II стадии. Степень АГ 2. Риск 3 (высокий)
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 117 151	Вторичная Артериальная гипертензия
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 155 195	Нарушение  проводимости и ритма   сердца
+N3	Reference T3 ICD_codes:6545	I49.9

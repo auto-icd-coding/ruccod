@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 37	Остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 57 79	Тревожное расстройство
+N3	Reference T3 ICD_codes:4884	F41.9

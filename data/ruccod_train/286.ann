@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Эрозия ш\матки
+N1	Reference T1 ICD_codes:9022	N87
+T2	icd_code 16 29	Вульвовагинит
+N2	Reference T2 ICD_codes:8960	N77.1

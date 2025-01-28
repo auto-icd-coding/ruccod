@@ -1,0 +1,10 @@
+T1	icd_code 41 64	Гипертоническая болезнь
+T2	icd_code 77 101	Артериальная гипертензия
+T3	icd_code 143 156	Гиперурикемия
+T4	icd_code 158 165	Подагра
+T5	icd_code 167 173	Hallus
+N1	Reference T1 ICD_codes:6359	I11.9
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:2360	E79.0
+N4	Reference T4 ICD_codes:8027	M10.9
+N5	Reference T5 ICD_codes:8100	M20.1

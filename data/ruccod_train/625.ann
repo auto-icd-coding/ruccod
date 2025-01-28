@@ -1,0 +1,14 @@
+T1	icd_code 0 24	Урогенитальный хламидиоз
+N1	Reference T1 ICD_codes:305	A56
+T2	icd_code 26 41	микоуреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 43 76	Остроконечный кондиломатоз вульвы
+N3	Reference T3 ICD_codes:1659	D28.0
+T4	icd_code 78 102	Хронический эндоцервицит
+N4	Reference T4 ICD_codes:8926	N72
+T5	icd_code 104 148	Множественные ретенционные кисты шейки матки
+N5	Reference T5 ICD_codes:9033	N88.8
+T6	icd_code 150 161	Миома матки
+N6	Reference T6 ICD_codes:1647	D25
+T7	icd_code 204 218	сальпингоофори
+N7	Reference T7 ICD_codes:8917	N70

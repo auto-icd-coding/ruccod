@@ -1,0 +1,9 @@
+T1	icd_code 0 38	Эссенциальная артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 59 80	
+Хронический бронхит.
+N2	Reference T2 ICD_codes:6929	J42
+T3	icd_code 82 117	Легочная гипертензия легкой степени
+N3	Reference T3 ICD_codes:6424	I27.9
+T4	icd_code 120 132	Дислипидемия
+N4	Reference T4 ICD_codes:2328	E74.9

@@ -1,0 +1,10 @@
+T1	icd_code 3 6	АМК
+T2	icd_code 7 19	Альгоменорея
+T3	icd_code 23 36	Вульвовагинит
+T4	icd_code 99 118	перегородка в матке
+T5	icd_code 119 129	Мастопатия
+N1	Reference T1 ICD_codes:8759	N20.9
+N2	Reference T2 ICD_codes:9063	N91.5
+N3	Reference T3 ICD_codes:8960	N77.1
+N4	Reference T4 ICD_codes:1228	C54.0
+N5	Reference T5 ICD_codes:8899	N60.1

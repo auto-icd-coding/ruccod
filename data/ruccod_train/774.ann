@@ -1,0 +1,2 @@
+T1	icd_code 0 35	Инфильтрат послеоперационного рубца
+N1	Reference T1 ICD_codes:12841	T88

@@ -1,0 +1,14 @@
+T1	icd_code 0 28	Тромбоципения лёгкой степени
+T2	icd_code 51 77	Плечелопаточный периартрит
+T3	icd_code 78 95	Реактивный артрит
+T4	icd_code 121 136	стрептококковой
+T5	icd_code 149 169	Деформирующий артроз
+T6	icd_code 178 207	Пролапс митрального клапана 2
+T7	icd_code 218 241	регургитацией 2 степени
+N1	Reference T1 ICD_codes:1913	D69.6
+N2	Reference T2 ICD_codes:8043	M13.0
+N3	Reference T3 ICD_codes:8045	M13.8
+N4	Reference T4 ICD_codes:259	A49.1
+N5	Reference T5 ICD_codes:8095	M19.8
+N6	Reference T6 ICD_codes:6452	I34.1
+N7	Reference T7 ICD_codes:7247	K29.0

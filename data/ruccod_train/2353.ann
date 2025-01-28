@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Атрофическийкольпит
+N1	Reference T1 ICD_codes:9089	N95.2
+T2	icd_code 21 30	Полип ш/м
+N2	Reference T2 ICD_codes:9005	N84.1

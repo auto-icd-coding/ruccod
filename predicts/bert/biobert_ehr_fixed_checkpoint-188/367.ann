@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 11	Грипп
+T3	icd_code 16 28	назофарингит
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6811	J11
+N3	Reference T3 ICD_codes:6776	J00

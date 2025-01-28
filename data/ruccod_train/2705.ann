@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 62 74	Дислипидемия
+N2	Reference T2 ICD_codes:2336	E75.6
+T3	icd_code 76 79	ХСН
+N3	Reference T3 ICD_codes:6546	I50

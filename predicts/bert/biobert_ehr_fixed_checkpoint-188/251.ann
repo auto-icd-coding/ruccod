@@ -1,0 +1,12 @@
+T1	icd_code 0 4	ГЭРБ
+T2	icd_code 21 40	Хронический гастрит
+T3	icd_code 61 67	pylori
+T4	icd_code 95 114	активностью желудка
+T5	icd_code 130 134	ДЖВП
+T6	icd_code 176 200	строения желчного пузыря
+N1	Reference T1 ICD_codes:7191	K21.9
+N2	Reference T2 ICD_codes:7252	K29.5
+N3	Reference T3 ICD_codes:1732	D38.2
+N4	Reference T4 ICD_codes:7259	K31.0
+N5	Reference T5 ICD_codes:7500	K82.8
+N6	Reference T6 ICD_codes:7500	K82.8

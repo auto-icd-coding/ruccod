@@ -1,0 +1,4 @@
+T1	icd_code 50 63	Деформация Шм
+N1	Reference T1 ICD_codes:9030	N88.2
+T2	icd_code 0 35	Сост. после медикаментозного аборта
+N2	Reference T2 ICD_codes:9157	O04.9

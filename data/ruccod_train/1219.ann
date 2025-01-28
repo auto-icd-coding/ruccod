@@ -1,0 +1,8 @@
+T1	icd_code 33 47	Хр. панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 65 77	Дислипидемия
+N2	Reference T2 ICD_codes:2352	E78.2
+T3	icd_code 87 100	Гиперурикемия
+N3	Reference T3 ICD_codes:2359	E79
+T4	icd_code 102 105	МКБ
+N4	Reference T4 ICD_codes:8754	N20

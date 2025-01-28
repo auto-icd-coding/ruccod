@@ -1,0 +1,16 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 5 59	соматоформная дисфункция вегетативной  нервной системы
+N2	Reference T2 ICD_codes:4924	F45.30
+T3	icd_code 62 72	Дорсопатия
+N3	Reference T3 ICD_codes:8305	M53.8
+T4	icd_code 102 111	Дорзалгия
+N4	Reference T4 ICD_codes:8316	M54.9
+T5	icd_code 115 135	Астенический синдром
+N5	Reference T5 ICD_codes:2798	F06.67
+T6	icd_code 138 156	Судорожный синдром
+N6	Reference T6 ICD_codes:5580	G40.0
+T7	icd_code 161 169	Алопеция
+N7	Reference T7 ICD_codes:7807	L65.9
+T8	icd_code 171 186	О. конъюнктивит
+N8	Reference T8 ICD_codes:5904	H10.3

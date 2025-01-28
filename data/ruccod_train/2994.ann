@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Острый ларингорахеит
+N1	Reference T1 ICD_codes:6798	J04.2
+T2	icd_code 22 36	Острый синусит
+N2	Reference T2 ICD_codes:6779	J01

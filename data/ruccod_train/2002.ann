@@ -1,0 +1,4 @@
+T1	icd_code 0 12	Теносиновиит
+N1	Reference T1 ICD_codes:8355	M65.4
+T2	icd_code 43 49	Гирома
+N2	Reference T2 ICD_codes:8392	M71.3

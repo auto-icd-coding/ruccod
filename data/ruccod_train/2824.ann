@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 6 20	вестибул.наруш
+N2	Reference T2 ICD_codes:6265	H81.9

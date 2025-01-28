@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6415	I25.9
+T2	icd_code 5 29	Нестабильная стенокардия
+N2	Reference T2 ICD_codes:6376	I20.0
+T3	icd_code 31 43	Гипогликемия
+N3	Reference T3 ICD_codes:2115	E16.2
+T4	icd_code 45 51	Анемия
+N4	Reference T4 ICD_codes:1810	D50.8
+T5	icd_code 54 57	НЦД
+N5	Reference T5 ICD_codes:5802	G90.9

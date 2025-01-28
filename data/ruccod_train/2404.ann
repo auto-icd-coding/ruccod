@@ -1,0 +1,10 @@
+T1	icd_code 19 32	Токсикодермия
+N1	Reference T1 ICD_codes:7662	L27.9
+T2	icd_code 34 60	Аллергический баланопостит
+N2	Reference T2 ICD_codes:8872	N48.1
+T3	icd_code 84 106	герпетической инфекции
+N3	Reference T3 ICD_codes:471	B00
+T4	icd_code 108 115	Уретрит
+N4	Reference T4 ICD_codes:8817	N34.1
+T5	icd_code 141 161	Себорейный  дерматит
+N5	Reference T5 ICD_codes:7619	L21

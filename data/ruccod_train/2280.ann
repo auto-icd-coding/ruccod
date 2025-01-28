@@ -1,0 +1,19 @@
+T1	icd_code 0 26	Невынашивание беременности
+N1	Reference T1 ICD_codes:9265	O26.2
+T2	icd_code 28 46	Гиперпролактинемия
+N2	Reference T2 ICD_codes:2134	E22.1
+T3	icd_code 72 120	Отягощенный акушерско - гинекологический анамнез
+N3	Reference T3 ICD_codes:16803	Z35.2
+T4	icd_code 174 225	 Тиреотоксикоз в ст медикаментозной передозировки.
+
+N4	Reference T4 ICD_codes:2033	E05.0
+T5	icd_code 179 227	Тиреотоксикоз в ст медикаментозной передозировки
+N5	Reference T5 ICD_codes:2032	E05
+T6	icd_code 230 258	Нарушение углеводного обмена
+N6	Reference T6 ICD_codes:2328	E74.9
+T7	icd_code 260 282	Инсулинорезистентность
+N7	Reference T7 ICD_codes:10987	R73.9
+T8	icd_code 285 303	Гиперпролактинемия
+N8	Reference T8 ICD_codes:2134	E22.1
+T9	icd_code 306 345	Алиментарно-конституциональное ожирение
+N9	Reference T9 ICD_codes:2282	E66.0

@@ -1,0 +1,12 @@
+T1	icd_code 115 165	Мышечно-тонический синдром на шейно-грудном уровне
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 105 112	Фронтит
+N2	Reference T2 ICD_codes:6781	J01.1
+T3	icd_code 0 27	ВСД по гипотоническому типу
+N3	Reference T3 ICD_codes:5801	G90.8
+T4	icd_code 29 55	вазомоторные головные боли
+N4	Reference T4 ICD_codes:10930	R52
+T5	icd_code 57 81	головные боли напряжения
+N5	Reference T5 ICD_codes:5606	G44.2
+T6	icd_code 83 103	астенический синдром
+N6	Reference T6 ICD_codes:4934	F48.0

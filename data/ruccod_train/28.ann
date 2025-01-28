@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Вертеброгенная цервико-краниалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 35 49	вестибулопатия
+N2	Reference T2 ICD_codes:6258	H81

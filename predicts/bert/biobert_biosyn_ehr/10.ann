@@ -1,0 +1,4 @@
+T1	icd_code 0 23	ПОЯСНИЧНЫЙ ОСТЕОХОНДРОЗ
+T2	icd_code 80 116	БОЛЕВОЙ И МЫШЕЧНО-ТОНИЧЕСКИЙ СИНДРОМ
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:8441	M79.1

@@ -1,0 +1,6 @@
+T1	icd_code 24 30	ринита
+T2	icd_code 56 73	тонзиллофарингита
+T3	icd_code 75 101	Реактивный фаринголарингит
+N1	Reference T1 ICD_codes:6874	J31.0
+N2	Reference T2 ICD_codes:6794	J03.9
+N3	Reference T3 ICD_codes:6790	J02.9

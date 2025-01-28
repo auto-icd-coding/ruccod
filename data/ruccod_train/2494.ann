@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Эктопия шейки матки
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 33 51	 эндометриоз тела 
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 87 98	Миома  матк
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 134 145	Хр. аднекси
+N4	Reference T4 ICD_codes:8920	N70.1
+T5	icd_code 169 172	ФКМ
+N5	Reference T5 ICD_codes:8899	N60.1

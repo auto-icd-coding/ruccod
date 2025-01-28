@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Синдром позвоночной артерии
+T2	icd_code 29 69	Остеохондроз шейного отдела позвоночника
+T3	icd_code 76 111	Хроническая железодефицитная анемия
+N1	Reference T1 ICD_codes:8262	M47.0
+N2	Reference T2 ICD_codes:8228	M42.1
+N3	Reference T3 ICD_codes:1808	D50.0

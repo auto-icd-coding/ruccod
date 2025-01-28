@@ -1,0 +1,4 @@
+T1	icd_code 15 19	ОРВИ
+T2	icd_code 22 43	Обструктивный синдром
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:4855	F34

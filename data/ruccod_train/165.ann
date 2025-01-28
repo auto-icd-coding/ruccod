@@ -1,0 +1,3 @@
+T1	icd_code 15 23	кандидоз
+N1	Reference T1 ICD_codes:632	B37
+N2	Reference T1 ICD_codes:642	B37.9

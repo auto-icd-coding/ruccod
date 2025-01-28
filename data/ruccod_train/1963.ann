@@ -1,0 +1,6 @@
+T1	icd_code 1 19	вазомоторный ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+T2	icd_code 21 59	Умеренное искривление перегородки носа
+N2	Reference T2 ICD_codes:6893	J34.2
+T3	icd_code 61 82	Хронический тонзиллит
+N3	Reference T3 ICD_codes:6897	J35.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 34	Хронический аутоиммунный тиреоидит
+N1	Reference T1 ICD_codes:2045	E06.3
+T2	icd_code 36 47	Узловой зоб
+N2	Reference T2 ICD_codes:2026	E04
+T3	icd_code 49 59	Гипотиреоз
+N3	Reference T3 ICD_codes:2017	E03
+T4	icd_code 62 80	Гиперпролактинемия
+N4	Reference T4 ICD_codes:2134	E22.1

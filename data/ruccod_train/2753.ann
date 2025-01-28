@@ -1,0 +1,6 @@
+T1	icd_code 0 12	беременность
+N1	Reference T1 ICD_codes:16794	Z32.9
+T2	icd_code 23 45	гипертиреоз беременных
+N2	Reference T2 ICD_codes:9927	P72.1
+T3	icd_code 46 72	бессимптомная бактеритурия
+N3	Reference T3 ICD_codes:8836	N39.0

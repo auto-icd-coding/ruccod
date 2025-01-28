@@ -1,0 +1,8 @@
+T1	icd_code 1 55	Разрыв заднего рога медиального и латерального мениска
+N1	Reference T1 ICD_codes:8128	M23.2
+T2	icd_code 60 96	разрыв ПКС правого коленного сустава
+N2	Reference T2 ICD_codes:11973	S83.5
+T3	icd_code 97 147	разрыв наружной и внутренней коллатеральной связки
+N3	Reference T3 ICD_codes:11967	S83
+T4	icd_code 148 157	Гемартроз
+N4	Reference T4 ICD_codes:8147	M25.0

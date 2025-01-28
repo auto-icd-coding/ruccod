@@ -1,0 +1,6 @@
+T1	icd_code 7 19	Альгоменорея
+T2	icd_code 23 36	Вульвовагинит
+T3	icd_code 119 129	Мастопатия
+N1	Reference T1 ICD_codes:9063	N91.5
+N2	Reference T2 ICD_codes:8960	N77.1
+N3	Reference T3 ICD_codes:8899	N60.1

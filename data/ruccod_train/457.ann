@@ -1,0 +1,9 @@
+T1	icd_code 1 9	Кандидоз
+N1	Reference T1 ICD_codes:637	B37.4
+T2	icd_code 11 20	Цервицит.
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 21 44	Папилломатоз  влагалища
+T4	icd_code 46 57	Миома матки
+N4	Reference T4 ICD_codes:1647	D25
+T5	icd_code 73 95	Признаки  ВПЧ  ш\матки
+N5	Reference T5 ICD_codes:323	A63.0

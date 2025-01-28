@@ -1,0 +1,8 @@
+T1	icd_code 1 16	Хронгический Нр
+T2	icd_code 54 79	Гипертрофический  бульбит
+T3	icd_code 81 85	ДЖВП
+T4	icd_code 97 123	деформация желчного пузыря
+N1	Reference T1 ICD_codes:8651	N03.9
+N2	Reference T2 ICD_codes:7612	L13.9
+N3	Reference T3 ICD_codes:7500	K82.8
+N4	Reference T4 ICD_codes:7500	K82.8

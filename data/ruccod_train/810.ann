@@ -1,0 +1,6 @@
+T1	icd_code 5 24	начальная катаракта
+N1	Reference T1 ICD_codes:5992	H26.9
+T2	icd_code 34 47	гиперметропия
+N2	Reference T2 ICD_codes:6127	H52.0
+T3	icd_code 64 74	пресбиопия
+N3	Reference T3 ICD_codes:6131	H52.4

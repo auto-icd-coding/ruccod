@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Уретрит острый гнойный
+T2	icd_code 24 33	Простатит
+N1	Reference T1 ICD_codes:8817	N34.1
+N2	Reference T2 ICD_codes:8846	N41.0

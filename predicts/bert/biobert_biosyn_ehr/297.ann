@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Кольпит
+T2	icd_code 10 31	Бактериальный вагиноз
+T3	icd_code 36 54	Эрозия шейки матки
+N1	Reference T1 ICD_codes:8957	N76.8
+N2	Reference T2 ICD_codes:8950	N76.0
+N3	Reference T3 ICD_codes:9026	N87.9

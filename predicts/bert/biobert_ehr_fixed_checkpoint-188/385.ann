@@ -1,0 +1,10 @@
+T1	icd_code 0 9	аденомиоз
+T2	icd_code 11 22	миома матки
+T3	icd_code 23 26	жда
+T4	icd_code 27 34	кольпит
+T5	icd_code 35 39	иппп
+N1	Reference T1 ICD_codes:9012	N85.1
+N2	Reference T2 ICD_codes:1647	D25
+N3	Reference T3 ICD_codes:10608	Q82.4
+N4	Reference T4 ICD_codes:8957	N76.8
+N5	Reference T5 ICD_codes:9972	P83.6

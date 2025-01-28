@@ -1,0 +1,6 @@
+T1	icd_code 21 61	недостаточности мозгового кровообращения
+N1	Reference T1 ICD_codes:6617	I67
+T2	icd_code 70 106	артериальной гипертонии неуточненной
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 110 151	остеохондроза шейного отдела позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1

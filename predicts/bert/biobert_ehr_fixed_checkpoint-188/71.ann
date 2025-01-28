@@ -1,0 +1,8 @@
+T1	icd_code 0 34	Хронический бескаменный холецистит
+T2	icd_code 49 70	Реактивный панкреатит
+T3	icd_code 73 99	Хронический гастродуоденит
+T4	icd_code 167 178	Пиелонефрит
+N1	Reference T1 ICD_codes:7491	K81.1
+N2	Reference T2 ICD_codes:7511	K85
+N3	Reference T3 ICD_codes:7256	K29.9
+N4	Reference T4 ICD_codes:8707	N11.0

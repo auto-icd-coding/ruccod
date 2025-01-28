@@ -1,0 +1,6 @@
+T1	icd_code 0 3	АИТ
+N1	Reference T1 ICD_codes:2045	E06.3
+T2	icd_code 4 31	Компенсированный гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9
+T3	icd_code 34 67	Нарушение толерантности к глюкозе
+N3	Reference T3 ICD_codes:10986	R73.0

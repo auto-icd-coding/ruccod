@@ -1,0 +1,10 @@
+T1	icd_code 0 25	Варикозное расширение вен
+T2	icd_code 74 97	Трофическая пигментация
+T3	icd_code 100 118	липодерматосклероз
+T4	icd_code 138 163	Варикозное расширение вен
+T5	icd_code 208 223	Тромбоцитопения
+N1	Reference T1 ICD_codes:6719	I83.9
+N2	Reference T2 ICD_codes:7880	L81.9
+N3	Reference T3 ICD_codes:7927	L94.1
+N4	Reference T4 ICD_codes:6719	I83.9
+N5	Reference T5 ICD_codes:1913	D69.6

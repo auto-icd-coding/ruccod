@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 40 71	Дискинезия желчевыводящих путей
+N2	Reference T2 ICD_codes:7275	K38

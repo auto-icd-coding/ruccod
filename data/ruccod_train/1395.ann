@@ -1,0 +1,4 @@
+T1	icd_code 0 14	О.ринофарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 16 38	С-м прорезывания зубов
+N2	Reference T2 ICD_codes:7073	K00.7

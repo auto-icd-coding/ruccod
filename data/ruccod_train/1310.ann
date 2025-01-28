@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Остеоартроз правого локтевого сустава
+N1	Reference T1 ICD_codes:8095	M19.8
+T2	icd_code 56 67	эпикондилит
+N2	Reference T2 ICD_codes:8432	M77.1

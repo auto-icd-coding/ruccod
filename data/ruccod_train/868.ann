@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Эрозия шейки матки
+N1	Reference T1 ICD_codes:9022	N87
+T2	icd_code 20 34	Рубец на матке
+N2	Reference T2 ICD_codes:9325	O34
+T3	icd_code 37 44	Кольпит
+N3	Reference T3 ICD_codes:8949	N76

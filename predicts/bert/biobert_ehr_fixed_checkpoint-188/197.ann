@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Мастодиния
+T2	icd_code 12 48	Диффузная дисгормональная мастопатия
+T3	icd_code 50 84	мелкая киста левой молочной железы
+T4	icd_code 86 129	Лимфаденопатия левых подмышечных лимфоузлов
+N1	Reference T1 ICD_codes:8913	N64.4
+N2	Reference T2 ICD_codes:8899	N60.1
+N3	Reference T3 ICD_codes:8898	N60.0
+N4	Reference T4 ICD_codes:7576	L04.8

@@ -1,0 +1,6 @@
+T1	icd_code 0 17	Подострый вагинит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 18 26	Цервицит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 27 40	Папиллома ш\м
+N3	Reference T3 ICD_codes:928	B97.7

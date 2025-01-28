@@ -1,0 +1,2 @@
+T1	icd_code 0 14	Острый бронхит
+N1	Reference T1 ICD_codes:6860	J20.9

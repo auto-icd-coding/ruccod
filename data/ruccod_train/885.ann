@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 55 68	остеохондроз,
+T3	icd_code 70 94	унковертебральный артроз
+T4	icd_code 95 102	сколиоз
+N3	Reference T4 ICD_codes:8217	M41
+T5	icd_code 212 230	цервикокраниалгии,
+N4	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 232 242	торакалгии
+N5	Reference T6 ICD_codes:5700	G58.0
+T7	icd_code 263 270	Мигрень
+N6	Reference T7 ICD_codes:5596	G43

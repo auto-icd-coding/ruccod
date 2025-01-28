@@ -1,0 +1,4 @@
+T1	icd_code 17 37	неязвенная диспепсия
+T2	icd_code 63 96	Хронический Нр-асс гастродуоденит
+N1	Reference T1 ICD_codes:7257	K30
+N2	Reference T2 ICD_codes:7256	K29.9

@@ -1,0 +1,12 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 4 22	атер.кардиосклероз
+N2	Reference T2 ICD_codes:6408	I25.1
+T3	icd_code 23 34	АГ 3 стад.,
+N3	Reference T3 ICD_codes:6358	I11.0
+T4	icd_code 41 44	ХСН
+N4	Reference T4 ICD_codes:6548	I50.1
+T5	icd_code 47 50	ЖКБ
+N5	Reference T5 ICD_codes:7480	K80
+T6	icd_code 51 76	хр.калькулёзныйхолецистит
+N6	Reference T6 ICD_codes:7483	K80.1

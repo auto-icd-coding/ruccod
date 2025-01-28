@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Астенический синдром
+N1	Reference T1 ICD_codes:4937	F48.9
+T2	icd_code 23 46	Вторичный иммунодефицит
+N2	Reference T2 ICD_codes:1986	D84

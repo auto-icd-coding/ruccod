@@ -1,0 +1,8 @@
+T1	icd_code 0 20	Хронический фарингит
+N1	Reference T1 ICD_codes:6876	J31.2
+T2	icd_code 22 59	Искривление носовой перегородки влево
+N2	Reference T2 ICD_codes:6893	J34.2
+T3	icd_code 61 81	Параназальный синуит
+N3	Reference T3 ICD_codes:6785	J01.8
+T4	icd_code 84 129	одострый двусторонний диффузный наружный отит
+N4	Reference T4 ICD_codes:6171	H60

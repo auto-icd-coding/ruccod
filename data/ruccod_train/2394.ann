@@ -1,0 +1,12 @@
+T1	icd_code 1 19	Бронхиальная астма
+N1	Reference T1 ICD_codes:6942	J45.0
+T2	icd_code 96 98	ДН
+N2	Reference T2 ICD_codes:1578	D14.4
+T3	icd_code 105 108	ИБС
+N3	Reference T3 ICD_codes:6406	I25
+T4	icd_code 110 132	стенокардия напряжения
+N4	Reference T4 ICD_codes:6374	I20
+T5	icd_code 140 171	Гипертоничская болезнь 2 стадия
+N5	Reference T5 ICD_codes:6357	I11
+T6	icd_code 193 221	Инфекция мочевыводящих путей
+N6	Reference T6 ICD_codes:8836	N39.0

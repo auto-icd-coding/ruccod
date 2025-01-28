@@ -1,0 +1,5 @@
+T1	icd_code 27 42	сальпингоофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 0 20	НМЦ в репрод. возрас
+N2	Reference T2 ICD_codes:9064	N92
+N4	Reference T2 ICD_codes:9071	N92.6

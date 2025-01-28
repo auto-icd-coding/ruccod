@@ -1,0 +1,4 @@
+T1	icd_code 0 27	Вегеот- сосудистая дистония
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 96 112	Панические атаки
+N2	Reference T2 ICD_codes:4879	F41.0

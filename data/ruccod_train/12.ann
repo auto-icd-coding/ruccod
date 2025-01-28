@@ -1,0 +1,4 @@
+T2	icd_code 40 61	.Атопический дерматит
+N2	Reference T2 ICD_codes:7618	L20.9
+T1	icd_code 15 41	катаральный наружний отит.
+N1	Reference T1 ICD_codes:6175	H60.1

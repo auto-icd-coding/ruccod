@@ -1,0 +1,16 @@
+T1	icd_code 0 33	Гипертоническая болезнь II стадии
+T2	icd_code 35 59	артериальная гипертензия
+T3	icd_code 94 122	форма фибрилляции предсердий
+T4	icd_code 124 136	тахисистолия
+T5	icd_code 163 171	Ожирение
+T6	icd_code 190 211	обструктивный бронхит
+T7	icd_code 225 233	Эмфизема
+T8	icd_code 245 258	пневмосклероз
+N1	Reference T1 ICD_codes:6359	I11.9
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:6536	I48
+N4	Reference T4 ICD_codes:6337	I07.0
+N5	Reference T5 ICD_codes:2286	E66.9
+N6	Reference T6 ICD_codes:6940	J44.9
+N7	Reference T7 ICD_codes:6930	J43
+N8	Reference T8 ICD_codes:6257	H80.9

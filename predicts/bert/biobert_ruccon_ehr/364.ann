@@ -1,0 +1,12 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 22	Реконвалесценция
+T3	icd_code 25 33	Хр ринит
+T4	icd_code 62 72	Краниалгия
+T5	icd_code 76 101	Аретриальная гиперетензия
+T6	icd_code 132 144	Дегидратация
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6134	H52.7
+N3	Reference T3 ICD_codes:6874	J31.0
+N4	Reference T4 ICD_codes:10929	R51
+N5	Reference T5 ICD_codes:6355	I10
+N6	Reference T6 ICD_codes:2395	E86

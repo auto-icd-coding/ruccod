@@ -1,0 +1,10 @@
+T1	icd_code 0 37	Дорсопатия шейного отдела позвоночика
+T2	icd_code 97 115	мышечно-тонический
+T3	icd_code 127 142	болевой синдром
+T4	icd_code 144 189	Вертеброгенная компрессия позвоночных артерий
+T5	icd_code 192 207	вестибулопатией
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:8262	M47.0
+N5	Reference T5 ICD_codes:6265	H81.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Бронхит остаточные явления
+N1	Reference T1 ICD_codes:6860	J20.9
+T2	icd_code 28 36	Аллергия
+N2	Reference T2 ICD_codes:12745	T78.4

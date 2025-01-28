@@ -1,0 +1,12 @@
+T1	icd_code 0 22	Атопический ? дерматит
+T2	icd_code 49 65	пищевая аллергия
+T3	icd_code 69 87	косточковые фрукты
+T4	icd_code 138 153	ларинготрахеита
+T5	icd_code 155 161	ринита
+T6	icd_code 164 173	дерматита
+N1	Reference T1 ICD_codes:7618	L20.9
+N2	Reference T2 ICD_codes:12742	T78.1
+N3	Reference T3 ICD_codes:7348	K56.2
+N4	Reference T4 ICD_codes:6798	J04.2
+N5	Reference T5 ICD_codes:6874	J31.0
+N6	Reference T6 ICD_codes:7682	L30.9

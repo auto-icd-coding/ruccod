@@ -1,0 +1,8 @@
+T1	icd_code 0 14	Острый бронхит
+T2	icd_code 25 29	ОРВИ
+T3	icd_code 51 70	Острый назофарингит
+T4	icd_code 107 124	процессы в легких
+N1	Reference T1 ICD_codes:6860	J20.9
+N2	Reference T2 ICD_codes:6777	J00-J06
+N3	Reference T3 ICD_codes:6776	J00
+N4	Reference T4 ICD_codes:7054	J98.4

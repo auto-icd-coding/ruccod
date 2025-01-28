@@ -1,0 +1,4 @@
+T1	icd_code 3 12	.кандидоз
+N1	Reference T1 ICD_codes:632	B37
+T2	icd_code 15 27	Кондиломатоз
+N2	Reference T2 ICD_codes:323	A63.0

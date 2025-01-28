@@ -1,0 +1,8 @@
+T1	icd_code 0 11	Узловой зоб
+T2	icd_code 13 33	Первичный гипотиреоз
+T3	icd_code 35 70	Нарушение толерантности к углеводам
+T4	icd_code 72 98	Недостаточность витамина Д
+N1	Reference T1 ICD_codes:2028	E04.1
+N2	Reference T2 ICD_codes:2025	E03.9
+N3	Reference T3 ICD_codes:2327	E74.8
+N4	Reference T4 ICD_codes:2247	E55.9

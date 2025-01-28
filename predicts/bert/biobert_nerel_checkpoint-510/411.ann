@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Артрозо-артрит
+T2	icd_code 46 57	Повреждение
+T3	icd_code 132 165	Продольно-поперечное плоскостопие
+N1	Reference T1 ICD_codes:8096	M19.9
+N2	Reference T2 ICD_codes:10894	R45.4
+N3	Reference T3 ICD_codes:8111	M21.4

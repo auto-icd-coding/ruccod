@@ -1,0 +1,6 @@
+T1	icd_code 4 40	Подострый аллергический коньюнктивит
+N1	Reference T1 ICD_codes:5907	H10.8
+T2	icd_code 49 70	синдрома сухого глаза
+N2	Reference T2 ICD_codes:5877	H04.1
+T3	icd_code 72 109	Начальная фоновая ангиопатия сетчатки
+N3	Reference T3 ICD_codes:6037	H35.2

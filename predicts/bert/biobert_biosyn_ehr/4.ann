@@ -1,0 +1,14 @@
+T1	icd_code 0 85	Дорсопатия шейного отдела позвоночника на фоне дегенеративно-дистрофических изменений
+T2	icd_code 87 114	нестабильность сегментов С3
+T3	icd_code 115 117	С4
+T4	icd_code 118 120	С5
+T5	icd_code 122 151	выраженный мышечно-тонический
+T6	icd_code 153 168	болевой синдром
+T7	icd_code 170 192	явления вестибулопатии
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8303	M53.2
+N3	Reference T3 ICD_codes:10686	Q93.3
+N4	Reference T4 ICD_codes:10687	Q93.4
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:8441	M79.1
+N7	Reference T7 ICD_codes:6265	H81.9

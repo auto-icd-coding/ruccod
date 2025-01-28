@@ -1,0 +1,4 @@
+T1	icd_code 11 64	хронического генерализовнаного катарального гингивита
+N1	Reference T1 ICD_codes:7111	K05.1
+T2	icd_code 66 84	Гиперестезия зубов
+N2	Reference T2 ICD_codes:7096	K03.8

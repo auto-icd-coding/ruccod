@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Люмбалгия
+T2	icd_code 23 58	болевой  мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8312	M54.4
+N2	Reference T2 ICD_codes:8441	M79.1

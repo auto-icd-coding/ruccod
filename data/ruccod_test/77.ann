@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 5 17	Ринофарингит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 19 37	Вирусная экзантема
+N3	Reference T3 ICD_codes:518	B08.8

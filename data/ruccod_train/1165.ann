@@ -1,0 +1,4 @@
+T1	icd_code 4 19	Глубокий кариес
+N1	Reference T1 ICD_codes:7082	K02.2
+T2	icd_code 21 70	Хронический генерализованный катаральный гингивит
+N2	Reference T2 ICD_codes:7111	K05.1

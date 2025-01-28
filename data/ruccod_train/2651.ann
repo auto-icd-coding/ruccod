@@ -1,0 +1,8 @@
+T1	icd_code 0 14	Избыточный вес
+N1	Reference T1 ICD_codes:2282	E66.0
+T2	icd_code 23 44	инсулинрезистентности
+N2	Reference T2 ICD_codes:2054	E10
+T3	icd_code 45 70	Субклинический гипотиреоз
+N3	Reference T3 ICD_codes:2025	E03.9
+T4	icd_code 71 92	Аутоимунный тиреоидит
+N4	Reference T4 ICD_codes:2045	E06.3

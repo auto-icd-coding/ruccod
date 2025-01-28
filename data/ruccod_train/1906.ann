@@ -1,0 +1,4 @@
+T1	icd_code 40 62	Факосклероз обоих глаз
+N1	Reference T1 ICD_codes:5996	H27.8
+T2	icd_code 0 38	Ангиопатия сосудов сетчатки обоих глаз
+N2	Reference T2 ICD_codes:6016	H31.8

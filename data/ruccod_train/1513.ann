@@ -1,0 +1,4 @@
+T1	icd_code 0 6	Цистит
+N1	Reference T1 ICD_codes:8789	N30
+T2	icd_code 34 45	Бактериурия
+N2	Reference T2 ICD_codes:8835	N39

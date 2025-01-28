@@ -1,0 +1,4 @@
+T1	icd_code 0 16	Острый аденоидит
+N1	Reference T1 ICD_codes:6899	J35.2
+T2	icd_code 29 44	Острый ларингит
+N2	Reference T2 ICD_codes:6796	J04.0

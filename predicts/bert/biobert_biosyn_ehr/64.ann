@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ВСД
+T2	icd_code 7 17	Дорсопатия
+N1	Reference T1 ICD_codes:4924	F45.30
+N2	Reference T2 ICD_codes:8306	M53.9

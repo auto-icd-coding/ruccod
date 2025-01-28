@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Аллергический контактный дерматит
+N1	Reference T1 ICD_codes:7625	L23
+T2	icd_code 35 58	Крпаивница неуточнённая
+N2	Reference T2 ICD_codes:7729	L50.9

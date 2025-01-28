@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 41	Полисегментарный остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 43 70	мышечно- тонический синдром
+N3	Reference T3 ICD_codes:8333	M62
+T4	icd_code 72 79	Сколиоз
+N4	Reference T4 ICD_codes:8217	M41
+T5	icd_code 111 122	Грыжа диска
+N5	Reference T5 ICD_codes:8295	M51.2

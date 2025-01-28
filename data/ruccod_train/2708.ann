@@ -1,0 +1,20 @@
+T1	icd_code 17 27	дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 51 59	Цервико-
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 59 65	торако
+N3	Reference T3 ICD_codes:8314	M54.6
+T4	icd_code 66 75	люмбалгия
+N4	Reference T4 ICD_codes:8312	M54.4
+T5	icd_code 77 103	Мышечно-тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 105 119	Спондилоартроз
+N6	Reference T6 ICD_codes:8261	M47
+T7	icd_code 121 134	Антелистез L5
+N7	Reference T7 ICD_codes:8232	M43.1
+T8	icd_code 136 151	Протрузия L5-S1
+N8	Reference T8 ICD_codes:8294	M51.1
+T9	icd_code 153 186	Функциональная блокада ПДС С4-С6.
+N9	Reference T9 ICD_codes:8295	M51.2
+T10	icd_code 186 227	Функциональная нестабильность ПДС Th4-Th5
+N10	Reference T10 ICD_codes:8303	M53.2

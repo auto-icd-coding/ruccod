@@ -1,0 +1,7 @@
+T2	icd_code 32 55	Гипертоническая болезнь
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 58 70	Вторичная АГ
+N3	Reference T3 ICD_codes:6368	I15
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:5801	G90.8
+N4	Reference T1 ICD_codes:5801	G90.8

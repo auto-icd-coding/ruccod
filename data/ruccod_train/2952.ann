@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Функциональное нарушение ЖКТ
+N1	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 30 60	Морфофункциональная незрелость
+N2	Reference T2 ICD_codes:9679	P07.2

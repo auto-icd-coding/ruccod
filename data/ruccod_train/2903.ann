@@ -1,0 +1,8 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 13 38	Остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 72 85	люмбоишиалгия
+N3	Reference T3 ICD_codes:8312	M54.4
+T4	icd_code 139 170	цервикоторакоалгический синдром
+N4	Reference T4 ICD_codes:8310	M54.2

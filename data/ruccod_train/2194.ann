@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Плече-лопаточный периартрит
+N1	Reference T1 ICD_codes:8412	M75.1
+T2	icd_code 34 65	Артроз левого плечевого сустава
+N2	Reference T2 ICD_codes:8091	M19
+T3	icd_code 66 95	Синдром "замороженного плеча"
+N3	Reference T3 ICD_codes:8411	M75.0

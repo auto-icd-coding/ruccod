@@ -1,0 +1,12 @@
+T1	icd_code 3 35	Тораколюмбоишиалгический синдром
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 72 82	дорсопатии
+N2	Reference T2 ICD_codes:8305	M53.8
+T3	icd_code 102 128	остеохондроза позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 196 223	грыжа межпозвонкового диска
+N4	Reference T4 ICD_codes:8297	M51.4
+T5	icd_code 231 244	Люмбоишиалгия
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 247 277	Статико-динамические нарушения
+N6	Reference T6 ICD_codes:8303	M53.2

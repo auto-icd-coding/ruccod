@@ -1,0 +1,16 @@
+T1	icd_code 0 56	Дорсопатия , преимущественно шейного, грудного   отдела:
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 57 69	остеохондроз
+T3	icd_code 71 94	деформирующий спондилез
+N3	Reference T3 ICD_codes:8266	M47.9
+T4	icd_code 98 122	унковертебральный артроз
+N4	Reference T4 ICD_codes:8091	M19
+T5	icd_code 126 151	Нестабильность  позвонков
+N5	Reference T5 ICD_codes:8303	M53.2
+T6	icd_code 174 200	мышечно-тонический синдром
+N6	Reference T6 ICD_codes:8439	M79
+T7	icd_code 236 261	Синдром цервикобрахиалгии
+N7	Reference T7 ICD_codes:8310	M54.2
+T8	icd_code 285 329	Нейроваскулярный синдром верхних конечностей
+N8	Reference T8 ICD_codes:5681	G56
+T9	icd_code 342 352	остеопороз

@@ -1,0 +1,8 @@
+T1	icd_code 7 18	-тонический
+T2	icd_code 20 51	цервикоторакоалгический синдром
+T3	icd_code 60 70	дорсопатии
+T4	icd_code 90 116	остеохондроза позвоночника
+N1	Reference T1 ICD_codes:8441	M79.1
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8305	M53.8
+N4	Reference T4 ICD_codes:8228	M42.1

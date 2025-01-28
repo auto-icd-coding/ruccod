@@ -1,0 +1,6 @@
+T1	icd_code 1 29	Вертеброгенная люмбоишиалгия
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 51 90	мышечно-тоническим и  болевым синдромом
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 93 135	ограничение подвижности поясничного отдела
+N3	Reference T3 ICD_codes:8228	M42.1

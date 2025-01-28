@@ -1,0 +1,4 @@
+T1	icd_code 0 13	серный пробки
+N1	Reference T1 ICD_codes:6185	H61.2
+T2	icd_code 29 41	Острый ринит
+N2	Reference T2 ICD_codes:6776	J00

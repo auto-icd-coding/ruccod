@@ -1,0 +1,12 @@
+T1	icd_code 0 12	Эндоцервицит
+T2	icd_code 13 30	Эндометриоз матки
+T3	icd_code 36 51	сальпингоофорит
+T4	icd_code 75 89	Тазовые спайки
+T5	icd_code 90 110	Оперированная  матка
+T6	icd_code 117 135	Кисты эндоцервикса
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:8964	N80.0
+N3	Reference T3 ICD_codes:8920	N70.1
+N4	Reference T4 ICD_codes:8934	N73.6
+N5	Reference T5 ICD_codes:10360	Q51.3
+N6	Reference T6 ICD_codes:10363	Q51.6

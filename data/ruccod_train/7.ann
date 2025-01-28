@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 26 59	Остроконечный кондиломатоз вульвы
+N2	Reference T2 ICD_codes:323	A63.0
+T3	icd_code 60 83	 Бактериальный вагиноз.
+N3	Reference T3 ICD_codes:9036	N89.0
+T4	icd_code 84 102	Эрозия шейки матки
+N4	Reference T4 ICD_codes:9021	N86

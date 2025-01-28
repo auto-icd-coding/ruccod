@@ -1,0 +1,6 @@
+T1	icd_code 0 51	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 54 73	Хронический гастрит
+N2	Reference T2 ICD_codes:7250	K29.3
+T3	icd_code 95 126	Дискинезия желчевыводящих путей
+N3	Reference T3 ICD_codes:7500	K82.8

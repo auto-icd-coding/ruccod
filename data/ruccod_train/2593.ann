@@ -1,0 +1,8 @@
+T1	icd_code 0 25	ОРВИ. Острый ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 27 42	Острый ларингит
+N2	Reference T2 ICD_codes:6796	J04.0
+T3	icd_code 44 58	Острый бронхит
+N3	Reference T3 ICD_codes:6849	J20
+T4	icd_code 61 73	Беременность
+N4	Reference T4 ICD_codes:16794	Z32.9

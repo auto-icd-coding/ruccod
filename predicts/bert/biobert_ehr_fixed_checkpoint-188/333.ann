@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 61	Полисегментарная пневмония в нижней доле левого легкого
+T3	icd_code 90 97	Астения
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6845	J18.1
+N3	Reference T3 ICD_codes:5535	G24.9

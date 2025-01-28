@@ -1,0 +1,8 @@
+T1	icd_code 1 17	ОРЗ: ринофаринго
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 17 24	трахеит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 26 39	Хр. тонзиллит
+N3	Reference T3 ICD_codes:6897	J35.0
+T4	icd_code 57 80	 анемия легкой степени.
+N4	Reference T4 ICD_codes:1805	D50

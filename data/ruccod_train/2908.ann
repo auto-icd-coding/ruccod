@@ -1,0 +1,6 @@
+T1	icd_code 0 16	Аллерг. дерматит
+N1	Reference T1 ICD_codes:7625	L23
+T2	icd_code 18 27	Аскаридоз
+N2	Reference T2 ICD_codes:834	B77.9
+T3	icd_code 29 37	Лямблиоз
+N3	Reference T3 ICD_codes:58	A07.1

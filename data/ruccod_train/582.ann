@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Урогенитальный уреаплазмоз
+N1	Reference T1 ICD_codes:324	A63.8
+T2	icd_code 27 31	ПВИ.
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 31 40	Бесплодие
+N3	Reference T3 ICD_codes:9101	N97.9

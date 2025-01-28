@@ -1,0 +1,2 @@
+T1	icd_code 0 26	Острый наружний отит слева
+N1	Reference T1 ICD_codes:6181	H60.9

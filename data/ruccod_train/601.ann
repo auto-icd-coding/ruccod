@@ -1,0 +1,6 @@
+T1	icd_code 0 51	Хронический бронхит с бронхообструктивный синдромом
+N1	Reference T1 ICD_codes:6936	J44
+T2	icd_code 66 72	 астма
+N2	Reference T2 ICD_codes:6941	J45
+T3	icd_code 81 95	гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29

@@ -1,0 +1,6 @@
+T1	icd_code 11 19	яичников
+T2	icd_code 22 46	Ретенционные кисты шейки
+T3	icd_code 58 66	аднексит
+N1	Reference T1 ICD_codes:1739	D39.1
+N2	Reference T2 ICD_codes:9033	N88.8
+N3	Reference T3 ICD_codes:7274	K37

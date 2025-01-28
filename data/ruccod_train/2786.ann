@@ -1,0 +1,6 @@
+T1	icd_code 0 43	Синдром вертебро-базилярной недостаточности
+N1	Reference T1 ICD_codes:5611	G45.0
+T2	icd_code 60 72	остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 75 105	вестибуло-атаксический синдром
+N3	Reference T3 ICD_codes:6266	H82

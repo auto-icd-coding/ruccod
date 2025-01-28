@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Неспецифический кольпит
+T2	icd_code 57 70	без придатков
+N1	Reference T1 ICD_codes:8957	N76.8
+N2	Reference T2 ICD_codes:5230	F72.9

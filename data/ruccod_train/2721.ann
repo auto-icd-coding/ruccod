@@ -1,0 +1,4 @@
+T1	icd_code 0 8	Халязион
+N1	Reference T1 ICD_codes:5854	H00.1
+T2	icd_code 21 30	гардеолум
+N2	Reference T2 ICD_codes:5853	H00.0

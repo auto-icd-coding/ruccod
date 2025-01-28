@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Подострый ринофарингит
+T2	icd_code 24 47	Ост явления отита слева
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6181	H60.9

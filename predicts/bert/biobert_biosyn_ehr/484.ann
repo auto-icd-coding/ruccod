@@ -1,0 +1,6 @@
+T1	icd_code 3 10	гастрит
+T2	icd_code 12 14	Хр
+T3	icd_code 16 25	панкретит
+N1	Reference T1 ICD_codes:7254	K29.7
+N2	Reference T2 ICD_codes:4513	F20.80*8
+N3	Reference T3 ICD_codes:7511	K85

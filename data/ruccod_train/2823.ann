@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Хронический бронхит
+N1	Reference T1 ICD_codes:6926	J41.0
+T2	icd_code 33 35	ДН
+N2	Reference T2 ICD_codes:7045	J96

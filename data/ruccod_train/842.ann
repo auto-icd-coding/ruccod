@@ -1,0 +1,4 @@
+T1	icd_code 0 36	Рвано-ушибленная рана лобной области
+N1	Reference T1 ICD_codes:11146	S01
+T2	icd_code 38 42	ЗЧМТ
+N2	Reference T2 ICD_codes:11216	S06

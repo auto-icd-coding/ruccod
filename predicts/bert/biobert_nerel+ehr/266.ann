@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Аллергический ринит
+T2	icd_code 38 62	Атопический конъюнктивит
+T3	icd_code 71 79	Поллиноз
+N1	Reference T1 ICD_codes:6872	J30.4
+N2	Reference T2 ICD_codes:5902	H10.1
+N3	Reference T3 ICD_codes:2646	F06.0

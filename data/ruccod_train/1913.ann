@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ОРЗ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 5 11	Коклюш
+N2	Reference T2 ICD_codes:205	A37.9

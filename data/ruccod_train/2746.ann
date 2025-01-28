@@ -1,0 +1,6 @@
+T1	icd_code 5 17	острый ринит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 41 70	киста левой нёбной  миндалины
+N2	Reference T2 ICD_codes:1543	D10.4
+T3	icd_code 73 94	хронический тонзиллит
+N3	Reference T3 ICD_codes:6897	J35.0

@@ -1,0 +1,18 @@
+T1	icd_code 0 25	Лактазная недостаточность
+T2	icd_code 27 35	Целиакия
+T3	icd_code 37 58	Дисбиоз толстой кишки
+T4	icd_code 78 82	ОККП
+T5	icd_code 85 90	НАЖБП
+T6	icd_code 92 108	Вирусный гепатит
+T7	icd_code 111 137	Хронический гастродуоденит
+T8	icd_code 153 179	Хронический гастродуоденит
+T9	icd_code 217 244	эрозивно-язвенные изменения
+N1	Reference T1 ICD_codes:2320	E73.9
+N2	Reference T2 ICD_codes:7524	K90.0
+N3	Reference T3 ICD_codes:7404	K63.8
+N4	Reference T4 ICD_codes:6254	H80.1
+N5	Reference T5 ICD_codes:14194	W39
+N6	Reference T6 ICD_codes:540	B19
+N7	Reference T7 ICD_codes:7256	K29.9
+N8	Reference T8 ICD_codes:7256	K29.9
+N9	Reference T9 ICD_codes:7225	K26.9

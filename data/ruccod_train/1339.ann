@@ -1,0 +1,14 @@
+T1	icd_code 2 51	Язвенная  болезнь  12 перстной  кишки  обострение
+N1	Reference T1 ICD_codes:7216	K26
+T2	icd_code 54 81	Хронический  гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 115 142	Дуоденогастральный  рефлюкс
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 145 168	Недорстаточность кардии
+N4	Reference T4 ICD_codes:7258	K31
+T5	icd_code 174 196	Реактивный  панкреатит
+N5	Reference T5 ICD_codes:7511	K85
+T6	icd_code 214 238	Жировая  болезнь  печени
+N6	Reference T6 ICD_codes:7467	K76.0
+T7	icd_code 261 303	Синдром  избыточного  бактериального роста
+N7	Reference T7 ICD_codes:10804	R19.8

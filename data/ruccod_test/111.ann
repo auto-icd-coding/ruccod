@@ -1,0 +1,6 @@
+T1	icd_code 0 28	Увеличение щитовидной железы
+N1	Reference T1 ICD_codes:2030	E04.8
+T2	icd_code 43 80	Узловое образование щитовидной железы
+N2	Reference T2 ICD_codes:2028	E04.1
+T3	icd_code 82 90	Эутиреоз
+N3	Reference T3 ICD_codes:2053	E07.9

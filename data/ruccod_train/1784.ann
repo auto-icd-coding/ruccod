@@ -1,0 +1,22 @@
+T1	icd_code 0 52	Хроническая вертебро-базилярная недостаточность 2 ст
+N1	Reference T1 ICD_codes:5611	G45.0
+T2	icd_code 64 106	статическими нарушениями смешанного генеза
+N2	Reference T2 ICD_codes:10841	R27.0
+T3	icd_code 211 254	закрытой травмы шейного отдела позвоночника
+N3	Reference T3 ICD_codes:11269	S10.8
+T4	icd_code 309 334	деформирующего спондилеза
+N4	Reference T4 ICD_codes:8265	M47.8
+T5	icd_code 336 387	левостороннего шейного и н/грудного сколиоза 1 степ
+N5	Reference T5 ICD_codes:8223	M41.5
+T6	icd_code 390 424	шейного остеохондроза позвоночника
+N6	Reference T6 ICD_codes:8228	M42.1
+T7	icd_code 427 441	радикулопатией
+N7	Reference T7 ICD_codes:8309	M54.1
+T8	icd_code 449 490	рефлекторным мышечно-тоническим синдромом
+N8	Reference T8 ICD_codes:8441	M79.1
+T9	icd_code 509 534	динамическими нарушениями
+N9	Reference T9 ICD_codes:10841	R27.0
+T10	icd_code 536 544	ГБ 2 ст.
+N10	Reference T10 ICD_codes:6357	I11
+T11	icd_code 545 565	Гиперхолестеринемия.
+N11	Reference T11 ICD_codes:2355	E78.5

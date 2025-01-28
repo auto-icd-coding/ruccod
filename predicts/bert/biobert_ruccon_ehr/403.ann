@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Бесплодие 1
+T2	icd_code 12 17	Киста
+T3	icd_code 26 33	яичника
+N1	Reference T1 ICD_codes:9100	N97.8
+N2	Reference T2 ICD_codes:7145	K09.9
+N3	Reference T3 ICD_codes:1739	D39.1

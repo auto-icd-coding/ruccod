@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ЦВБ
+T2	icd_code 5 40	Хроническая ишемия  головного мозга
+T3	icd_code 49 62	атеросклероза
+T4	icd_code 69 90	Вестибулярный синдром
+T5	icd_code 92 119	Синдром позвоночной артерии
+N1	Reference T1 ICD_codes:6627	I67.9
+N2	Reference T2 ICD_codes:9978	P91.0
+N3	Reference T3 ICD_codes:6640	I70
+N4	Reference T4 ICD_codes:6266	H82
+N5	Reference T5 ICD_codes:8262	M47.0

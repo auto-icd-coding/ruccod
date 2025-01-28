@@ -1,0 +1,6 @@
+T1	icd_code 1 83	Тендинит передней порции таранно-малоберцовой связки левого голеностопного сустава
+N1	Reference T1 ICD_codes:12054	S93
+T2	icd_code 103 111	 болезнь
+N2	Reference T2 ICD_codes:8756	N20.0
+T3	icd_code 114 125	Нефролитиаз
+N3	Reference T3 ICD_codes:8756	N20.0

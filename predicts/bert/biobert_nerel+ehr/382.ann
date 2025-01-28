@@ -1,0 +1,10 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+T2	icd_code 47 85	Гастроэзофагеальная рефлюксная болезнь
+T3	icd_code 108 112	НЖБП
+T4	icd_code 212 245	язвенная болезнь 12 перстной киши
+T5	icd_code 256 293	деформация луковицы 12 перстной кишки
+N1	Reference T1 ICD_codes:7256	K29.9
+N2	Reference T2 ICD_codes:7191	K21.9
+N3	Reference T3 ICD_codes:2031	E04.9
+N4	Reference T4 ICD_codes:7224	K26.7
+N5	Reference T5 ICD_codes:7500	K82.8

@@ -1,0 +1,6 @@
+T1	icd_code 0 22	ангиопатия сетчатки по
+N1	Reference T1 ICD_codes:6035	H35.0
+T2	icd_code 57 67	пресбиопия
+N2	Reference T2 ICD_codes:6131	H52.4
+T3	icd_code 69 115	субконъюктивальное кровоизлияние правого глаза
+N3	Reference T3 ICD_codes:5913	H11.3

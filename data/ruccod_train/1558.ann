@@ -1,0 +1,8 @@
+T1	icd_code 0 42	Синдром раздраженного кишечника с запорами
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 56 63	Дисбиоз
+N2	Reference T2 ICD_codes:7404	K63.8
+T3	icd_code 68 99	Дискинезия желчевыводящих путей
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 101 126	Дисформия желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8

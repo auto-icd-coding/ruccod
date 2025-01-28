@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Острый бронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 40 49	Бр. астма
+N2	Reference T2 ICD_codes:6941	J45
+T3	icd_code 52 63	Отек Квинке
+N3	Reference T3 ICD_codes:12744	T78.3

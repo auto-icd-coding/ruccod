@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 11 32	Цефалгический синдром
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 67 88	шейного остеохондроза
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 34 58	Головная боль напряжения
+N4	Reference T4 ICD_codes:5606	G44.2
+T5	icd_code 102 125	С-м позвоночной артерии
+N5	Reference T5 ICD_codes:8262	M47.0
+T6	icd_code 127 156	Астено- невротический синдром
+N6	Reference T6 ICD_codes:4936	F48.8

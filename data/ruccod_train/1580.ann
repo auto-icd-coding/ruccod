@@ -1,0 +1,4 @@
+T1	icd_code 0 25	Диффузный фиброаденоматоз
+N1	Reference T1 ICD_codes:8900	N60.2
+T2	icd_code 27 55	Киста правой молочной железы
+N2	Reference T2 ICD_codes:8898	N60.0

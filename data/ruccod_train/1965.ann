@@ -1,0 +1,6 @@
+T1	icd_code 0 28	Распространенная дорсопатия,
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 41 50	Люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 52 75	Вегетативная дисфункция
+N3	Reference T3 ICD_codes:5802	G90.9

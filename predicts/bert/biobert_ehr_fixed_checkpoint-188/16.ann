@@ -1,0 +1,8 @@
+T1	icd_code 1 37	Диффузная дисгормональная мастопатия
+T2	icd_code 50 71	левой молочной железы
+T3	icd_code 73 113	Узловая мастопатия левой молочной железы
+T4	icd_code 123 130	фиброза
+N1	Reference T1 ICD_codes:8899	N60.1
+N2	Reference T2 ICD_codes:10614	Q83.1
+N3	Reference T3 ICD_codes:8899	N60.1
+N4	Reference T4 ICD_codes:2386	E84.9

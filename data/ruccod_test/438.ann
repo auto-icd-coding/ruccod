@@ -1,0 +1,10 @@
+T3	icd_code 46 54	болевого
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 87 111	Острая цервикокраниалгия
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 113 116	ВБН
+N2	Reference T5 ICD_codes:5611	G45.0
+T1	icd_code 0 26	Дорсопатия шейная, грудная
+N1	Reference T1 ICD_codes:8306	M53.9
+T3	icd_code 57 85	мышечно-тонического синдрома
+N3	Reference T3 ICD_codes:8441	M79.1

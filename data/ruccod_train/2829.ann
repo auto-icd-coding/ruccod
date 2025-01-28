@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Диффузный зоб
+N1	Reference T1 ICD_codes:2027	E04.0
+T2	icd_code 15 52	Фокальные изменения щитовидной железы
+N2	Reference T2 ICD_codes:2052	E07.8
+T3	icd_code 86 94	Эутиреоз
+N3	Reference T3 ICD_codes:2052	E07.8

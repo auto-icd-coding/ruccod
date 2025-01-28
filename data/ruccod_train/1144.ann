@@ -1,0 +1,8 @@
+T1	icd_code 35 57	Межреберная невропатия
+N1	Reference T1 ICD_codes:5700	G58.0
+T2	icd_code 23 33	Торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 6 20	Желчная колика
+N3	Reference T3 ICD_codes:7480	K80
+T4	icd_code 0 4	ДЖВП
+N4	Reference T4 ICD_codes:7500	K82.8

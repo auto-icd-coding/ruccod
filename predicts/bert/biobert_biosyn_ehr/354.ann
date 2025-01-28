@@ -1,0 +1,4 @@
+T1	icd_code 33 40	выкидыш
+T2	icd_code 85 107	гиперплазия эндометрия
+N1	Reference T1 ICD_codes:9093	N96
+N2	Reference T2 ICD_codes:9011	N85.0

@@ -1,0 +1,10 @@
+T1	icd_code 0 16	Фибромиома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 52 69	Эндометриоз матки
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 75 90	сальпингоофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 107 122	Тазовые спайки.
+N4	Reference T4 ICD_codes:8927	N73
+T5	icd_code 122 131	Бесплодие
+N5	Reference T5 ICD_codes:9101	N97.9

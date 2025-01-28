@@ -1,0 +1,16 @@
+T1	icd_code 0 21	Аутоимунный тиреоидит
+T2	icd_code 23 33	Гипотиреоз
+T3	icd_code 36 64	Нарушение углеводного обмена
+T4	icd_code 66 88	Инсулинорезистентность
+T5	icd_code 91 105	Гиперкортицизм
+T6	icd_code 108 136	Нарушение кальциевого обмена
+T7	icd_code 139 157	Дефицит витамина D
+T8	icd_code 160 173	Ожирение 2 ст
+N1	Reference T1 ICD_codes:2045	E06.3
+N2	Reference T2 ICD_codes:2025	E03.9
+N3	Reference T3 ICD_codes:2328	E74.9
+N4	Reference T4 ICD_codes:2065	E10.9
+N5	Reference T5 ICD_codes:8573	M94.8
+N6	Reference T6 ICD_codes:2379	E83.5
+N7	Reference T7 ICD_codes:2247	E55.9
+N8	Reference T8 ICD_codes:2282	E66.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Острый ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 25 49	Острый 2хст туботимпанит
+N2	Reference T2 ICD_codes:6216	H68.0
+T3	icd_code 50 65	Конд тугоухость
+N3	Reference T3 ICD_codes:6278	H90.2
+T4	icd_code 66 85	Незаращение тв нёба
+N4	Reference T4 ICD_codes:10256	Q35.0

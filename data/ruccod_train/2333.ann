@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ХОБЛ
+N1	Reference T1 ICD_codes:6940	J44.9
+T2	icd_code 6 19	Пневмосклероз
+N2	Reference T2 ICD_codes:7006	J84.1
+T3	icd_code 21 36	Микролиты почек
+N3	Reference T3 ICD_codes:8756	N20.0

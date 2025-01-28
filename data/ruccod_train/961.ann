@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 41 53	Беременность
+N2	Reference T2 ICD_codes:16796	Z34

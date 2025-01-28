@@ -1,0 +1,6 @@
+T1	icd_code 16 25	простатит
+N1	Reference T1 ICD_codes:8847	N41.1
+T2	icd_code 39 46	уретрит
+N2	Reference T2 ICD_codes:8815	N34
+T3	icd_code 59 77	мочесолевой диатез
+N3	Reference T3 ICD_codes:8759	N20.9

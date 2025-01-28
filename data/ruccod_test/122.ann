@@ -1,0 +1,6 @@
+T1	icd_code 54 79	Гипертрофический  бульбит
+N1	Reference T1 ICD_codes:7255	K29.8
+T2	icd_code 81 85	ДЖВП
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 97 124	деформация желчного пузыря.
+N3	Reference T3 ICD_codes:7494	K82

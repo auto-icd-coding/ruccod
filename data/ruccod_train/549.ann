@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ИБС:
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 9 12	НРС
+N2	Reference T2 ICD_codes:6545	I49.9
+T3	icd_code 14 16	ФП
+N3	Reference T3 ICD_codes:6536	I48
+T4	icd_code 68 71	ГБ3
+N4	Reference T4 ICD_codes:6355	I10
+T5	icd_code 97 112	Последствия ИГМ
+N5	Reference T5 ICD_codes:6633	I69

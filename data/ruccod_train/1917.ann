@@ -1,0 +1,10 @@
+T1	icd_code 12 41	хронического гаймороэтмоидита
+N1	Reference T1 ICD_codes:6880	J32.2
+T2	icd_code 48 53	Ринит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 54 85	Искривление носовой перегородки
+N3	Reference T3 ICD_codes:6893	J34.2
+T4	icd_code 86 152	Признаки деструкции медиальной стенки левой верхнечелюстной пазухи
+N4	Reference T4 ICD_codes:1095	C31.8
+T5	icd_code 153 170	Заболевание  носа
+N5	Reference T5 ICD_codes:6895	J34.8

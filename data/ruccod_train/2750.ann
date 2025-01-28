@@ -1,0 +1,4 @@
+T1	icd_code 0 9	ушной шум
+N1	Reference T1 ICD_codes:6271	H83.3
+T2	icd_code 10 14	ДППГ
+N2	Reference T2 ICD_codes:6260	H81.1

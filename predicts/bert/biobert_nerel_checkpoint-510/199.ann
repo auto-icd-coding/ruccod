@@ -1,0 +1,4 @@
+T1	icd_code 0 8	Поллиноз
+T2	icd_code 56 77	Обструктивный бронхит
+N1	Reference T1 ICD_codes:2646	F06.0
+N2	Reference T2 ICD_codes:6860	J20.9

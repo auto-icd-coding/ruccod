@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Астенотератозооспермия
+N1	Reference T1 ICD_codes:8868	N46
+T2	icd_code 24 35	Аглютинация
+N2	Reference T2 ICD_codes:1858	D59

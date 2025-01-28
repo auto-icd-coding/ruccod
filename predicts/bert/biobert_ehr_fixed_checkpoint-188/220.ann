@@ -1,0 +1,6 @@
+T1	icd_code 0 39	Ангиопатия   сетчатки по дистоническому
+T2	icd_code 95 115	синдром сухого глаза
+T3	icd_code 147 178	васкуляризация лимба обоих глаз
+N1	Reference T1 ICD_codes:6697	I79.2
+N2	Reference T2 ICD_codes:6148	H54.1
+N3	Reference T3 ICD_codes:6755	I89.8

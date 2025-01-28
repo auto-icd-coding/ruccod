@@ -1,0 +1,6 @@
+T1	icd_code 51 62	Камни почек
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 0 36	Хронический цистит, подстрое течение
+N2	Reference T2 ICD_codes:8793	N30.2
+T3	icd_code 38 49	Бактериурия
+N3	Reference T3 ICD_codes:8835	N39

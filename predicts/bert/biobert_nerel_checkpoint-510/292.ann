@@ -1,0 +1,8 @@
+T1	icd_code 0 18	Тендинит сухожилия
+T2	icd_code 51 86	болезненный послеоперационный рубец
+T3	icd_code 156 182	вертеброгенная цервикалгия
+T4	icd_code 184 191	Триггер
+N1	Reference T1 ICD_codes:8426	M76.6
+N2	Reference T2 ICD_codes:9328	O34.2
+N3	Reference T3 ICD_codes:8310	M54.2
+N4	Reference T4 ICD_codes:8794	N30.3

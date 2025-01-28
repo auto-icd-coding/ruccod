@@ -1,0 +1,4 @@
+T1	icd_code 0 35	Дисфункция яичников Гиперандрогения
+T2	icd_code 37 48	Опсоменорея
+N1	Reference T1 ICD_codes:2173	E28.1
+N2	Reference T2 ICD_codes:9083	N94.6

@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Профосмотр
+N1	Reference T1 ICD_codes:16627	Z02.8
+T2	icd_code 12 21	Менопауза
+N2	Reference T2 ICD_codes:9088	N95.1

@@ -1,0 +1,16 @@
+T1	icd_code 0 17	Эндометриоз матки
+N1	Reference T1 ICD_codes:8964	N80.0
+T2	icd_code 20 35	ибромиома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 52 75	Варикоз вен малого таза
+N3	Reference T3 ICD_codes:6734	I86
+T4	icd_code 81 96	сальпингоофорит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 113 128	Хр.эндоцервикоз
+N5	Reference T5 ICD_codes:9021	N86
+T6	icd_code 130 149	Эрозия шейки матки.
+N6	Reference T6 ICD_codes:9022	N87
+T7	icd_code 149 175	Урогенитальный уреаплазмоз
+N7	Reference T7 ICD_codes:324	A63.8
+T1	icd_code 19 35	Фибромиома матки
+N1	Reference T1 ICD_codes:8964	N80.0

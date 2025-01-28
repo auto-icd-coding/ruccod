@@ -1,0 +1,6 @@
+T1	icd_code 13 26	радикулопатия
+N1	Reference T1 ICD_codes:8309	M54.1
+T2	icd_code 42 52	дорсопатия
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 67 73	сколио
+N3	Reference T3 ICD_codes:8217	M41

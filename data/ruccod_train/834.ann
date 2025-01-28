@@ -1,0 +1,10 @@
+T1	icd_code 1 13	Эндоцервикоз
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 17 20	ВПГ
+N2	Reference T2 ICD_codes:471	B00
+T3	icd_code 22 30	Цервицит
+N3	Reference T3 ICD_codes:8926	N72
+T4	icd_code 56 85	Спаечный процесс в малом тазу
+N4	Reference T4 ICD_codes:8934	N73.6
+T5	icd_code 86 89	НЛФ
+N5	Reference T5 ICD_codes:2177	E28.9

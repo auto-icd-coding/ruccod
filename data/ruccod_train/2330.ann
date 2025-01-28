@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Фокальные включения щитовидной железы
+N1	Reference T1 ICD_codes:2052	E07.8
+T2	icd_code 39 52	Тиреотоксикоз
+N2	Reference T2 ICD_codes:2040	E05.9

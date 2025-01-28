@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Торакалгия неясного
+T2	icd_code 30 58	НЦД по гипертоническому типу
+T3	icd_code 60 85	Дорсопатия шейно-грудного
+T4	icd_code 93 105	позвоночника
+N1	Reference T1 ICD_codes:8314	M54.6
+N2	Reference T2 ICD_codes:5801	G90.8
+N3	Reference T3 ICD_codes:8305	M53.8
+N4	Reference T4 ICD_codes:1592	D16.6

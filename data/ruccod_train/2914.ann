@@ -1,0 +1,6 @@
+T1	icd_code 0 29	Ушиб левого коленного сустава
+N1	Reference T1 ICD_codes:11926	S80.0
+T2	icd_code 32 61	Варикозное расширение вен н\к
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 63 66	ХВН
+N3	Reference T3 ICD_codes:6744	I87.2

@@ -1,0 +1,6 @@
+T1	icd_code 19 39	Дерматит  контактный
+N1	Reference T1 ICD_codes:7647	L25
+T2	icd_code 77 99	микотической инфекцией
+N2	Reference T2 ICD_codes:623	B35.8
+T3	icd_code 138 170	Дисгидротический дерматит кистей
+N3	Reference T3 ICD_codes:7676	L30.1

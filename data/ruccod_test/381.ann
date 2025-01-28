@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 67	Остеохондроз  пояснично-крестцового отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 70 81	Спондилолиз
+N3	Reference T3 ICD_codes:8231	M43.0
+T4	icd_code 83 95	антеролистез
+N4	Reference T4 ICD_codes:8232	M43.1
+T5	icd_code 178 202	Вертеброгенная люмбалгия
+N5	Reference T5 ICD_codes:8313	M54.5

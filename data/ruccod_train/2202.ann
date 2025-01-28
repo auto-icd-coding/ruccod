@@ -1,0 +1,12 @@
+T1	icd_code 1 16	Острый фарингит
+N1	Reference T1 ICD_codes:6790	J02.9
+T2	icd_code 18 30	Острый ринит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 32 43	О евстахеит
+N3	Reference T3 ICD_codes:6216	H68.0
+T4	icd_code 65 69	Отит
+N4	Reference T4 ICD_codes:6210	H66.9
+T5	icd_code 91 104	Ацетон в моче
+N5	Reference T5 ICD_codes:2101	E14.1
+T6	icd_code 106 134	Нарушение углеводного обмена
+N6	Reference T6 ICD_codes:9916	P70.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 10	онихомикоз
+N1	Reference T1 ICD_codes:617	B35.1
+T2	icd_code 26 56	панариций брльшого пальца ноги
+N2	Reference T2 ICD_codes:7565	L03.0

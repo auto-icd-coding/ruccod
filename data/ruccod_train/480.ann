@@ -1,0 +1,8 @@
+T1	icd_code 1 11	Силоаденит
+N1	Reference T1 ICD_codes:7156	K11.2
+T2	icd_code 20 31	О. фарингит
+N2	Reference T2 ICD_codes:6790	J02.9
+T3	icd_code 36 59	Подчелюстной лимфаденит
+N3	Reference T3 ICD_codes:7571	L04
+T4	icd_code 69 84	Миозит мышц шеи
+N4	Reference T4 ICD_codes:8317	M60

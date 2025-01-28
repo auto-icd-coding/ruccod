@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Острый ринофарингит
+T2	icd_code 21 33	Коньюнктивит
+T3	icd_code 35 56	Адновирусная инфекция
+T4	icd_code 58 65	Полиноз
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:5908	H10.9
+N3	Reference T3 ICD_codes:607	B34.0
+N4	Reference T4 ICD_codes:6887	J33.1

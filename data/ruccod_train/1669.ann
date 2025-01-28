@@ -1,0 +1,9 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 25	острый назофарингит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 48 59	 евстахеит
+
+N3	Reference T3 ICD_codes:6215	H68
+T4	icd_code 61 80	Аллергический ринит
+N4	Reference T4 ICD_codes:6866	J30

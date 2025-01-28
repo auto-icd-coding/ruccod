@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Гипотиреоз
+N1	Reference T1 ICD_codes:2025	E03.9
+T2	icd_code 15 28	Диффузный зоб
+N2	Reference T2 ICD_codes:2027	E04.0
+T3	icd_code 49 71	Аутоиммунный тиреоидит
+N3	Reference T3 ICD_codes:2045	E06.3

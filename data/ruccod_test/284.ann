@@ -1,0 +1,10 @@
+T1	icd_code 0 50	Варикозное расширение вен правой нижней конечности
+N1	Reference T1 ICD_codes:6715	I83
+T4	icd_code 138 187	Варикозное расширение вен левой нижней конечности
+N4	Reference T4 ICD_codes:6715	I83
+T5	icd_code 208 223	Тромбоцитопения
+N5	Reference T5 ICD_codes:1913	D69.6
+T6	icd_code 74 97	Трофическая пигментация
+N2	Reference T6 ICD_codes:7879	L81.8
+T2	icd_code 100 118	липодерматосклероз
+N3	Reference T2 ICD_codes:7908	L90.8

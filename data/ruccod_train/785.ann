@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Хр. вазомоторный ринит
+N1	Reference T1 ICD_codes:6866	J30
+T2	icd_code 24 52	Хр. субатрофический фарингит
+N2	Reference T2 ICD_codes:6876	J31.2
+T3	icd_code 55 89	Хронический 2-х сторонний гайморит
+N3	Reference T3 ICD_codes:6877	J32

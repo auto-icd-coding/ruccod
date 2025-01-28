@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Дисфункция сфинктера Одди
+N1	Reference T1 ICD_codes:7507	K83.4
+T2	icd_code 57 76	Вторичный ? гастрит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 78 116	Гастроэзофагеальная рефлюксная болезнь
+N3	Reference T3 ICD_codes:7189	K21

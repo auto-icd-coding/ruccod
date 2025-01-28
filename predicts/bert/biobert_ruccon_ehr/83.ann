@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Искривление перегородки носа
+T2	icd_code 31 48	остр назофарингит
+N1	Reference T1 ICD_codes:6893	J34.2
+N2	Reference T2 ICD_codes:6776	J00

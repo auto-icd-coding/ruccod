@@ -1,0 +1,6 @@
+T1	icd_code 26 41	Аллергодерматит
+N1	Reference T1 ICD_codes:7625	L23
+T2	icd_code 43 60	Дисбиоз кишечника
+N2	Reference T2 ICD_codes:7398	K63
+T3	icd_code 62 87	Лактазная недостаточность
+N3	Reference T3 ICD_codes:2316	E73

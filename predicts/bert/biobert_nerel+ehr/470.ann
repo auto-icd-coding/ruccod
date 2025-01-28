@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ЖДА
+T2	icd_code 41 68	Гипертоническая болезнь  II
+T3	icd_code 77 101	Артериальная гипертензия
+T4	icd_code 143 156	Гиперурикемия
+T5	icd_code 174 180	valgus
+N1	Reference T1 ICD_codes:1811	D50.9
+N2	Reference T2 ICD_codes:6359	I11.9
+N3	Reference T3 ICD_codes:6355	I10
+N4	Reference T4 ICD_codes:2360	E79.0
+N5	Reference T5 ICD_codes:8100	M20.1

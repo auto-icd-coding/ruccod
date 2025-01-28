@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Панариций
+N1	Reference T1 ICD_codes:7564	L03
+T2	icd_code 33 47	вросший ноготь
+N2	Reference T2 ICD_codes:7781	L60.0

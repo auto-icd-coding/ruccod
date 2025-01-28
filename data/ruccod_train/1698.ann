@@ -1,0 +1,6 @@
+T1	icd_code 0 17	Спазм аккомодации
+N1	Reference T1 ICD_codes:6126	H52
+T2	icd_code 56 78	ВСД  смешанного генеза
+N2	Reference T2 ICD_codes:5801	G90.8
+T3	icd_code 100 150	Легкие застойные явления со стороны ДЗН обоих глаз
+N3	Reference T3 ICD_codes:6089	H47.1

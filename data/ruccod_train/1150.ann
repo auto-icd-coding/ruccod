@@ -1,0 +1,4 @@
+T1	icd_code 0 15	о.трахеобронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 17 42	о.левосторонняя пневмония
+N2	Reference T2 ICD_codes:6848	J18.9

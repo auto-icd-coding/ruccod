@@ -1,0 +1,14 @@
+T1	icd_code 0 23	Деформирующий спондилез
+N1	Reference T1 ICD_codes:8261	M47
+T2	icd_code 72 79	сколиоз
+N2	Reference T2 ICD_codes:8217	M41
+T3	icd_code 98 123	остеохондроз позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 126 140	радикулопатией
+N4	Reference T4 ICD_codes:8309	M54.1
+T5	icd_code 158 165	цервико
+N5	Reference T5 ICD_codes:8310	M54.2
+T7	icd_code 192 220	мышечно-тонического синдрома
+N7	Reference T7 ICD_codes:8333	M62
+T8	icd_code 313 340	Эссенциальный тремор головы
+N8	Reference T8 ICD_codes:5536	G25

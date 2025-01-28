@@ -1,0 +1,6 @@
+T1	icd_code 1 30	Эндометриоз матки (аденомиоз)
+N1	Reference T1 ICD_codes:8965	N80.1
+T2	icd_code 32 35	ВМС
+N2	Reference T2 ICD_codes:16774	Z30.1
+T3	icd_code 44 52	Цервицит
+N3	Reference T3 ICD_codes:8926	N72

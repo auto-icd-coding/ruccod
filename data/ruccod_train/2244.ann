@@ -1,0 +1,6 @@
+T1	icd_code 0 5	ХЗВНК
+N1	Reference T1 ICD_codes:6744	I87.2
+T2	icd_code 7 50	Варикозная болезнь правой нижней конечности
+N2	Reference T2 ICD_codes:6715	I83
+T2	icd_code 0 50	ХЗВНК. Варикозная болезнь правой нижней конечности
+N2	Reference T2 ICD_codes:6715	I83

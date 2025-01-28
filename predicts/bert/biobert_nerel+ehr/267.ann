@@ -1,0 +1,8 @@
+T1	icd_code 0 32	Гипертоническая болезнь I стадии
+T2	icd_code 33 57	Артериальная гипертензия
+T3	icd_code 78 98	Гипертонический криз
+T4	icd_code 128 151	Железодефицитная анемия
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:6373	I15.9
+N4	Reference T4 ICD_codes:1805	D50

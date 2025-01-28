@@ -1,0 +1,2 @@
+T1	icd_code 0 21	хронический простатит
+N1	Reference T1 ICD_codes:8847	N41.1

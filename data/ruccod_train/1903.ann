@@ -1,0 +1,18 @@
+T1	icd_code 226 259	Гипоплазия  левой доли щитовидной
+N1	Reference T1 ICD_codes:2052	E07.8
+T2	icd_code 219 255	 Гипоплазия  левой доли щитовидной .
+N2	Reference T2 ICD_codes:6719	I83.9
+T3	icd_code 173 190	 Опущение  матки 
+N3	Reference T3 ICD_codes:8976	N81.2
+T4	icd_code 124 155	ронический сальпингит и оофорит
+N4	Reference T4 ICD_codes:8920	N70.1
+T5	icd_code 75 120	Формирующийся микрополип цервикального канала
+N5	Reference T5 ICD_codes:9005	N84.1
+T6	icd_code 50 72	Эндометриоз тела матки
+N6	Reference T6 ICD_codes:8964	N80.0
+T7	icd_code 30 42	Носитель ВПЧ
+N7	Reference T7 ICD_codes:323	A63.0
+T8	icd_code 44 47	ЦМВ
+N8	Reference T8 ICD_codes:579	B25.8
+T9	icd_code 0 15	ПВИ шейки матки
+N9	Reference T9 ICD_codes:323	A63.0

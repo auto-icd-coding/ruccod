@@ -1,0 +1,14 @@
+T1	icd_code 26 37	Цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 0 12	Дорсопатия
+N2	Reference T2 ICD_codes:8307	M54
+T3	icd_code 39 75	Умеренный мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 110 141	Вегетативно-сосудистая дистония
+N4	Reference T4 ICD_codes:5801	G90.8
+T5	icd_code 169 195	вазомоторные головные боли
+N5	Reference T5 ICD_codes:5603	G44
+T6	icd_code 197 221	головные боли напряжения
+N6	Reference T6 ICD_codes:5606	G44.2
+T7	icd_code 223 237	вестибулопатия
+N7	Reference T7 ICD_codes:6258	H81

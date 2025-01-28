@@ -1,0 +1,4 @@
+T1	icd_code 15 30	тораколюмбалгия
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 40 68	мышечно-тоническим синдромом
+N2	Reference T2 ICD_codes:8441	M79.1

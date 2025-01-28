@@ -1,0 +1,4 @@
+T1	icd_code 0 43	Травматическое повреждение слизистой вульвы
+N1	Reference T1 ICD_codes:11459	S31.4
+T2	icd_code 45 52	Вульвит
+N2	Reference T2 ICD_codes:8952	N76.2

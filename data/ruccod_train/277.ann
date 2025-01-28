@@ -1,0 +1,6 @@
+T1	icd_code 5 18	Гиперметропия
+N1	Reference T1 ICD_codes:6127	H52.0
+T2	icd_code 35 44	Астенопия
+N2	Reference T2 ICD_codes:6135	H53
+T3	icd_code 46 66	Синдром сухого глаза
+N3	Reference T3 ICD_codes:5877	H04.1

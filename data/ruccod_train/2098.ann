@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Искривление носовой перегорордки
+N1	Reference T1 ICD_codes:6893	J34.2
+T2	icd_code 34 81	Буллезная трансформация правой носовой раковины
+N2	Reference T2 ICD_codes:6895	J34.8
+T3	icd_code 83 92	Невралгия
+N3	Reference T3 ICD_codes:8442	M79.2
+T4	icd_code 111 142	болевой синдром лицевой области
+N4	Reference T4 ICD_codes:5638	G50.0
+T5	icd_code 144 150	мигрен
+N5	Reference T5 ICD_codes:5602	G43.9
+T6	icd_code 158 184	мышечно-тонического генеза
+N6	Reference T6 ICD_codes:8441	M79.1

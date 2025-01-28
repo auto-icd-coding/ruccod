@@ -1,0 +1,4 @@
+T1	icd_code 0 59	Острый веретброгенный поясничный мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 71 80	люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4

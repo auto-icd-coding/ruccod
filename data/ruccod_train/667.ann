@@ -1,0 +1,5 @@
+T2	icd_code 34 45	о.тонзиллит
+N2	Reference T2 ICD_codes:6791	J03
+T1	icd_code 0 16	о.ларинготрахеит
+N1	Reference T1 ICD_codes:6795	J04
+N3	Reference T1 ICD_codes:6798	J04.2

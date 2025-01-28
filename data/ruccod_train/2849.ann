@@ -1,0 +1,8 @@
+T1	icd_code 10 20	гемофтальм
+N1	Reference T1 ICD_codes:6065	H43.1
+T2	icd_code 26 37	Факосклероз
+N2	Reference T2 ICD_codes:5996	H27.8
+T3	icd_code 40 68	Ангиосклероз гипертонический
+N3	Reference T3 ICD_codes:6044	H35.9
+T4	icd_code 72 91	Офтальмогипертензия
+N4	Reference T4 ICD_codes:6058	H40.9

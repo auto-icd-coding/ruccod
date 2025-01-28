@@ -1,0 +1,6 @@
+T1	icd_code 0 28	Хроническая язвенная болезнь
+T2	icd_code 64 67	НР-
+T3	icd_code 139 165	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7224	K26.7
+N2	Reference T2 ICD_codes:974	C06.9
+N3	Reference T3 ICD_codes:7256	K29.9

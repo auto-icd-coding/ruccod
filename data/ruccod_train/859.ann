@@ -1,0 +1,8 @@
+T1	icd_code 0 15	Полипы ц\канала
+N1	Reference T1 ICD_codes:9003	N84
+T2	icd_code 18 30	Эндоцервикоз
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 33 54	Киста правого яичника
+N3	Reference T3 ICD_codes:8995	N83.2
+T4	icd_code 56 59	ФКМ
+N4	Reference T4 ICD_codes:1646	D24

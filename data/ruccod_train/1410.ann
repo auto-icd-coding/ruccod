@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Липома спины
+N1	Reference T1 ICD_codes:1596	D17
+T2	icd_code 51 75	Гигрома тыла левой стопы
+N2	Reference T2 ICD_codes:8370	M67.4
+T3	icd_code 14 49	Фибролипома передней брюшной стенки
+N3	Reference T3 ICD_codes:1605	D17.9

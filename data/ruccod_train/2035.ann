@@ -1,0 +1,10 @@
+T1	icd_code 0 2	ГБ
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 24 45	Гипертонический криз
+N2	Reference T2 ICD_codes:6622	I67.4
+T3	icd_code 55 58	ХСН
+N3	Reference T3 ICD_codes:6547	I50.0
+T4	icd_code 64 83	Гиперхолестеринемия
+N4	Reference T4 ICD_codes:2350	E78.0
+T5	icd_code 85 125	С-м вертебро-базиллярной недостаточности
+N5	Reference T5 ICD_codes:5611	G45.0

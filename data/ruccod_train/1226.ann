@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8316	M54.9
+T2	icd_code 13 53	Остеохондроз шейного отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 55 71	Болевой  синдром
+N3	Reference T3 ICD_codes:10930	R52
+T4	icd_code 73 84	Цервикалгия
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 87 110	С-м позвоночной артерии
+N5	Reference T5 ICD_codes:8262	M47.0

@@ -1,0 +1,14 @@
+T1	icd_code 12 21	дорспатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 35 44	Люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 46 58	Остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 60 69	спондилез
+N4	Reference T4 ICD_codes:8261	M47
+T5	icd_code 71 78	сколиоз
+N5	Reference T5 ICD_codes:8225	M41.9
+T6	icd_code 81 107	Мышечно-тонический синдром
+N6	Reference T6 ICD_codes:8441	M79.1
+T7	icd_code 109 127	Пиелонефрит острый
+N7	Reference T7 ICD_codes:8707	N11.0

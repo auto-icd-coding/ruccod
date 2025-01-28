@@ -1,0 +1,4 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 27 55	ВСД по гипертоническому типу
+N2	Reference T2 ICD_codes:4923	F45.3

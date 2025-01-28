@@ -1,0 +1,4 @@
+T1	icd_code 0 40	Посттравматическая нейропатия срединного
+N1	Reference T1 ICD_codes:5684	G56.2
+T2	icd_code 42 56	лучевого нерва
+N2	Reference T2 ICD_codes:5685	G56.3

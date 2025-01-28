@@ -1,0 +1,8 @@
+T1	icd_code 13 26	астродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 50 54	ДЖВП
+N2	Reference T2 ICD_codes:7281	K38.9
+T3	icd_code 78 111	аномалия строения желчного пузыря
+N3	Reference T3 ICD_codes:10331	Q44
+T4	icd_code 113 160	функциональное нарушение кишечника неуточненное
+N4	Reference T4 ICD_codes:10331	Q44

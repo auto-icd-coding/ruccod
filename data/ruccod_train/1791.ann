@@ -1,0 +1,14 @@
+T1	icd_code 0 19	Дисфункция яичников
+N1	Reference T1 ICD_codes:2177	E28.9
+T2	icd_code 22 35	Вульвовагинит
+N2	Reference T2 ICD_codes:8951	N76.1
+T3	icd_code 47 50	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 57 60	ВПЧ
+N4	Reference T4 ICD_codes:928	B97.7
+T5	icd_code 52 55	ЦМВ
+N5	Reference T5 ICD_codes:580	B25.9
+T6	icd_code 65 78	Хр. аднексит.
+N6	Reference T6 ICD_codes:8920	N70.1
+T7	icd_code 80 105	Хр. рецидивирующий цистит
+N7	Reference T7 ICD_codes:8792	N30.1

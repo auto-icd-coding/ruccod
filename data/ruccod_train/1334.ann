@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 12 21	Люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 30 85	остеохондроза пояснично-крестцового отдела позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 87 102	болевой синдром
+N4	Reference T4 ICD_codes:10933	R52.2
+T5	icd_code 104 124	Деформирующий артроз
+N5	Reference T5 ICD_codes:8092	M19.0

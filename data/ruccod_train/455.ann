@@ -1,0 +1,16 @@
+T1	icd_code 0 26	хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 76 79	ЖКБ
+N2	Reference T2 ICD_codes:7480	K80
+T3	icd_code 153 167	желчной колики
+N3	Reference T3 ICD_codes:7480	K80
+T4	icd_code 181 192	панкреатит,
+N4	Reference T4 ICD_codes:7515	K86.2
+T5	icd_code 193 205	киста печени
+N5	Reference T5 ICD_codes:7475	K76.8
+T6	icd_code 208 239	хронический колит неуточнённого
+N6	Reference T6 ICD_codes:7332	K52
+T7	icd_code 248 273	гипокинезия толстой кишки
+N7	Reference T7 ICD_codes:7372	K59.8
+T2	icd_code 81 116	хронический калькулёзный холецистит
+N2	Reference T2 ICD_codes:7480	K80

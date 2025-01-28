@@ -1,0 +1,8 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 40 43	ДЭП
+N2	Reference T2 ICD_codes:5816	G93.4
+T3	icd_code 50 53	ХВН
+N3	Reference T3 ICD_codes:6744	I87.2
+T4	icd_code 55 92	Варикозная болезнь нижних конечностей
+N4	Reference T4 ICD_codes:6715	I83

@@ -1,0 +1,6 @@
+T1	icd_code 1 21	Катаральный эзофагит
+N1	Reference T1 ICD_codes:7187	K20
+T2	icd_code 36 49	астродуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T1	icd_code 23 49	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7187	K20

@@ -1,0 +1,24 @@
+T1	icd_code 11 43	посттравматического ОА левого КС
+T2	icd_code 56 69	тендиноза ПКС
+T3	icd_code 79 124	разрыва экструдированного медиального мениска
+T4	icd_code 172 175	ССН
+T5	icd_code 191 215	медиопателлярной складки
+T6	icd_code 218 243	латеральной гиперпрессией
+T7	icd_code 260 264	отёк
+T8	icd_code 300 304	отёк
+T9	icd_code 337 346	лимфостаз
+T10	icd_code 360 373	почечный отёк
+T11	icd_code 393 434	Двустороннее комбинированное плоскостопие
+T12	icd_code 478 510	недостаточности перфорантных вен
+N1	Reference T1 ICD_codes:8079	M17.3
+N2	Reference T2 ICD_codes:8355	M65.4
+N3	Reference T3 ICD_codes:8128	M23.2
+N4	Reference T4 ICD_codes:6378	I20.8
+N5	Reference T5 ICD_codes:1029	C16.5
+N6	Reference T6 ICD_codes:10747	R03.0
+N7	Reference T7 ICD_codes:10954	R60.9
+N8	Reference T8 ICD_codes:10954	R60.9
+N9	Reference T9 ICD_codes:6747	I88
+N10	Reference T10 ICD_codes:8751	N18.8
+N11	Reference T11 ICD_codes:8111	M21.4
+N12	Reference T12 ICD_codes:6745	I87.8

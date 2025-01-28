@@ -1,0 +1,10 @@
+T1	icd_code 17 27	дорсопатия
+T2	icd_code 87 98	цервикалгия
+T3	icd_code 101 127	мышечно-тонический синдром
+T4	icd_code 129 151	синдром акропарестезии
+T5	icd_code 171 195	Артериальная гипертензия
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:10809	R20.2
+N5	Reference T5 ICD_codes:6355	I10

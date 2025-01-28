@@ -1,0 +1,4 @@
+T1	icd_code 0 23	НМЦ по типу метроррагии
+N1	Reference T1 ICD_codes:9064	N92
+T2	icd_code 24 55	Рубцовая деформация шейки матки
+N2	Reference T2 ICD_codes:9027	N88

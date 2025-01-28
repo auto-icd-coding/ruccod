@@ -1,0 +1,4 @@
+T1	icd_code 0 59	Cиндром вегетативно- сосудистой дистонии по смешанному типу
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 97 111	Вестибулопатия
+N2	Reference T2 ICD_codes:6266	H82

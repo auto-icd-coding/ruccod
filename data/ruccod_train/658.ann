@@ -1,0 +1,10 @@
+T1	icd_code 0 22	Халазион верхнего века
+N1	Reference T1 ICD_codes:5854	H00.1
+T2	icd_code 50 61	астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2
+T3	icd_code 38 49	Миопический
+N3	Reference T3 ICD_codes:6128	H52.1
+T4	icd_code 90 103	ЦХРД сетчатки
+N4	Reference T4 ICD_codes:6034	H35
+T5	icd_code 117 144	Ангиопатия сосудов сетчатки
+N5	Reference T5 ICD_codes:6035	H35.0

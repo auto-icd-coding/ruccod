@@ -1,0 +1,9 @@
+T1	icd_code 38 55	Мышечная дистония
+N1	Reference T1 ICD_codes:5527	G24
+N4	Reference T1 ICD_codes:5535	G24.9
+T2	icd_code 71 81	паратрофии
+N2	Reference T2 ICD_codes:2292	E67.8
+T3	icd_code 0 34	Задержка темпов моторного развития
+N3	Reference T3 ICD_codes:5384	F82
+T3	icd_code 0 35	Задержка темпов моторного развития.
+N3	Reference T3 ICD_codes:5384	F82

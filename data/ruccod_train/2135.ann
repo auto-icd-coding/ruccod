@@ -1,0 +1,14 @@
+T1	icd_code 0 9	Дорсоптия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 10 65	Остеохондроз пояснично- крестцового отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 69 78	спондилез
+N3	Reference T3 ICD_codes:8266	M47.9
+T4	icd_code 80 94	спондилоартроз
+N4	Reference T4 ICD_codes:8240	M45
+T5	icd_code 152 161	люмбалгии
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 96 116	Протрузии м/п дисков
+N6	Reference T6 ICD_codes:8298	M51.8
+T7	icd_code 183 210	Невралгия затылочного нерва
+N7	Reference T7 ICD_codes:5656	G52.8

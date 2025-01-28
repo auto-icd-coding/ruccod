@@ -1,0 +1,10 @@
+T1	icd_code 0 25	ОРИ по типу ринофарингита
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 27 41	трахеобронхита
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 44 96	Нормохромная анемия легкой степени (железодефицитная
+N3	Reference T3 ICD_codes:1805	D50
+T4	icd_code 100 103	МКБ
+N4	Reference T4 ICD_codes:8756	N20.0
+T5	icd_code 104 115	Оксалатурия
+N5	Reference T5 ICD_codes:11033	R82.9

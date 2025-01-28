@@ -1,0 +1,8 @@
+T1	icd_code 0 17	Подострый кольпит
+N1	Reference T1 ICD_codes:8951	N76.1
+T2	icd_code 26 44	Эрозия шейки матки
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 50 102	Менопаузальные и климактерические состояния у женщин
+N3	Reference T3 ICD_codes:9088	N95.1
+T4	icd_code 116 145	 выпадение матки и придатков.
+N4	Reference T4 ICD_codes:8976	N81.2

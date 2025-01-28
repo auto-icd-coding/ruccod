@@ -1,0 +1,6 @@
+T1	icd_code 39 47	Эутиреоз
+N1	Reference T1 ICD_codes:2031	E04.9
+T2	icd_code 49 70	Избыточная масса тела
+N2	Reference T2 ICD_codes:2286	E66.9
+T3	icd_code 96 115	Гиперхолестеринемия
+N3	Reference T3 ICD_codes:2354	E78.4

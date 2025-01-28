@@ -1,0 +1,5 @@
+T1	icd_code 0 3	НЦД
+N1	Reference T1 ICD_codes:4923	F45.3
+N3	Reference T1 ICD_codes:4919	F45
+T2	icd_code 44 83	генерализованное тревожное расстройство
+N2	Reference T2 ICD_codes:4880	F41.1

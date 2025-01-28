@@ -1,0 +1,6 @@
+T1	icd_code 94 130	Наружное искривление большого пальца
+N1	Reference T1 ICD_codes:8100	M20.1
+T2	icd_code 0 42	Артрозо-артрит  плюсне-фаланговых суставов
+N2	Reference T2 ICD_codes:8091	M19
+T3	icd_code 57 90	Продольно-поперечное плоскостопие
+N3	Reference T3 ICD_codes:8113	M21.6

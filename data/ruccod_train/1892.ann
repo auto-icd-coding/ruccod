@@ -1,0 +1,18 @@
+T1	icd_code 164 195	Синдром раздраженного кишечника
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 196 248	Синдром избыточного бактериального роста в кишечнике
+N2	Reference T2 ICD_codes:10804	R19.8
+T3	icd_code 0 19	Хронический гастрит
+N3	Reference T3 ICD_codes:7250	K29.3
+T4	icd_code 70 78	дисхолия
+N4	Reference T4 ICD_codes:7520	K87.0
+T5	icd_code 121 136	Опущение печени
+N5	Reference T5 ICD_codes:7476	K76.9
+T6	icd_code 137 162	Гиперкинез сфинктера Одди
+N6	Reference T6 ICD_codes:7507	K83.4
+T7	icd_code 70 78	дисхолия
+N7	Reference T7 ICD_codes:7500	K82.8
+T8	icd_code 60 69	Дисформия
+N8	Reference T8 ICD_codes:7500	K82.8
+T4	icd_code 79 120	полип низкорасположенного желчного пузыря
+N4	Reference T4 ICD_codes:7520	K87.0

@@ -1,0 +1,6 @@
+T1	icd_code 0 30	Острый верхнечелюстной синусит
+N1	Reference T1 ICD_codes:6780	J01.0
+T2	icd_code 32 51	острый ринофарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 53 84	Искривление носовой перегородки
+N3	Reference T3 ICD_codes:6893	J34.2

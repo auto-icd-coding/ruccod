@@ -1,0 +1,4 @@
+T1	icd_code 0 9	пиодермия
+N1	Reference T1 ICD_codes:7581	L08
+T2	icd_code 10 20	фолликулит
+N2	Reference T2 ICD_codes:7853	L73.9

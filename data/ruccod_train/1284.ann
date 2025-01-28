@@ -1,0 +1,10 @@
+T1	icd_code 0 26	хронический антрум-гастрит
+N1	Reference T1 ICD_codes:7253	K29.6
+T2	icd_code 79 100	хронический  дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 119 147	спаечная болезнь бр. полости
+N3	Reference T3 ICD_codes:7412	K66.0
+T4	icd_code 148 181	Подслизистое образование пищевода
+N4	Reference T4 ICD_codes:1563	D13
+T5	icd_code 183 206	хронический энтероколит
+N5	Reference T5 ICD_codes:7324	K51.0

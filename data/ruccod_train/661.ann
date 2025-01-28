@@ -1,0 +1,22 @@
+T1	icd_code 0 18	Хронический  колит
+N1	Reference T1 ICD_codes:7337	K52.9
+T2	icd_code 44 63	Хронический гастрит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 93 116	Хронический  холецистит
+N3	Reference T3 ICD_codes:7493	K81.9
+T4	icd_code 138 142	ДЖВП
+N4	Reference T4 ICD_codes:7281	K38.9
+T5	icd_code 155 170	Хр.  панкреатит
+N5	Reference T5 ICD_codes:7515	K86.2
+T6	icd_code 193 205	С-м Жильбера
+N6	Reference T6 ICD_codes:2369	E80.4
+T7	icd_code 236 239	СРК
+N7	Reference T7 ICD_codes:7363	K58
+T8	icd_code 310 327	Полип анастомоза.
+N8	Reference T8 ICD_codes:7398	K63
+T9	icd_code 328 339	Долихосигма
+N9	Reference T9 ICD_codes:10320	Q43
+T10	icd_code 341 353	Дисбактериоз
+N10	Reference T10 ICD_codes:7398	K63
+T11	icd_code 366 369	ЖДА
+N11	Reference T11 ICD_codes:1805	D50

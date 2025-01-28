@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 32 75	Дисфункция яичников репродуктивного периода
+N2	Reference T2 ICD_codes:2171	E28
+T3	icd_code 101 116	Гиперэстрогения
+N3	Reference T3 ICD_codes:2173	E28.1
+T4	icd_code 118 158	Хронический 2х сторонний сальпингоофорит
+N4	Reference T4 ICD_codes:8920	N70.1

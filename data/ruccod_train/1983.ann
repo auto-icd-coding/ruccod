@@ -1,0 +1,10 @@
+T1	icd_code 87 90	ЖКБ
+N1	Reference T1 ICD_codes:7487	K80.5
+T2	icd_code 99 110	гельминтозы
+N2	Reference T2 ICD_codes:852	B83
+T3	icd_code 52 66	Дискинезия ЖВП
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 30 41	Хр.гастрит,
+N4	Reference T4 ICD_codes:7250	K29.3
+T5	icd_code 0 15	О.гастроэнтерит
+N5	Reference T5 ICD_codes:7332	K52

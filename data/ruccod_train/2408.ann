@@ -1,0 +1,4 @@
+T1	icd_code 0 14	О. нзофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 36 46	О. бронхит
+N2	Reference T2 ICD_codes:6849	J20

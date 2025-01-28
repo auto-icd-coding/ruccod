@@ -1,0 +1,12 @@
+T1	icd_code 43 63	Астенический синдром
+T2	icd_code 65 83	Дефицит массы тела
+T3	icd_code 92 126	Гиперсекреция паращитовидных желез
+T4	icd_code 128 143	гиперпаратиреоз
+T5	icd_code 196 214	Дефицит витамина Д
+T6	icd_code 318 341	Железодефицитная анемия
+N1	Reference T1 ICD_codes:2798	F06.67
+N2	Reference T2 ICD_codes:2267	E63
+N3	Reference T3 ICD_codes:2130	E21.4
+N4	Reference T4 ICD_codes:2129	E21.3
+N5	Reference T5 ICD_codes:2247	E55.9
+N6	Reference T6 ICD_codes:1805	D50

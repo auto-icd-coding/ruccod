@@ -1,0 +1,4 @@
+T1	icd_code 2 30	Функциональное нарушение ЖКТ
+N1	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 32 56	Нарушение обмена веществ
+N2	Reference T2 ICD_codes:2411	E88.9

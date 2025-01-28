@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Вегетативная дисфункция
+N1	Reference T1 ICD_codes:5802	G90.9
+T2	icd_code 54 83	мигренеподобные головные боли
+N2	Reference T2 ICD_codes:5603	G44

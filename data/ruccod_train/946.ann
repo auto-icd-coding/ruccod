@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ЭШМ
+N1	Reference T1 ICD_codes:9022	N87
+T2	icd_code 4 14	ПВИ 16 тип
+N2	Reference T2 ICD_codes:323	A63.0
+T2	icd_code 15 50	Папилломатоз аногенитальной области
+N2	Reference T2 ICD_codes:323	A63.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 13	Острый цистит
+N1	Reference T1 ICD_codes:8791	N30.0
+T2	icd_code 16 31	Хр. пиелонефрит
+N2	Reference T2 ICD_codes:8709	N11.8

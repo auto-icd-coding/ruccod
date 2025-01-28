@@ -1,0 +1,6 @@
+T1	icd_code 0 30	Тендосиновит коленных суставов
+N1	Reference T1 ICD_codes:8357	M65.9
+T2	icd_code 49 58	Лимфостаз
+N2	Reference T2 ICD_codes:6752	I89
+T3	icd_code 60 93	продольно-поперечное плоскостопие
+N3	Reference T3 ICD_codes:8111	M21.4

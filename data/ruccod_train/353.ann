@@ -1,0 +1,6 @@
+T1	icd_code 0 15	Синдром Горнера
+N1	Reference T1 ICD_codes:5799	G90.2
+T2	icd_code 51 73	Субарахнодальная киста
+N2	Reference T2 ICD_codes:5799	G90.2
+T3	icd_code 111 120	рыжа диск
+N3	Reference T3 ICD_codes:8295	M51.2

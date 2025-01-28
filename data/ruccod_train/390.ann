@@ -1,0 +1,6 @@
+T1	icd_code 0 9	Аденомиоз
+N1	Reference T1 ICD_codes:8964	N80.0
+T2	icd_code 37 51	сальпингоофори
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 81 87	Цистит
+N3	Reference T3 ICD_codes:8791	N30.0

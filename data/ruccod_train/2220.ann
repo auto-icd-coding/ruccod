@@ -1,0 +1,4 @@
+T1	icd_code 0 44	Острый левостронний  верхнечелюстной синусит
+N1	Reference T1 ICD_codes:6780	J01.0
+T2	icd_code 45 67	острый фаринголарингит
+N2	Reference T2 ICD_codes:6803	J06.0

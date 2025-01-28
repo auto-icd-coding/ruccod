@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Затяжной вазомоторный ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+T2	icd_code 29 57	Полипозно-кистозный гайморит
+N2	Reference T2 ICD_codes:6877	J32
+T3	icd_code 66 80	Кистогранулемы
+N3	Reference T3 ICD_codes:7914	L92

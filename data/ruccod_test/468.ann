@@ -1,0 +1,10 @@
+T1	icd_code 0 13	Тромбоципения
+N1	Reference T1 ICD_codes:1913	D69.6
+T2	icd_code 51 77	Плечелопаточный периартрит
+N2	Reference T2 ICD_codes:8417	M75.8
+T3	icd_code 78 136	Реактивный артрит левого плечевого сустава стрептококковой
+N3	Reference T3 ICD_codes:8042	M13
+T4	icd_code 149 169	Деформирующий артроз
+N4	Reference T4 ICD_codes:8091	M19
+T5	icd_code 178 205	Пролапс митрального клапана
+N5	Reference T5 ICD_codes:6452	I34.1

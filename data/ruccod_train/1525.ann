@@ -1,0 +1,6 @@
+T1	icd_code 0 36	Функциональное нарушение пищеварения
+N1	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 39 89	Последствия гипоксически-ишемической энцефалопатии
+N2	Reference T2 ICD_codes:5810	G92
+T3	icd_code 91 116	Синдром мышечной дистонии
+N3	Reference T3 ICD_codes:8441	M79.1

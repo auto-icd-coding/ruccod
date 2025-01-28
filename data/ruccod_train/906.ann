@@ -1,0 +1,12 @@
+T1	icd_code 6 15	трахеит..
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 33 53	катаральный гайморит
+N2	Reference T2 ICD_codes:6786	J01.9
+T3	icd_code 56 59	НЦД
+N3	Reference T3 ICD_codes:4919	F45
+T4	icd_code 99 126	пароксизмальной тахикардии.
+N4	Reference T4 ICD_codes:6535	I47.9
+T5	icd_code 136 145	Сколиоз г
+N5	Reference T5 ICD_codes:8217	M41
+T6	icd_code 179 195	Торако-люмбалгии
+N6	Reference T6 ICD_codes:8313	M54.5

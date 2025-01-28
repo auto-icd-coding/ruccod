@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7480	K80
+T2	icd_code 55 76	Функциональные запоры
+N2	Reference T2 ICD_codes:7366	K59

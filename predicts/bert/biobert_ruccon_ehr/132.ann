@@ -1,0 +1,8 @@
+T1	icd_code 0 19	острый средний отит
+T2	icd_code 38 49	евстахеит с
+T3	icd_code 72 90	вазомоторный ринит
+T4	icd_code 93 114	хронический тонзиллит
+N1	Reference T1 ICD_codes:6210	H66.9
+N2	Reference T2 ICD_codes:6216	H68.0
+N3	Reference T3 ICD_codes:6868	J30.0
+N4	Reference T4 ICD_codes:6897	J35.0

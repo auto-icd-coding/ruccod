@@ -1,0 +1,10 @@
+T1	icd_code 0 52	Герпесвирусиндуцированное иммунодефицитное состояние
+N1	Reference T1 ICD_codes:1989	D84.8
+T2	icd_code 69 90	Рецидивирующий герпес
+N2	Reference T2 ICD_codes:471	B00
+T3	icd_code 116 119	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 154 197	Аллергический риноконъюктивит  неуточненный
+N4	Reference T4 ICD_codes:5902	H10.1
+T5	icd_code 199 218	Ревматоидный артрит
+N5	Reference T5 ICD_codes:7999	M06.9

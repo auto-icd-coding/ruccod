@@ -1,0 +1,6 @@
+T1	icd_code 27 33	Цистит
+N1	Reference T1 ICD_codes:8789	N30
+T2	icd_code 0 25	Кандидозный вульвовагинит
+N2	Reference T2 ICD_codes:636	B37.3
+T3	icd_code 35 61	Урогенитальный уреаплазмоз
+N3	Reference T3 ICD_codes:324	A63.8

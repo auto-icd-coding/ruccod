@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Гидронефроз
+N1	Reference T1 ICD_codes:8713	N13.0
+T2	icd_code 38 60	Программный гемодиализ
+N2	Reference T2 ICD_codes:16908	Z49

@@ -1,0 +1,2 @@
+T1	icd_code 0 13	Кровохарканье
+N1	Reference T1 ICD_codes:10752	R04.2

@@ -1,0 +1,8 @@
+T1	icd_code 0 22	Нарушения ритма сердца
+N1	Reference T1 ICD_codes:6545	I49.9
+T2	icd_code 24 46	Нарушения проводимости
+N2	Reference T2 ICD_codes:6526	I45.9
+T3	icd_code 49 72	Артериальная гипотензия
+N3	Reference T3 ICD_codes:6763	I95.9
+T4	icd_code 74 110	Синкопальный эпизод не ясного генеза
+N4	Reference T4 ICD_codes:10937	R55

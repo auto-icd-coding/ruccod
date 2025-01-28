@@ -1,0 +1,4 @@
+T1	icd_code 0 22	полип анального канала
+N1	Reference T1 ICD_codes:7388	K62.0
+T2	icd_code 0 24	полип анального канала с
+N2	Reference T2 ICD_codes:7393	K62.5

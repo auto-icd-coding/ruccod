@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Дискогенная цервикалгия
+T2	icd_code 38 66	мышечно-тоническим синдромом
+T3	icd_code 68 91	Смешенная энцефалопатия
+N1	Reference T1 ICD_codes:8310	M54.2
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:5816	G93.4

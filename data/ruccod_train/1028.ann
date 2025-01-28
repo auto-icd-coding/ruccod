@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Острый ринофаринголарингит
+N1	Reference T1 ICD_codes:6796	J04.0
+T2	icd_code 36 81	левосторонний острый средний катаральный отит
+N2	Reference T2 ICD_codes:6205	H66.0

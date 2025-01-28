@@ -1,0 +1,6 @@
+T1	icd_code 0 32	Доброкачествнные новообразования
+T2	icd_code 69 97	кератома области спинки носа
+T3	icd_code 110 119	гиперемия
+N1	Reference T1 ICD_codes:1636	D23
+N2	Reference T2 ICD_codes:1173	C46.2
+N3	Reference T3 ICD_codes:10824	R23.2

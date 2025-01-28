@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 17	Вагинит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 19 23	ИППП
+N3	Reference T3 ICD_codes:325	A64
+T4	icd_code 25 46	Бактериальный вагиноз
+N4	Reference T4 ICD_codes:9035	N89
+T5	icd_code 47 72	Климактерический синдром,
+N5	Reference T5 ICD_codes:9086	N95

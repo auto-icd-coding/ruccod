@@ -1,0 +1,16 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8960	N77.1
+T2	icd_code 0 28	Вульвовагинит уреаплазменной
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 41 53	Носитель ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 64 90	Невынашивание беременности
+N4	Reference T4 ICD_codes:9265	O26.2
+T5	icd_code 152 157	кисты
+N5	Reference T5 ICD_codes:8995	N83.2
+T6	icd_code 99 138	 образование в области левых придатков 
+N6	Reference T6 ICD_codes:8995	N83.2
+T7	icd_code 175 197	параовариальной кистой
+N7	Reference T7 ICD_codes:10347	Q50
+T8	icd_code 205 213	аднексит
+N8	Reference T8 ICD_codes:8917	N70

@@ -1,0 +1,4 @@
+T1	icd_code 0 56	Врастание ногтевой пластинки большого пальца левой стопы
+N1	Reference T1 ICD_codes:7781	L60.0
+T2	icd_code 81 91	паронихией
+N2	Reference T2 ICD_codes:7565	L03.0

@@ -1,0 +1,4 @@
+T1	icd_code 27 36	этмоидита
+N1	Reference T1 ICD_codes:6782	J01.2
+T2	icd_code 72 82	евстахиита
+N2	Reference T2 ICD_codes:6215	H68

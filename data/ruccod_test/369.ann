@@ -1,0 +1,10 @@
+T1	icd_code 19 53	Контактный аллергический  дерматит
+N1	Reference T1 ICD_codes:7625	L23
+T2	icd_code 87 105	Пиодермия кожи шеи
+N2	Reference T2 ICD_codes:7582	L08.0
+T3	icd_code 109 126	Угревая   болезнь
+N3	Reference T3 ICD_codes:7828	L70
+T4	icd_code 149 159	Паратиреоз
+N5	Reference T4 ICD_codes:2129	E21.3
+T5	icd_code 161 170	Тиреоидит
+N4	Reference T5 ICD_codes:2048	E06.9

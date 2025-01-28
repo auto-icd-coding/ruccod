@@ -1,0 +1,10 @@
+T1	icd_code 0 9	Дорзалгия
+N1	Reference T1 ICD_codes:8316	M54.9
+T2	icd_code 10 65	Остеохондроз пояснично- крестцового отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 129 144	грыжа МПД L4-L5
+N3	Reference T3 ICD_codes:8294	M51.1
+T4	icd_code 156 173	радикулопатия L5 
+N4	Reference T4 ICD_codes:8294	M51.1
+T5	icd_code 184 211	 выраженный болевой синдром
+N5	Reference T5 ICD_codes:8441	M79.1

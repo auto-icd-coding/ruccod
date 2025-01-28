@@ -1,0 +1,2 @@
+T1	icd_code 0 31	Полип эндометрия. Кровотечение.
+N1	Reference T1 ICD_codes:9004	N84.0

@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Двусторонний тубоотит
+N1	Reference T1 ICD_codes:6216	H68.0
+T2	icd_code 24 64	Острый двусторонний катаральный гайморит
+N2	Reference T2 ICD_codes:6779	J01
+T3	icd_code 67 87	Аденоидные вегетации
+N3	Reference T3 ICD_codes:6901	J35.8
+T4	icd_code 89 111	Респираторный аллергоз
+N4	Reference T4 ICD_codes:6945	J45.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 15	Кистома яичника
+N1	Reference T1 ICD_codes:8995	N83.2
+T2	icd_code 16 33	Полип шейки матки
+N2	Reference T2 ICD_codes:9005	N84.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 20 34	Острый синусит
+N2	Reference T2 ICD_codes:6779	J01
+T3	icd_code 39 61	Папиллома мягкого неба
+N3	Reference T3 ICD_codes:1544	D10.5

@@ -1,0 +1,2 @@
+T1	icd_code 0 15	Угревой элемент
+N1	Reference T1 ICD_codes:7829	L70.0

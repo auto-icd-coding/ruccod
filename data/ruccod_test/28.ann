@@ -1,0 +1,6 @@
+T1	icd_code 0 65	Артроз 1 пл фалангового сустава 1 пальца левой стопы неуточненный
+N1	Reference T1 ICD_codes:8095	M19.8
+T2	icd_code 68 88	Подагрический артрит
+N2	Reference T2 ICD_codes:8022	M10.0
+T3	icd_code 100 102	РА
+N3	Reference T3 ICD_codes:7999	M06.9

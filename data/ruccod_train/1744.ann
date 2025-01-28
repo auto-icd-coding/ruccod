@@ -1,0 +1,8 @@
+T1	icd_code 0 17	Хронический колит
+N1	Reference T1 ICD_codes:7324	K51.0
+T2	icd_code 31 71	Синдром избыточного бактериального роста
+N2	Reference T2 ICD_codes:10804	R19.8
+T3	icd_code 124 142	Реактивный гепатит
+N3	Reference T3 ICD_codes:7462	K75.2
+T4	icd_code 72 110	 Хронический некалькулезный холецистит
+N4	Reference T4 ICD_codes:7483	K80.1

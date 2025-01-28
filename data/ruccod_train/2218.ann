@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Эпикондилит ЛС
+N1	Reference T1 ICD_codes:8431	M77.0
+T2	icd_code 17 32	Сахарный диабет
+N2	Reference T2 ICD_codes:2099	E14
+T3	icd_code 34 49	Хр. пиелонефрит
+N3	Reference T3 ICD_codes:8707	N11.0

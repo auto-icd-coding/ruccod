@@ -1,0 +1,6 @@
+T1	icd_code 4 16	артериоспазм
+N1	Reference T1 ICD_codes:6665	I73
+T2	icd_code 34 40	миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 58 67	астенопия
+N3	Reference T3 ICD_codes:6138	H53.1

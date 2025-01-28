@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Остеохондроз
+T2	icd_code 90 99	протрузии
+T3	icd_code 113 140	грыжи межпозвоночных дисков
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:7377	K60.2
+N3	Reference T3 ICD_codes:8295	M51.2

@@ -1,0 +1,4 @@
+T1	icd_code 11 31	хп.периодонтита зуба
+N1	Reference T1 ICD_codes:7104	K04.5
+T2	icd_code 37 66	Состояние после удаления зуба
+N2	Reference T2 ICD_codes:7135	K08.1

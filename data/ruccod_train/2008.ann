@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Соматически здоров
+N1	Reference T1 ICD_codes:16596	Z00
+T2	icd_code 20 52	Функциональный систолический шум
+N2	Reference T2 ICD_codes:10743	R01.1

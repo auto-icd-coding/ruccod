@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 23 47	Эрозивный гастродуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 49 64	Эрозивный колит
+N3	Reference T3 ICD_codes:7330	K51.8
+T4	icd_code 66 69	СРК
+N4	Reference T4 ICD_codes:7365	K58.9
+T5	icd_code 71 83	Дизбактериоз
+N5	Reference T5 ICD_codes:7398	K63
+T6	icd_code 86 93	запором
+N6	Reference T6 ICD_codes:7367	K59.0
+T7	icd_code 95 98	НЯК
+N7	Reference T7 ICD_codes:7331	K51.9

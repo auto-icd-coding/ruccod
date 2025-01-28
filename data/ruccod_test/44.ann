@@ -1,0 +1,8 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8755	N20-N23
+T2	icd_code 4 45	обострение хронического цистопиелонефрита
+N2	Reference T2 ICD_codes:8707	N11.0
+T3	icd_code 46 55	Дорсалгия
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 56 82	нейрогенный мочевой пузырь
+N4	Reference T4 ICD_codes:8801	N31.2

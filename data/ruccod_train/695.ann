@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Вертеброгенная цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 35 52	остеохондроза ШОП
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 66 98	мышечно-тоничексими проявлениями
+N3	Reference T3 ICD_codes:8333	M62

@@ -1,0 +1,10 @@
+T1	icd_code 0 20	Острый трахеобронхит
+N1	Reference T1 ICD_codes:6849	J20
+T3	icd_code 67 78	Риносинусит
+N3	Reference T3 ICD_codes:6779	J01
+T4	icd_code 80 99	Аллергический ринит
+N4	Reference T4 ICD_codes:6872	J30.4
+T2	icd_code 31 35	ОРВИ
+N2	Reference T2 ICD_codes:6777	J00-J06
+T5	icd_code 37 56	острый назофарингит
+N5	Reference T5 ICD_codes:6776	J00

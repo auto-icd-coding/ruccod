@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Внутренний геморрой
+N1	Reference T1 ICD_codes:6723	I84.2
+T2	icd_code 42 49	Проктит
+N2	Reference T2 ICD_codes:7396	K62.8
+T3	icd_code 50 60	сфинктерит
+N3	Reference T3 ICD_codes:7396	K62.8

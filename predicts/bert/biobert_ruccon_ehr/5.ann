@@ -1,0 +1,16 @@
+T1	icd_code 0 3	ИБС
+T2	icd_code 5 31	Нарушение сердечного ритма
+T3	icd_code 33 54	фибрилляция пресердий
+T4	icd_code 56 77	пароксизмальная форма
+T5	icd_code 78 84	ХСН НК
+T6	icd_code 88 111	Гипертоническая болезнь
+T7	icd_code 130 142	Дислипидемия
+T8	icd_code 144 158	Гипертрофия ЛЖ
+N1	Reference T1 ICD_codes:6406	I25
+N2	Reference T2 ICD_codes:6545	I49.9
+N3	Reference T3 ICD_codes:6536	I48
+N4	Reference T4 ICD_codes:6260	H81.1
+N5	Reference T5 ICD_codes:6547	I50.0
+N6	Reference T6 ICD_codes:6359	I11.9
+N7	Reference T7 ICD_codes:2354	E78.4
+N8	Reference T8 ICD_codes:6541	I49.3

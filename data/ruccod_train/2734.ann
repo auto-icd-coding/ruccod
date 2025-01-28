@@ -1,0 +1,8 @@
+T1	icd_code 0 29	Острый  обструктивный бронхит
+N1	Reference T1 ICD_codes:6936	J44
+T2	icd_code 53 61	Кашлевая
+N2	Reference T2 ICD_codes:10755	R05
+T3	icd_code 68 70	БА
+N3	Reference T3 ICD_codes:6941	J45
+T4	icd_code 72 97	Сенсебилизация к цветению
+N4	Reference T4 ICD_codes:6869	J30.1

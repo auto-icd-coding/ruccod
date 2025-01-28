@@ -1,0 +1,16 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+T2	icd_code 47 85	Гастроэзофагеальная рефлюксная болезнь
+T3	icd_code 96 105	эзофагита
+T4	icd_code 108 112	НЖБП
+T5	icd_code 122 130	стеатоза
+T6	icd_code 166 176	Ожирение 3
+T7	icd_code 212 231	язвенная болезнь 12
+T8	icd_code 247 275	рубцовая деформация луковицы
+N1	Reference T1 ICD_codes:7256	K29.9
+N2	Reference T2 ICD_codes:7191	K21.9
+N3	Reference T3 ICD_codes:7187	K20
+N4	Reference T4 ICD_codes:2031	E04.9
+N5	Reference T5 ICD_codes:777	B65.9
+N6	Reference T6 ICD_codes:2282	E66.0
+N7	Reference T7 ICD_codes:7224	K26.7
+N8	Reference T8 ICD_codes:5937	H17

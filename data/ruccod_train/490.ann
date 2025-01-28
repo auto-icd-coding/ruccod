@@ -1,0 +1,5 @@
+T1	icd_code 0 14	Папилломы тела
+T2	icd_code 15 25	Гемангиома
+N2	Reference T2 ICD_codes:1607	D18.0
+T3	icd_code 43 60	Сенильное лентиго
+N3	Reference T3 ICD_codes:7875	L81.4

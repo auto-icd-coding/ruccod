@@ -1,0 +1,8 @@
+T1	icd_code 0 38	Заболевание надпочечников неуточненное
+N1	Reference T1 ICD_codes:2170	E27.9
+T2	icd_code 41 84	Гормонально активная опухоль надпочечников.
+N2	Reference T2 ICD_codes:1703	D35.0
+T3	icd_code 84 98	Эндокринная АГ
+N3	Reference T3 ICD_codes:6371	I15.2
+T4	icd_code 109 147	-конституциональное морбидное ожирение
+N4	Reference T4 ICD_codes:2282	E66.0

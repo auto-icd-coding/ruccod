@@ -1,0 +1,4 @@
+T1	icd_code 109 127	Дефицит витамина Д
+N1	Reference T1 ICD_codes:2247	E55.9
+T2	icd_code 0 29	Постменопаузальный остеопороз
+N2	Reference T2 ICD_codes:8461	M81.0

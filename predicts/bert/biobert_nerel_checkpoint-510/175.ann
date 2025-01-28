@@ -1,0 +1,14 @@
+T1	icd_code 0 27	Распространенная дорсопатия
+T2	icd_code 47 72	поражением шейного отдела
+T3	icd_code 87 98	цервикалгия
+T4	icd_code 101 127	мышечно-тонический синдром
+T5	icd_code 129 151	синдром акропарестезии
+T6	icd_code 153 163	обострение
+T7	icd_code 171 195	Артериальная гипертензия
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:11307	S14.1
+N3	Reference T3 ICD_codes:8310	M54.2
+N4	Reference T4 ICD_codes:8441	M79.1
+N5	Reference T5 ICD_codes:10809	R20.2
+N6	Reference T6 ICD_codes:12781	T81.9
+N7	Reference T7 ICD_codes:6355	I10

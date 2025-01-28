@@ -1,0 +1,10 @@
+T1	icd_code 102 113	Цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 90 100	Торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 78 88	Дорсопатия
+N3	Reference T3 ICD_codes:8315	M54.8
+T4	icd_code 50 61	Хр фарингит
+N4	Reference T4 ICD_codes:6876	J31.2
+T5	icd_code 0 19	Хронический бронхит
+N5	Reference T5 ICD_codes:6929	J42

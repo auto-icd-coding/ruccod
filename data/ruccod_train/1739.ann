@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Миопия сл.ст.обоих глаз
+N1	Reference T1 ICD_codes:6128	H52.1
+T2	icd_code 24 54	Деструкция стекловидного тела 
+N2	Reference T2 ICD_codes:6062	H43
+T3	icd_code 65 108	Ангиопатия сетчатки по гипотоническому типу
+N3	Reference T3 ICD_codes:6144	H53.8

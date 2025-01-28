@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 66 83	ХСН 2 А ст., ФК 2
+N2	Reference T2 ICD_codes:6547	I50.0
+T3	icd_code 43 64	Синусовая брадикардия
+N3	Reference T3 ICD_codes:10738	R00.1
+T4	icd_code 86 108	Сахарный диабет 2 типа
+N4	Reference T4 ICD_codes:2066	E11
+T5	icd_code 128 136	Ожирение
+N5	Reference T5 ICD_codes:2286	E66.9

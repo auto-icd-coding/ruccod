@@ -1,0 +1,14 @@
+T1	icd_code 0 31	Язвенная болезнь луковицы 12п.к
+N1	Reference T1 ICD_codes:7224	K26.7
+T2	icd_code 91 120	Хронический эрозивный гастрит
+N2	Reference T2 ICD_codes:7247	K29.0
+T3	icd_code 162 223	Гастроэзофагеальная рефлюксная болезнь с эрозивным эзофагитом
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 224 227	ЖКБ
+N4	Reference T4 ICD_codes:7480	K80
+T5	icd_code 33 69	хронический геморрагический дуоденит
+N5	Reference T5 ICD_codes:7255	K29.8
+T6	icd_code 240 280	Хронический билиарнозависимый панкреатит
+N6	Reference T6 ICD_codes:7514	K86.1
+T7	icd_code 300 319	Полипы слепой кишки
+N7	Reference T7 ICD_codes:7404	K63.8

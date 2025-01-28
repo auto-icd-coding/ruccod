@@ -1,0 +1,4 @@
+T1	icd_code 1 39	Эссенциальная артериальная гипертензия
+T2	icd_code 53 55	АГ
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6355	I10

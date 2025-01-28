@@ -1,0 +1,4 @@
+T1	icd_code 0 54	Новообразование слизистой внутренней поверхности языка
+N1	Reference T1 ICD_codes:1540	D10.1
+T2	icd_code 56 65	папиллома
+N2	Reference T2 ICD_codes:928	B97.7

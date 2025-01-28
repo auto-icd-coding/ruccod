@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ХОБЛ
+N1	Reference T1 ICD_codes:6936	J44
+T2	icd_code 6 17	бронх.астма
+N2	Reference T2 ICD_codes:6941	J45
+T3	icd_code 26 28	ДН
+N3	Reference T3 ICD_codes:7045	J96
+T4	icd_code 33 50	АГ 2 стад.,риск 3
+N4	Reference T4 ICD_codes:6359	I11.9
+T5	icd_code 51 54	ХСН
+N5	Reference T5 ICD_codes:6546	I50

@@ -1,0 +1,10 @@
+T1	icd_code 191 213	Пресбиопия обоих глаз.
+N1	Reference T1 ICD_codes:6131	H52.4
+T2	icd_code 57 63	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 95 129	Астигматизм смешанный левого глаза
+N3	Reference T3 ICD_codes:6126	H52
+T4	icd_code 0 54	Гипертоническая ангиопатия сосудов сетчатки обоих глаз
+N4	Reference T4 ICD_codes:6144	H53.8
+T5	icd_code 132 152	Синдром сухого глаза
+N5	Reference T5 ICD_codes:5877	H04.1

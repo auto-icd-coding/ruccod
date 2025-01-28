@@ -1,0 +1,4 @@
+T1	icd_code 0 29	МКБ:Камень левого мочеточника
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 31 46	Почечная колика
+N2	Reference T2 ICD_codes:8768	N23

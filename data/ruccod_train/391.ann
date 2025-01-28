@@ -1,0 +1,16 @@
+T1	icd_code 0 5	ГЭРБ.
+N1	Reference T1 ICD_codes:7189	K21
+T2	icd_code 6 22	Рефлюкс-эзофагит
+N2	Reference T2 ICD_codes:7189	K21
+T3	icd_code 24 33	Грыжа ПОД
+N3	Reference T3 ICD_codes:7305	K44
+T4	icd_code 45 53	гастрит.
+N4	Reference T4 ICD_codes:7246	K29
+T5	icd_code 54 61	Бульбит
+N5	Reference T5 ICD_codes:7255	K29.8
+T6	icd_code 64 91	уодено-гастральный рефлюкс.
+N6	Reference T6 ICD_codes:7258	K31
+T7	icd_code 91 108	СРК с метеоризмом
+N7	Reference T7 ICD_codes:7363	K58
+T8	icd_code 110 169	Синдром избыточного бактериального роста в тонком кишечнике
+N8	Reference T8 ICD_codes:10796	R19

@@ -1,0 +1,10 @@
+T1	icd_code 0 24	Хроничееский пиелонефрит
+T2	icd_code 38 61	Гидронефроз обеих почек
+T3	icd_code 67 85	Хронический цистит
+T4	icd_code 100 120	Мочекаменная болезнь
+T5	icd_code 121 130	Микролиты
+N1	Reference T1 ICD_codes:8707	N11.0
+N2	Reference T2 ICD_codes:8715	N13.2
+N3	Reference T3 ICD_codes:8793	N30.2
+N4	Reference T4 ICD_codes:8755	N20-N23
+N5	Reference T5 ICD_codes:16206	Y40.3

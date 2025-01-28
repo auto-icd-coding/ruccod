@@ -1,0 +1,4 @@
+T1	icd_code 0 16	Папилломы на шее
+N1	Reference T1 ICD_codes:1641	D23.4
+T2	icd_code 17 42	Сальные кисты на коже лба
+N2	Reference T2 ICD_codes:7846	L72.8

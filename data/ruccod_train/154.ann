@@ -1,0 +1,13 @@
+T1	icd_code 0 22	Хронический холецистит
+N1	Reference T1 ICD_codes:7490	K81.0
+T2	icd_code 44 48	ДЖВП
+N2	Reference T2 ICD_codes:7281	K38.9
+T3	icd_code 72 94	Хронический панкреатит
+N3	Reference T3 ICD_codes:7515	K86.2
+T4	icd_code 116 121	НАЖБП
+N4	Reference T4 ICD_codes:7467	K76.0
+T5	icd_code 146 149	СРК
+N5	Reference T5 ICD_codes:7363	K58
+T6	icd_code 185 204	Хронический гастрит
+N6	Reference T6 ICD_codes:7246	K29
+T7	icd_code 205 207	НР

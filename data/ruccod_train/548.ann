@@ -1,0 +1,10 @@
+T1	icd_code 0 30	Кистозная дегенерация яичников
+N1	Reference T1 ICD_codes:8995	N83.2
+T2	icd_code 33 36	АГС
+N2	Reference T2 ICD_codes:2153	E25
+T3	icd_code 39 52	пролактенемия
+N3	Reference T3 ICD_codes:2134	E22.1
+T4	icd_code 54 93	Диффузные изменения в щитовидной железе
+N4	Reference T4 ICD_codes:2018	E03.0
+T5	icd_code 96 105	Пиодермия
+N5	Reference T5 ICD_codes:7581	L08

@@ -1,0 +1,6 @@
+T1	icd_code 1 20	Острый назофарингит
+T2	icd_code 22 61	Хронический правосторонний средний отит
+T3	icd_code 63 73	обострение
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6210	H66.9
+N3	Reference T3 ICD_codes:12781	T81.9

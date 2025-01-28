@@ -1,0 +1,12 @@
+T1	icd_code 0 65	Нарушение ритма сердца : синусовая тахикардия неуточненого генеза
+N1	Reference T1 ICD_codes:6535	I47.9
+T2	icd_code 68 114	Нейроциркуляторная дистония по смешанному типу
+N2	Reference T2 ICD_codes:5801	G90.8
+T3	icd_code 116 144	Астено-невротический синдром
+N3	Reference T3 ICD_codes:4936	F48.8
+T4	icd_code 146 160	Тонзиллэктомия
+N4	Reference T4 ICD_codes:6896	J35
+T5	icd_code 163 187	Ревматоидный полиартрит,
+N5	Reference T5 ICD_codes:7998	M06.8
+T6	icd_code 204 220	Эутиреоидный зоб
+N6	Reference T6 ICD_codes:2030	E04.8

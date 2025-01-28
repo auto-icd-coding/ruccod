@@ -1,0 +1,10 @@
+T1	icd_code 20 32	астигматизм,
+N1	Reference T1 ICD_codes:6129	H52.2
+T2	icd_code 8 19	миопический
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 44 52	атаракта
+N3	Reference T3 ICD_codes:5985	H26
+T4	icd_code 54 73	ангиопатия сетчатки
+N4	Reference T4 ICD_codes:6035	H35.0
+T5	icd_code 75 95	Хронический блефарит
+N5	Reference T5 ICD_codes:5856	H01.0

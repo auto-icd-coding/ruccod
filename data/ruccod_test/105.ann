@@ -1,0 +1,4 @@
+T1	icd_code 0 25	Остеохондроз позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 40 62	Хронический холецистит
+N2	Reference T2 ICD_codes:7491	K81.1

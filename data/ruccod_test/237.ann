@@ -1,0 +1,18 @@
+T1	icd_code 0 26	Вертеброгеннaя цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 28 41	люмбоишиалгия
+N2	Reference T2 ICD_codes:8313	M54.5
+T3	icd_code 104 133	Дисцикуляторная энцефалопатия
+N3	Reference T3 ICD_codes:5816	G93.4
+T4	icd_code 198 241	синдром вертебро-базилярной недостаточности
+N4	Reference T4 ICD_codes:5611	G45.0
+T5	icd_code 243 246	ИБС
+N5	Reference T5 ICD_codes:6406	I25
+T6	icd_code 248 255	ГБ 3ст.
+N6	Reference T6 ICD_codes:6359	I11.9
+T7	icd_code 256 259	ДЭП
+N7	Reference T7 ICD_codes:5816	G93.4
+T8	icd_code 261 264	ХБП
+N8	Reference T8 ICD_codes:8749	N18
+T9	icd_code 270 297	Многоуловой токсический зоб
+N9	Reference T9 ICD_codes:2035	E05.2

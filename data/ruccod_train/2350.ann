@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ХЗВ
+N1	Reference T1 ICD_codes:6744	I87.2
+T2	icd_code 62 125	острого тромбофлебита большой подкожной вены голени и н/3 бедра
+N2	Reference T2 ICD_codes:6701	I80.0

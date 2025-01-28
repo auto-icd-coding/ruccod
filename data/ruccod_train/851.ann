@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Кандидозный вульвагинит
+N1	Reference T1 ICD_codes:636	B37.3
+T2	icd_code 24 32	цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 33 36	УГИ
+N3	Reference T3 ICD_codes:8949	N76

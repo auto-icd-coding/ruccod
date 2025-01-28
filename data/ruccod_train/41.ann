@@ -1,0 +1,6 @@
+T1	icd_code 27 50	поперченое плоскостопие
+N1	Reference T1 ICD_codes:8111	M21.4
+T2	icd_code 0 23	Продольное плоскостопие
+N2	Reference T2 ICD_codes:8111	M21.4
+T3	icd_code 54 85	сколиотическая установка осанки
+N3	Reference T3 ICD_codes:8217	M41

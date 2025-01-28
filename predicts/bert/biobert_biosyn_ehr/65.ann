@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Моторные,вокальные тики
+T2	icd_code 31 79	Вертеброгенный мышечно-тонический синдром правой
+T3	icd_code 97 109	спины справа
+N1	Reference T1 ICD_codes:5433	F95.1
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:8214	M40.3

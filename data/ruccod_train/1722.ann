@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 5 24	Хронический бронхит
+N2	Reference T2 ICD_codes:6929	J42
+T3	icd_code 38 60	хронический панкреатит
+N3	Reference T3 ICD_codes:7514	K86.1
+T4	icd_code 106 143	Хронический некалькулезный холецистит
+N4	Reference T4 ICD_codes:7491	K81.1
+T5	icd_code 73 92	хронический гастрит
+N5	Reference T5 ICD_codes:7250	K29.3

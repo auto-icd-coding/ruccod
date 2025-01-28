@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Лимфоцитоз неуточненный
+N1	Reference T1 ICD_codes:1922	D72.8
+T2	icd_code 25 51	Повышенное СОЭ неуточненое
+N2	Reference T2 ICD_codes:10981	R70.0

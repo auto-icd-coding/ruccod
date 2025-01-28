@@ -1,0 +1,5 @@
+T1	icd_code 0 19	Себорейный дерматит
+N1	Reference T1 ICD_codes:7623	L21.9
+T2	icd_code 38 55	
+Угревая болезнь,
+N2	Reference T2 ICD_codes:7836	L70.9

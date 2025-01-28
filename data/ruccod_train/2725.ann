@@ -1,0 +1,4 @@
+T1	icd_code 0 43	Кератмоы себорейные на тыле кисти и голенях
+N1	Reference T1 ICD_codes:7881	L82
+T2	icd_code 44 72	Беспигментыне невусы на лице
+N2	Reference T2 ICD_codes:6691	I78.1

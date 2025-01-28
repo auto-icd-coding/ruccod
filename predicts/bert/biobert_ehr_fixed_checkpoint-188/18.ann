@@ -1,0 +1,10 @@
+T1	icd_code 2 12	Дорсопатия
+T2	icd_code 18 19	-
+T3	icd_code 36 52	Нестабильность в
+T4	icd_code 73 105	Вертеброгенная цервикоторакалгия
+T5	icd_code 107 143	болевой и мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:12199	T10.+.0
+N3	Reference T3 ICD_codes:8303	M53.2
+N4	Reference T4 ICD_codes:8310	M54.2
+N5	Reference T5 ICD_codes:8441	M79.1

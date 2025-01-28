@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6777	J00-J06
+T2	icd_code 5 30	о.правосторонний кат.отит
+N2	Reference T2 ICD_codes:6198	H65.0

@@ -1,0 +1,6 @@
+T1	icd_code 45 63	Киста правой почки
+N1	Reference T1 ICD_codes:8782	N28.1
+T2	icd_code 32 43	Бактериурия
+N2	Reference T2 ICD_codes:8835	N39
+T3	icd_code 0 18	Хронический цистит
+N3	Reference T3 ICD_codes:8793	N30.2

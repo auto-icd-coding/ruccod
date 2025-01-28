@@ -1,0 +1,8 @@
+T1	icd_code 0 5	Рахит
+N1	Reference T1 ICD_codes:2245	E55
+T2	icd_code 37 87	Последствия гипоксически-ишемической энцефалопатии
+N2	Reference T2 ICD_codes:9978	P91.0
+T3	icd_code 88 109	С-м мышечной дистонии
+N3	Reference T3 ICD_codes:5535	G24.9
+T4	icd_code 111 119	с-м ПНРВ
+N4	Reference T4 ICD_codes:5714	G60.9

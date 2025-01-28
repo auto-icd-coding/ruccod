@@ -1,0 +1,12 @@
+T1	icd_code 142 174	хронический билиарный панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 176 188	дизбактериоз
+N2	Reference T2 ICD_codes:7404	K63.8
+T3	icd_code 137 140	ЖКБ
+N3	Reference T3 ICD_codes:7480	K80
+T4	icd_code 85 99	Стеатоз печени
+N4	Reference T4 ICD_codes:7475	K76.8
+T5	icd_code 53 83	Липоматоз поджелудочной железы
+N5	Reference T5 ICD_codes:7515	K86.2
+T6	icd_code 2 33	Язвенная болезнь культи желудка
+N6	Reference T6 ICD_codes:7210	K25.3

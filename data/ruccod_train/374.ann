@@ -1,0 +1,5 @@
+T1	icd_code 0 11	Хр. оофорит
+N1	Reference T1 ICD_codes:8920	N70.1
+N3	Reference T1 ICD_codes:8920	N70.1
+T2	icd_code 35 65	Папилломатоз слизистой  уретры
+N2	Reference T2 ICD_codes:8819	N34.3

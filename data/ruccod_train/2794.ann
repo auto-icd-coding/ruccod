@@ -1,0 +1,8 @@
+T1	icd_code 0 48	Цервикокраниалгия с мышечно-тоническим синдромом
+N1	Reference T1 ICD_codes:5606	G44.2
+T2	icd_code 57 98	остеохондроза шейного отдела позвоночника
+N2	Reference T2 ICD_codes:8226	M42
+T3	icd_code 99 126	Синдром позвоночной артерии
+N3	Reference T3 ICD_codes:8262	M47.0
+T4	icd_code 148 178	Головная боль напряженной типа
+N4	Reference T4 ICD_codes:5606	G44.2

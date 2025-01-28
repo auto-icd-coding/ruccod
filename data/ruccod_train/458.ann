@@ -1,0 +1,6 @@
+T1	icd_code 0 20	Острый назофарингит.
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 30	Аденоидит
+N2	Reference T2 ICD_codes:6896	J35
+T3	icd_code 31 53	Гипертрофия л/г кольца
+N3	Reference T3 ICD_codes:6900	J35.3

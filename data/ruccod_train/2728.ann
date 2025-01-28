@@ -1,0 +1,14 @@
+T1	icd_code 0 7	Псориаз
+N1	Reference T1 ICD_codes:7692	L40.9
+T2	icd_code 10 35	Псориатическая артропатия
+N2	Reference T2 ICD_codes:8004	M07.3
+T3	icd_code 38 58	Подагрический артрит
+N3	Reference T3 ICD_codes:8048	M14.0
+T4	icd_code 61 95	Дефартроз левого коленного сустава
+N4	Reference T4 ICD_codes:8081	M17.5
+T5	icd_code 122 125	МКБ
+N5	Reference T5 ICD_codes:8756	N20.0
+T6	icd_code 126 140	Хр пиелонефрит
+N6	Reference T6 ICD_codes:8707	N11.0
+T7	icd_code 142 166	Артериальная гипертензия
+N7	Reference T7 ICD_codes:10747	R03.0

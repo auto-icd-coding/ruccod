@@ -1,0 +1,4 @@
+T1	icd_code 0 15	Хронич ларингит
+N1	Reference T1 ICD_codes:6905	J37.0
+T2	icd_code 36 65	Хронич гипертрофический ринит
+N2	Reference T2 ICD_codes:6874	J31.0

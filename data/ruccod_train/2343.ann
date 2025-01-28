@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Аллергический глоссит
+N1	Reference T1 ICD_codes:7178	K14.0
+T2	icd_code 23 49	Хронический гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 75 93	Хроническая ЯБЛДПК
+N3	Reference T3 ICD_codes:7216	K26

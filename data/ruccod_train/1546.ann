@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Острый гнойный полисинусит
+N1	Reference T1 ICD_codes:6785	J01.8
+T2	icd_code 52 79	Острый катаральный фарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 93 116	Правосторонний тубоотит
+N3	Reference T3 ICD_codes:6215	H68
+T4	icd_code 130 143	Острый трахеи
+N4	Reference T4 ICD_codes:6797	J04.1

@@ -1,0 +1,4 @@
+T1	icd_code 9 23	вокальные тики
+T2	icd_code 31 72	Вертеброгенный мышечно-тонический синдром
+N1	Reference T1 ICD_codes:5435	F95.8
+N2	Reference T2 ICD_codes:8441	M79.1

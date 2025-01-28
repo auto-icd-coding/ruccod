@@ -1,0 +1,10 @@
+T1	icd_code 0 30	Острая задняя аналньая трещина
+T2	icd_code 32 47	Болевой синдром
+T3	icd_code 49 52	ВЗК
+T4	icd_code 54 59	Колит
+T5	icd_code 61 73	Дисбактериоз
+N1	Reference T1 ICD_codes:7375	K60.0
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:7405	K63.9
+N4	Reference T4 ICD_codes:7337	K52.9
+N5	Reference T5 ICD_codes:7404	K63.8

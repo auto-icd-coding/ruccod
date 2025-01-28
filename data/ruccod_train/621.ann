@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Состояние после РДВ
+N1	Reference T1 ICD_codes:9012	N85.1
+T2	icd_code 21 41	Патология эндометрия
+N2	Reference T2 ICD_codes:9010	N85

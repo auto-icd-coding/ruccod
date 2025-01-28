@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Диффузный зоб 1ст. эутиреоз
+N1	Reference T1 ICD_codes:2027	E04.0
+T3	icd_code 49 52	АГС
+N3	Reference T3 ICD_codes:2153	E25
+T2	icd_code 30 46	Гиперинсулинемия
+N2	Reference T2 ICD_codes:2410	E88.8

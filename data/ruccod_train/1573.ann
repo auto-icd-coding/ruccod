@@ -1,0 +1,8 @@
+T1	icd_code 0 22	Многоузловой зоб 0 ст.
+N1	Reference T1 ICD_codes:2029	E04.2
+T2	icd_code 24 44	первичный гипотиреоз
+N2	Reference T2 ICD_codes:2024	E03.8
+T3	icd_code 46 71	Сахарный диабет 2-го типа
+N3	Reference T3 ICD_codes:2076	E11.9
+T4	icd_code 93 111	Избыток массы тела
+N4	Reference T4 ICD_codes:2285	E66.8

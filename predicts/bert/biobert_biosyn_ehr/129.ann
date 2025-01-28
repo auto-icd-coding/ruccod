@@ -1,0 +1,10 @@
+T1	icd_code 0 9	О вагинит
+T2	icd_code 11 19	цервицит
+T3	icd_code 21 28	Полип ц
+T4	icd_code 29 35	канала
+T5	icd_code 37 48	Миома матки
+N1	Reference T1 ICD_codes:8950	N76.0
+N2	Reference T2 ICD_codes:8926	N72
+N3	Reference T3 ICD_codes:9005	N84.1
+N4	Reference T4 ICD_codes:1055	C21.1
+N5	Reference T5 ICD_codes:1647	D25

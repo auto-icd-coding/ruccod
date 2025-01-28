@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 45 57	остеохондроз
+T3	icd_code 62 87	Нестабильность  позвонков
+T4	icd_code 89 129	грыжа - протрузия межпозвонкового дисков
+T5	icd_code 145 171	мышечно-тонический синдром
+T6	icd_code 181 198	цервикобрахиалгии
+T7	icd_code 203 221	Корешковый синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8228	M42.1
+N3	Reference T3 ICD_codes:8303	M53.2
+N4	Reference T4 ICD_codes:8298	M51.8
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:8310	M54.2
+N7	Reference T7 ICD_codes:5674	G54.9

@@ -1,0 +1,14 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 17 28	Миома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 48 63	сальпингоофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 135 148	токсоплазмозу
+N4	Reference T4 ICD_codes:756	B58
+T5	icd_code 145 160	ВПГ 1.2 типа,хр
+N5	Reference T5 ICD_codes:471	B00
+T6	icd_code 163 178	р.ст.ВПГ 2 типа
+N6	Reference T6 ICD_codes:471	B00
+T7	icd_code 81 85	ЦМВИ
+N7	Reference T7 ICD_codes:574	B25

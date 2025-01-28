@@ -1,0 +1,4 @@
+T1	icd_code 0 38	Острая респираторная вирусная инфекция
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 64 107	Острый катаральный средний 2 сторонний отит
+N2	Reference T2 ICD_codes:16453	Y66

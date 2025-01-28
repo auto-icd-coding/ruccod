@@ -1,0 +1,6 @@
+T1	icd_code 41 51	Анизокория
+N1	Reference T1 ICD_codes:6158	H57.0
+T2	icd_code 0 6	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 19 38	Деструкция ст. тела
+N3	Reference T3 ICD_codes:6062	H43

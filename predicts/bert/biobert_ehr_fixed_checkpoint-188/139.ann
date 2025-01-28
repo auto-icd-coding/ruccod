@@ -1,0 +1,10 @@
+T1	icd_code 0 13	Анизометропия
+T2	icd_code 15 36	Смешанный астигматизм
+T3	icd_code 56 65	амблиопия
+T4	icd_code 66 89	Вертикальное косоглазие
+T5	icd_code 91 110	Ангиопатия сетчатки
+N1	Reference T1 ICD_codes:6130	H52.3
+N2	Reference T2 ICD_codes:6129	H52.2
+N3	Reference T3 ICD_codes:6137	H53.0
+N4	Reference T4 ICD_codes:6113	H50.2
+N5	Reference T5 ICD_codes:6035	H35.0

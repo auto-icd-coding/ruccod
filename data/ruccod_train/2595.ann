@@ -1,0 +1,10 @@
+T1	icd_code 0 5	ХЗВНК
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 7 40	Сегментарный ретикулярный варикоз
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 74 95	Ортостатические отеки
+N3	Reference T3 ICD_codes:10954	R60.9
+T4	icd_code 112 115	ХСН
+N4	Reference T4 ICD_codes:6546	I50
+T5	icd_code 120 139	нефротические отеки
+N5	Reference T5 ICD_codes:8661	N04.8

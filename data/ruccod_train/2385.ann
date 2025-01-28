@@ -1,0 +1,8 @@
+T1	icd_code 2 30	Функциональное нарушение ЖКТ
+N1	Reference T1 ICD_codes:7366	K59
+T2	icd_code 34 43	мезаденит
+N2	Reference T2 ICD_codes:6747	I88
+T3	icd_code 45 71	Реактивная  панкреатопатия
+N3	Reference T3 ICD_codes:7511	K85
+T4	icd_code 77 90	ветряная оспа
+N4	Reference T4 ICD_codes:487	B01.9

@@ -1,0 +1,6 @@
+T1	icd_code 2 19	Цервикокраниалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 28 69	остеохондроза шейного отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 72 100	мышечно-тоническим синдромом
+N3	Reference T3 ICD_codes:8441	M79.1

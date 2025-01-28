@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Сколиоз
+N1	Reference T1 ICD_codes:8225	M41.9
+T2	icd_code 43 84	Остеохондроз грудного отдела позвоночника
+N2	Reference T2 ICD_codes:8226	M42

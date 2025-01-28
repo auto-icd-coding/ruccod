@@ -1,0 +1,10 @@
+T1	icd_code 0 38	Гипертоническая болезнь II ст., риск 3
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 40 42	НК
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 66 78	Дислипидемия
+N3	Reference T3 ICD_codes:2354	E78.4
+T4	icd_code 100 126	 стенокардии напржяжения? 
+N4	Reference T4 ICD_codes:6378	I20.8
+T5	icd_code 130 138	Ожирение
+N5	Reference T5 ICD_codes:2281	E66

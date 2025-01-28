@@ -1,0 +1,10 @@
+T1	icd_code 17 27	дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 29 40	цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 42 51	дорсалгия
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 53 62	люмбалгия
+N4	Reference T4 ICD_codes:8312	M54.4
+T5	icd_code 64 90	мышечно-тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1

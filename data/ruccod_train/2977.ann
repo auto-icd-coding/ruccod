@@ -1,0 +1,4 @@
+T1	icd_code 0 18	варикозная болезнь
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 20 48	лифовенозная недостаточность
+N2	Reference T2 ICD_codes:6744	I87.2

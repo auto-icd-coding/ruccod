@@ -1,0 +1,4 @@
+T1	icd_code 0 25	Экзема кистей хроническая
+N1	Reference T1 ICD_codes:7682	L30.9
+T2	icd_code 40 59	Дерматофития кистей
+N2	Reference T2 ICD_codes:624	B35.9

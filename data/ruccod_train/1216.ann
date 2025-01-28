@@ -1,0 +1,6 @@
+T1	icd_code 0 31	Головная боль смешанного генеза
+N1	Reference T1 ICD_codes:10933	R52.2
+T2	icd_code 48 65	цервикокраниалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 93 123	синдрома вегетативной дистонии
+N3	Reference T3 ICD_codes:5801	G90.8

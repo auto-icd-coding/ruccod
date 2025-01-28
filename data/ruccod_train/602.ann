@@ -1,0 +1,6 @@
+T1	icd_code 17 30	остеохондроз.
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 31 57	Вегето-сосудистая дистония
+N2	Reference T2 ICD_codes:5795	G90
+T3	icd_code 61 91	астено-невротическим синдромом
+N3	Reference T3 ICD_codes:4934	F48.0

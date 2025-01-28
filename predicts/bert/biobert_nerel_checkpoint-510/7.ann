@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Диарея неуточненная
+T2	icd_code 22 48	Хронический гастродуоденит
+T3	icd_code 66 87	Реактивный панкреатит
+N1	Reference T1 ICD_codes:7368	K59.1
+N2	Reference T2 ICD_codes:7256	K29.9
+N3	Reference T3 ICD_codes:7511	K85

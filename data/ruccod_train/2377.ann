@@ -1,0 +1,8 @@
+T1	icd_code 0 55	Вертеброгенный шейно-грудной мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8287	M50.1
+T2	icd_code 57 106	миофасциальный синдром левой трапециевидной мышцы
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 125 134	дорсалгия
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 108 120	подвивых Th4
+N4	Reference T4 ICD_codes:8139	M24.3

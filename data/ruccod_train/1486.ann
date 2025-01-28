@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Остеохондроз грудо-поясничного отдела
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 39 75	Компрессионно-ишемическая нейропатия
+N2	Reference T2 ICD_codes:5681	G56
+T3	icd_code 91 106	болевой синдром
+N3	Reference T3 ICD_codes:10930	R52

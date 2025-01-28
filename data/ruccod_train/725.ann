@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ЦВБ
+N1	Reference T1 ICD_codes:6627	I67.9
+T2	icd_code 5 39	Хроническая ишемия головного мозга
+N2	Reference T2 ICD_codes:6617	I67
+T3	icd_code 67 88	ишемического инсульта
+N3	Reference T3 ICD_codes:6639	I69.8
+T4	icd_code 121 142	Цефалгический синдром
+N4	Reference T4 ICD_codes:5606	G44.2

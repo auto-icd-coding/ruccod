@@ -1,0 +1,10 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 54 77	Солевая почечная колика
+N2	Reference T2 ICD_codes:8768	N23
+T3	icd_code 97 119	хронический пиелонефри
+N3	Reference T3 ICD_codes:8707	N11.0
+T4	icd_code 142 147	ДГПЖ.
+N4	Reference T4 ICD_codes:8843	N40
+T5	icd_code 148 169	Хронический простатит
+N5	Reference T5 ICD_codes:8847	N41.1

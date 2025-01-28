@@ -1,0 +1,8 @@
+T1	icd_code 0 43	Артериальная гипертензия впервые выявленная
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 47 59	Дислипидемия
+N2	Reference T2 ICD_codes:2354	E78.4
+T3	icd_code 62 75	Гиперурикемия
+N3	Reference T3 ICD_codes:2359	E79
+T4	icd_code 79 87	Ожирение
+N4	Reference T4 ICD_codes:2285	E66.8

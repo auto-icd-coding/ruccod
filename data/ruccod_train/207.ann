@@ -1,0 +1,5 @@
+T1	icd_code 0 19	Ушиб грудной клетки
+N1	Reference T1 ICD_codes:11335	S20.2
+N3	Reference T1 ICD_codes:11335	S20.2
+T2	icd_code 22 43	Межреберная невралгия
+N2	Reference T2 ICD_codes:5700	G58.0

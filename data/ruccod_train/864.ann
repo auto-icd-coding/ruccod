@@ -1,0 +1,12 @@
+T1	icd_code 0 49	Вегетососудистая дистония по гипотоническому типу
+N1	Reference T1 ICD_codes:5795	G90
+T2	icd_code 51 75	Головная боль напряжения
+N2	Reference T2 ICD_codes:5606	G44.2
+T3	icd_code 79 96	Нарушение осанки.
+N3	Reference T3 ICD_codes:8226	M42
+T4	icd_code 97 128	Плосковальгусная установка стоп
+N4	Reference T4 ICD_codes:8106	M21
+T5	icd_code 138 169	гиперметропический астигматизм.
+N5	Reference T5 ICD_codes:6129	H52.2
+T6	icd_code 138 156	гиперметропический
+N6	Reference T6 ICD_codes:6127	H52.0

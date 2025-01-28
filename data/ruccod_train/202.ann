@@ -1,0 +1,6 @@
+T1	icd_code 4 14	Пресбиопия
+N1	Reference T1 ICD_codes:6131	H52.4
+T2	icd_code 16 22	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 39 58	Ангиопатия сетчатки
+N3	Reference T3 ICD_codes:6035	H35.0

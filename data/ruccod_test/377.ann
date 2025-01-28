@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Микоз ногтя
+N1	Reference T1 ICD_codes:617	B35.1
+T2	icd_code 36 51	Дистрофия ногтя
+N2	Reference T2 ICD_codes:7784	L60.3
+T3	icd_code 76 121	Новообразования кожи неуточнённого характера.
+N3	Reference T3 ICD_codes:1801	D48.5

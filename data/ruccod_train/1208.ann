@@ -1,0 +1,2 @@
+T1	icd_code 0 22	Полиартрит неуточненый
+N1	Reference T1 ICD_codes:8043	M13.0

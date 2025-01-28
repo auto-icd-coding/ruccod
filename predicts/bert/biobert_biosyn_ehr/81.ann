@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Планатарный фасциит
+T2	icd_code 27 58	Артрит левого коленного сустава
+N1	Reference T1 ICD_codes:8403	M72.5
+N2	Reference T2 ICD_codes:8082	M17.9

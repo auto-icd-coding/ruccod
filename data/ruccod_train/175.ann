@@ -1,0 +1,3 @@
+T1	icd_code 0 14	вросший ноготь
+N1	Reference T1 ICD_codes:7781	L60.0
+N2	Reference T1 ICD_codes:7781	L60.0

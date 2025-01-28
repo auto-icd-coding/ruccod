@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 47 85	дегенеративно-дистрофических изменений
+N2	Reference T2 ICD_codes:8299	M51.9
+T3	icd_code 97 132	болевой, мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 134 179	Вертеброгенное влияние на позвоночные артерии
+N4	Reference T4 ICD_codes:8262	M47.0
+T5	icd_code 182 234	Нестенозирующий атеросклероз внечерепных отделов БЦА
+N5	Reference T5 ICD_codes:6620	I67.2
+T6	icd_code 237 247	Остеопороз
+N6	Reference T6 ICD_codes:8469	M81.9

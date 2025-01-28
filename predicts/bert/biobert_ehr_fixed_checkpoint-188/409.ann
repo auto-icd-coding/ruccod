@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Послеоперационный гипотиреоз
+T2	icd_code 75 93	гемитиреоидэктомии
+N1	Reference T1 ICD_codes:2025	E03.9
+N2	Reference T2 ICD_codes:2052	E07.8

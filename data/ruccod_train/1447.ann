@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7480	K80
+T2	icd_code 5 40	хронический калькулёзный холецистит
+N2	Reference T2 ICD_codes:7483	K80.1
+T3	icd_code 43 69	хронический гастродуоденит
+N3	Reference T3 ICD_codes:7256	K29.9
+T4	icd_code 110 134	язвенная болезнь желудка
+N4	Reference T4 ICD_codes:7206	K25
+T5	icd_code 155 176	реактивный панкреатит
+N5	Reference T5 ICD_codes:7511	K85

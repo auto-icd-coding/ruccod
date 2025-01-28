@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ДЖВП
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 6 18	дисформия ЖП
+N2	Reference T2 ICD_codes:7509	K83.8
+T3	icd_code 20 26	 колит
+N3	Reference T3 ICD_codes:7337	K52.9

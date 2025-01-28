@@ -1,0 +1,4 @@
+T1	icd_code 2 19	Эрозивный гастрит
+N1	Reference T1 ICD_codes:7253	K29.6
+T2	icd_code 21 25	ДЖВП
+N2	Reference T2 ICD_codes:7500	K82.8

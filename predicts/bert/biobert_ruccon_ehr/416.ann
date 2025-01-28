@@ -1,0 +1,12 @@
+T1	icd_code 0 25	Дорсопатия( остеохондроз)
+T2	icd_code 73 81	болевого
+T3	icd_code 84 112	мышечно-тонического синдрома
+T4	icd_code 125 141	Острая люмбалгия
+T5	icd_code 143 146	ВБН
+T6	icd_code 152 161	Спазм СМА
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:10934	R52.9
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:8313	M54.5
+N5	Reference T5 ICD_codes:5611	G45.0
+N6	Reference T6 ICD_codes:6610	I66.0

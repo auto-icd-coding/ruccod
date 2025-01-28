@@ -1,0 +1,12 @@
+T1	icd_code 36 66	растяжение связочного аппарата
+T2	icd_code 68 83	Болевой синдром
+T3	icd_code 152 181	Артериальная гипертензия 3 ст
+T4	icd_code 182 198	кризовое течение
+T5	icd_code 200 204	криз
+T6	icd_code 215 246	Сазарный диабет 2 тип  Ожирение
+N1	Reference T1 ICD_codes:11303	S13.5
+N2	Reference T2 ICD_codes:8441	M79.1
+N3	Reference T3 ICD_codes:6355	I10
+N4	Reference T4 ICD_codes:9088	N95.1
+N5	Reference T5 ICD_codes:2038	E05.5
+N6	Reference T6 ICD_codes:2065	E10.9

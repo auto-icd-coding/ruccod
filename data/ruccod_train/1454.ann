@@ -1,0 +1,8 @@
+T1	icd_code 0 13	Herpes zoster
+N1	Reference T1 ICD_codes:488	B02
+T2	icd_code 27 31	ОРВИ
+N2	Reference T2 ICD_codes:6804	J06.8
+T3	icd_code 33 36	ВСД
+N3	Reference T3 ICD_codes:5801	G90.8
+T4	icd_code 50 68	Дефицит массы тела
+N4	Reference T4 ICD_codes:2267	E63

@@ -1,0 +1,10 @@
+T1	icd_code 0 30	Рецидиврующая ВПГ 1/2 тифекция
+N1	Reference T1 ICD_codes:481	B00.9
+T2	icd_code 32 54	Невралгический синлром
+N2	Reference T2 ICD_codes:8309	M54.1
+T3	icd_code 58 77	Персистирование ЭБВ
+N3	Reference T3 ICD_codes:592	B27.9
+T4	icd_code 108 121	Хр. тонзиллит
+N4	Reference T4 ICD_codes:6792	J03.0
+T5	icd_code 129 148	Аллергический ринит
+N5	Reference T5 ICD_codes:6872	J30.4

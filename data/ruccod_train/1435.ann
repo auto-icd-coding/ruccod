@@ -1,0 +1,6 @@
+T1	icd_code 81 112	Острая неросенсорная тугоухость
+N1	Reference T1 ICD_codes:6284	H90.8
+T2	icd_code 0 37	Другие острые негнойные средние отиты
+N2	Reference T2 ICD_codes:6196	H65
+T3	icd_code 38 79	Правосторонний экссудативный средний отит
+N3	Reference T3 ICD_codes:6198	H65.0

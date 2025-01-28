@@ -1,0 +1,20 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 46	Климактерическая дисфункция яичников
+N2	Reference T2 ICD_codes:2176	E28.8
+T3	icd_code 83 105	
+Эндометриоз т/матки.
+
+N3	Reference T3 ICD_codes:8962	N80
+T4	icd_code 109 121	Носитель ВПЧ
+N4	Reference T4 ICD_codes:511	B08
+T5	icd_code 124 148	Формирующийся микрополип
+N5	Reference T5 ICD_codes:9004	N84.0
+T6	icd_code 163 172	Гирсутизм
+N6	Reference T6 ICD_codes:7822	L68.0
+T7	icd_code 176 179	ФКМ
+N7	Reference T7 ICD_codes:8899	N60.1
+T8	icd_code 187 220	Нарушение толерантности к глюкозе
+N8	Reference T8 ICD_codes:10985	R73
+T9	icd_code 223 270	Фокальные изменения щитовидной железы. Эутиреоз
+N9	Reference T9 ICD_codes:2028	E04.1

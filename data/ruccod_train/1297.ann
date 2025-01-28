@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Реактивный сфинктерит
+N1	Reference T1 ICD_codes:7387	K62
+T2	icd_code 23 32	Ректоцеле
+N2	Reference T2 ICD_codes:8980	N81.6
+T3	icd_code 43 60	Хронический колит
+N3	Reference T3 ICD_codes:7332	K52
+T4	icd_code 87 108	Функциональные запоры
+N4	Reference T4 ICD_codes:7373	K59.9

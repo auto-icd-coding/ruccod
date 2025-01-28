@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Эндоцервицит
+T2	icd_code 14 54	Преждевременная недостаточность яичников
+T3	icd_code 74 82	фазы м.ц
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:2175	E28.3
+N3	Reference T3 ICD_codes:10713	Q97.2

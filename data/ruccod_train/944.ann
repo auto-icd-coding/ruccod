@@ -1,0 +1,7 @@
+T1	icd_code 0 4	ИБС:
+T2	icd_code 5 33	постинфарктный кардиосклероз
+N2	Reference T2 ICD_codes:6406	I25
+T3	icd_code 132 135	ИБС
+N3	Reference T3 ICD_codes:6406	I25
+T4	icd_code 92 115	ТЛБАП со стентированием
+N4	Reference T4 ICD_codes:17278	Z95.5

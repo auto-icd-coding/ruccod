@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Дорсопатия.
+T2	icd_code 12 21	Люмбалгия
+T3	icd_code 23 41	Мышечно-тонич. с-м
+N2	Reference T3 ICD_codes:8333	M62

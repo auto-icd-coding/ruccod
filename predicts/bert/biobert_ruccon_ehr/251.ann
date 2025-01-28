@@ -1,0 +1,18 @@
+T1	icd_code 0 4	ГЭРБ
+T2	icd_code 8 18	эзофагитом
+T3	icd_code 21 40	Хронический гастрит
+T4	icd_code 59 60	H
+T5	icd_code 95 106	активностью
+T6	icd_code 118 128	обострение
+T7	icd_code 130 134	ДЖВП
+T8	icd_code 138 156	гипомоторному типу
+T9	icd_code 166 200	аномалии  строения желчного пузыря
+N1	Reference T1 ICD_codes:7191	K21.9
+N2	Reference T2 ICD_codes:7190	K21.0
+N3	Reference T3 ICD_codes:7252	K29.5
+N4	Reference T4 ICD_codes:7450	K73.9
+N5	Reference T5 ICD_codes:10903	R46.3
+N6	Reference T6 ICD_codes:12781	T81.9
+N7	Reference T7 ICD_codes:7500	K82.8
+N8	Reference T8 ICD_codes:17086	Z72.3
+N9	Reference T9 ICD_codes:10333	Q44.1

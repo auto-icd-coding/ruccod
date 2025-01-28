@@ -1,0 +1,6 @@
+T1	icd_code 0 30	Дисциркуляторная энцефалопатия
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 46 58	краниалгиями
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 61 92	вестибулоатаксическим синдромом
+N3	Reference T3 ICD_codes:6258	H81

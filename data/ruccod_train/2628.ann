@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Дерматит ограниченный
+N1	Reference T1 ICD_codes:7682	L30.9
+T2	icd_code 23 41	Микоз гладкой кожи
+N2	Reference T2 ICD_codes:620	B35.4

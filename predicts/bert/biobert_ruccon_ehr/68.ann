@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Аденомиоз (
+T2	icd_code 14 24	поражением
+T3	icd_code 36 45	миометрия
+T4	icd_code 56 87	ретроцервикального эндометриоза
+T5	icd_code 89 110	Эндометриоидная киста
+N1	Reference T1 ICD_codes:8964	N80.0
+N2	Reference T2 ICD_codes:12229	T14.0
+N3	Reference T3 ICD_codes:1230	C54.2
+N4	Reference T4 ICD_codes:8971	N80.8
+N5	Reference T5 ICD_codes:8995	N83.2

@@ -1,0 +1,4 @@
+T1	icd_code 0 8	Цефалгия
+N1	Reference T1 ICD_codes:10929	R51
+T2	icd_code 60 67	Мигрень
+N2	Reference T2 ICD_codes:5596	G43

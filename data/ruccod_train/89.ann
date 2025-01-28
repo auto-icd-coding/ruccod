@@ -1,0 +1,6 @@
+T1	icd_code 0 20	Атопический дерматит
+N1	Reference T1 ICD_codes:7614	L20
+T2	icd_code 50 60	Крапивница
+N2	Reference T2 ICD_codes:7719	L50
+T3	icd_code 104 109	ФНЖКТ
+N3	Reference T3 ICD_codes:7366	K59

@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 25	Острый назофарингит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 27 41	Острый трахеит
+N3	Reference T3 ICD_codes:6797	J04.1
+T4	icd_code 57 80	верхнечелюстной синусит
+N4	Reference T4 ICD_codes:6779	J01
+T5	icd_code 93 134	инфекцию нижних отделов дыхательных путей
+N5	Reference T5 ICD_codes:6865	J22

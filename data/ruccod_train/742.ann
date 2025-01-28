@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Хрон  кандидоз
+N1	Reference T1 ICD_codes:637	B37.4
+T2	icd_code 27 47	сальпингит и оофорит
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 50 62	Носитель ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7

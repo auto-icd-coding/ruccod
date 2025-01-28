@@ -1,0 +1,10 @@
+T1	icd_code 0 3	Бер
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 18 33	 Гиперлипидемия
+N2	Reference T2 ICD_codes:2355	E78.5
+T3	icd_code 36 50	Гиперкоагуляци
+N3	Reference T3 ICD_codes:1898	D68
+T4	icd_code 84 88	ФПН.
+N4	Reference T4 ICD_codes:9373	O43.9
+T5	icd_code 89 108	Низкая  плацентация
+N5	Reference T5 ICD_codes:9376	O44.1

@@ -1,0 +1,10 @@
+T1	icd_code 0 64	Гипертоническая болезнь, стадия II, риск 3, достигнута степень 1
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 66 78	Дислипидемия
+N2	Reference T2 ICD_codes:2357	E78.8
+T3	icd_code 112 168	Начальные призанки атеросклероза брахиоцефальных артерий
+N3	Reference T3 ICD_codes:6645	I70.8
+T4	icd_code 170 183	Гиперурикемия
+N4	Reference T4 ICD_codes:2363	E79.9
+T5	icd_code 202 260	Остеоартроз с преимущественным поражением крупных суставов
+N5	Reference T5 ICD_codes:8091	M19

@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Нарушение менструального цикла
+N1	Reference T1 ICD_codes:9057	N91
+T2	icd_code 32 46	Острый вагинит
+N2	Reference T2 ICD_codes:8949	N76

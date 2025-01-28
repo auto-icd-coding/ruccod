@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Нагноившаяся Киста копчика
+N1	Reference T1 ICD_codes:7579	L05.0
+T2	icd_code 28 31	ЭКХ
+N2	Reference T2 ICD_codes:7579	L05.0

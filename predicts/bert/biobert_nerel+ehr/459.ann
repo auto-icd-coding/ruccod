@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Острая трещина анального канала
+T2	icd_code 33 57	Острый наружный геморрой
+N1	Reference T1 ICD_codes:7375	K60.0
+N2	Reference T2 ICD_codes:6726	I84.5

@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Двухсторонний гонартроз
+T2	icd_code 46 56	периартроз
+T3	icd_code 59 81	Компрессионный перелом
+T4	icd_code 85 87	L4
+T5	icd_code 120 173	Хроническая варикозная болезнь вен нижних конечностей
+N1	Reference T1 ICD_codes:8076	M17.0
+N2	Reference T2 ICD_codes:8064	M15.9
+N3	Reference T3 ICD_codes:8484	M84.0
+N4	Reference T4 ICD_codes:6104	H49.1
+N5	Reference T5 ICD_codes:6719	I83.9

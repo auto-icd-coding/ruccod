@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Аллергический ринит
+T2	icd_code 45 51	течние
+T3	icd_code 54 64	обсотрение
+N1	Reference T1 ICD_codes:6872	J30.4
+N2	Reference T2 ICD_codes:5436	F95.9
+N3	Reference T3 ICD_codes:2286	E66.9

@@ -1,0 +1,8 @@
+T1	icd_code 0 16	Пищевая аллергия
+N1	Reference T1 ICD_codes:12740	T78
+T2	icd_code 18 38	Атопический дерматит
+N2	Reference T2 ICD_codes:7617	L20.8
+T3	icd_code 65 96	Себорея волосистой части головы
+N3	Reference T3 ICD_codes:7620	L21.0
+T4	icd_code 99 129	Гипербилирубинемия неуточненна
+N4	Reference T4 ICD_codes:10794	R17

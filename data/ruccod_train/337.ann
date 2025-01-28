@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Гиперплазия эндометрия
+N1	Reference T1 ICD_codes:9011	N85.0
+T2	icd_code 23 41	Полипоз эндометрия
+N2	Reference T2 ICD_codes:9003	N84

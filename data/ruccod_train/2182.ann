@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Хронический тонзиллит
+N1	Reference T1 ICD_codes:6897	J35.0
+T2	icd_code 41 58	ВАзомотрный ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 60 68	Цефалгия
+N3	Reference T3 ICD_codes:10929	R51

@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Доброкачественные новообразования
+N1	Reference T1 ICD_codes:1636	D23
+T2	icd_code 35 87	Крупный внутридермальный невус области правого бедра
+N2	Reference T2 ICD_codes:1635	D22.9

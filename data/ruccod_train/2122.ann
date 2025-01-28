@@ -1,0 +1,14 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6415	I25.9
+T2	icd_code 5 16	Стенокардия
+N2	Reference T2 ICD_codes:6374	I20
+T3	icd_code 26 59	Атеросклеротический кардиосклероз
+N3	Reference T3 ICD_codes:6408	I25.1
+T4	icd_code 61 84	Гипертоническая болезнь
+N4	Reference T4 ICD_codes:6357	I11
+T5	icd_code 122 157	Нарушение ритма сердца неуточненное
+N5	Reference T5 ICD_codes:6545	I49.9
+T6	icd_code 166 181	наджелудочковая
+N6	Reference T6 ICD_codes:6539	I49.1
+T7	icd_code 184 211	желудочковая экстрасистолия
+N7	Reference T7 ICD_codes:6541	I49.3

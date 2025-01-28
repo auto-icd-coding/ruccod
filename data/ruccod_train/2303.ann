@@ -1,0 +1,10 @@
+T1	icd_code 0 31	Дискинезия желчевыводящих путей
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 56 89	Функциональная кишечная диспепсия
+N2	Reference T2 ICD_codes:7364	K58.0
+T3	icd_code 135 168	Гипохромная анемия легкой степени
+N3	Reference T3 ICD_codes:1893	D64.9
+T4	icd_code 170 204	Хронический поверхностный гастрит 
+N4	Reference T4 ICD_codes:7250	K29.3
+T2	icd_code 109 133	дисбактериозом кишечника
+N2	Reference T2 ICD_codes:7364	K58.0

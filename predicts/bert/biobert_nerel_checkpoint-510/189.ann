@@ -1,0 +1,8 @@
+T1	icd_code 0 37	Фокальное включение щитовидной железы
+T2	icd_code 40 50	Гипотиреоз
+T3	icd_code 53 68	Сахарный диабет
+T4	icd_code 73 74	2
+N1	Reference T1 ICD_codes:2052	E07.8
+N2	Reference T2 ICD_codes:2025	E03.9
+N3	Reference T3 ICD_codes:2099	E14
+N4	Reference T4 ICD_codes:950	C02.3

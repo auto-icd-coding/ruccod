@@ -1,0 +1,4 @@
+T1	icd_code 3 43	хр     гнойно-  обструктивный    бронхит
+N1	Reference T1 ICD_codes:6940	J44.9
+T2	icd_code 71 75	ДН
+N2	Reference T2 ICD_codes:7047	J96.1

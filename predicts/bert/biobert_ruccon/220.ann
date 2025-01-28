@@ -1,0 +1,10 @@
+T1	icd_code 0 21	Ангиопатия   сетчатки
+T2	icd_code 25 39	дистоническому
+T3	icd_code 46 52	Миопия
+T4	icd_code 103 115	сухого глаза
+T5	icd_code 147 161	васкуляризация
+N1	Reference T1 ICD_codes:6035	H35.0
+N2	Reference T2 ICD_codes:5535	G24.9
+N3	Reference T3 ICD_codes:6128	H52.1
+N4	Reference T4 ICD_codes:6151	H54.4
+N5	Reference T5 ICD_codes:7341	K55.1

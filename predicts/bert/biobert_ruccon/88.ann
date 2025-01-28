@@ -1,0 +1,14 @@
+T1	icd_code 1 14	Гепатомегалия
+T2	icd_code 51 71	Дисформия,дискинезия
+T3	icd_code 72 96	дисхолия желчного пузыря
+T4	icd_code 99 125	Хронический гастродуоденит
+T5	icd_code 172 195	Полип сигмовидной кишки
+T6	icd_code 197 237	Синдром избыточного бактериального роста
+T7	icd_code 253 263	Гельминтоз
+N1	Reference T1 ICD_codes:10791	R16.0
+N2	Reference T2 ICD_codes:4909	F44.4
+N3	Reference T3 ICD_codes:7500	K82.8
+N4	Reference T4 ICD_codes:7256	K29.9
+N5	Reference T5 ICD_codes:9005	N84.1
+N6	Reference T6 ICD_codes:256	A48.8
+N7	Reference T7 ICD_codes:859	B83.9

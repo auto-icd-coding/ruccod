@@ -1,0 +1,13 @@
+T1	icd_code 0 27	Вертеброгенная люмбоишалгия
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 43 64	грыжи м/п диска L4-L5
+N2	Reference T2 ICD_codes:8297	M51.4
+T3	icd_code 65 78	
+Остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 113 122	Спондилез
+N4	Reference T4 ICD_codes:8266	M47.9
+T5	icd_code 124 138	Спондилоартроз
+N5	Reference T5 ICD_codes:8240	M45
+T6	icd_code 168 185	Грыжа диска L4-L5
+N6	Reference T6 ICD_codes:8297	M51.4

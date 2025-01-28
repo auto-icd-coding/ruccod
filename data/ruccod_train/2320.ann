@@ -1,0 +1,14 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 146 158	Дислипидемия
+N2	Reference T2 ICD_codes:2357	E78.8
+T3	icd_code 160 204	Атеросклероз аорты и брахиоцефальных артерий
+N3	Reference T3 ICD_codes:6645	I70.8
+T4	icd_code 227 256	Многоузловой эутиреоидный зоб
+N4	Reference T4 ICD_codes:2029	E04.2
+T5	icd_code 275 301	Хронический гастродуоденит
+N5	Reference T5 ICD_codes:7256	K29.9
+T6	icd_code 326 336	Дорсопатия
+N6	Reference T6 ICD_codes:8306	M53.9
+T1	icd_code 82 97	 Гипертрофия ЛЖ
+N1	Reference T1 ICD_codes:6357	I11

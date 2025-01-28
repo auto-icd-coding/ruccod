@@ -1,0 +1,6 @@
+T1	icd_code 0 12	беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 22 34	Эндоцервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 36 54	Кольпит  дрожжевой
+N3	Reference T3 ICD_codes:8949	N76

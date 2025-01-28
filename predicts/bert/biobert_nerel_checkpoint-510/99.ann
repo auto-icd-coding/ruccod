@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Клинический  микоз кожи
+T2	icd_code 30 52	интертригинозная форма
+N1	Reference T1 ICD_codes:721	B49
+N2	Reference T2 ICD_codes:7829	L70.0

@@ -1,0 +1,9 @@
+T2	icd_code 0 32	Хронический билиарный панкреатит
+N2	Reference T2 ICD_codes:2369	E80.4
+T1	icd_code 0 32	Хронический билиарный панкреатит
+N1	Reference T1 ICD_codes:7511	K85
+N3	Reference T1 ICD_codes:7514	K86.1
+T3	icd_code 59 83	метаболических нарушение
+N4	Reference T3 ICD_codes:2411	E88.9
+T2	icd_code 34 50	Синдром жильбера
+N2	Reference T2 ICD_codes:2369	E80.4

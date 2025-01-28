@@ -1,0 +1,16 @@
+T1	icd_code 0 8	Фарингит
+T2	icd_code 25 30	Ринит
+T3	icd_code 46 67	Евстахеит  Дорсопатия
+T4	icd_code 69 80	Цервикалгия
+T5	icd_code 82 93	Субремиссия
+T6	icd_code 96 106	Краниалгия
+T7	icd_code 108 115	Атаксия
+T8	icd_code 118 142	Аретриальная гипертензия
+N1	Reference T1 ICD_codes:6790	J02.9
+N2	Reference T2 ICD_codes:6874	J31.0
+N3	Reference T3 ICD_codes:8306	M53.9
+N4	Reference T4 ICD_codes:8310	M54.2
+N5	Reference T5 ICD_codes:10824	R23.2
+N6	Reference T6 ICD_codes:10929	R51
+N7	Reference T7 ICD_codes:10841	R27.0
+N8	Reference T8 ICD_codes:6355	I10

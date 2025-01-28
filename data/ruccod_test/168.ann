@@ -1,0 +1,6 @@
+T1	icd_code 0 73	Остеохондроз шейного, грудного, пояснично-крестцового отделов позвоночник
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 90 99	протрузии
+N2	Reference T2 ICD_codes:8298	M51.8
+T2	icd_code 102 118	дорзальные грыжи
+N2	Reference T2 ICD_codes:8298	M51.8

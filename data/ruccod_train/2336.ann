@@ -1,0 +1,4 @@
+T1	icd_code 0 8	Аденоиды
+N1	Reference T1 ICD_codes:6899	J35.2
+T2	icd_code 15 42	Гипертрофия небных миндалин
+N2	Reference T2 ICD_codes:6898	J35.1

@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 5 19	Острый трахеит
+N2	Reference T2 ICD_codes:6795	J04
+T3	icd_code 21 62	Внебольничная левосторонняя н/д пневмония
+N3	Reference T3 ICD_codes:6843	J18
+T4	icd_code 65 86	О. левосторонний отит
+N4	Reference T4 ICD_codes:6204	H66

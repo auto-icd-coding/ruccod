@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Узловой зоб 1 ст по ВОЗ
+N1	Reference T1 ICD_codes:2027	E04.0
+T2	icd_code 25 47	Аутоиммунный тиреоидит
+N2	Reference T2 ICD_codes:2045	E06.3

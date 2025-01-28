@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Миофасциальный болевой синдром
+T2	icd_code 48 70	Миозит икроножных мышц
+N1	Reference T1 ICD_codes:8441	M79.1
+N2	Reference T2 ICD_codes:8317	M60

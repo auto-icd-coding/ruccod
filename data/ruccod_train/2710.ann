@@ -1,0 +1,6 @@
+T1	icd_code 1 31	новообразование (невус?) спины
+N1	Reference T1 ICD_codes:6691	I78.1
+T2	icd_code 33 59	варикозная болезнь вен н/к
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 61 68	ХВН н/к
+N3	Reference T3 ICD_codes:6744	I87.2

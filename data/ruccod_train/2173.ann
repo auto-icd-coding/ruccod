@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Тиреотоксикоз
+N1	Reference T1 ICD_codes:2040	E05.9
+T2	icd_code 15 48	Нарушенная толернтность к глюкозе
+N2	Reference T2 ICD_codes:9916	P70.9
+T3	icd_code 49 60	узловой зоб
+N3	Reference T3 ICD_codes:2028	E04.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Пролапс МК
+N1	Reference T1 ICD_codes:6452	I34.1
+T2	icd_code 12 51	Нарушение сердечного ритма неуточненное
+N2	Reference T2 ICD_codes:6545	I49.9
+T3	icd_code 53 56	НЦД
+N3	Reference T3 ICD_codes:5802	G90.9

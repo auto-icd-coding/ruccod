@@ -1,0 +1,4 @@
+T1	icd_code 0 55	Повреждение связочного аппарата обоих коленных суставов
+T2	icd_code 57 86	Остеоартроз коленных суставов
+N1	Reference T1 ICD_codes:11972	S83.4
+N2	Reference T2 ICD_codes:8082	M17.9

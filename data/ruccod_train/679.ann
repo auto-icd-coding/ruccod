@@ -1,0 +1,5 @@
+T1	icd_code 0 30	Дивертикулез сигмовидной кишки
+N1	Reference T1 ICD_codes:7354	K57
+N3	Reference T1 ICD_codes:7359	K57.4
+T2	icd_code 31 41	Долихосигм
+N2	Reference T2 ICD_codes:10329	Q43.8

@@ -1,0 +1,4 @@
+T1	icd_code 18 72	повтореждение капсульно-связочного аппарата левого ГСС
+N1	Reference T1 ICD_codes:12054	S93
+T1	icd_code 73 88	Болевой синдром
+N1	Reference T1 ICD_codes:12054	S93

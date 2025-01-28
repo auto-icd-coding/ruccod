@@ -1,0 +1,15 @@
+T1	icd_code 0 15	Почечная колика
+N1	Reference T1 ICD_codes:8768	N23
+T3	icd_code 40 70	Трофическая язва правой голени
+T4	icd_code 94 120	Диастаз прямых мышц живота
+N4	Reference T4 ICD_codes:8334	M62.0
+T5	icd_code 135 151	пупочной грыжей.
+N5	Reference T5 ICD_codes:7297	K42
+T6	icd_code 153 176	Пахово-мошоночные грыжи
+N6	Reference T6 ICD_codes:7284	K40.0
+T7	icd_code 192 201	Хр.колит,
+N7	Reference T7 ICD_codes:7337	K52.9
+T8	icd_code 213 218	ВБВНК
+N8	Reference T8 ICD_codes:6719	I83.9
+T2	icd_code 24 37	Хр. простатит
+N2	Reference T2 ICD_codes:8847	N41.1

@@ -1,0 +1,4 @@
+T1	icd_code 23 34	Стенокардия
+N1	Reference T1 ICD_codes:6379	I20.9
+T2	icd_code 0 21	Межреберная невралгия
+N2	Reference T2 ICD_codes:5700	G58.0

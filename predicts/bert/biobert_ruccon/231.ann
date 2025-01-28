@@ -1,0 +1,4 @@
+T1	icd_code 66 80	ВПЧ - инфекция
+T2	icd_code 85 91	Анемия
+N1	Reference T1 ICD_codes:928	B97.7
+N2	Reference T2 ICD_codes:1811	D50.9

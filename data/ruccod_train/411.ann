@@ -1,0 +1,16 @@
+T1	icd_code 0 24	Гипертрофия шейки матки.
+N1	Reference T1 ICD_codes:9013	N85.2
+T2	icd_code 25 55	Ретенционные кисты шейки матки
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 57 68	Миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 83 94	аденомиозом
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 122 137	сальпингоофорит
+N5	Reference T5 ICD_codes:8917	N70
+T6	icd_code 157 195	Спаечный процесс в органах малого таза
+N6	Reference T6 ICD_codes:8934	N73.6
+T7	icd_code 197 213	Гиперинсулинемия
+N7	Reference T7 ICD_codes:2406	E88
+T9	icd_code 239 242	НТГ
+N9	Reference T9 ICD_codes:10986	R73.0

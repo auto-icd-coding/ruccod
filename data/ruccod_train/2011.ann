@@ -1,0 +1,6 @@
+T1	icd_code 0 31	Искривление носовой перегородки
+N1	Reference T1 ICD_codes:6893	J34.2
+T2	icd_code 32 54	 Постназальный синдром
+N2	Reference T2 ICD_codes:6919	J39.2
+T3	icd_code 58 78	Хронический фарингит
+N3	Reference T3 ICD_codes:6876	J31.2

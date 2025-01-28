@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Фокальные включения щитовидной железы
+T2	icd_code 39 62	Железодефицитная анемия
+T3	icd_code 64 77	хрониотечение
+N1	Reference T1 ICD_codes:2052	E07.8
+N2	Reference T2 ICD_codes:1805	D50
+N3	Reference T3 ICD_codes:7341	K55.1

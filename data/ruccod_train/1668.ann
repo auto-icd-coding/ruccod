@@ -1,0 +1,4 @@
+T1	icd_code 0 17	Лакунарная ангина
+N1	Reference T1 ICD_codes:6792	J03.0
+T2	icd_code 34 42	синусита
+N2	Reference T2 ICD_codes:6779	J01

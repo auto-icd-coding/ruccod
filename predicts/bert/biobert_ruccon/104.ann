@@ -1,0 +1,4 @@
+T1	icd_code 2 17	вагинитЦервицит
+T2	icd_code 19 25	Эрозия
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:8096	M19.9

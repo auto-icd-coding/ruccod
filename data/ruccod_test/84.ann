@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Острый бронхиобронхит
+N1	Reference T1 ICD_codes:6860	J20.9
+T2	icd_code 23 27	ОРВИ
+N2	Reference T2 ICD_codes:6777	J00-J06
+T3	icd_code 37 56	Острый назофарингит
+N3	Reference T3 ICD_codes:6776	J00

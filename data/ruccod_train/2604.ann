@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Бр. астма
+N1	Reference T1 ICD_codes:6941	J45
+T2	icd_code 12 22	дорсопатия
+N2	Reference T2 ICD_codes:8210	M40-M54

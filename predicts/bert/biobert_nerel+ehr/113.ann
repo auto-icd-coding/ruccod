@@ -1,0 +1,24 @@
+T1	icd_code 0 18	Бронхиальная астма
+T2	icd_code 73 92	Аллергический ринит
+T3	icd_code 132 152	катаральный ларингит
+T4	icd_code 154 166	ларингомикоз
+T5	icd_code 170 192	Гипотогнусная дисфония
+T6	icd_code 196 206	Крапивница
+T7	icd_code 239 248	отеки губ
+T8	icd_code 291 304	сенсибилизция
+T9	icd_code 307 311	ХАИТ
+T10	icd_code 313 324	Узловой зоб
+T11	icd_code 327 331	ГЭРБ
+T12	icd_code 335 351	. гастродуоденит
+N1	Reference T1 ICD_codes:6945	J45.9
+N2	Reference T2 ICD_codes:6872	J30.4
+N3	Reference T3 ICD_codes:6796	J04.0
+N4	Reference T4 ICD_codes:6788	J02.0
+N5	Reference T5 ICD_codes:10920	R49.0
+N6	Reference T6 ICD_codes:7719	L50
+N7	Reference T7 ICD_codes:7169	K13.0
+N8	Reference T8 ICD_codes:7677	L30.2
+N9	Reference T9 ICD_codes:2045	E06.3
+N10	Reference T10 ICD_codes:2028	E04.1
+N11	Reference T11 ICD_codes:7191	K21.9
+N12	Reference T12 ICD_codes:7256	K29.9

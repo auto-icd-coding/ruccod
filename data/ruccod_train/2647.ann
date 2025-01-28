@@ -1,0 +1,14 @@
+T1	icd_code 7 29	респираторные инфекции
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 41 63	обструктивные бронхиты
+N2	Reference T2 ICD_codes:6936	J44
+T3	icd_code 66 84	Бронхиальная астма
+N3	Reference T3 ICD_codes:6941	J45
+T4	icd_code 127 146	Аллергический ринит
+N4	Reference T4 ICD_codes:6872	J30.4
+T5	icd_code 164 184	Атопический дерматит
+N5	Reference T5 ICD_codes:7614	L20
+T6	icd_code 203 219	ПИщевая аллергия
+N6	Reference T6 ICD_codes:12742	T78.1
+T7	icd_code 241 290	бытовая, пыльцевая, эпидермальная  сенсибилизация
+N7	Reference T7 ICD_codes:12745	T78.4

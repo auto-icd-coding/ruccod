@@ -1,0 +1,4 @@
+T1	icd_code 15 20	ОРВИ.
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 38	Дисбиоз кишечника
+N2	Reference T2 ICD_codes:7404	K63.8

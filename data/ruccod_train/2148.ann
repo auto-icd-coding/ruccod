@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Острый трахеит
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 32 52	ОРВИ, реконвалесцент
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 96 124	Искривление перегородки носа
+N3	Reference T3 ICD_codes:6893	J34.2
+T4	icd_code 128 155	Артериальная гипертензия  I
+N4	Reference T4 ICD_codes:6357	I11
+T5	icd_code 199 211	Дислипидемия
+N5	Reference T5 ICD_codes:2357	E78.8

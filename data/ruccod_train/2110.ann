@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Папилломы кожи
+N1	Reference T1 ICD_codes:1641	D23.4
+T2	icd_code 42 56	Бородавки кожи
+N2	Reference T2 ICD_codes:510	B07

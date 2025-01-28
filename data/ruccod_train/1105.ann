@@ -1,0 +1,10 @@
+T1	icd_code 61 73	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 75 101	Ретенционные кисты ш\матки
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 104 115	Миома матки
+N3	Reference T3 ICD_codes:1651	D25.9
+T4	icd_code 130 143	эндометриозом
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 0 58	Дисфункция  яичников позднего преклимактерического периода
+N5	Reference T5 ICD_codes:2176	E28.8

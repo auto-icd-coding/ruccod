@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Сахарный диабет неуточненный
+N1	Reference T1 ICD_codes:2099	E14
+T2	icd_code 30 38	Ожирение
+N2	Reference T2 ICD_codes:2282	E66.0

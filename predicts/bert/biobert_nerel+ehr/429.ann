@@ -1,0 +1,4 @@
+T1	icd_code 0 25	ОРВИ, острый назофарингит
+T2	icd_code 37 70	Острый  левосторонний в/ч синусит
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6780	J01.0

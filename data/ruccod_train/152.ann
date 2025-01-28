@@ -1,0 +1,11 @@
+T1	icd_code 10 18	гастрит,
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 20 22	Нр
+T3	icd_code 57 64	Бульбит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 86 90	ДЖВП
+N4	Reference T4 ICD_codes:7281	K38.9
+T5	icd_code 103 113	панкреатит
+N5	Reference T5 ICD_codes:7515	K86.2
+T6	icd_code 116 144	Токсическое поражение печени
+N6	Reference T6 ICD_codes:7430	K71

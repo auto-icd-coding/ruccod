@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Обострение
+T2	icd_code 11 33	хронического цервицита
+T3	icd_code 35 36	L
+T4	icd_code 37 40	SIL
+T5	icd_code 42 49	кольпит
+T6	icd_code 51 70	Эктопия шейки матки
+N1	Reference T1 ICD_codes:12781	T81.9
+N2	Reference T2 ICD_codes:8926	N72
+N3	Reference T3 ICD_codes:1302	C71.1
+N4	Reference T4 ICD_codes:16766	Z29.0
+N5	Reference T5 ICD_codes:8957	N76.8
+N6	Reference T6 ICD_codes:9021	N86

@@ -1,0 +1,4 @@
+T1	icd_code 30 42	Дислипидемия
+N1	Reference T1 ICD_codes:2355	E78.5
+T2	icd_code 0 28	Артериальная гипертония 1 ст
+N2	Reference T2 ICD_codes:6355	I10

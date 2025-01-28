@@ -1,0 +1,16 @@
+T1	icd_code 243 247	СИБР
+N1	Reference T1 ICD_codes:10804	R19.8
+T2	icd_code 249 261	Дисбактериоз
+N2	Reference T2 ICD_codes:7398	K63
+T3	icd_code 4 7	ЖКБ
+N3	Reference T3 ICD_codes:7480	K80
+T4	icd_code 9 44	хронический калькулёзный холецистит
+N4	Reference T4 ICD_codes:7483	K80.1
+T5	icd_code 66 106	Хронический билиарнозависимый панкреатит
+N5	Reference T5 ICD_codes:7514	K86.1
+T6	icd_code 120 124	ГЭРБ
+N6	Reference T6 ICD_codes:7191	K21.9
+T7	icd_code 127 164	Грыжа пищеводного отверстия диафрагмы
+N7	Reference T7 ICD_codes:7305	K44
+T8	icd_code 166 209	Хронический неатрофический  рефлюкс-гастрит
+N8	Reference T8 ICD_codes:7246	K29

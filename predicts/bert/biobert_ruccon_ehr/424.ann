@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Переменопаузальное
+T2	icd_code 30 57	Киста левой молочной железы
+T3	icd_code 59 70	Миома матки
+N1	Reference T1 ICD_codes:9088	N95.1
+N2	Reference T2 ICD_codes:8898	N60.0
+N3	Reference T3 ICD_codes:1647	D25

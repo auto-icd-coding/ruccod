@@ -1,0 +1,10 @@
+T1	icd_code 0 17	Эрозивный гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 19 37	Эрозивный бульбит.
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 38 57	Гипербилирубиннмия.
+N3	Reference T3 ICD_codes:10794	R17
+T4	icd_code 58 71	Стеатогепатоз
+N4	Reference T4 ICD_codes:7467	K76.0
+T5	icd_code 73 76	СРК
+N5	Reference T5 ICD_codes:7363	K58

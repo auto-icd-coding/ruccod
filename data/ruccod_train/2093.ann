@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Хр.холецистит
+N1	Reference T1 ICD_codes:7491	K81.1
+T2	icd_code 23 41	Хр. гастродуоденит
+N2	Reference T2 ICD_codes:7252	K29.5
+T3	icd_code 61 85	кандидоз ротовой полости
+N3	Reference T3 ICD_codes:633	B37.0

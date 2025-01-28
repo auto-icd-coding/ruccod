@@ -1,0 +1,10 @@
+T1	icd_code 0 22	Гиперплазия эндометрия
+N1	Reference T1 ICD_codes:9011	N85.0
+T2	icd_code 25 61	Климактерическая дисфункция яичников
+N2	Reference T2 ICD_codes:2176	E28.8
+T3	icd_code 64 76	Носитель ВПЧ
+N3	Reference T3 ICD_codes:920	B97
+T4	icd_code 90 115	Миома матки малых размеро
+N4	Reference T4 ICD_codes:1648	D25.0
+T5	icd_code 119 122	ФКМ
+N5	Reference T5 ICD_codes:8901	N60.3

@@ -1,0 +1,6 @@
+T1	icd_code 0 24	Выраженный вульвовагинит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 34 42	Кандидоз
+N2	Reference T2 ICD_codes:642	B37.9
+T3	icd_code 44 65	Бактериальный вагиноз
+N3	Reference T3 ICD_codes:8949	N76

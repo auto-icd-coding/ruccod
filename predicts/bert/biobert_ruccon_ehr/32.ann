@@ -1,0 +1,4 @@
+T1	icd_code 0 53	дискинезия желчевыводящих путей по гипомоторному типу
+T2	icd_code 55 69	острый гастрит
+N1	Reference T1 ICD_codes:7509	K83.8
+N2	Reference T2 ICD_codes:7248	K29.1

@@ -1,0 +1,28 @@
+T1	icd_code 0 40	Нарушение  проводимости и ритма   сердца
+T2	icd_code 42 97	Вегетативно-сосудистая дистония по гипотоническому типу
+T3	icd_code 98 111	Тиреотоксикоз
+T4	icd_code 146 167	Шейная лимфаденопатия
+T5	icd_code 183 204	хронический тиреоидит
+T6	icd_code 218 233	тиреотоксикозом
+T7	icd_code 235 261	Пароксизмальная тахикардия
+T8	icd_code 263 294	Выраженный астенический синдром
+T9	icd_code 296 326	Нарушение менструального цикла
+T10	icd_code 344 363	Дисфункция яичников
+T11	icd_code 364 375	Хр. гастрит
+T12	icd_code 389 397	Цефалгия
+T13	icd_code 435 469	гиперсекрецию паращитовидных желез
+T14	icd_code 471 486	гиперпаратиреоз
+N1	Reference T1 ICD_codes:6545	I49.9
+N2	Reference T2 ICD_codes:4924	F45.30
+N3	Reference T3 ICD_codes:2040	E05.9
+N4	Reference T4 ICD_codes:6750	I88.8
+N5	Reference T5 ICD_codes:2048	E06.9
+N6	Reference T6 ICD_codes:2040	E05.9
+N7	Reference T7 ICD_codes:6535	I47.9
+N8	Reference T8 ICD_codes:2798	F06.67
+N9	Reference T9 ICD_codes:9071	N92.6
+N10	Reference T10 ICD_codes:2177	E28.9
+N11	Reference T11 ICD_codes:7252	K29.5
+N12	Reference T12 ICD_codes:10929	R51
+N13	Reference T13 ICD_codes:2130	E21.4
+N14	Reference T14 ICD_codes:2129	E21.3

@@ -1,0 +1,10 @@
+T1	icd_code 0 13	Люмбоишиалгия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 29 81	дорсопатии пояснично-крестцового отдела позвоночника
+N2	Reference T2 ICD_codes:8315	M54.8
+T3	icd_code 114 132	мышечно-тоническим
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 135 156	корешковым синдромами
+N4	Reference T4 ICD_codes:5664	G54
+T5	icd_code 84 112	умеренно выраженными болевым
+N5	Reference T5 ICD_codes:10930	R52

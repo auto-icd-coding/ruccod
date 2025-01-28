@@ -1,0 +1,4 @@
+T1	icd_code 7 32	Левосторонняя прозопалгия
+N1	Reference T1 ICD_codes:5639	G50.1
+T2	icd_code 41 84	дисфункции височно- нижнечелюстных суставов
+N2	Reference T2 ICD_codes:7132	K07.9

@@ -1,0 +1,4 @@
+T1	icd_code 0 17	хр.гепатит токсич
+N1	Reference T1 ICD_codes:7440	K71.9
+T2	icd_code 60 66	цирроз
+N2	Reference T2 ICD_codes:7458	K74.6

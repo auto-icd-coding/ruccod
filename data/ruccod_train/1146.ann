@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 5 15	О.фарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 16 25	О.трахеит
+N3	Reference T3 ICD_codes:6797	J04.1
+T4	icd_code 28 45	Эрозивный гастрит
+N4	Reference T4 ICD_codes:7247	K29.0

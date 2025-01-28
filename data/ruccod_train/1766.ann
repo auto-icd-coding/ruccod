@@ -1,0 +1,4 @@
+T1	icd_code 5 30	Неуточнённый конъюнктивит
+N1	Reference T1 ICD_codes:5908	H10.9
+T2	icd_code 39 60	Миопия слабой степени
+N2	Reference T2 ICD_codes:6128	H52.1

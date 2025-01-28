@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Варикоцеле
+N1	Reference T1 ICD_codes:6736	I86.1
+T2	icd_code 23 28	Фимоз
+N2	Reference T2 ICD_codes:8869	N47

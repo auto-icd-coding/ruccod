@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Атопический дерматит неуточненный
+N1	Reference T1 ICD_codes:7682	L30.9
+T2	icd_code 35 53	Грибковая аллергия
+N2	Reference T2 ICD_codes:12745	T78.4

@@ -1,0 +1,6 @@
+T1	icd_code 1 11	О. бронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 53 64	цервикалгия
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 67 91	мышечно-тоническим с-мом
+N3	Reference T3 ICD_codes:8333	M62

@@ -1,0 +1,6 @@
+T1	icd_code 0 29	остеоартроз коленных суставов
+N1	Reference T1 ICD_codes:8082	M17.9
+T2	icd_code 36 47	болевой с-м
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 51 64	кисты Беккера
+N3	Reference T3 ICD_codes:8391	M71.2

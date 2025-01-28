@@ -1,0 +1,16 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 101 113	Дислипидемия
+N2	Reference T2 ICD_codes:2349	E78
+T3	icd_code 115 151	Атеросклероз брахиоцефальных артерий
+N3	Reference T3 ICD_codes:6620	I67.2
+T4	icd_code 181 197	Многоузловой зоб
+N4	Reference T4 ICD_codes:2029	E04.2
+T5	icd_code 209 213	ГПОД
+N5	Reference T5 ICD_codes:7305	K44
+T6	icd_code 215 244	Синдромом позвоночной артерии
+N6	Reference T6 ICD_codes:8262	M47.0
+T7	icd_code 246 272	хронической ВБН  2 степени
+N7	Reference T7 ICD_codes:5611	G45.0
+T8	icd_code 274 277	ЖДА
+N8	Reference T8 ICD_codes:1805	D50

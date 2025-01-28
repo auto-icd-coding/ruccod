@@ -1,0 +1,16 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 11 55	Хроническая вертеброгенная цервикокраниалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 70 77	болевой
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 108 143	Вертебро-базилярная недостаточность
+N4	Reference T4 ICD_codes:5611	G45.0
+T5	icd_code 145 171	Церебрастенический синдром
+N5	Reference T5 ICD_codes:4923	F45.3
+T6	icd_code 173 201	Вазо-вегетативные пароксизмы
+N6	Reference T6 ICD_codes:5795	G90
+T7	icd_code 203 234	Артроз левого плечевого сустава
+N7	Reference T7 ICD_codes:8095	M19.8
+T3	icd_code 78 105	мышечно-тонический синдромы
+N3	Reference T3 ICD_codes:8441	M79.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 32	продольнопоперечное плоскостопие
+T2	icd_code 34 85	Старые консолидированные переломы? плюсневых костей
+T3	icd_code 87 125	Деформирующий артроз суставов среднего
+N1	Reference T1 ICD_codes:8111	M21.4
+N2	Reference T2 ICD_codes:12040	S92.3.0
+N3	Reference T3 ICD_codes:8092	M19.0

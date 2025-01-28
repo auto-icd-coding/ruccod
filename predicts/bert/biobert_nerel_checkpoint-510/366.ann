@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Дисгормональная гиперплазия
+T2	icd_code 31 41	Гипотиреоз
+T3	icd_code 42 53	Миома матки
+N1	Reference T1 ICD_codes:9011	N85.0
+N2	Reference T2 ICD_codes:2025	E03.9
+N3	Reference T3 ICD_codes:1647	D25

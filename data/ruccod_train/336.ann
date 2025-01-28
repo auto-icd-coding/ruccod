@@ -1,0 +1,16 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 34 58	артериальная гипертензия
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 98 101	ИБС
+N3	Reference T3 ICD_codes:6406	I25
+T4	icd_code 103 116	кардиосклероз
+N4	Reference T4 ICD_codes:6414	I25.8
+T5	icd_code 119 160	нарушениями ритма пот типу экстрасистолии
+N5	Reference T5 ICD_codes:6542	I49.4
+T6	icd_code 168 208	Кифосколиоз грудного отдела позвоночника
+N6	Reference T6 ICD_codes:8213	M40.2
+T7	icd_code 210 218	глаукома
+N7	Reference T7 ICD_codes:16200	Y40
+T8	icd_code 220 237	мочекислый диатез
+N8	Reference T8 ICD_codes:2359	E79

@@ -1,0 +1,4 @@
+T1	icd_code 2 21	вазомоторный  ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+T2	icd_code 35 56	острого назофарингита
+N2	Reference T2 ICD_codes:6776	J00

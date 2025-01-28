@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ОРЗ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 5 20	о. ринофарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 31 42	О.пневмония
+N3	Reference T3 ICD_codes:6848	J18.9

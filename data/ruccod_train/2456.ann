@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Аутоимунный тиреоидит
+N1	Reference T1 ICD_codes:2045	E06.3
+T2	icd_code 23 31	Эутиреоз
+N2	Reference T2 ICD_codes:2053	E07.9
+T3	icd_code 32 44	Дислипидемия
+N3	Reference T3 ICD_codes:2349	E78
+T4	icd_code 54 77	Гипертоническая болезнь
+N4	Reference T4 ICD_codes:6357	I11

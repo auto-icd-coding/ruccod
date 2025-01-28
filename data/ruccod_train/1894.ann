@@ -1,0 +1,8 @@
+T1	icd_code 66 85	Шейный остеохондроз
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 36 62	Сенсоневральная тугоухость
+N2	Reference T2 ICD_codes:6284	H90.8
+T3	icd_code 13 28	Острый тубоотит
+N3	Reference T3 ICD_codes:6216	H68.0
+T4	icd_code 1 11	Шум в ушах
+N4	Reference T4 ICD_codes:6298	H93.1

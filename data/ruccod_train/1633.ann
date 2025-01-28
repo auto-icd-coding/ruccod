@@ -1,0 +1,8 @@
+T1	icd_code 4 23	вторичная катаракта
+N1	Reference T1 ICD_codes:5990	H26.4
+T2	icd_code 29 50	Миопия слабой степени
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 63 90	ангиопатия сосудов сетчатки
+N3	Reference T3 ICD_codes:6144	H53.8
+T4	icd_code 52 61	артифакия
+N4	Reference T4 ICD_codes:5996	H27.8

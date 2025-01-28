@@ -1,0 +1,22 @@
+T1	icd_code 0 13	Радикулопатия
+N1	Reference T1 ICD_codes:8309	M54.1
+T2	icd_code 27 40	люмбоишиалгии
+N2	Reference T2 ICD_codes:8313	M54.5
+T3	icd_code 55 87	последствий закрытой травмы п/кр
+N3	Reference T3 ICD_codes:12869	T91.8
+T4	icd_code 111 126	протрузиями МПД
+N4	Reference T4 ICD_codes:8298	M51.8
+T5	icd_code 142 171	гемангиомой тела LIV позвонка
+N5	Reference T5 ICD_codes:1607	D18.0
+T6	icd_code 173 198	деформирующего спондилеза
+N6	Reference T6 ICD_codes:8265	M47.8
+T7	icd_code 237 252	спондилоартроза
+N7	Reference T7 ICD_codes:8265	M47.8
+T8	icd_code 262 275	остеохондроза
+N8	Reference T8 ICD_codes:8228	M42.1
+T9	icd_code 200 235	левостороннего поясничного сколиоза
+N9	Reference T9 ICD_codes:8224	M41.8
+T10	icd_code 304 345	рефлекторным мышечно-тоническим синдромом
+N10	Reference T10 ICD_codes:8441	M79.1
+T11	icd_code 353 391	Периневральная киста тела SII позвонка
+N11	Reference T11 ICD_codes:8298	M51.8

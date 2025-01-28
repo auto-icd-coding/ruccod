@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Дисфункция яичников
+T2	icd_code 22 52	Ретенционные кисты шейки матки
+T3	icd_code 54 66	Хр. аднексит
+T4	icd_code 76 87	субремиссии
+N1	Reference T1 ICD_codes:2177	E28.9
+N2	Reference T2 ICD_codes:9033	N88.8
+N3	Reference T3 ICD_codes:2156	E25.9
+N4	Reference T4 ICD_codes:8385	M70.7

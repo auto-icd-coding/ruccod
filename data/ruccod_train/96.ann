@@ -1,0 +1,5 @@
+T1	icd_code 0 40	Плечелопаточный двусторонний  периартрит
+T2	icd_code 55 65	Дорсопатия
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 74 101	,мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8333	M62

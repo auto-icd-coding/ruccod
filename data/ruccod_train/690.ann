@@ -1,0 +1,4 @@
+T1	icd_code 14 28	гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 70 80	холецистит
+N2	Reference T2 ICD_codes:7493	K81.9

@@ -1,0 +1,8 @@
+T1	icd_code 93 112	Хронический блефари
+N1	Reference T1 ICD_codes:5856	H01.0
+T2	icd_code 115 124	мейбомиит
+N2	Reference T2 ICD_codes:5858	H01.8
+T3	icd_code 3 13	Пресбиопия
+N3	Reference T3 ICD_codes:6131	H52.4
+T4	icd_code 15 43	Гиперметропия слабой степени
+N4	Reference T4 ICD_codes:6127	H52.0

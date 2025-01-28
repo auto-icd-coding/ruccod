@@ -1,0 +1,10 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 11 45	Хр. сальпингоофорит в ст. ремиссии
+N2	Reference T2 ICD_codes:8920	N70.1
+T3	icd_code 47 61	Тазовые спайки
+N3	Reference T3 ICD_codes:8934	N73.6
+T4	icd_code 64 83	Овуляторный синдром
+N4	Reference T4 ICD_codes:9084	N94.8
+T5	icd_code 85 104	Дисфункция яичников
+N5	Reference T5 ICD_codes:2177	E28.9

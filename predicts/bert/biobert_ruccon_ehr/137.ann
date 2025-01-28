@@ -1,0 +1,12 @@
+T1	icd_code 2 41	Вертеброгеннaя цервикобрахиалгия  слева
+T2	icd_code 43 53	торакалгия
+T3	icd_code 55 79	рефлекторно-тонический и
+T4	icd_code 81 96	болевой синдром
+T5	icd_code 152 177	S-образный  сколиоз ШГрОП
+T6	icd_code 180 199	Хронический гастрит
+N1	Reference T1 ICD_codes:8310	M54.2
+N2	Reference T2 ICD_codes:8314	M54.6
+N3	Reference T3 ICD_codes:1722	D37.2
+N4	Reference T4 ICD_codes:8441	M79.1
+N5	Reference T5 ICD_codes:8225	M41.9
+N6	Reference T6 ICD_codes:7252	K29.5

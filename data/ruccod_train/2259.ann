@@ -1,0 +1,6 @@
+T1	icd_code 0 16	Острый тонзиллит
+N1	Reference T1 ICD_codes:6794	J03.9
+T2	icd_code 33 77	Хроническая анамия легкой степени. ухудшение
+N2	Reference T2 ICD_codes:1893	D64.9
+T3	icd_code 80 88	Стоматит
+N3	Reference T3 ICD_codes:7166	K12.1

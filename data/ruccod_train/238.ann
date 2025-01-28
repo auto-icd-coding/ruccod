@@ -1,0 +1,9 @@
+T1	icd_code 41 48	гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 12 24	хеликобактер
+T3	icd_code 89 100	панкреатит.
+N3	Reference T3 ICD_codes:7515	K86.2
+T4	icd_code 101 104	СРК
+N4	Reference T4 ICD_codes:7363	K58
+T5	icd_code 116 144	Синдром билиарной дискинезии
+N5	Reference T5 ICD_codes:7281	K38.9

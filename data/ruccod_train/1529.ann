@@ -1,0 +1,6 @@
+T1	icd_code 0 25	 Функциональная диспепсия
+N1	Reference T1 ICD_codes:7257	K30
+T2	icd_code 34 38	ГЭРБ
+N2	Reference T2 ICD_codes:7189	K21
+T3	icd_code 40 68	Дисфункция билиарной системы
+N3	Reference T3 ICD_codes:7500	K82.8

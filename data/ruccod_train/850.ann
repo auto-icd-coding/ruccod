@@ -1,0 +1,12 @@
+T1	icd_code 20 38	корешковый синдром
+N1	Reference T1 ICD_codes:5664	G54
+T2	icd_code 47 58	дорсопатии.
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 59 80	Желчекаменная болезнб
+N3	Reference T3 ICD_codes:7480	K80
+T4	icd_code 81 101	Гипрерхолестеринемия
+N4	Reference T4 ICD_codes:2350	E78.0
+T5	icd_code 103 147	Варикозное рашсирение вен нижних конечностей
+N5	Reference T5 ICD_codes:6719	I83.9
+T6	icd_code 149 168	Хронический бронхит
+N6	Reference T6 ICD_codes:6929	J42

@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Острый коньюнктивит
+N1	Reference T1 ICD_codes:5904	H10.3
+T2	icd_code 46 69	Миопический астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2
+T3	icd_code 101 107	Миопия
+N3	Reference T3 ICD_codes:6128	H52.1
+T4	icd_code 138 159	Нарушение аккомодации
+N4	Reference T4 ICD_codes:6132	H52.5
+T5	icd_code 173 211	Ангиопатия сосудов сетчатки обоих глаз
+N5	Reference T5 ICD_codes:6697	I79.2

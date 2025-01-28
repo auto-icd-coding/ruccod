@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 29	Цервикокраниалгия
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 46 72	остеохондроза позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 87 95	Сколиоза
+N4	Reference T4 ICD_codes:8217	M41
+T5	icd_code 205 233	мышечно-тонический синдромы.
+N5	Reference T5 ICD_codes:8441	M79.1

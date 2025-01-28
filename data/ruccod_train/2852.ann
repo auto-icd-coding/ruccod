@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Трофическая экзема
+N1	Reference T1 ICD_codes:7615	L20-L30
+T2	icd_code 20 37	Варикозная экзема
+N2	Reference T2 ICD_codes:6717	I83.1

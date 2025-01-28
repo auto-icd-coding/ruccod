@@ -1,0 +1,30 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 47	Сколиотическая болезнь позвоночника
+N2	Reference T2 ICD_codes:8217	M41
+T3	icd_code 49 88	Гиперкифоз грудного отдела позвоночника
+N3	Reference T3 ICD_codes:8212	M40.1
+T4	icd_code 90 135	Верхний (шейно-плечевой) перекрестный синдром
+N4	Reference T4 ICD_codes:8302	M53.1
+T5	icd_code 137 162	Латерофлексия таза справа
+N5	Reference T5 ICD_codes:8582	M95.5
+T6	icd_code 164 206	Остеохондроз позвоночника распространенный
+N6	Reference T6 ICD_codes:8228	M42.1
+T7	icd_code 208 231	Деформирующий спондилёз
+N7	Reference T7 ICD_codes:8265	M47.8
+T8	icd_code 233 260	спондилоартроз позвоночника
+N8	Reference T8 ICD_codes:8267	M48
+T9	icd_code 262 300	Функциональный блок на уровне Th6-Th10
+N9	Reference T9 ICD_codes:5679	G55.3
+T10	icd_code 302 318	Аномалия Кимерли
+N10	Reference T10 ICD_codes:5848	G99.2
+T11	icd_code 319 346	 Мышечно-тонический синдром
+N11	Reference T11 ICD_codes:8441	M79.1
+T12	icd_code 348 380	Синдром натяжения шейного отдела
+N12	Reference T12 ICD_codes:8302	M53.1
+T13	icd_code 382 409	Синдром позвоночной артерии
+N13	Reference T13 ICD_codes:8262	M47.0
+T14	icd_code 426 443	цервикокраниалгия
+N14	Reference T14 ICD_codes:5606	G44.2
+T15	icd_code 445 455	торакалгия
+N15	Reference T15 ICD_codes:8314	M54.6

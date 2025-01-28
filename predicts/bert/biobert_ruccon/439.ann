@@ -1,0 +1,6 @@
+T1	icd_code 0 29	Постменопаузальный остеопороз
+T2	icd_code 31 38	перелом
+T3	icd_code 62 107	Диффузно-очаговые изменения щитовидной железы
+N1	Reference T1 ICD_codes:8461	M81.0
+N2	Reference T2 ICD_codes:12231	T14.2
+N3	Reference T3 ICD_codes:2052	E07.8

@@ -1,0 +1,6 @@
+T1	icd_code 0 9	Аденомиоз
+N1	Reference T1 ICD_codes:8964	N80.0
+T2	icd_code 10 36	спаечная б-нь в малом тазу
+N2	Reference T2 ICD_codes:9115	N99.4
+T3	icd_code 37 71	ретенционная киста правого яичника
+N3	Reference T3 ICD_codes:8995	N83.2

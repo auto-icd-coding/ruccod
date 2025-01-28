@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Открытое овальное окно
+N1	Reference T1 ICD_codes:10147	Q21.1
+T2	icd_code 24 65	дополнительная трабекула левого желудочка
+N2	Reference T2 ICD_codes:10179	Q24.8

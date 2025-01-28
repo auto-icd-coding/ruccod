@@ -1,0 +1,6 @@
+T1	icd_code 0 24	Овуляторное кровотечение
+N1	Reference T1 ICD_codes:9068	N92.3
+T2	icd_code 26 46	Патология эндометрия
+N2	Reference T2 ICD_codes:1523	D07.0
+T3	icd_code 50 55	льпит
+N3	Reference T3 ICD_codes:8949	N76

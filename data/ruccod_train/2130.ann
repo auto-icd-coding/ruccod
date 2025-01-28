@@ -1,0 +1,12 @@
+T1	icd_code 20 51	цервикоторакоалгический синдром
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 60 70	дорсопатии
+N2	Reference T2 ICD_codes:8305	M53.8
+T3	icd_code 90 116	остеохондроза позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 162 205	атеросклеротического  поражения сосудов БЦА
+N4	Reference T4 ICD_codes:6645	I70.8
+T5	icd_code 215 249	 вестибуло-атактический  синдром с
+N5	Reference T5 ICD_codes:6265	H81.9
+T6	icd_code 252 262	тиннитусом
+N6	Reference T6 ICD_codes:6298	H93.1

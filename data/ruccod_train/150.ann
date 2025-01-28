@@ -1,0 +1,12 @@
+T1	icd_code 0 5	Берем
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 22 40	Угроза  прерывания
+N2	Reference T2 ICD_codes:9226	O20
+T3	icd_code 66 95	Кандидоз  мочевыводящих путей
+N3	Reference T3 ICD_codes:637	B37.4
+T4	icd_code 100 104	зева
+N4	Reference T4 ICD_codes:632	B37
+T5	icd_code 108 111	ОАА
+N5	Reference T5 ICD_codes:16803	Z35.2
+T6	icd_code 133 136	ВПЧ
+N6	Reference T6 ICD_codes:920	B97

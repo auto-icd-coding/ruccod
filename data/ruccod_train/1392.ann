@@ -1,0 +1,24 @@
+T1	icd_code 0 35	Дисциркуляторная энцефалопатия 2 ст
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 95 104	цефалгией
+N2	Reference T2 ICD_codes:8315	M54.8
+T3	icd_code 106 154	хронической вертебро-базилярной недостаточностью
+N3	Reference T3 ICD_codes:5611	G45.0
+T4	icd_code 216 259	закрытой травмы шейного отдела позвоночника
+N4	Reference T4 ICD_codes:11305	S14
+T5	icd_code 314 339	деформирующего спондилеза
+N5	Reference T5 ICD_codes:8261	M47
+T6	icd_code 341 372	левостороннего шейного сколиоза
+N6	Reference T6 ICD_codes:8224	M41.8
+T7	icd_code 391 403	кифосколиоза
+N7	Reference T7 ICD_codes:8224	M41.8
+T8	icd_code 411 445	шейного остеохондроза позвоночника
+N8	Reference T8 ICD_codes:8228	M42.1
+T9	icd_code 448 462	радикулопатией
+N9	Reference T9 ICD_codes:8309	M54.1
+T10	icd_code 477 488	цервикалгии
+N10	Reference T10 ICD_codes:8310	M54.2
+T11	icd_code 496 524	умеренного болевого синдрома
+N11	Reference T11 ICD_codes:10933	R52.2
+T12	icd_code 539 567	мышечно-тоническим синдромом
+N12	Reference T12 ICD_codes:8441	M79.1

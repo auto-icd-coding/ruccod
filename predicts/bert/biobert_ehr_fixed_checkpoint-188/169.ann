@@ -1,0 +1,4 @@
+T1	icd_code 0 13	Остр. бронхит
+T2	icd_code 15 58	Остр. правосторонняя нижнедолевая пневмония
+N1	Reference T1 ICD_codes:6860	J20.9
+N2	Reference T2 ICD_codes:6845	J18.1

@@ -1,0 +1,14 @@
+T1	icd_code 0 18	Аллергичекий ринит
+N1	Reference T1 ICD_codes:6872	J30.4
+T2	icd_code 20 64	Пищеая/медикаментозная аллергическая реакция
+N2	Reference T2 ICD_codes:12745	T78.4
+T3	icd_code 138 165	ГИперплазия небных миндалин
+N3	Reference T3 ICD_codes:6900	J35.3
+T4	icd_code 167 173	Ангина
+N4	Reference T4 ICD_codes:6792	J03.0
+T5	icd_code 251 255	ГЭРБ
+N5	Reference T5 ICD_codes:7189	K21
+T6	icd_code 186 206	Частые ринофарингиты
+N6	Reference T6 ICD_codes:6787	J02
+T7	icd_code 226 240	ларинготрахеит
+N7	Reference T7 ICD_codes:6798	J04.2

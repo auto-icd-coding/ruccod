@@ -1,0 +1,6 @@
+T1	icd_code 4 7	ВСД
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 10 34	Головные боли напряжения
+N2	Reference T2 ICD_codes:5606	G44.2
+T3	icd_code 37 58	цефалгический синдром
+N3	Reference T3 ICD_codes:10929	R51

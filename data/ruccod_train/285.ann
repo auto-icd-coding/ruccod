@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 50 68	Дисфункция сф.Одди
+N2	Reference T2 ICD_codes:7507	K83.4
+T3	icd_code 95 108	Стеатогепатит
+N3	Reference T3 ICD_codes:7466	K76
+T4	icd_code 147 176	внутрипеченочноого холестаза.
+N4	Reference T4 ICD_codes:7504	K83.1

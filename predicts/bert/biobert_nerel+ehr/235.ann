@@ -1,0 +1,8 @@
+T1	icd_code 0 15	Ушиб, гемартроз
+T2	icd_code 17 26	Гонартроз
+T3	icd_code 34 61	разрыввнутреннего мениска 2
+T4	icd_code 73 90	коленного сустава
+N1	Reference T1 ICD_codes:8147	M25.0
+N2	Reference T2 ICD_codes:8082	M17.9
+N3	Reference T3 ICD_codes:8128	M23.2
+N4	Reference T4 ICD_codes:8082	M17.9

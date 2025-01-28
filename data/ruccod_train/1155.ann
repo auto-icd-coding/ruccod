@@ -1,0 +1,4 @@
+T1	icd_code 46 49	ХВН
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 0 44	Варикозное расширение вен нижних конечностей
+N2	Reference T2 ICD_codes:6715	I83

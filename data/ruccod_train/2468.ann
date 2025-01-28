@@ -1,0 +1,14 @@
+T1	icd_code 0 40	Хронический билиарнозависимый панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 63 72	Дисформия
+N2	Reference T2 ICD_codes:7509	K83.8
+T3	icd_code 73 83	дискинезия
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 84 108	дисхолия желчного пузыря
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 110 136	Хронический гастродуоденит
+N5	Reference T5 ICD_codes:7246	K29
+T6	icd_code 206 223	Глистная ингвазия
+N6	Reference T6 ICD_codes:859	B83.9
+T7	icd_code 226 278	Синдром избыточного бактериального роста в кишечнике
+N7	Reference T7 ICD_codes:10804	R19.8

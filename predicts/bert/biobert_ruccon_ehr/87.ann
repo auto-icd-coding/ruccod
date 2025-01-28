@@ -1,0 +1,10 @@
+T1	icd_code 0 37	Фокальные включения щитовидной железы
+T2	icd_code 39 62	Железодефицитная анемия
+T3	icd_code 64 77	хрониотечение
+T4	icd_code 78 97	постгеморрагическая
+T5	icd_code 101 114	декомпенсации
+N1	Reference T1 ICD_codes:2052	E07.8
+N2	Reference T2 ICD_codes:1805	D50
+N3	Reference T3 ICD_codes:7341	K55.1
+N4	Reference T4 ICD_codes:1915	D69.9
+N5	Reference T5 ICD_codes:5045	F60.92

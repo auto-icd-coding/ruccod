@@ -1,0 +1,22 @@
+T2	icd_code 60 69	Дисформия
+N2	Reference T2 ICD_codes:10331	Q44
+T3	icd_code 70 93	гипомоторная дискинезия
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 94 118	дисхолия желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 119 133	Стеатоз печени
+N5	Reference T5 ICD_codes:7467	K76.0
+N12	Reference T5 ICD_codes:7467	K76.0
+T6	icd_code 147 159	астродуодени
+N6	Reference T6 ICD_codes:7246	K29
+T7	icd_code 179 181	Нр
+T8	icd_code 192 230	Гастроэзофагеальная рефлюксная болезнь
+N8	Reference T8 ICD_codes:7189	K21
+T9	icd_code 233 256	кандидозным эзофагитом.
+N9	Reference T9 ICD_codes:641	B37.8
+T10	icd_code 256 272	Пищевод Баретта?
+N10	Reference T10 ICD_codes:7192	K22
+T11	icd_code 272 295	Лейкоцитоз,неуточненный
+N11	Reference T11 ICD_codes:1922	D72.8
+T1	icd_code 0 40	Хронический билиарнозависимый панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1

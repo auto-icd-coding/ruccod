@@ -1,0 +1,21 @@
+T1	icd_code 0 25	Хронический гастродуодени
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 44 48	ГПОД
+N2	Reference T2 ICD_codes:7305	K44
+T3	icd_code 50 76	Дуоденогастральный рефлюкс
+N3	Reference T3 ICD_codes:7189	K21
+T5	icd_code 112 124	Долихосигма.
+N5	Reference T5 ICD_codes:10329	Q43.8
+N12	Reference T5 ICD_codes:10320	Q43
+T6	icd_code 125 154	Дискинезия толстого кишечника
+N6	Reference T6 ICD_codes:7372	K59.8
+T7	icd_code 179 210	Дивертикулез толстого кишечника
+N7	Reference T7 ICD_codes:7354	K57
+T8	icd_code 212 232	Хронический геморрой
+T9	icd_code 250 270	Гиперхолестеринемия.
+N9	Reference T9 ICD_codes:2349	E78
+N11	Reference T9 ICD_codes:2349	E78
+T10	icd_code 271 308	Варикозная болезнь нижних конечностей
+N10	Reference T10 ICD_codes:6719	I83.9
+T4	icd_code 77 94	Хронический колит
+N4	Reference T4 ICD_codes:7337	K52.9

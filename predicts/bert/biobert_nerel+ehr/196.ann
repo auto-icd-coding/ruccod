@@ -1,0 +1,12 @@
+T1	icd_code 0 23	Железодефицитная анемия
+T2	icd_code 50 65	дефицит фолатов
+T3	icd_code 67 84	Дефицит витмина Д
+T4	icd_code 87 116	Хронический глоссит, стоматит
+T5	icd_code 138 171	Функциональная кишечная диспепсия
+T6	icd_code 200 221	Полип желчного пузыря
+N1	Reference T1 ICD_codes:1805	D50
+N2	Reference T2 ICD_codes:7852	L73.8
+N3	Reference T3 ICD_codes:2291	E67.3
+N4	Reference T4 ICD_codes:7166	K12.1
+N5	Reference T5 ICD_codes:7257	K30
+N6	Reference T6 ICD_codes:7497	K82.2

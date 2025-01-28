@@ -1,0 +1,4 @@
+T1	icd_code 7 27	гнойный риносинусит.
+N1	Reference T1 ICD_codes:6786	J01.9
+T2	icd_code 28 40	Беременность
+N2	Reference T2 ICD_codes:16796	Z34

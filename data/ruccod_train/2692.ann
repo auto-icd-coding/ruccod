@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 12 37	Вертеброгенная торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 39 72	стойкий болевой, миотнический с-м
+N3	Reference T3 ICD_codes:8441	M79.1

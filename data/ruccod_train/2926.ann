@@ -1,0 +1,6 @@
+T1	icd_code 0 40	Резаная рана верхнего века правого глаза
+N1	Reference T1 ICD_codes:11154	S01.8
+T2	icd_code 42 47	ПХО о
+N2	Reference T2 ICD_codes:16544	Y83.9
+T3	icd_code 60 83	Ушиб мягких тканей лица
+N3	Reference T3 ICD_codes:11207	S05.1

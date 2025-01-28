@@ -1,0 +1,4 @@
+T1	icd_code 0 34	Острый правосторонний средний отит
+N1	Reference T1 ICD_codes:6210	H66.9
+T2	icd_code 71 81	аденоидита
+N2	Reference T2 ICD_codes:6899	J35.2

@@ -1,0 +1,12 @@
+T1	icd_code 0 40	Хронический Н.р.-ассоциированный гастрит
+N1	Reference T1 ICD_codes:7251	K29.4
+T2	icd_code 74 100	Дуоено-гастральный рефлюкс
+N2	Reference T2 ICD_codes:7266	K31.8
+T3	icd_code 102 130	Хронический рефлюкс-эзофагит
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 155 222	Дисфункция желчного пузыря ввиду аномалии строения желчного  пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 132 154	Недостаточность кардии
+N5	Reference T5 ICD_codes:7192	K22
+T6	icd_code 236 258	Дисбактериоз кишечника
+N6	Reference T6 ICD_codes:7398	K63

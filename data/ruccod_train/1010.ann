@@ -1,0 +1,6 @@
+T1	icd_code 27 46	Эктопия шейки матки
+N1	Reference T1 ICD_codes:9033	N88.8
+T2	icd_code 18 26	Цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 0 17	Подострый вагинит
+N3	Reference T3 ICD_codes:8951	N76.1

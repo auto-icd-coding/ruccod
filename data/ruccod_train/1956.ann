@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Вторичная ЖДА
+N1	Reference T1 ICD_codes:1808	D50.0
+T2	icd_code 39 72	Функциональная кишечная диспепсия
+N2	Reference T2 ICD_codes:7257	K30
+T3	icd_code 92 116	дисбактериозом кишечника
+N3	Reference T3 ICD_codes:7398	K63

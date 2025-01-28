@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 6 27	Острый фаринготрахеит
+N2	Reference T2 ICD_codes:6790	J02.9
+T3	icd_code 50 82	Перенесенная атипичная микст инф
+N3	Reference T3 ICD_codes:6831	J15.7

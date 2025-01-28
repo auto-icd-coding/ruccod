@@ -1,0 +1,4 @@
+T1	icd_code 0 13	hallus valgus
+N1	Reference T1 ICD_codes:8100	M20.1
+T2	icd_code 35 50	Болевой синдром
+N2	Reference T2 ICD_codes:10934	R52.9

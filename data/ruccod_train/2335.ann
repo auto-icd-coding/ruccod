@@ -1,0 +1,8 @@
+T1	icd_code 0 52	Цефалгия сложного генеза (вертеброгенная+ сосудистая
+N1	Reference T1 ICD_codes:5605	G44.1
+T2	icd_code 57 68	Синдром ВБА
+N2	Reference T2 ICD_codes:6645	I70.8
+T3	icd_code 70 81	Цервикалгия
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 115 150	болевой. мышечно-тонический синдром
+N4	Reference T4 ICD_codes:8441	M79.1

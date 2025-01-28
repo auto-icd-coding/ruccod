@@ -1,0 +1,16 @@
+T1	icd_code 20 43	цервикоторакоалгический
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 27 44	торакоалгический
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 60 70	дорсопатии
+N3	Reference T3 ICD_codes:8305	M53.8
+T4	icd_code 215 225	дорсопатии
+N4	Reference T4 ICD_codes:8305	M53.8
+T5	icd_code 90 102	остеохондроз
+N5	Reference T5 ICD_codes:8226	M42
+T6	icd_code 245 257	остеохондроз
+N6	Reference T6 ICD_codes:8226	M42
+T7	icd_code 176 178	, 
+N7	Reference T7 ICD_codes:8313	M54.5
+T8	icd_code 291 308	Грыжа диска L5-S1
+N8	Reference T8 ICD_codes:8294	M51.1

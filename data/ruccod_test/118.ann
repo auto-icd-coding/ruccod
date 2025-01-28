@@ -1,0 +1,8 @@
+T1	icd_code 0 30	Острый катаральный риносинусит
+N1	Reference T1 ICD_codes:6786	J01.9
+T3	icd_code 80 106	Острый катаральный трахеит
+N3	Reference T3 ICD_codes:6797	J04.1
+T4	icd_code 109 134	Лихорадка неясного генеза
+N4	Reference T4 ICD_codes:10924	R50
+T2	icd_code 32 78	Острый правосторонний катаральный средний отит
+N2	Reference T2 ICD_codes:6198	H65.0

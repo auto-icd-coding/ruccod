@@ -1,0 +1,10 @@
+T1	icd_code 0 27	Эндоцервицит уреаплазменный
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 29 36	Вагинит
+N2	Reference T2 ICD_codes:8957	N76.8
+T3	icd_code 42 45	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 60 91	Остроконечные кондиломы  вульвы
+N4	Reference T4 ICD_codes:323	A63.0
+T5	icd_code 95 106	Хр. оофорит
+N5	Reference T5 ICD_codes:8920	N70.1

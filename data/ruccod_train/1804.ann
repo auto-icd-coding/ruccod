@@ -1,0 +1,8 @@
+T1	icd_code 0 41	Остеохондроз шейного отдела позвоночника,
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 42 71	шейный миофасциальный синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 87 104	цервикобрахиалния
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 111 152	Левосторонний плече-лопаточный периартрит
+N4	Reference T4 ICD_codes:8417	M75.8

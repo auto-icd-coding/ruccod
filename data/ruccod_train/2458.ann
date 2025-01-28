@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Бесплодие первичное
+N1	Reference T1 ICD_codes:9101	N97.9
+T2	icd_code 20 43	Сенехии в полости матки
+N2	Reference T2 ICD_codes:9017	N85.6
+T3	icd_code 43 46	ГЩЖ
+N3	Reference T3 ICD_codes:2049	E07

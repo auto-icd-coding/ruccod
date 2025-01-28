@@ -1,0 +1,6 @@
+T1	icd_code 0 17	цистит обострение
+N1	Reference T1 ICD_codes:8792	N30.1
+T2	icd_code 22 29	уретрит
+N2	Reference T2 ICD_codes:8819	N34.3
+T3	icd_code 33 42	Люмбалгия
+N3	Reference T3 ICD_codes:8313	M54.5

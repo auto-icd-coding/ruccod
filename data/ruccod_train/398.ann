@@ -1,0 +1,16 @@
+T1	icd_code 56 77	перелома Th11позвонка
+N1	Reference T1 ICD_codes:11347	S22
+T2	icd_code 125 145	радикулярный синдром
+N2	Reference T2 ICD_codes:5664	G54
+T5	icd_code 200 226	мышечно-тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 227 237	Дорсопатия
+N6	Reference T6 ICD_codes:8306	M53.9
+T7	icd_code 291 306	цервикоцефалгия
+N7	Reference T7 ICD_codes:5603	G44
+T8	icd_code 307 310	ДЭП
+N8	Reference T8 ICD_codes:5816	G93.4
+T9	icd_code 332 359	Астеноневротический синдром
+N9	Reference T9 ICD_codes:4934	F48.0
+T4	icd_code 157 166	люмбалгия
+N4	Reference T4 ICD_codes:8313	M54.5

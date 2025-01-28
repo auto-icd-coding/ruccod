@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дискинезия
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 11 35	дисхолия желчного пузыря
+N2	Reference T2 ICD_codes:7509	K83.8
+T3	icd_code 95 121	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 179 220	Синдром раздраженного кишечника с запором
+N4	Reference T4 ICD_codes:7365	K58.9
+T5	icd_code 221 224	ПТИ
+N5	Reference T5 ICD_codes:44	A05.9

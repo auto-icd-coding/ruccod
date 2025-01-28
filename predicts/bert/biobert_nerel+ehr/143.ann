@@ -1,0 +1,8 @@
+T1	icd_code 0 26	ОРВИ по типу ринофарингита
+T2	icd_code 28 36	трахеита
+T3	icd_code 38 49	Пиелонефрит
+T4	icd_code 51 69	Мочесолевой диатез
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6797	J04.1
+N3	Reference T3 ICD_codes:8707	N11.0
+N4	Reference T4 ICD_codes:8841	N39.8

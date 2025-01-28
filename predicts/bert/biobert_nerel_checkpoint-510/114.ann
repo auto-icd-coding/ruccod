@@ -1,0 +1,8 @@
+T1	icd_code 10 20	обострение
+T2	icd_code 21 44	хронического простатита
+T3	icd_code 47 54	уретрит
+T4	icd_code 65 75	воспаление
+N1	Reference T1 ICD_codes:12781	T81.9
+N2	Reference T2 ICD_codes:8847	N41.1
+N3	Reference T3 ICD_codes:8817	N34.1
+N4	Reference T4 ICD_codes:8925	N71.9

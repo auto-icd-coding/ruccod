@@ -1,0 +1,14 @@
+T1	icd_code 0 3	СРК
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 64 104	Синдром избыточного бактериального роста
+N2	Reference T2 ICD_codes:10804	R19.8
+T3	icd_code 125 142	Хронический колит
+N3	Reference T3 ICD_codes:7332	K52
+T4	icd_code 144 163	Хронический гастрит
+N4	Reference T4 ICD_codes:7246	K29
+T5	icd_code 177 193	Рефлюкс-эзофагит
+N5	Reference T5 ICD_codes:7189	K21
+T6	icd_code 195 217	Хронический холецистит
+N6	Reference T6 ICD_codes:7493	K81.9
+T7	icd_code 219 240	Реактивный панкреатит
+N7	Reference T7 ICD_codes:7515	K86.2

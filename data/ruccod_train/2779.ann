@@ -1,0 +1,12 @@
+T1	icd_code 0 23	Узловой токсический зоб
+N1	Reference T1 ICD_codes:2034	E05.1
+T2	icd_code 55 82	Астено-вегетативный синдром
+N2	Reference T2 ICD_codes:4934	F48.0
+T3	icd_code 84 107	Синдром гиперкальциемии
+N3	Reference T3 ICD_codes:2379	E83.5
+T4	icd_code 109 124	гиперпаратиреоз
+N4	Reference T4 ICD_codes:2129	E21.3
+T5	icd_code 129 152	Папуло-пустулезные угри
+N5	Reference T5 ICD_codes:7829	L70.0
+T6	icd_code 154 165	Бактериурия
+N6	Reference T6 ICD_codes:8836	N39.0

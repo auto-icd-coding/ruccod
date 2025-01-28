@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Розовый лишай Жибера
+T2	icd_code 23 58	Ожог кожи левой подмышечной впадины
+N1	Reference T1 ICD_codes:7702	L42
+N2	Reference T2 ICD_codes:7669	L29.1

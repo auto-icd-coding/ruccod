@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 35 48	постменопаузы
+N2	Reference T2 ICD_codes:9088	N95.1
+T3	icd_code 51 93	Состояние после двусторонней аднексэктомии
+N3	Reference T3 ICD_codes:16949	Z54.0

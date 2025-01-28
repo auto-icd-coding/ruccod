@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Вертеброгеннaя цервикобрахиалгия
+T2	icd_code 41 54	радикулопатия
+T3	icd_code 81 96	болевой синдром
+T4	icd_code 103 126	-дистрофический синдром
+T5	icd_code 163 219	синдром запястного канала с нейропатией срединного нерва
+T6	icd_code 231 240	нарушения
+N1	Reference T1 ICD_codes:8310	M54.2
+N2	Reference T2 ICD_codes:8309	M54.1
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:5744	G71.0
+N5	Reference T5 ICD_codes:5682	G56.0
+N6	Reference T6 ICD_codes:6526	I45.9

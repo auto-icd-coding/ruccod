@@ -1,0 +1,2 @@
+T1	icd_code 9 26	полип? эндометрия
+N1	Reference T1 ICD_codes:9003	N84

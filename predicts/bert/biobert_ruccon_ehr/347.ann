@@ -1,0 +1,26 @@
+T1	icd_code 0 4	ГПОД
+T2	icd_code 6 12	ГЭРБ с
+T3	icd_code 13 23	эзофагитом
+T4	icd_code 25 41	Пищевод Барретта
+T5	icd_code 43 65	Недостаточность кардии
+T6	icd_code 67 91	Поверхностный гастрит НР
+T7	icd_code 106 132	Дуоденогастральный рефлюкс
+T8	icd_code 134 148	Полипы желудка
+T9	icd_code 150 171	Реактивный панкреатит
+T10	icd_code 173 176	ЖКБ
+T11	icd_code 178 213	Хронический калькулезный холецистит
+T12	icd_code 230 258	Дивертикулез ободочной кишки
+T13	icd_code 260 277	хронический колит
+N1	Reference T1 ICD_codes:7308	K44.9
+N2	Reference T2 ICD_codes:7191	K21.9
+N3	Reference T3 ICD_codes:7190	K21.0
+N4	Reference T4 ICD_codes:7200	K22.8
+N5	Reference T5 ICD_codes:6549	I50.9
+N6	Reference T6 ICD_codes:7250	K29.3
+N7	Reference T7 ICD_codes:7266	K31.8
+N8	Reference T8 ICD_codes:9004	N84.0
+N9	Reference T9 ICD_codes:7511	K85
+N10	Reference T10 ICD_codes:7487	K80.5
+N11	Reference T11 ICD_codes:7491	K81.1
+N12	Reference T12 ICD_codes:7358	K57.3
+N13	Reference T13 ICD_codes:7337	K52.9

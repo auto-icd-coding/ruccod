@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Острый назофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 36	Острый ларингит
+N2	Reference T2 ICD_codes:6796	J04.0
+T3	icd_code 38 60	Хронический тонзиллит,
+N3	Reference T3 ICD_codes:6897	J35.0

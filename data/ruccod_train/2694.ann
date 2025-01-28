@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 64 76	Дислипидемия
+N2	Reference T2 ICD_codes:2349	E78
+T3	icd_code 78 81	ГЛЖ
+N3	Reference T3 ICD_codes:6501	I42.8
+T4	icd_code 103 105	НК
+N4	Reference T4 ICD_codes:6546	I50
+T5	icd_code 125 146	Редкая экстрасистолия
+N5	Reference T5 ICD_codes:6542	I49.4

@@ -1,0 +1,8 @@
+T1	icd_code 0 44	Синдром вертебро-базилярной  недостаточности
+N1	Reference T1 ICD_codes:5611	G45.0
+T2	icd_code 65 78	остеохондроза
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 82 108	 артериальной  гипертензии
+N3	Reference T3 ICD_codes:10747	R03.0
+T4	icd_code 110 140	вестибуло-атактический синдром
+N4	Reference T4 ICD_codes:6266	H82

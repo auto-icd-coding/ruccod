@@ -1,0 +1,6 @@
+T1	icd_code 0 31	Искривление носовой перегородки
+N1	Reference T1 ICD_codes:6893	J34.2
+T2	icd_code 34 42	Стоматит
+N2	Reference T2 ICD_codes:7164	K12
+T3	icd_code 45 68	Подчелюстной лимфаденит
+N3	Reference T3 ICD_codes:7572	L04.0

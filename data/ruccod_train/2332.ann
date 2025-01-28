@@ -1,0 +1,8 @@
+T1	icd_code 0 9	Менопауза
+N1	Reference T1 ICD_codes:9088	N95.1
+T2	icd_code 11 21	Серозоцеле
+N2	Reference T2 ICD_codes:8927	N73
+T3	icd_code 26 49	Гипертоническая болезнь
+N3	Reference T3 ICD_codes:6357	I11
+T4	icd_code 51 75	Сахарный диабет - 2 типа
+N4	Reference T4 ICD_codes:2076	E11.9

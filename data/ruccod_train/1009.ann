@@ -1,0 +1,6 @@
+T1	icd_code 64 83	Камень правой почки
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 59 62	МКБ
+N2	Reference T2 ICD_codes:8756	N20.0
+T3	icd_code 0 37	Хронический бактериальный пиелонефрит
+N3	Reference T3 ICD_codes:8708	N11.1

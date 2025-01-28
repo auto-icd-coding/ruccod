@@ -1,0 +1,16 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 60 87	Формирующийся полип желудка
+N2	Reference T2 ICD_codes:7267	K31.9
+T3	icd_code 107 116	Дисформия
+N3	Reference T3 ICD_codes:4919	F45
+T4	icd_code 117 140	гипомоторная дискинезия
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 141 163	полипы желчного пузыря
+N5	Reference T5 ICD_codes:7494	K82
+T6	icd_code 164 185	Реактивный панкреатит
+N6	Reference T6 ICD_codes:7511	K85
+T7	icd_code 187 228	Синдром раздраженного кишечника с запором
+N7	Reference T7 ICD_codes:7365	K58.9
+T8	icd_code 230 282	Синдром избыточного бактериального роста в кишечнике
+N8	Reference T8 ICD_codes:10804	R19.8

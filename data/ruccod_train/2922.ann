@@ -1,0 +1,8 @@
+T1	icd_code 0 2	АГ
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 4 30	Вегето-сосудистая дистония
+N2	Reference T2 ICD_codes:4924	F45.30
+T3	icd_code 33 42	Хр. ринит
+N3	Reference T3 ICD_codes:6874	J31.0
+T4	icd_code 45 67	Аллергический дерматит
+N4	Reference T4 ICD_codes:7625	L23

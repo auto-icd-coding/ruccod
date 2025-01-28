@@ -1,0 +1,20 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 32 55	артериальная гипертония
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 75 109	Остеоартрит мелких суставов кистей
+N3	Reference T3 ICD_codes:8096	M19.9
+T5	icd_code 167 177	Дорсопатия
+N5	Reference T5 ICD_codes:8306	M53.9
+T7	icd_code 203 229	мышечно-тонический синдром
+N7	Reference T7 ICD_codes:8441	M79.1
+T6	icd_code 179 201	Остеохондроз ШОП , ПОП
+N6	Reference T6 ICD_codes:8228	M42.1
+T4	icd_code 111 114	НФС
+N4	Reference T4 ICD_codes:8398	M72.0
+N8	Reference T4 ICD_codes:8398	M72.0
+N9	Reference T4 ICD_codes:8398	M72.0
+T4	icd_code 117 140	Контрактура Дьюпиитрена
+N4	Reference T4 ICD_codes:8398	M72.0
+N8	Reference T4 ICD_codes:8398	M72.0
+N9	Reference T4 ICD_codes:8398	M72.0

@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ИБС
+T2	icd_code 4 7	ПИК
+T3	icd_code 14 18	ХСН-
+N1	Reference T1 ICD_codes:6406	I25
+N2	Reference T2 ICD_codes:10182	Q25.0
+N3	Reference T3 ICD_codes:6547	I50.0

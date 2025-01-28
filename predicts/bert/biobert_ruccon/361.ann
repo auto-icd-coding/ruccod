@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Мышечно-тонический синдром
+T2	icd_code 28 46	цервикалгия справа
+T3	icd_code 88 99	грыжа диска
+N1	Reference T1 ICD_codes:8441	M79.1
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8295	M51.2

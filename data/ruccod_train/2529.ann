@@ -1,0 +1,4 @@
+T1	icd_code 6 21	острый фарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 23 36	Хр. тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0

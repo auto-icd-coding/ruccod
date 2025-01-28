@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 4 24	Острый трахеобронхит
+N2	Reference T2 ICD_codes:6849	J20
+T3	icd_code 25 44	Острый назофарингит
+N3	Reference T3 ICD_codes:6776	J00
+T4	icd_code 46 55	Пневмония
+N4	Reference T4 ICD_codes:6848	J18.9

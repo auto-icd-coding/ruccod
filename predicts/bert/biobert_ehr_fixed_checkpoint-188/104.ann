@@ -1,0 +1,6 @@
+T1	icd_code 0 17	О.вагинитЦервицит
+T2	icd_code 19 30	Эрозия ш/м.
+T3	icd_code 47 63	кисты на ш/матке
+N1	Reference T1 ICD_codes:8960	N77.1
+N2	Reference T2 ICD_codes:9021	N86
+N3	Reference T3 ICD_codes:10363	Q51.6

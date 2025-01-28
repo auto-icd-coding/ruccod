@@ -1,0 +1,14 @@
+T1	icd_code 0 41	Синдром раздраженного кишечника с запором
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 42 51	Копроптоз
+N2	Reference T2 ICD_codes:7367	K59.0
+T3	icd_code 53 105	Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8
+T4	icd_code 106 116	Токсокароз
+N4	Reference T4 ICD_codes:853	B83.0
+T5	icd_code 118 137	Хронический гастрит
+N5	Reference T5 ICD_codes:7252	K29.5
+T6	icd_code 197 223	дискинезия желчного пузыря
+N6	Reference T6 ICD_codes:7500	K82.8
+T7	icd_code 162 172	Гастроптоз
+N7	Reference T7 ICD_codes:7266	K31.8

@@ -1,0 +1,6 @@
+T1	icd_code 6 30	Артериальная гипертензия
+T2	icd_code 72 98	Пароксизмальная тахикардия
+T3	icd_code 101 128	Желудочковая экстрасистолия
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6535	I47.9
+N3	Reference T3 ICD_codes:6541	I49.3

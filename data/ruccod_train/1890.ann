@@ -1,0 +1,12 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 87 97	Дискинезия
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 98 106	дисхолия
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 107 135	увеличенного желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 136 146	Гельминтоз
+N5	Reference T5 ICD_codes:859	B83.9
+T6	icd_code 147 163	Вирусный гепатит
+N6	Reference T6 ICD_codes:537	B18.2

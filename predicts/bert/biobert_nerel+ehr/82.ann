@@ -1,0 +1,4 @@
+T1	icd_code 0 34	Онихомикоз 1-го пальца левой стопы
+T2	icd_code 37 49	Беременность
+N1	Reference T1 ICD_codes:617	B35.1
+N2	Reference T2 ICD_codes:16794	Z32.9

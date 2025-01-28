@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Острая анальная трещина
+N1	Reference T1 ICD_codes:7375	K60.0
+T2	icd_code 25 56	Синдром раздраженного кишечника
+N2	Reference T2 ICD_codes:7365	K58.9
+T3	icd_code 58 71	Дисбактериоз?
+N3	Reference T3 ICD_codes:7404	K63.8
+T4	icd_code 72 76	ДЖВП
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 78 95	Хронический запор
+N5	Reference T5 ICD_codes:7367	K59.0

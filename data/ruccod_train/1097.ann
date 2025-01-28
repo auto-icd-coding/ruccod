@@ -1,0 +1,4 @@
+T1	icd_code 7 50	Варикозная болезнь обеих нижних конечностей
+N1	Reference T1 ICD_codes:6719	I83.9
+T2	icd_code 0 5	ХЗВНК
+N2	Reference T2 ICD_codes:6715	I83

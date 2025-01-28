@@ -1,0 +1,10 @@
+T1	icd_code 0 59	Синдром избыточного бактериального роста в тонком кишечнике
+N1	Reference T1 ICD_codes:7372	K59.8
+T2	icd_code 61 101	Хронический Н.р.-ассоциированный гастрит
+N2	Reference T2 ICD_codes:7253	K29.6
+T3	icd_code 103 135	Дискинезия желчевыводящих путей.
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 136 157	Реактивный панкреатит
+N4	Reference T4 ICD_codes:7511	K85
+T5	icd_code 159 210	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N5	Reference T5 ICD_codes:7190	K21.0

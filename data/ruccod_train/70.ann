@@ -1,0 +1,18 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 11 14	ВПЧ
+N2	Reference T2 ICD_codes:928	B97.7
+T4	icd_code 82 111	Эндометриоз матки (аденомиоз)
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 112 127	Варикоз вен м\т
+N5	Reference T5 ICD_codes:6737	I86.2
+T6	icd_code 135 172	 Нарушение  толерантности к  глюкозе.
+N6	Reference T6 ICD_codes:10986	R73.0
+T7	icd_code 226 240	Гиперлипидемия
+N7	Reference T7 ICD_codes:2355	E78.5
+T8	icd_code 174 196	Инсулинорезистентность
+N8	Reference T8 ICD_codes:10985	R73
+T3	icd_code 26 58	Хронический сальпингит и оофорит
+N3	Reference T3 ICD_codes:8920	N70.1
+T9	icd_code 216 225	СД 2 типа
+N9	Reference T9 ICD_codes:2066	E11

@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Бактериальный вагиноз
+N1	Reference T1 ICD_codes:9035	N89
+T2	icd_code 24 50	Урогенитальный уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 53 64	микоплазмоз
+N3	Reference T3 ICD_codes:261	A49.3
+T4	icd_code 67 76	хламидиоз
+N4	Reference T4 ICD_codes:305	A56

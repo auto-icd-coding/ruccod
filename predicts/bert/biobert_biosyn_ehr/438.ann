@@ -1,0 +1,10 @@
+T1	icd_code 0 17	Дорсопатия шейная
+T2	icd_code 19 26	грудная
+T3	icd_code 46 85	болевого и мышечно-тонического синдрома
+T4	icd_code 87 111	Острая цервикокраниалгия
+T5	icd_code 121 129	Спазм па
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:11363	S22.5
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:8310	M54.2
+N5	Reference T5 ICD_codes:5533	G24.5

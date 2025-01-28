@@ -1,0 +1,24 @@
+T1	icd_code 0 32	Тораколюмбоишиалгический синдром
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 34 60	мышечно-тонический синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 69 79	дорсопатии
+N3	Reference T3 ICD_codes:8305	M53.8
+T4	icd_code 99 125	остеохондроза позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 146 182	Дискогенная радикулопатия L4-5 L5-S1
+N5	Reference T5 ICD_codes:5679	G55.3
+T6	icd_code 193 210	болевым синдромом
+N6	Reference T6 ICD_codes:8441	M79.1
+T7	icd_code 212 245	Грыжа межпозвоночных дисков L4-S1
+N7	Reference T7 ICD_codes:8297	M51.4
+T8	icd_code 248 304	дегенеративные изменения поясничного отдела позвоночника
+N8	Reference T8 ICD_codes:8296	M51.3
+T9	icd_code 306 320	спондилоартроз
+N9	Reference T9 ICD_codes:8275	M48.9
+T10	icd_code 336 343	сколиоз
+N10	Reference T10 ICD_codes:8225	M41.9
+T11	icd_code 347 381	Укорчение правой нижней конечности
+N11	Reference T11 ICD_codes:10525	Q72.9
+T12	icd_code 390 414	Артроз правого коленного
+N12	Reference T12 ICD_codes:8082	M17.9

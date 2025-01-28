@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Реконвалесцент по ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 24 45	Синдром хр. усталости
+N2	Reference T2 ICD_codes:5815	G93.3

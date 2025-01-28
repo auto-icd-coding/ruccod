@@ -1,0 +1,4 @@
+T1	icd_code 5 58	соматоформная дисфункция вегетативной нервной системы
+T2	icd_code 73 96	Железодефицитная анемия
+N1	Reference T1 ICD_codes:4923	F45.3
+N2	Reference T2 ICD_codes:1805	D50

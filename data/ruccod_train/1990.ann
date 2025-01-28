@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Ушиб затылочной области
+N1	Reference T1 ICD_codes:11137	S00.0
+T2	icd_code 25 36	Цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 50 80	миофасциальный болевой синдром
+N3	Reference T3 ICD_codes:8441	M79.1

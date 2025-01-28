@@ -1,0 +1,24 @@
+T1	icd_code 0 25	Боль в груди неуточненная
+N1	Reference T1 ICD_codes:8316	M54.9
+T2	icd_code 28 39	Стенокардия
+N2	Reference T2 ICD_codes:6379	I20.9
+T3	icd_code 42 52	Торакалгия
+N3	Reference T3 ICD_codes:8314	M54.6
+T4	icd_code 54 90	Гипертоническая болезнь II ст,  3 ст
+N4	Reference T4 ICD_codes:6359	I11.9
+T5	icd_code 92 95	ХСН
+N5	Reference T5 ICD_codes:6546	I50
+T6	icd_code 99 111	Дислипидемия
+N6	Reference T6 ICD_codes:2355	E78.5
+T7	icd_code 113 121	Ожирение
+N7	Reference T7 ICD_codes:2281	E66
+T8	icd_code 128 138	Дорсопатия
+N8	Reference T8 ICD_codes:8307	M54
+T9	icd_code 147 212	остеохондроза  шейного, грудного, поясничного отдела позвоночника
+N9	Reference T9 ICD_codes:8228	M42.1
+T10	icd_code 237 255	мышечно-тоническим
+N10	Reference T10 ICD_codes:8441	M79.1
+T11	icd_code 277 304	Астено-невротический с-дром
+N11	Reference T11 ICD_codes:4934	F48.0
+T12	icd_code 226 233	болевым
+N12	Reference T12 ICD_codes:10930	R52

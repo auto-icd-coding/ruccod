@@ -1,0 +1,4 @@
+T1	icd_code 0 41	Дорсопатия пояничного отдела позвоночника
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 43 64	хроническая люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4

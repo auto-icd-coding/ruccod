@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Тендинит четырехлавой мышцы бедра
+N1	Reference T1 ICD_codes:11905	S76
+T2	icd_code 42 84	Лигаментит собственных связок.надколенника
+N2	Reference T2 ICD_codes:11967	S83

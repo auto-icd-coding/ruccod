@@ -1,0 +1,12 @@
+T1	icd_code 39 47	ожирение
+N1	Reference T1 ICD_codes:2281	E66
+T2	icd_code 78 158	артериальная гипертензия 3 ст, 2 ст, риск сердечно-сосудистых осложнений высокий
+N2	Reference T2 ICD_codes:6359	I11.9
+T3	icd_code 160 184	атерогенная дислипидемия
+N3	Reference T3 ICD_codes:2354	E78.4
+T4	icd_code 212 215	ИБС
+N4	Reference T4 ICD_codes:6406	I25
+T5	icd_code 0 22	Метаболический синдром
+N5	Reference T5 ICD_codes:2406	E88
+T6	icd_code 224 227	ЖЭС
+N6	Reference T6 ICD_codes:6541	I49.3

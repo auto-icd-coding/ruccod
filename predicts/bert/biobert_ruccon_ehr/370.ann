@@ -1,0 +1,12 @@
+T1	icd_code 0 9	Аденомиоз
+T2	icd_code 10 20	Дисменорея
+T3	icd_code 22 35	Вульвовагинит
+T4	icd_code 36 38	СД
+T5	icd_code 41 56	Гиперандрогения
+T6	icd_code 58 70	Ожирение 3ст
+N1	Reference T1 ICD_codes:8964	N80.0
+N2	Reference T2 ICD_codes:9083	N94.6
+N3	Reference T3 ICD_codes:8960	N77.1
+N4	Reference T4 ICD_codes:2099	E14
+N5	Reference T5 ICD_codes:2173	E28.1
+N6	Reference T6 ICD_codes:2282	E66.0

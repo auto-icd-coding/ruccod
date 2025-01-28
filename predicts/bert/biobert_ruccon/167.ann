@@ -1,0 +1,10 @@
+T1	icd_code 0 22	Аутоиммунный тиреоидит
+T2	icd_code 24 38	Гиперлипидемия
+T3	icd_code 40 50	Остеопороз
+T4	icd_code 86 113	Диффузный нетоксический зоб
+T5	icd_code 129 136	эутироз
+N1	Reference T1 ICD_codes:2045	E06.3
+N2	Reference T2 ICD_codes:2355	E78.5
+N3	Reference T3 ICD_codes:8469	M81.9
+N4	Reference T4 ICD_codes:2027	E04.0
+N5	Reference T5 ICD_codes:8817	N34.1

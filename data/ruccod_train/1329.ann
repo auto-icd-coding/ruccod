@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Эрозия шейки матки
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 19 29	впч-18 тип
+N2	Reference T2 ICD_codes:928	B97.7

@@ -1,0 +1,4 @@
+T2	icd_code 30 42	Беременность
+N2	Reference T2 ICD_codes:16796	Z34
+T1	icd_code 0 18	Хронический цистит
+N1	Reference T1 ICD_codes:8792	N30.1

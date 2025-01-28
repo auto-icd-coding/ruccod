@@ -1,0 +1,8 @@
+T1	icd_code 0 18	АГ 2 ст.,риск-2-3,
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 18 21	ХСН
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 23 39	,перелом грудины
+N3	Reference T3 ICD_codes:11354	S22.2
+T4	icd_code 45 56	ушиб сердца
+N4	Reference T4 ICD_codes:11401	S26.8

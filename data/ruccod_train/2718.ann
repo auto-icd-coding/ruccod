@@ -1,0 +1,4 @@
+T1	icd_code 0 38	функциональное нарушение развития стоп
+N1	Reference T1 ICD_codes:10473	Q66.8
+T2	icd_code 40 60	вальгусная установка
+N2	Reference T2 ICD_codes:10471	Q66.6

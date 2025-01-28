@@ -1,0 +1,6 @@
+T1	icd_code 1 29	Острый обструктивный бронхит
+T2	icd_code 54 58	ОРВИ
+T3	icd_code 60 79	острый назофарингит
+N1	Reference T1 ICD_codes:6938	J44.1
+N2	Reference T2 ICD_codes:6777	J00-J06
+N3	Reference T3 ICD_codes:6776	J00

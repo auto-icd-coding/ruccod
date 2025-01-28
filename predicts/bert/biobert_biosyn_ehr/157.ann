@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 5 17	Назофарингит
+T3	icd_code 45 51	диарея
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6776	J00
+N3	Reference T3 ICD_codes:7368	K59.1

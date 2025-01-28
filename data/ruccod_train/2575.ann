@@ -1,0 +1,6 @@
+T1	icd_code 0 24	НМЦ по-типу олигоменореи
+N1	Reference T1 ICD_codes:9064	N92
+T2	icd_code 48 56	Ожтрение
+N2	Reference T2 ICD_codes:2286	E66.9
+T3	icd_code 58 67	Гирсутизм
+N3	Reference T3 ICD_codes:7822	L68.0

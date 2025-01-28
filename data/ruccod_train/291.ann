@@ -1,0 +1,4 @@
+T1	icd_code 12 53	закрытого перелома правой бедренной кости
+N1	Reference T1 ICD_codes:11863	S72
+T2	icd_code 55 96	эндопротезирование тазобедренного сустава
+N2	Reference T2 ICD_codes:8065	M16

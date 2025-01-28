@@ -1,0 +1,7 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 7 26	ерпетическая ангина
+N2	Reference T2 ICD_codes:475	B00.2
+T3	icd_code 43 64	Контагиозный моллюск.
+N3	Reference T3 ICD_codes:513	B08.1
+T4	icd_code 42 74	 Контагиозный моллюск.Энтеробиоз

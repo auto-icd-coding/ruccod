@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Ушиб мягких тканей головы
+N1	Reference T1 ICD_codes:11145	S00.9
+T2	icd_code 27 61	Подкожная гематома затылочной обл.
+N2	Reference T2 ICD_codes:12229	T14.0
+T3	icd_code 62 88	Сотрясение головного мозга
+N3	Reference T3 ICD_codes:11216	S06

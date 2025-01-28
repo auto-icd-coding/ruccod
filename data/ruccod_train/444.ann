@@ -1,0 +1,6 @@
+T1	icd_code 0 17	ДЖВП неуточненная
+N1	Reference T1 ICD_codes:7281	K38.9
+T2	icd_code 31 47	Спаечная болезнь
+N2	Reference T2 ICD_codes:7412	K66.0
+T3	icd_code 50 69	Bl. шейки матки III
+N3	Reference T3 ICD_codes:1222	C53

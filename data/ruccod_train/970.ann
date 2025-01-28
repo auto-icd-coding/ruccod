@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 86 116	Хронический бронхит курильщика
+N2	Reference T2 ICD_codes:6929	J42

@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 16	Дорсопатия
+N2	Reference T2 ICD_codes:8315	M54.8
+T3	icd_code 25 66	остеохондроза шейного отдела позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 76 93	цервикокраниалгии
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 95 140	умеренный шейный мышечно - тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1

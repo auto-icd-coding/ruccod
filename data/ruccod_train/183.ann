@@ -1,0 +1,4 @@
+T1	icd_code 1 13	Остеохондроз
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 57 74	Тунельный синдром
+N2	Reference T2 ICD_codes:12096	S99.8

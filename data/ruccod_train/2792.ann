@@ -1,0 +1,8 @@
+T1	icd_code 0 52	Гипертоническая болезнь  ст и риск требует уточнения
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 117 120	ХСН
+N2	Reference T2 ICD_codes:6546	I50
+T3	icd_code 123 145	Нарушение ритма сердца
+N3	Reference T3 ICD_codes:6545	I49.9
+T4	icd_code 148 151	ДЭП
+N4	Reference T4 ICD_codes:5816	G93.4

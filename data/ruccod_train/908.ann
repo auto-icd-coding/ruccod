@@ -1,0 +1,9 @@
+T1	icd_code 0 31	Дискинезия желчевыводящих путей
+N1	Reference T1 ICD_codes:7281	K38.9
+T2	icd_code 35 55	Функциональный запор
+N2	Reference T2 ICD_codes:7367	K59.0
+N4	Reference T2 ICD_codes:7367	K59.0
+T3	icd_code 58 110	Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8
+T1	icd_code 0 32	Дискинезия желчевыводящих путей.
+N1	Reference T1 ICD_codes:7281	K38.9

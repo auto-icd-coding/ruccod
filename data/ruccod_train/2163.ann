@@ -1,0 +1,12 @@
+T1	icd_code 0 26	хронический гастродуоденит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 67 89	недостаточность кардии
+N2	Reference T2 ICD_codes:7191	K21.9
+T3	icd_code 97 119	реактивный панкреатит.
+N3	Reference T3 ICD_codes:7520	K87.0
+T4	icd_code 121 134	СРК с диареей
+N4	Reference T4 ICD_codes:7364	K58.0
+T5	icd_code 136 148	дизбактериоз
+N5	Reference T5 ICD_codes:7405	K63.9
+T2	icd_code 91 95	ГПОД
+N2	Reference T2 ICD_codes:7191	K21.9

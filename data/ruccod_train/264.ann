@@ -1,0 +1,5 @@
+T2	icd_code 34 53	Контактный дерматит
+N2	Reference T2 ICD_codes:7647	L25
+N3	Reference T2 ICD_codes:7636	L24
+T1	icd_code 0 24	Хронический баланопостит
+N1	Reference T1 ICD_codes:8872	N48.1

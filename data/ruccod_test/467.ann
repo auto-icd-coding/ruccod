@@ -1,0 +1,6 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 5 16	Камни почки
+N2	Reference T2 ICD_codes:8756	N20.0
+T3	icd_code 18 22	ДГПЖ
+N3	Reference T3 ICD_codes:8843	N40

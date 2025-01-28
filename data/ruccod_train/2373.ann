@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7484	K80.2
+T2	icd_code 48 86	Хронический паренхиматозный панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 112 138	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7256	K29.9
+T4	icd_code 163 196	Функциональная диспепсия кишчника
+N4	Reference T4 ICD_codes:7257	K30
+T5	icd_code 208 232	Грыжа белой линии живота
+N5	Reference T5 ICD_codes:7304	K43.9

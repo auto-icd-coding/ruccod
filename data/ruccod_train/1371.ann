@@ -1,0 +1,6 @@
+T1	icd_code 0 46	ЦВБ , Хроническая ишемия головного мозга  2 ст
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 86 112	церебральном атеросклерозе
+N2	Reference T2 ICD_codes:6645	I70.8
+T3	icd_code 60 80	атактический синдром
+N3	Reference T3 ICD_codes:6258	H81

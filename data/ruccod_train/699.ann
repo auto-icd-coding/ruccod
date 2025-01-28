@@ -1,0 +1,4 @@
+T1	icd_code 0 10	ДОРСОПАТИЯ
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 11 23	ОСТЕОХОНДРОЗ
+N2	Reference T2 ICD_codes:8228	M42.1

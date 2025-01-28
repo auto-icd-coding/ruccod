@@ -1,0 +1,6 @@
+T1	icd_code 5 14	Астенопия
+N1	Reference T1 ICD_codes:6138	H53.1
+T2	icd_code 16 20	ПИНА
+N2	Reference T2 ICD_codes:6126	H52
+T3	icd_code 22 68	Ангиопатия сосудов сетчатки по типу флебопатии
+N3	Reference T3 ICD_codes:6016	H31.8

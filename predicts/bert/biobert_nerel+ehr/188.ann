@@ -1,0 +1,4 @@
+T1	icd_code 0 10	О. бронхит
+T2	icd_code 13 24	О. фарингит
+N1	Reference T1 ICD_codes:6860	J20.9
+N2	Reference T2 ICD_codes:6790	J02.9

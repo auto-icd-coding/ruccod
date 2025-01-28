@@ -1,0 +1,10 @@
+T1	icd_code 0 24	Когнитивное расстройство
+N1	Reference T1 ICD_codes:2801	F06.7
+T2	icd_code 26 54	Функциональное переутомление
+N2	Reference T2 ICD_codes:17093	Z73.0
+T3	icd_code 56 67	Неврастения
+N3	Reference T3 ICD_codes:4934	F48.0
+T4	icd_code 69 97	Астено-невротический синдром
+N4	Reference T4 ICD_codes:4934	F48.0
+T5	icd_code 129 153	инсульта головного мозга
+N5	Reference T5 ICD_codes:6638	I69.4

@@ -1,0 +1,8 @@
+T1	icd_code 0 28	Состояние после химиотерапии
+N1	Reference T1 ICD_codes:16951	Z54.2
+T2	icd_code 30 42	2ст тубоотит
+N2	Reference T2 ICD_codes:6210	H66.9
+T3	icd_code 54 62	фарингит
+N3	Reference T3 ICD_codes:6787	J02
+T4	icd_code 64 74	Лимфаденит
+N4	Reference T4 ICD_codes:6747	I88

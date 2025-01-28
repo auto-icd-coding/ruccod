@@ -1,0 +1,12 @@
+T1	icd_code 0 9	Дорсалгии
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 11 22	цервикалгии
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 24 33	люмбалгии
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 47 75	мышечно-тоническим синдромом
+N4	Reference T4 ICD_codes:8441	M79.1
+T5	icd_code 102 129	остеохондрорза позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 131 160	Анколизирующий спондилоартрит
+N6	Reference T6 ICD_codes:8240	M45

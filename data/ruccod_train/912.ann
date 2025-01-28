@@ -1,0 +1,6 @@
+T1	icd_code 8 26	простого герпеса
+N1	Reference T1 ICD_codes:471	B00
+N3	Reference T1 ICD_codes:471	B00
+T2	icd_code 54 70	микробная экзема
+N2	Reference T2 ICD_codes:7679	L30.4
+N4	Reference T2 ICD_codes:7679	L30.4

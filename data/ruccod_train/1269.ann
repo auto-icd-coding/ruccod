@@ -1,0 +1,14 @@
+T1	icd_code 0 31	Синдром раздраженного кишечника
+N1	Reference T1 ICD_codes:7365	K58.9
+T2	icd_code 36 46	Гельминтоз
+N2	Reference T2 ICD_codes:852	B83
+T3	icd_code 32 35	ПТИ
+N3	Reference T3 ICD_codes:43	A05.8
+T4	icd_code 48 100	Синдром избыточного бактериального роста в кишечнике
+N4	Reference T4 ICD_codes:10804	R19.8
+T5	icd_code 101 120	Дискинезия,дисхолия
+N5	Reference T5 ICD_codes:7500	K82.8
+T6	icd_code 138 154	Вирусный гепатит
+N6	Reference T6 ICD_codes:521	B15-B19
+T7	icd_code 156 182	Хронический гастродуоденит
+N7	Reference T7 ICD_codes:7256	K29.9

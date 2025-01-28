@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Хронический Нр-ассоцированный гастрит
+T2	icd_code 67 90	параназальный дерматоза
+N1	Reference T1 ICD_codes:7252	K29.5
+N2	Reference T2 ICD_codes:7681	L30.8

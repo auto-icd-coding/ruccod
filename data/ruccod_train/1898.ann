@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Купированная почечная колика
+N1	Reference T1 ICD_codes:8768	N23
+T2	icd_code 30 38	Уратурия
+N2	Reference T2 ICD_codes:2362	E79.8

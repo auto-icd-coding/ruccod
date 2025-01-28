@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 47 71	Аномалия желчного пузыря
+N2	Reference T2 ICD_codes:10331	Q44

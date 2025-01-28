@@ -1,0 +1,3 @@
+T1	icd_code 0 33	Базалиома  левой скуловой области
+N1	Reference T1 ICD_codes:1152	C44
+N2	Reference T1 ICD_codes:1152	C44

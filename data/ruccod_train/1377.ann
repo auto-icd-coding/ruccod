@@ -1,0 +1,10 @@
+T1	icd_code 0 25	Хр. поверхностный гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 60 91	Дискинезия желчевыводящих путей
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 93 133	Синдром раздраженного толстого кишечника
+N3	Reference T3 ICD_codes:7372	K59.8
+T4	icd_code 148 171	железодефицитную анемию
+N4	Reference T4 ICD_codes:1811	D50.9
+T5	icd_code 173 176	ВСД
+N5	Reference T5 ICD_codes:5801	G90.8

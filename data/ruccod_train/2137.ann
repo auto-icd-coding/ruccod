@@ -1,0 +1,8 @@
+T1	icd_code 0 23	Хронический периодонтит
+N1	Reference T1 ICD_codes:7104	K04.5
+T2	icd_code 33 38	Киста
+N2	Reference T2 ICD_codes:7145	K09.9
+T3	icd_code 40 53	Периостит н/ч
+N3	Reference T3 ICD_codes:8535	M90.1
+T4	icd_code 56 98	Состояние после оперативного вмешательства
+N4	Reference T4 ICD_codes:16949	Z54.0

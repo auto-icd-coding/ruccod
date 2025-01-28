@@ -1,0 +1,8 @@
+T1	icd_code 0 32	Артрозо-артрит коленных суставов
+N1	Reference T1 ICD_codes:8082	M17.9
+T2	icd_code 46 103	Повреждение медиального мениска правого коленного сустава
+N2	Reference T2 ICD_codes:8128	M23.2
+T3	icd_code 105 130	Пяточные шпоры обеих стоп
+N3	Reference T3 ICD_codes:8434	M77.3
+T4	icd_code 132 165	Продольно-поперечное плоскостопие
+N4	Reference T4 ICD_codes:8111	M21.4

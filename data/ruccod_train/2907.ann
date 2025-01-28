@@ -1,0 +1,12 @@
+T1	icd_code 0 12	Остеохондроз
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 14 38	унковертебральный артроз
+N2	Reference T2 ICD_codes:8265	M47.8
+T3	icd_code 40 88	вертеброгенный шейный мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 101 118	цервикокраниалгия
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 148 172	Посткоммоционный синдром
+N5	Reference T5 ICD_codes:2886	F07.2
+T6	icd_code 174 204	ликворо-динамические нарушения
+N6	Reference T6 ICD_codes:5627	G46.8

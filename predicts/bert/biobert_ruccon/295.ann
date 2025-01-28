@@ -1,0 +1,6 @@
+T1	icd_code 28 32	ат к
+T2	icd_code 37 45	краснухе
+T3	icd_code 55 72	предлежание плода
+N1	Reference T1 ICD_codes:10841	R27.0
+N2	Reference T2 ICD_codes:509	B06.9
+N3	Reference T3 ICD_codes:9308	O32.3

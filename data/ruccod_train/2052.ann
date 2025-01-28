@@ -1,0 +1,6 @@
+T1	icd_code 0 17	Спазм аккомодации
+N1	Reference T1 ICD_codes:6132	H52.5
+T2	icd_code 59 79	Синдром сухого глаза
+N2	Reference T2 ICD_codes:5877	H04.1
+T3	icd_code 30 40	Ангиопатия
+N3	Reference T3 ICD_codes:6698	I79.8

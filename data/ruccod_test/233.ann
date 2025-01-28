@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Язвенная болезнь 12пк
+N1	Reference T1 ICD_codes:7223	K26.6
+T2	icd_code 85 106	Реактивный панкреатит
+N2	Reference T2 ICD_codes:7511	K85
+T3	icd_code 108 151	Функциональное расстройство желчного пузыря
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 153 205	Синдром избыточного бактериального роста в кишечнике
+N4	Reference T4 ICD_codes:10804	R19.8

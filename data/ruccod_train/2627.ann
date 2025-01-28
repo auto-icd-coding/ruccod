@@ -1,0 +1,6 @@
+T1	icd_code 0 24	Тератома правого яичника
+N1	Reference T1 ICD_codes:1257	C62.9
+T2	icd_code 26 35	Хламидиоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 37 47	Sterilitas
+N3	Reference T3 ICD_codes:9094	N97

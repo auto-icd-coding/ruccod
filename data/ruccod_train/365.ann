@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Уреаплазмоз урогенитальный
+N1	Reference T1 ICD_codes:324	A63.8
+T2	icd_code 28 40	Хр.цервицит.
+N2	Reference T2 ICD_codes:8926	N72

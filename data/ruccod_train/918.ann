@@ -1,0 +1,8 @@
+T1	icd_code 0 23	Хронический панкренатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 53 56	ЖКБ
+N2	Reference T2 ICD_codes:7480	K80
+T3	icd_code 58 67	полип ж.п
+N3	Reference T3 ICD_codes:7494	K82
+T4	icd_code 70 96	Холестероз желчного пузыря
+N4	Reference T4 ICD_codes:7499	K82.4

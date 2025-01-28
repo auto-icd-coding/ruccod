@@ -1,0 +1,6 @@
+T1	icd_code 0 24	острый диффузный бронхит
+N1	Reference T1 ICD_codes:6860	J20.9
+T2	icd_code 76 85	пневмонию
+N2	Reference T2 ICD_codes:6848	J18.9
+T3	icd_code 88 105	Наружный геморрой
+N3	Reference T3 ICD_codes:6726	I84.5

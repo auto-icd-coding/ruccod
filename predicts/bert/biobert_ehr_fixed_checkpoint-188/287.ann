@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ВДКН
+T2	icd_code 6 21	Гиперандрогения
+N1	Reference T1 ICD_codes:2167	E27.4
+N2	Reference T2 ICD_codes:2173	E28.1

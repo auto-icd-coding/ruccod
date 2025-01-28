@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 52 75	Цервикокраниобрахиалгия
+T3	icd_code 77 86	дорсалгия
+T4	icd_code 88 97	люмбалгия
+T5	icd_code 99 125	мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8315	M54.8
+N4	Reference T4 ICD_codes:8313	M54.5
+N5	Reference T5 ICD_codes:8441	M79.1

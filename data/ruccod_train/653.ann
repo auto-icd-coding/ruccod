@@ -1,0 +1,4 @@
+T1	icd_code 0 5	ОРВИ,
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 13 30	назофаринготрахеи
+N2	Reference T2 ICD_codes:6795	J04

@@ -1,0 +1,14 @@
+T1	icd_code 0 6	ГБ 2-3
+T2	icd_code 27 34	ХСН 1-2
+T3	icd_code 35 38	ИБС
+T4	icd_code 41 74	Атеросклеротический кардиосклероз
+T5	icd_code 76 85	СД 2 типа
+T6	icd_code 87 103	инсулинпотребный
+T7	icd_code 122 130	Ожирение
+N1	Reference T1 ICD_codes:6359	I11.9
+N2	Reference T2 ICD_codes:6547	I50.0
+N3	Reference T3 ICD_codes:6406	I25
+N4	Reference T4 ICD_codes:6408	I25.1
+N5	Reference T5 ICD_codes:2076	E11.9
+N6	Reference T6 ICD_codes:9255	O24.0
+N7	Reference T7 ICD_codes:2286	E66.9

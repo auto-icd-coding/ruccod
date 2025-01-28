@@ -1,0 +1,10 @@
+T1	icd_code 103 121	Гиперпролактинемия
+N1	Reference T1 ICD_codes:2134	E22.1
+T2	icd_code 140 155	Гиперандрогения
+N2	Reference T2 ICD_codes:2173	E28.1
+T3	icd_code 66 91	Хр. сальпингоофорит в ст.
+N3	Reference T3 ICD_codes:8920	N70.1
+T4	icd_code 4 13	Бесплодие
+N4	Reference T4 ICD_codes:9100	N97.8
+T5	icd_code 18 34	Полип эндометрия
+N5	Reference T5 ICD_codes:9004	N84.0

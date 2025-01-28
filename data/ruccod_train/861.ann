@@ -1,0 +1,6 @@
+T1	icd_code 37 44	Атерома
+N1	Reference T1 ICD_codes:1718	D37
+N3	Reference T1 ICD_codes:7844	L72.1
+T2	icd_code 0 30	Образование затылочного отдела
+N2	Reference T2 ICD_codes:1636	D23
+N4	Reference T2 ICD_codes:1804	D48.9

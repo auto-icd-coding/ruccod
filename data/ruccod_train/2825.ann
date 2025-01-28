@@ -1,0 +1,18 @@
+T1	icd_code 0 31	Синдром раздраженного кишечника
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 34 41	запором
+N2	Reference T2 ICD_codes:7367	K59.0
+T3	icd_code 42 45	ПТИ
+N3	Reference T3 ICD_codes:44	A05.9
+T4	icd_code 47 100	Синдром избыточного бактериального роста в кишечнике?
+N4	Reference T4 ICD_codes:10804	R19.8
+T5	icd_code 100 111	Гельминтоз?
+N5	Reference T5 ICD_codes:859	B83.9
+T6	icd_code 111 166	Дискинезия,дисхолия низкорасположенного желчного пузыря
+N6	Reference T6 ICD_codes:7509	K83.8
+T7	icd_code 167 192	Гиперкинез сфинктера Одди
+N7	Reference T7 ICD_codes:7507	K83.4
+T8	icd_code 193 208	Опущение печени
+N8	Reference T8 ICD_codes:7475	K76.8
+T9	icd_code 210 236	Хронический гастродуоденит
+N9	Reference T9 ICD_codes:7246	K29

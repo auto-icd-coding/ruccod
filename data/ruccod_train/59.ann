@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Хронический вирусный гепатит В
+N1	Reference T1 ICD_codes:534	B18
+T2	icd_code 53 59	цирроз
+N2	Reference T2 ICD_codes:7458	K74.6

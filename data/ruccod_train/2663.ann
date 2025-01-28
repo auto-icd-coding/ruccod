@@ -1,0 +1,12 @@
+T1	icd_code 0 48	Артериальная гипертензия 1 ст,впервые выявленная
+N1	Reference T1 ICD_codes:10747	R03.0
+T2	icd_code 49 68	Гиперхолестеринемия
+N2	Reference T2 ICD_codes:2350	E78.0
+T3	icd_code 73 75	НК
+N3	Reference T3 ICD_codes:6546	I50
+T4	icd_code 81 91	Дорсопатия
+N4	Reference T4 ICD_codes:8305	M53.8
+T5	icd_code 137 169	 Дискинезия желчевыводящих путей
+N5	Reference T5 ICD_codes:7509	K83.8
+T6	icd_code 171 206	Повышенная  толерантность к глюкозе
+N6	Reference T6 ICD_codes:10986	R73.0

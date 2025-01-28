@@ -1,0 +1,6 @@
+T1	icd_code 0 28	Дискогенная (грыжа МПД L5-S1
+T2	icd_code 31 55	радикулопатия  S1 справа
+T3	icd_code 58 95	мышечно-тонический и  болевой синдром
+N1	Reference T1 ICD_codes:7308	K44.9
+N2	Reference T2 ICD_codes:8309	M54.1
+N3	Reference T3 ICD_codes:8441	M79.1

@@ -1,0 +1,8 @@
+T1	icd_code 0 23	Артроз 1 пл фалангового
+T2	icd_code 34 40	пальца
+T3	icd_code 47 52	стопы
+T4	icd_code 68 88	Подагрический артрит
+N1	Reference T1 ICD_codes:8077	M17.1
+N2	Reference T2 ICD_codes:8099	M20.0
+N3	Reference T3 ICD_codes:10474	Q66.9
+N4	Reference T4 ICD_codes:8048	M14.0

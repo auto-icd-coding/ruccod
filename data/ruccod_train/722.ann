@@ -1,0 +1,5 @@
+T1	icd_code 5 24	острый конъюнктивит
+N1	Reference T1 ICD_codes:5904	H10.3
+N2	Reference T1 ICD_codes:5904	H10.3
+T2	icd_code 26 29	АВК
+N3	Reference T2 ICD_codes:595	B30.1

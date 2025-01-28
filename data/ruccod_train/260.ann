@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Дисфункция яичников
+N5	Reference T1 ICD_codes:2177	E28.9
+T2	icd_code 21 38	ВПГ .хронич форма
+N2	Reference T2 ICD_codes:481	B00.9
+T4	icd_code 61 93	Хронический сальпингит и оофорит
+N4	Reference T4 ICD_codes:8920	N70.1
+T3	icd_code 40 43	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7

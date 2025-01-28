@@ -1,0 +1,6 @@
+T1	icd_code 31 65	экстирпации  матки  без  придатков
+N1	Reference T1 ICD_codes:16534	Y83
+T2	icd_code 119 125	Анемия
+N2	Reference T2 ICD_codes:1893	D64.9
+T3	icd_code 137 150	Высокое   СОЭ
+N3	Reference T3 ICD_codes:10979	R70

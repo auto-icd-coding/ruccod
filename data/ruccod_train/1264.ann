@@ -1,0 +1,4 @@
+T1	icd_code 0 26	МКБ: микролиты обеих почек
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 28 54	Ангиомиолипома левой почки
+N2	Reference T2 ICD_codes:1672	D30

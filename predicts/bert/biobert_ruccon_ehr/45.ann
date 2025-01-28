@@ -1,0 +1,6 @@
+T1	icd_code 0 51	Внебольничная правостороння верхнедолевая пневмония
+T2	icd_code 57 77	неполного разрешения
+T3	icd_code 79 81	АГ
+N1	Reference T1 ICD_codes:6845	J18.1
+N2	Reference T2 ICD_codes:16451	Y65.5
+N3	Reference T3 ICD_codes:6355	I10

@@ -1,0 +1,6 @@
+T1	icd_code 8 16	глаукома
+N1	Reference T1 ICD_codes:6058	H40.9
+T2	icd_code 18 45	Ангиопатия сосудов сетчатки
+N2	Reference T2 ICD_codes:6697	I79.2
+T3	icd_code 51 61	эписклерит
+N3	Reference T3 ICD_codes:5926	H15.1

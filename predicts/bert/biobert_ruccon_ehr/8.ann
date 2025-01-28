@@ -1,0 +1,6 @@
+T1	icd_code 20 40	Атопический дерматит
+T2	icd_code 42 64	распространенная форма
+T3	icd_code 93 98	ГЗ II
+N1	Reference T1 ICD_codes:7618	L20.9
+N2	Reference T2 ICD_codes:1396	C83.6
+N3	Reference T3 ICD_codes:2005	E00-E07

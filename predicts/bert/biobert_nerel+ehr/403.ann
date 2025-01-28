@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Бесплодие
+T2	icd_code 12 33	Киста правого яичника
+N1	Reference T1 ICD_codes:9100	N97.8
+N2	Reference T2 ICD_codes:8995	N83.2

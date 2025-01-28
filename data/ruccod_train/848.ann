@@ -1,0 +1,6 @@
+T1	icd_code 32 43	мигренозная
+N1	Reference T1 ICD_codes:5596	G43
+T2	icd_code 46 69	оловная боль напряжения
+N2	Reference T2 ICD_codes:5606	G44.2
+T3	icd_code 0 30	Головная нболь смешанного типа
+N3	Reference T3 ICD_codes:5606	G44.2

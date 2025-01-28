@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Язвенная болезнь 12 п.к-ки
+N1	Reference T1 ICD_codes:7224	K26.7
+T2	icd_code 73 77	ГПОД
+N2	Reference T2 ICD_codes:7305	K44
+T3	icd_code 79 83	ГЭРБ
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 105 137	Спаечная болезнь брюшной полости
+N4	Reference T4 ICD_codes:7412	K66.0

@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 26 39	эндометриозом
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 41 44	СИЯ
+N4	Reference T3 ICD_codes:2176	E28.8

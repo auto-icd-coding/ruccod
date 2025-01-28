@@ -1,0 +1,10 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T3	icd_code 67 79	 аденомиозом
+N3	Reference T3 ICD_codes:8964	N80.0
+T2	icd_code 28 53	Множественная миома матки
+N2	Reference T2 ICD_codes:1651	D25.9
+T4	icd_code 82 123	Угрожаема по невынашиванию и кровотечению
+N4	Reference T4 ICD_codes:9228	O20.0
+T5	icd_code 21 25	ОАГА
+N5	Reference T5 ICD_codes:16803	Z35.2

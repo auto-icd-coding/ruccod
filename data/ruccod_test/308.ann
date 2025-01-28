@@ -1,0 +1,6 @@
+T1	icd_code 0 15	острый фарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 17 33	острый тонзиллит
+N2	Reference T2 ICD_codes:6794	J03.9
+T3	icd_code 50 55	ринит
+N3	Reference T3 ICD_codes:6776	J00

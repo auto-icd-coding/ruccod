@@ -1,0 +1,6 @@
+T1	icd_code 0 36	Хронический комбинированный геморрой
+N1	Reference T1 ICD_codes:6726	I84.5
+T2	icd_code 93 121	геморроидальные кровотечения
+N2	Reference T2 ICD_codes:7393	K62.5
+T3	icd_code 123 144	Функциональные запоры
+N3	Reference T3 ICD_codes:7367	K59.0

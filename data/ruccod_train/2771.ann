@@ -1,0 +1,6 @@
+T1	icd_code 0 20	Аллергический  ринит
+N1	Reference T1 ICD_codes:6872	J30.4
+T2	icd_code 52 80	Аллергический ларинготрахеит
+N2	Reference T2 ICD_codes:6798	J04.2
+T3	icd_code 82 100	Бронхиальная астма
+N3	Reference T3 ICD_codes:6945	J45.9

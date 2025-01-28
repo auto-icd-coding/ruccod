@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Острый ларинготрахеит
+T2	icd_code 24 30	кашель
+T3	icd_code 31 43	Острый ринит
+N1	Reference T1 ICD_codes:6798	J04.2
+N2	Reference T2 ICD_codes:10755	R05
+N3	Reference T3 ICD_codes:6776	J00

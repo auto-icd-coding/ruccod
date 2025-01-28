@@ -1,0 +1,6 @@
+T1	icd_code 1 11	ронхопатия
+N1	Reference T1 ICD_codes:10765	R06.8
+T2	icd_code 14 32	вазомоторный ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 34 53	аллергический ринит
+N3	Reference T3 ICD_codes:6872	J30.4

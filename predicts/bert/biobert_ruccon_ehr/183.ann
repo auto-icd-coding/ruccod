@@ -1,0 +1,8 @@
+T1	icd_code 0 21	Хронический простатит
+T2	icd_code 33 56	Хронический пиелонефрит
+T3	icd_code 68 88	Мочекаменная болезнь
+T4	icd_code 89 100	Бактериурия
+N1	Reference T1 ICD_codes:8847	N41.1
+N2	Reference T2 ICD_codes:8707	N11.0
+N3	Reference T3 ICD_codes:8755	N20-N23
+N4	Reference T4 ICD_codes:8836	N39.0

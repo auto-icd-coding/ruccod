@@ -1,0 +1,4 @@
+T1	icd_code 0 22	ОРИ: остр ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 24 37	Серная пробка
+N2	Reference T2 ICD_codes:6185	H61.2

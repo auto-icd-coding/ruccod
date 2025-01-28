@@ -1,0 +1,18 @@
+T1	icd_code 0 62	Гастроэзофагеальная рефлюксная болезнь с эрозивным эзофагитом.
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 62 91	Хронический эрозивный гастрит
+N2	Reference T2 ICD_codes:7247	K29.0
+T3	icd_code 117 149	Язвенная болезнь луковицы 12п.к.
+N3	Reference T3 ICD_codes:7222	K26.5
+T4	icd_code 163 172	Дисформия
+N4	Reference T4 ICD_codes:7509	K83.8
+T5	icd_code 173 183	дискинезия
+N5	Reference T5 ICD_codes:7509	K83.8
+T6	icd_code 184 192	дисхолия
+N6	Reference T6 ICD_codes:7509	K83.8
+T7	icd_code 211 252	Синдром раздраженного кишечника с запором
+N7	Reference T7 ICD_codes:7365	K58.9
+T8	icd_code 253 257	ПТИ?
+N8	Reference T8 ICD_codes:44	A05.9
+T9	icd_code 257 267	Гельминтоз
+N9	Reference T9 ICD_codes:859	B83.9

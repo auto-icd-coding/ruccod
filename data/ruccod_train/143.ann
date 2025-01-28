@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 65 76	Миома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 144 156	эндометриоза
+N3	Reference T3 ICD_codes:8964	N80.0
+T4	icd_code 169 177	аднексит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 179 193	Полип ц/канала
+N5	Reference T5 ICD_codes:9005	N84.1

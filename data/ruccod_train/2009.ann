@@ -1,0 +1,8 @@
+T1	icd_code 0 5	Фимоз
+N1	Reference T1 ICD_codes:8869	N47
+T2	icd_code 7 23	Нарушение осанки
+N2	Reference T2 ICD_codes:8217	M41
+T3	icd_code 25 37	Перекос таза
+N3	Reference T3 ICD_codes:8116	M21.9
+T4	icd_code 39 71	Плосковальгусная установка стоп
+N4	Reference T4 ICD_codes:8107	M21.0

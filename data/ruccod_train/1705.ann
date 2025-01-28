@@ -1,0 +1,14 @@
+T1	icd_code 0 11	Экзема лица
+N1	Reference T1 ICD_codes:7674	L30
+T2	icd_code 27 33	Хейлит
+N2	Reference T2 ICD_codes:7169	K13.0
+T3	icd_code 35 52	Лабиальный герпес
+N3	Reference T3 ICD_codes:471	B00
+T4	icd_code 65 83	генитальный герпес
+N4	Reference T4 ICD_codes:318	A60
+T5	icd_code 84 108	 Дисгидротическая экзема
+N5	Reference T5 ICD_codes:7615	L20-L30
+T6	icd_code 130 134	ГПОД
+N6	Reference T6 ICD_codes:7305	K44
+T7	icd_code 137 147	Фолликулит
+N7	Reference T7 ICD_codes:7853	L73.9

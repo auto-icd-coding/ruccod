@@ -1,0 +1,6 @@
+T1	icd_code 0 33	Острый левосторонний гемисинусит.
+N1	Reference T1 ICD_codes:6779	J01
+T2	icd_code 33 48	Острый фарингит
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 49 67	Катаральная ангина
+N3	Reference T3 ICD_codes:6791	J03

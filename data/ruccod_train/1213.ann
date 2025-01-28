@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Хр гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 25 70	СРК по смешаному типу с преобладанием диарреи
+N2	Reference T2 ICD_codes:7364	K58.0

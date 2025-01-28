@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Хр. цистит
+N1	Reference T1 ICD_codes:8792	N30.1
+T2	icd_code 28 31	НАМ
+N2	Reference T2 ICD_codes:9075	N93.9

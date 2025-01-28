@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Искривление носовой перегородки
+N1	Reference T1 ICD_codes:6893	J34.2
+T2	icd_code 32 50	вазомоторный ринит
+N2	Reference T2 ICD_codes:6868	J30.0

@@ -1,0 +1,10 @@
+T1	icd_code 0 40	Хронический билиарнозависимый панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 53 57	ДЖВП
+N2	Reference T2 ICD_codes:7281	K38.9
+T3	icd_code 88 110	Дисбактериоз кишечника
+N3	Reference T3 ICD_codes:7398	K63
+T4	icd_code 113 132	Хронический гастрит
+N4	Reference T4 ICD_codes:7246	K29
+T5	icd_code 146 150	ГЭРБ
+N5	Reference T5 ICD_codes:7189	K21

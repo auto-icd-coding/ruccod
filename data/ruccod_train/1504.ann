@@ -1,0 +1,12 @@
+T1	icd_code 2 16	ВПЧ - инфекция
+N1	Reference T1 ICD_codes:920	B97
+T2	icd_code 25 38	Вульвовагинит
+N2	Reference T2 ICD_codes:8960	N77.1
+T3	icd_code 41 53	эндоцервицит
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 54 73	Эктопия шейки матки
+N4	Reference T4 ICD_codes:9021	N86
+T5	icd_code 76 99	Остроконечные кондиломы
+N5	Reference T5 ICD_codes:324	A63.8
+T6	icd_code 122 133	Хр. оофорит
+N6	Reference T6 ICD_codes:8920	N70.1

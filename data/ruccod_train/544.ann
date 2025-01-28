@@ -1,0 +1,6 @@
+T1	icd_code 0 17	Острый холецистит
+N1	Reference T1 ICD_codes:7490	K81.0
+T2	icd_code 20 36	Острый панкреати
+N2	Reference T2 ICD_codes:7515	K86.2
+T3	icd_code 38 52	Острый гастрит
+N3	Reference T3 ICD_codes:7246	K29

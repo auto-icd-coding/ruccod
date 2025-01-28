@@ -1,0 +1,14 @@
+T1	icd_code 12 20	цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 22 46	Эндоцервикоз шейки матки
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 48 68	Кандидозный кольпит,
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 69 82	вульвовагинит
+N4	Reference T4 ICD_codes:8958	N77
+T5	icd_code 84 96	Бак. вагиноз
+N5	Reference T5 ICD_codes:9035	N89
+T6	icd_code 124 139	сальпингоофорит
+N6	Reference T6 ICD_codes:8920	N70.1
+T7	icd_code 159 166	С-м ПКЯ
+N7	Reference T7 ICD_codes:2171	E28

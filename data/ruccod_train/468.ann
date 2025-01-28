@@ -1,0 +1,8 @@
+T1	icd_code 0 13	ОРЗ, о. ринит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 15 22	фаринго
+N2	Reference T2 ICD_codes:6787	J02
+T3	icd_code 23 29	рахеит
+N3	Reference T3 ICD_codes:6795	J04
+T1	icd_code 15 29	фаринготрахеит
+N1	Reference T1 ICD_codes:6776	J00

@@ -1,0 +1,8 @@
+T1	icd_code 0 25	Гигрома 1 ПФС левой стопы
+T2	icd_code 28 63	Артроз голеностопного сустава слева
+T3	icd_code 72 73	-
+T4	icd_code 114 122	суставов
+N1	Reference T1 ICD_codes:7286	K40.2
+N2	Reference T2 ICD_codes:8082	M17.9
+N3	Reference T3 ICD_codes:12199	T10.+.0
+N4	Reference T4 ICD_codes:8155	M25.8

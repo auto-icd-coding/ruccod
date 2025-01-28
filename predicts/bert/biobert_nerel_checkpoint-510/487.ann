@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Кольпит О
+T2	icd_code 10 27	циститМиома матки
+N1	Reference T1 ICD_codes:8957	N76.8
+N2	Reference T2 ICD_codes:1648	D25.0

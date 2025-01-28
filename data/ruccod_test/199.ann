@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Поллиноз
+N1	Reference T1 ICD_codes:6869	J30.1
+T2	icd_code 10 53	Сенсибилизация к пыльце, бытовым аллергенам
+N2	Reference T2 ICD_codes:12745	T78.4
+T3	icd_code 56 77	Обструктивный бронхит
+N3	Reference T3 ICD_codes:6940	J44.9

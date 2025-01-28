@@ -1,0 +1,4 @@
+T1	icd_code 0 46	Острый правосторонний катаральный средний отит
+N1	Reference T1 ICD_codes:6210	H66.9
+T2	icd_code 48 86	Острый двусторонний в/челюстной синуит
+N2	Reference T2 ICD_codes:6779	J01

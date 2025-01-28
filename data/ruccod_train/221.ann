@@ -1,0 +1,12 @@
+T1	icd_code 0 6	Кольпи
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 8 18	баквагиноз
+N2	Reference T2 ICD_codes:9035	N89
+T3	icd_code 20 28	Кандидоз
+N3	Reference T3 ICD_codes:637	B37.4
+T4	icd_code 30 33	ВПЧ
+N4	Reference T4 ICD_codes:928	B97.7
+T5	icd_code 34 55	Эндометриоидная киста
+N5	Reference T5 ICD_codes:8995	N83.2
+T5	icd_code 33 55	.Эндометриоидная киста
+N5	Reference T5 ICD_codes:8995	N83.2

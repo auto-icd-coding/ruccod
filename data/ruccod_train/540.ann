@@ -1,0 +1,5 @@
+T1	icd_code 2 30	Функциональное нарушение ЖКТ
+N1	Reference T1 ICD_codes:7373	K59.9
+N3	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 32 49	Дисбиоз кишечника
+N2	Reference T2 ICD_codes:7404	K63.8

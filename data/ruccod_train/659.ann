@@ -1,0 +1,3 @@
+T1	icd_code 49 69	Пигментные папилломы
+T2	icd_code 71 79	кератомы
+N2	Reference T2 ICD_codes:7763	L57.0

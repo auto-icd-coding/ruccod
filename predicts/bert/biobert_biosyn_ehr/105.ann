@@ -1,0 +1,4 @@
+T1	icd_code 13 25	позвоночника
+T2	icd_code 40 62	Хронический холецистит
+N1	Reference T1 ICD_codes:1592	D16.6
+N2	Reference T2 ICD_codes:7491	K81.1

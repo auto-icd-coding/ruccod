@@ -1,0 +1,18 @@
+T1	icd_code 1 42	Гипертензионный синдром смешанного генеза
+N1	Reference T1 ICD_codes:6622	I67.4
+T2	icd_code 96 150	хронической вертебро-базилярной недостаточности 2 степ
+N2	Reference T2 ICD_codes:5611	G45.0
+T3	icd_code 207 250	закрытой травмы шейного отдела позвоночника
+N3	Reference T3 ICD_codes:11269	S10.8
+T4	icd_code 305 339	шейного остеохондроза позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 342 356	радикулопатией
+N5	Reference T5 ICD_codes:8309	M54.1
+T6	icd_code 402 443	рефлекторным мышечно-тоническим синдромом
+N6	Reference T6 ICD_codes:8441	M79.1
+T7	icd_code 456 484	ВСД по гипотоническому типу.
+N7	Reference T7 ICD_codes:5801	G90.8
+T8	icd_code 513 526	Радикулопатия
+N8	Reference T8 ICD_codes:8309	M54.1
+T9	icd_code 544 570	остеохондроза позвоночника
+N9	Reference T9 ICD_codes:8228	M42.1

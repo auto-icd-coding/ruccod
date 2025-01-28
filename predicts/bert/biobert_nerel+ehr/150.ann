@@ -1,0 +1,4 @@
+T1	icd_code 0 28	Гипертоническая болезнь 1 ст
+T2	icd_code 41 70	Нарушения фукции щитов.железы
+N1	Reference T1 ICD_codes:6359	I11.9
+N2	Reference T2 ICD_codes:2052	E07.8

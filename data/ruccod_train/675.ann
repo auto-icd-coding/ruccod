@@ -1,0 +1,16 @@
+T1	icd_code 0 31	Единичные  папилломы  влагалища
+N1	Reference T1 ICD_codes:323	A63.0
+T2	icd_code 97 108	Загиб матки
+N2	Reference T2 ICD_codes:9015	N85.4
+T3	icd_code 111 122	Миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 154 167	эндометриозом
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 170 186	Гиперкератоз ш\м
+N5	Reference T5 ICD_codes:7884	L85
+T6	icd_code 189 204	Варикоз вен м/т
+N6	Reference T6 ICD_codes:6737	I86.2
+T7	icd_code 207 221	Ф/К мастопатия
+N7	Reference T7 ICD_codes:1646	D24
+T8	icd_code 223 235	Фиброаденома
+N8	Reference T8 ICD_codes:1646	D24

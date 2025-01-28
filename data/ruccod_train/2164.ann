@@ -1,0 +1,6 @@
+T1	icd_code 15 24	катаракта
+N1	Reference T1 ICD_codes:5992	H26.9
+T2	icd_code 43 54	астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2
+T3	icd_code 61 74	гиперметропия
+N3	Reference T3 ICD_codes:6127	H52.0

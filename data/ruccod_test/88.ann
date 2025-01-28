@@ -1,0 +1,12 @@
+T1	icd_code 1 14	Гепатомегалия
+N1	Reference T1 ICD_codes:10791	R16.0
+T2	icd_code 51 60	Дисформия
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 61 96	дискинезия,дисхолия желчного пузыря
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 99 125	Хронический гастродуоденит
+N4	Reference T4 ICD_codes:7256	K29.9
+T5	icd_code 172 195	Полип сигмовидной кишки
+N5	Reference T5 ICD_codes:1558	D12.5
+T7	icd_code 253 263	Гельминтоз
+N7	Reference T7 ICD_codes:842	B81

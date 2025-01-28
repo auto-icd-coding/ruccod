@@ -1,0 +1,4 @@
+T1	icd_code 1 20	Хронический гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 43 57	Дискинезия ЖВП
+N2	Reference T2 ICD_codes:7500	K82.8

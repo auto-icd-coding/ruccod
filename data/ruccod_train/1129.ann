@@ -1,0 +1,8 @@
+T1	icd_code 0 13	Тиреотоксикоз
+N1	Reference T1 ICD_codes:2040	E05.9
+T2	icd_code 43 55	Вторичная АГ
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 57 71	гиперкальцемия
+N3	Reference T3 ICD_codes:2379	E83.5
+T4	icd_code 15 40	Гипефункция надпочечников
+N4	Reference T4 ICD_codes:2169	E27.8

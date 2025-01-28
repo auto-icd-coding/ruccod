@@ -1,0 +1,12 @@
+T1	icd_code 1 55	НЦА по кардиальному типу с ортостатической гипотензией
+N1	Reference T1 ICD_codes:5801	G90.8
+T2	icd_code 57 106	Хроническая рецидивирующая герпетическая инфекция
+N2	Reference T2 ICD_codes:471	B00
+T3	icd_code 108 175	Астено-вегетативные реакции с эпизодами пароксизмальной тревожности
+N3	Reference T3 ICD_codes:4934	F48.0
+T4	icd_code 179 189	Дорсопатия
+N4	Reference T4 ICD_codes:8315	M54.8
+T5	icd_code 191 232	Остеохондроз  шейного отдела позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 235 251	Синдром Жильбера
+N6	Reference T6 ICD_codes:2369	E80.4

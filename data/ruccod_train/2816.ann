@@ -1,0 +1,16 @@
+T1	icd_code 0 39	Хроническая крапивница с отеками Квинке
+N1	Reference T1 ICD_codes:7726	L50.5
+T2	icd_code 25 39	отеками Квинке
+N2	Reference T2 ICD_codes:12744	T78.3
+T3	icd_code 58 76	Бронхиальная астма
+N3	Reference T3 ICD_codes:6942	J45.0
+T4	icd_code 120 171	Поллиноз, аллергия на пыльцу деревьев,  сорных трав
+N4	Reference T4 ICD_codes:6869	J30.1
+T5	icd_code 198 220	Эпидермальная аллергия
+N5	Reference T5 ICD_codes:12745	T78.4
+T6	icd_code 222 241	Грибковая аллергия.
+N6	Reference T6 ICD_codes:7682	L30.9
+T7	icd_code 242 261	Гиперглобулин Еемия
+N7	Reference T7 ICD_codes:11001	R77.1
+T8	icd_code 265 317	Герпесвирусиндуцированное иммунодефицитное состояние
+N8	Reference T8 ICD_codes:1989	D84.8

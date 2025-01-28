@@ -1,0 +1,10 @@
+T1	icd_code 2 20	Мышечно-тонический
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 22 52	цервикокраниалгический синдром
+N2	Reference T2 ICD_codes:5603	G44
+T3	icd_code 61 71	дорсопатии
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 73 117	распространенного остеохондроза позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 139 198	Начальные проявления недостаточности мозгового крообращения
+N5	Reference T5 ICD_codes:6617	I67

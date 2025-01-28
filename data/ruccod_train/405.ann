@@ -1,0 +1,6 @@
+T1	icd_code 0 19	хронический гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 58 62	ГЭРБ
+N2	Reference T2 ICD_codes:7189	K21
+T3	icd_code 78 102	дерматит неясного генеза
+N3	Reference T3 ICD_codes:7682	L30.9

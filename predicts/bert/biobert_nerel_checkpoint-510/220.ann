@@ -1,0 +1,10 @@
+T1	icd_code 0 44	Ангиопатия   сетчатки по дистоническому типу
+T2	icd_code 46 68	Миопия средней степени
+T3	icd_code 81 92	осложненная
+T4	icd_code 95 133	синдром сухого глаза смешанного генеза
+T5	icd_code 147 161	васкуляризация
+N1	Reference T1 ICD_codes:6697	I79.2
+N2	Reference T2 ICD_codes:6128	H52.1
+N3	Reference T3 ICD_codes:12781	T81.9
+N4	Reference T4 ICD_codes:6124	H51.8
+N5	Reference T5 ICD_codes:7341	K55.1

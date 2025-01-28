@@ -1,0 +1,4 @@
+T1	icd_code 15 46	сколиоз грудопоясничный сколиоз
+N1	Reference T1 ICD_codes:8221	M41.3
+T2	icd_code 49 85	Двухсторонее продольное плоскостопие
+N2	Reference T2 ICD_codes:8111	M21.4

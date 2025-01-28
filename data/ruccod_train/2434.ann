@@ -1,0 +1,14 @@
+T1	icd_code 0 17	ГЭРБ с эзофагитом
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 18 44	Хронический гастродуоденит
+N2	Reference T2 ICD_codes:7246	K29
+T3	icd_code 58 112	Дискинезия желчевыводящих путей  по гипомоторному типу
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 114 151	Хронический паренхиматозный панкреати
+N4	Reference T4 ICD_codes:7514	K86.1
+T5	icd_code 154 167	Стеатогепатоз
+N5	Reference T5 ICD_codes:7467	K76.0
+T6	icd_code 169 202	Функциональная кишечная диспепсия
+N6	Reference T6 ICD_codes:7257	K30
+T7	icd_code 220 239	с патогенной флорой
+N7	Reference T7 ICD_codes:7398	K63

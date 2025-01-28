@@ -1,0 +1,4 @@
+T1	icd_code 15 42	гемангиома кожи левой стопы
+N1	Reference T1 ICD_codes:1607	D18.0
+T2	icd_code 44 75	Дерматофиброма кожи левой стопы
+N2	Reference T2 ICD_codes:1644	D23.7

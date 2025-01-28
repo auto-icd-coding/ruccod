@@ -1,0 +1,4 @@
+T1	icd_code 0 9	о.трахеит
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 29 43	Дискинезия ЖВП
+N2	Reference T2 ICD_codes:7500	K82.8

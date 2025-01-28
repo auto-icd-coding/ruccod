@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ОРЗ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 5 26	Обструктивный бронхит
+N2	Reference T2 ICD_codes:6936	J44

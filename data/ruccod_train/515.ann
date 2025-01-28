@@ -1,0 +1,10 @@
+T1	icd_code 0 16	Кифосколиоз 3 ст
+N1	Reference T1 ICD_codes:8225	M41.9
+T2	icd_code 31 60	Варикозная б-нь н/конечностей
+N2	Reference T2 ICD_codes:6719	I83.9
+T3	icd_code 62 65	ХВН
+N3	Reference T3 ICD_codes:6715	I83
+T4	icd_code 68 94	ДОА тазобедренных суставов
+N4	Reference T4 ICD_codes:8065	M16
+T5	icd_code 104 117	 плоскостопие
+N5	Reference T5 ICD_codes:8106	M21

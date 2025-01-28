@@ -1,0 +1,8 @@
+T1	icd_code 0 16	Многоузловой зоб
+N1	Reference T1 ICD_codes:2029	E04.2
+T2	icd_code 48 61	тиреотоксикоз
+N2	Reference T2 ICD_codes:2040	E05.9
+T3	icd_code 90 127	Артериальная гипертензия 2 ст, риск 2
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 129 147	Избыток массы тела
+N4	Reference T4 ICD_codes:2282	E66.0

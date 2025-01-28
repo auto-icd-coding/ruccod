@@ -1,0 +1,6 @@
+T1	icd_code 0 34	Хронический аутоиммунный тиреоидит
+N1	Reference T1 ICD_codes:2048	E06.9
+T2	icd_code 36 46	Гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9
+T3	icd_code 49 67	Дефицит массы тела
+N3	Reference T3 ICD_codes:2220	E46

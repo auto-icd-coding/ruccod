@@ -1,0 +1,10 @@
+T1	icd_code 0 18	Опоясывающий лишай
+T2	icd_code 20 41	ганглионит Д10 справа
+T3	icd_code 43 56	острый период
+T4	icd_code 64 68	ГБ 2
+T5	icd_code 73 95	Сахарный диабет 2 типа
+N1	Reference T1 ICD_codes:495	B02.9
+N2	Reference T2 ICD_codes:8370	M67.4
+N3	Reference T3 ICD_codes:9064	N92
+N4	Reference T4 ICD_codes:6359	I11.9
+N5	Reference T5 ICD_codes:2076	E11.9

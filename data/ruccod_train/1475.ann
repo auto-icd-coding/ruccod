@@ -1,0 +1,8 @@
+T1	icd_code 5 30	Дискогенная радикулопатия
+N1	Reference T1 ICD_codes:8309	M54.1
+T2	icd_code 45 55	дорсопатии
+N2	Reference T2 ICD_codes:8307	M54
+T3	icd_code 57 101	распространенного остеохондроза позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 134 178	Импичмент -синдром правого плечевого сустава
+N4	Reference T4 ICD_codes:8388	M71

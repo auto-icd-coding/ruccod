@@ -1,0 +1,4 @@
+T1	icd_code 16 26	крапивница
+T2	icd_code 28 34	острая
+N1	Reference T1 ICD_codes:7719	L50
+N2	Reference T2 ICD_codes:10931	R52.0

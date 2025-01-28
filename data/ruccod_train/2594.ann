@@ -1,0 +1,10 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 39 43	ГПОД
+N2	Reference T2 ICD_codes:7305	K44
+T3	icd_code 45 49	ГЭРБ
+N3	Reference T3 ICD_codes:7189	K21
+T4	icd_code 52 105	Соматоформная дисфункция вегетативной нервной системы
+N4	Reference T4 ICD_codes:4923	F45.3
+T5	icd_code 108 124	панические атаки
+N5	Reference T5 ICD_codes:4879	F41.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Хронический криптит
+N1	Reference T1 ICD_codes:7387	K62
+T2	icd_code 31 61	Неполный интрасфинктерный свищ
+N2	Reference T2 ICD_codes:7378	K60.3

@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Аллергическая ? крапивница
+T2	icd_code 28 34	острая
+N1	Reference T1 ICD_codes:7721	L50.0
+N2	Reference T2 ICD_codes:10931	R52.0

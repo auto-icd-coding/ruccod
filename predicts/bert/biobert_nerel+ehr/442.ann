@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ИБС
+T2	icd_code 6 31	Артериальная гипертензия,
+T3	icd_code 53 56	НРС
+T4	icd_code 72 98	Пароксизмальная тахикардия
+T5	icd_code 101 128	Желудочковая экстрасистолия
+N1	Reference T1 ICD_codes:6406	I25
+N2	Reference T2 ICD_codes:6355	I10
+N3	Reference T3 ICD_codes:4937	F48.9
+N4	Reference T4 ICD_codes:6535	I47.9
+N5	Reference T5 ICD_codes:6541	I49.3

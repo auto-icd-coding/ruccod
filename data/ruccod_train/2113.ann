@@ -1,0 +1,8 @@
+T1	icd_code 0 9	О Вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 11 40	Патология ш/матки ( Дисплазия
+N2	Reference T2 ICD_codes:9026	N87.9
+T3	icd_code 45 68	Генитальный уреаплазмоз
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 70 81	Гарднерелез
+N4	Reference T4 ICD_codes:324	A63.8

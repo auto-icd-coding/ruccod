@@ -1,0 +1,8 @@
+T1	icd_code 0 7	Сколиоз
+N1	Reference T1 ICD_codes:8225	M41.9
+T2	icd_code 9 23	Пупочная грыжа
+N2	Reference T2 ICD_codes:7297	K42
+T3	icd_code 25 39	Высокорослость
+N3	Reference T3 ICD_codes:2203	E34.4
+T4	icd_code 42 99	Гиперфосфатемии на фоне тенденции к недостатку витамина Д
+N4	Reference T4 ICD_codes:2377	E83.3

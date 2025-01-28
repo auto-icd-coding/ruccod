@@ -1,0 +1,8 @@
+T1	icd_code 5 27	Подострый конъюнктивит
+N1	Reference T1 ICD_codes:5899	H10
+T2	icd_code 29 35	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 53 57	ПХРД
+N3	Reference T3 ICD_codes:6039	H35.4
+T4	icd_code 60 87	Ангиопатия сосудов сетчатки
+N4	Reference T4 ICD_codes:6017	H31.9

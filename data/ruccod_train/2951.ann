@@ -1,0 +1,12 @@
+T1	icd_code 1 4	АМК
+N1	Reference T1 ICD_codes:9074	N93.8
+T2	icd_code 5 17	Олигоменорея
+N2	Reference T2 ICD_codes:9063	N91.5
+T3	icd_code 19 23	Акне
+N3	Reference T3 ICD_codes:7834	L70.5
+T4	icd_code 25 40	Гиперандрогения
+N4	Reference T4 ICD_codes:2173	E28.1
+T5	icd_code 40 59	Эктопия шейки матки
+N5	Reference T5 ICD_codes:9021	N86
+T6	icd_code 48 63	шейки матки ВПЧ
+N6	Reference T6 ICD_codes:928	B97.7

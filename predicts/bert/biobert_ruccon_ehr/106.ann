@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Хронический простатит,
+T2	icd_code 44 68	хронической тазовой боли
+T3	icd_code 69 76	Уретрит
+N1	Reference T1 ICD_codes:8847	N41.1
+N2	Reference T2 ICD_codes:8932	N73.4
+N3	Reference T3 ICD_codes:8817	N34.1

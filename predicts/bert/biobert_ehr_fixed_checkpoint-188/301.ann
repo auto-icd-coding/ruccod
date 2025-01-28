@@ -1,0 +1,10 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 25	Острый ринофарингит
+T3	icd_code 27 47	Острый трахеобронхит
+T4	icd_code 50 66	Подчелюстная ЛАП
+T5	icd_code 69 119	Хроническая железодефицитная анемия легкой степени
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6776	J00
+N3	Reference T3 ICD_codes:6860	J20.9
+N4	Reference T4 ICD_codes:1430	C91.7
+N5	Reference T5 ICD_codes:1811	D50.9

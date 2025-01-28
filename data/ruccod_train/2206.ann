@@ -1,0 +1,6 @@
+T1	icd_code 0 6	Миопия
+N1	Reference T1 ICD_codes:6128	H52.1
+T2	icd_code 23 40	Спазм аккомодации
+N2	Reference T2 ICD_codes:6132	H52.5
+T3	icd_code 42 70	Дисфункция мейбомиевых желёз
+N3	Reference T3 ICD_codes:5858	H01.8

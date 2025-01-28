@@ -1,0 +1,10 @@
+T1	icd_code 105 124	Камень правой почки
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 100 103	МКБ
+N2	Reference T2 ICD_codes:8756	N20.0
+T3	icd_code 82 98	Варикоцеле слева
+N3	Reference T3 ICD_codes:6736	I86.1
+T4	icd_code 35 55	Хронический уретрит,
+N4	Reference T4 ICD_codes:8818	N34.2
+T5	icd_code 0 21	Хронический простатит
+N5	Reference T5 ICD_codes:8847	N41.1

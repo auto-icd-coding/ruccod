@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Хр фарингит
+N1	Reference T1 ICD_codes:6876	J31.2
+T2	icd_code 13 25	Хр тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0
+T3	icd_code 51 68	Хр гастродуоденит
+N3	Reference T3 ICD_codes:7256	K29.9
+T4	icd_code 94 122	Астено-невротический синдром
+N4	Reference T4 ICD_codes:4923	F45.3
+T5	icd_code 124 149	Состояние после вазотомии
+N5	Reference T5 ICD_codes:16949	Z54.0

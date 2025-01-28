@@ -1,0 +1,4 @@
+T1	icd_code 0 29	Многоузловой эутиреоидный зоб
+T2	icd_code 76 80	доли
+N1	Reference T1 ICD_codes:2029	E04.2
+N2	Reference T2 ICD_codes:1302	C71.1

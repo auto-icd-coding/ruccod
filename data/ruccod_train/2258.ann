@@ -1,0 +1,17 @@
+T1	icd_code 0 58	Дисформия,дискинезия,дисхолия увеличенного желчного пузыря
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 59 84	Гиперкинез сфинктера Одди
+N2	Reference T2 ICD_codes:7507	K83.4
+T3	icd_code 85 98	Гепатомегалия
+N3	Reference T3 ICD_codes:10791	R16.0
+T4	icd_code 99 158	Хронический гастрит,ассоциированный с Нр,нестойкая ремиссия
+N4	Reference T4 ICD_codes:7251	K29.4
+T5	icd_code 159 211	Гастроэзофагеальная рефлюксная болезнь без эзофагита
+T6	icd_code 159 212	Гастроэзофагеальная рефлюксная болезнь без эзофагита.
+N5	Reference T6 ICD_codes:7191	K21.9
+T7	icd_code 213 244	Синдром раздраженного кишечника
+N6	Reference T7 ICD_codes:7363	K58
+T8	icd_code 246 298	Синдром избыточного бактериального роста в кишечнике
+N7	Reference T8 ICD_codes:10804	R19.8
+T9	icd_code 299 314	Тромбоцитопения
+N8	Reference T9 ICD_codes:1913	D69.6

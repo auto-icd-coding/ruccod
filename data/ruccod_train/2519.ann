@@ -1,0 +1,10 @@
+T1	icd_code 4 24	синдром сухого глаза
+N1	Reference T1 ICD_codes:5877	H04.1
+T2	icd_code 50 56	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 102 131	Деструкция стекловидного тела
+N3	Reference T3 ICD_codes:6062	H43
+T4	icd_code 133 157	Расширение слепого пятна
+N4	Reference T4 ICD_codes:6138	H53.1
+T5	icd_code 171 175	ЗОСТ
+N5	Reference T5 ICD_codes:6069	H43.9

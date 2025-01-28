@@ -1,0 +1,6 @@
+T1	icd_code 0 17	Цервикоторакалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 29 56	мышечно-тониченский синдром
+N2	Reference T2 ICD_codes:8313	M54.5
+T3	icd_code 58 65	Сколиоз
+N3	Reference T3 ICD_codes:8217	M41

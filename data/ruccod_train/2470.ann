@@ -1,0 +1,6 @@
+T1	icd_code 0 28	Опущение  стенок  влагалища 
+N1	Reference T1 ICD_codes:8975	N81.1
+T2	icd_code 39 51	Миома  матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 69 82	эндометриозом
+N3	Reference T3 ICD_codes:8964	N80.0

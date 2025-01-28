@@ -1,0 +1,14 @@
+T1	icd_code 0 22	Желчнокаменная болезнь
+T2	icd_code 24 39	"сладж" синдром
+T3	icd_code 41 50	Поилип ЖП
+T4	icd_code 52 66	Стеатоз печени
+T5	icd_code 68 90	Хронический панкреатит
+T6	icd_code 93 148	внешнесекреторной недостаточностью поджелудочной железы
+T7	icd_code 190 194	ГЭРБ
+N1	Reference T1 ICD_codes:7487	K80.5
+N2	Reference T2 ICD_codes:7365	K58.9
+N3	Reference T3 ICD_codes:6541	I49.3
+N4	Reference T4 ICD_codes:7467	K76.0
+N5	Reference T5 ICD_codes:7514	K86.1
+N6	Reference T6 ICD_codes:2118	E16.9
+N7	Reference T7 ICD_codes:7191	K21.9

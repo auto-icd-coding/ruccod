@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 6 21	Острый фарингит
+T3	icd_code 39 59	Острый трахеобронхит
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6790	J02.9
+N3	Reference T3 ICD_codes:6860	J20.9

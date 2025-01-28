@@ -1,0 +1,12 @@
+T1	icd_code 0 24	Состояние после операции
+N1	Reference T1 ICD_codes:16949	Z54.0
+T2	icd_code 47 82	Ампутация матки с маточными трубами
+N2	Reference T2 ICD_codes:1651	D25.9
+T3	icd_code 83 94	Миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 95 103	Адномиоз
+N4	Reference T4 ICD_codes:9012	N85.1
+T5	icd_code 104 115	Анемия 1 ст
+N5	Reference T5 ICD_codes:1893	D64.9
+T6	icd_code 116 123	Кольпит
+N6	Reference T6 ICD_codes:8957	N76.8

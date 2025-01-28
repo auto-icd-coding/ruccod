@@ -1,0 +1,4 @@
+T1	icd_code 1 37	Хроническая головная боль напряжения
+N1	Reference T1 ICD_codes:5606	G44.2
+T2	icd_code 53 65	Беременность
+N2	Reference T2 ICD_codes:16794	Z32.9

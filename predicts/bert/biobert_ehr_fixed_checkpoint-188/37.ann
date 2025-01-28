@@ -1,0 +1,6 @@
+T1	icd_code 0 67	Первичное неосложненное варикозное расширение поверхностных вен ног
+T2	icd_code 95 128	поперечно-продольное плоскостопие
+T3	icd_code 130 138	Ожирение
+N1	Reference T1 ICD_codes:6719	I83.9
+N2	Reference T2 ICD_codes:8111	M21.4
+N3	Reference T3 ICD_codes:2286	E66.9

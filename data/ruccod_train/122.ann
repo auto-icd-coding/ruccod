@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Дисфункция яичников
+T2	icd_code 26 45	Гиперпролактинемия!
+N2	Reference T2 ICD_codes:2134	E22.1
+T4	icd_code 98 107	аднексит.
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 73 85	эндометриоза
+N5	Reference T5 ICD_codes:8962	N80
+T3	icd_code 21 25	НЛФ.
+N3	Reference T3 ICD_codes:8962	N80
+N6	Reference T3 ICD_codes:2177	E28.9

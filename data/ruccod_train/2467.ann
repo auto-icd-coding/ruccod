@@ -1,0 +1,4 @@
+T1	icd_code 0 19	острый назофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 35 66	острый средний катаральный отит
+N2	Reference T2 ICD_codes:6210	H66.9

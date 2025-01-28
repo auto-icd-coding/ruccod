@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ДЭП
+N1	Reference T1 ICD_codes:5816	G93.4
+T2	icd_code 9 35	вестибулоатактический с-м.
+N2	Reference T2 ICD_codes:6258	H81
+T3	icd_code 35 38	ПОХ
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 39 61	мышечно-тонический с-м
+N4	Reference T4 ICD_codes:8441	M79.1

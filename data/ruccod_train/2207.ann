@@ -1,0 +1,4 @@
+T1	icd_code 0 18	ОРВИ: ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 20 41	острый ларинготрахеит
+N2	Reference T2 ICD_codes:6798	J04.2

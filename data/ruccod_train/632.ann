@@ -1,0 +1,17 @@
+T1	icd_code 4 19	сальпингоофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 35 62	Мультифолликулырные яичники
+N7	Reference T2 ICD_codes:2171	E28
+T3	icd_code 64 79	Хр.эндоцервикоз
+N3	Reference T3 ICD_codes:8926	N72
+T4	icd_code 80 107	Эндоцервицит уреаплазменный
+N4	Reference T4 ICD_codes:324	A63.8
+T5	icd_code 109 132	Варикоз вен малого таза
+N5	Reference T5 ICD_codes:6737	I86.2
+T6	icd_code 133 154	
+Дисфункция яичников(
+N6	Reference T6 ICD_codes:2171	E28
+T7	icd_code 155 169	гипоэстрогения
+N8	Reference T7 ICD_codes:2176	E28.8
+T8	icd_code 170 185	гиперандрогения
+N9	Reference T8 ICD_codes:2173	E28.1

@@ -1,0 +1,4 @@
+T1	icd_code 17 29	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 0 13	Серная пробка
+N2	Reference T2 ICD_codes:6185	H61.2

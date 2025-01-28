@@ -1,0 +1,5 @@
+T1	icd_code 0 23	Полипы анального канала
+N1	Reference T1 ICD_codes:7388	K62.0
+T2	icd_code 25 60	Хронческий комбинированный геморрой
+T3	icd_code 94 125	Синдром раздраженного кишечника
+N3	Reference T3 ICD_codes:7363	K58

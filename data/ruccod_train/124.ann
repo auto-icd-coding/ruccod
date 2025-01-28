@@ -1,0 +1,8 @@
+T1	icd_code 0 9	Цервицит,
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 18	Цервикоз
+N2	Reference T2 ICD_codes:9027	N88
+T3	icd_code 20 30	Аденомиоз.
+N3	Reference T3 ICD_codes:8962	N80
+T4	icd_code 32 50	Ретрофлексия матки
+N4	Reference T4 ICD_codes:9015	N85.4

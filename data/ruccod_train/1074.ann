@@ -1,0 +1,10 @@
+T1	icd_code 0 61	Гипертоническая болезнь. АГ 1 ст, медикаментозная компенсация
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 63 66	НТГ
+N2	Reference T2 ICD_codes:10987	R73.9
+T3	icd_code 159 168	Гонартроз
+N3	Reference T3 ICD_codes:8075	M17
+T4	icd_code 100 157	Спондилез области шейного и грудного отделов позвоночника
+N4	Reference T4 ICD_codes:8261	M47
+T5	icd_code 68 98	Астено-невротическое состояние
+N5	Reference T5 ICD_codes:4934	F48.0

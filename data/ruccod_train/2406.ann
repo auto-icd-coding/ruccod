@@ -1,0 +1,4 @@
+T1	icd_code 0 14	острый кон-вит
+N1	Reference T1 ICD_codes:5908	H10.9
+T2	icd_code 44 50	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1

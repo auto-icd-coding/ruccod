@@ -1,0 +1,8 @@
+T1	icd_code 0 66	Посттравматические изменения длинной приводящей мышцы левого бедра
+N1	Reference T1 ICD_codes:11905	S76
+T2	icd_code 68 83	Болевой синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 86 118	Синовит левого коленного сустава
+N3	Reference T3 ICD_codes:8349	M65
+T4	icd_code 120 172	Деформирующий остеоартроз левого коленного сустава
+N4	Reference T4 ICD_codes:8082	M17.9

@@ -1,0 +1,12 @@
+T1	icd_code 0 51	Гастроэзофагеальная рефлюксная болезнь с эзофагитом
+N1	Reference T1 ICD_codes:7190	K21.0
+T2	icd_code 53 82	Хронический эрозивный гастрит
+N2	Reference T2 ICD_codes:7247	K29.0
+T3	icd_code 138 145	Бульбит
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 146 186	Гипермоторная дискинезия желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 187 200	Гепатомегалия
+N5	Reference T5 ICD_codes:10791	R16.0
+T6	icd_code 202 233	Синдром раздраженного кишечника
+N6	Reference T6 ICD_codes:7365	K58.9

@@ -1,0 +1,8 @@
+T1	icd_code 0 40	О.внегоспитальная двусторонняя пневмония
+N1	Reference T1 ICD_codes:6847	J18.8
+T2	icd_code 49 51	ДН
+N2	Reference T2 ICD_codes:7048	J96.9
+T3	icd_code 59 81	Системная склеродермия
+N3	Reference T3 ICD_codes:8185	M34.0
+T4	icd_code 125 137	Пневмофиброз
+N4	Reference T4 ICD_codes:7008	J84.9

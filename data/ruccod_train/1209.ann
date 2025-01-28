@@ -1,0 +1,10 @@
+T1	icd_code 1 22	Хронический тонзиллит
+N1	Reference T1 ICD_codes:6897	J35.0
+T2	icd_code 43 85	Ретенционная киста правой небной миндалины
+N2	Reference T2 ICD_codes:1537	D10
+T3	icd_code 95 115	Хронический фарингит
+N3	Reference T3 ICD_codes:6876	J31.2
+T4	icd_code 161 199	Персистирующая герпесвирусная инфекция
+N4	Reference T4 ICD_codes:471	B00
+T5	icd_code 236 256	Хронический гайморит
+N5	Reference T5 ICD_codes:6884	J32.9

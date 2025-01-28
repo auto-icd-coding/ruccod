@@ -1,0 +1,4 @@
+T1	icd_code 1 22	Лактационная аменорея
+T2	icd_code 59 78	Хр. сальпингоофорит
+N1	Reference T1 ICD_codes:9060	N91.2
+N2	Reference T2 ICD_codes:8920	N70.1

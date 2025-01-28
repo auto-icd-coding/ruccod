@@ -1,0 +1,10 @@
+T1	icd_code 2 31	Энцефалопатия сложного генеза
+N1	Reference T1 ICD_codes:5816	G93.4
+T2	icd_code 74 84	гемикрания
+N2	Reference T2 ICD_codes:10929	R51
+T3	icd_code 103 135	вестибуло-атактические нарушения
+N3	Reference T3 ICD_codes:6263	H81.4
+T4	icd_code 178 189	Цервикалгия
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 231 259	мышечно-тоническим синдромом
+N5	Reference T5 ICD_codes:8441	M79.1

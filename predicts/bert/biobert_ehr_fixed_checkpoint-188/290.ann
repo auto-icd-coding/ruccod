@@ -1,0 +1,10 @@
+T1	icd_code 0 27	Ангиопатия сосудов сетчатки
+T2	icd_code 55 75	Синдром сухого глаза
+T3	icd_code 114 120	Миопия
+T4	icd_code 152 161	Амблиопия
+T5	icd_code 169 174	глаза
+N1	Reference T1 ICD_codes:6035	H35.0
+N2	Reference T2 ICD_codes:5869	H02.8
+N3	Reference T3 ICD_codes:6128	H52.1
+N4	Reference T4 ICD_codes:6137	H53.0
+N5	Reference T5 ICD_codes:16608	Z01.0

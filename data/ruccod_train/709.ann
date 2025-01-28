@@ -1,0 +1,16 @@
+T1	icd_code 4 34	Дисциркуляторная энцефалопатия
+N1	Reference T1 ICD_codes:5816	G93.4
+T2	icd_code 42 78	Атеросклероз сосудов головного мозга
+N2	Reference T2 ICD_codes:6617	I67
+T3	icd_code 80 103	Гипертоническая болезнь
+N3	Reference T3 ICD_codes:6355	I10
+T4	icd_code 121 130	Диссомния
+N4	Reference T4 ICD_codes:5628	G47
+T5	icd_code 136 146	Дорсопатия
+N5	Reference T5 ICD_codes:8306	M53.9
+T6	icd_code 148 165	Цервикокраниалгия
+N6	Reference T6 ICD_codes:8310	M54.2
+T7	icd_code 193 206	остеохондроза
+N7	Reference T7 ICD_codes:8228	M42.1
+T8	icd_code 292 319	мышечно-тонический синдромы
+N8	Reference T8 ICD_codes:8333	M62

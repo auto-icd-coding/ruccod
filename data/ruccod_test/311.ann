@@ -1,0 +1,18 @@
+T1	icd_code 0 13	Тиреотоксикоз
+N1	Reference T1 ICD_codes:2032	E05
+T2	icd_code 46 67	хронический тиреоидит
+N2	Reference T2 ICD_codes:2044	E06.2
+T3	icd_code 81 96	тиреотоксикозом
+N3	Reference T3 ICD_codes:2039	E05.8
+T4	icd_code 98 118	Астенический синдром
+N4	Reference T4 ICD_codes:4934	F48.0
+T5	icd_code 120 147	Нейроциркуляторная дистония
+N5	Reference T5 ICD_codes:4923	F45.3
+T6	icd_code 149 159	Парестезии
+N6	Reference T6 ICD_codes:10809	R20.2
+T7	icd_code 161 169	судороги
+N7	Reference T7 ICD_codes:10940	R56.8
+T8	icd_code 172 194	Синдром гипокальциемии
+N8	Reference T8 ICD_codes:2379	E83.5
+T9	icd_code 196 209	Гипомагниемия
+N9	Reference T9 ICD_codes:2378	E83.4

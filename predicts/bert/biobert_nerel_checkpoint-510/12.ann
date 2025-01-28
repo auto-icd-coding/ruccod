@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Серома левой повздошной области
+T2	icd_code 33 62	грыжа передней брюшной стенки
+N1	Reference T1 ICD_codes:1176	C46.8
+N2	Reference T2 ICD_codes:7304	K43.9

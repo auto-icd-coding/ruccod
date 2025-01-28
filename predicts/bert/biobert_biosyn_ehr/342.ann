@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Артериальная  гипертония
+T2	icd_code 26 42	компенсированная
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:16790	Z31.9

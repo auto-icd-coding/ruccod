@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Торакалгия
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 39 72	Хронический поверхностный гастрит
+N2	Reference T2 ICD_codes:7250	K29.3
+T3	icd_code 98 148	Гиперпластический полип антрального отдела желудка
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 150 176	Жировая дегенерация печени
+N4	Reference T4 ICD_codes:7467	K76.0

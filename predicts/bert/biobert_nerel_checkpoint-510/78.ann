@@ -1,0 +1,12 @@
+T1	icd_code 1 9	Цервицит
+T2	icd_code 12 24	Хр. аднексит
+T3	icd_code 35 45	субремисии
+T4	icd_code 87 95	рубец на
+T5	icd_code 103 121	Ретенционные кисты
+T6	icd_code 147 173	железисто -фиброзный полип
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:2156	E25.9
+N3	Reference T3 ICD_codes:8385	M70.7
+N4	Reference T4 ICD_codes:9328	O34.2
+N5	Reference T5 ICD_codes:9033	N88.8
+N6	Reference T6 ICD_codes:9004	N84.0

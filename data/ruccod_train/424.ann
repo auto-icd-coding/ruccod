@@ -1,0 +1,4 @@
+T1	icd_code 15 20	ОРВИ,
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 21 36	острый ларингит
+N2	Reference T2 ICD_codes:6796	J04.0

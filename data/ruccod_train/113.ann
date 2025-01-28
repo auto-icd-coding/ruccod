@@ -1,0 +1,12 @@
+T1	icd_code 0 37	Хронический гипертрофический фарингит
+N1	Reference T1 ICD_codes:6873	J31
+T2	icd_code 67 76	тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0
+T3	icd_code 76 90	.Острый ринит.
+N3	Reference T3 ICD_codes:6776	J00
+T4	icd_code 77 89	Острый ринит
+N4	Reference T4 ICD_codes:6893	J34.2
+T5	icd_code 119 132	Серные пробки
+N5	Reference T5 ICD_codes:6185	H61.2
+T4	icd_code 90 118	Искривление перегородки носа
+N4	Reference T4 ICD_codes:6893	J34.2

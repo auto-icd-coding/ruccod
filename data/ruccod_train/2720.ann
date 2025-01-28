@@ -1,0 +1,10 @@
+T1	icd_code 1 11	Дорсапатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 13 30	Цервикоторакалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 33 81	Остеохондроз шейно-грудного  отдела позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 82 155	Мышечно-тонический синдром паравертебральных мышц на шейно-грудном уровне
+N4	Reference T4 ICD_codes:8286	M50.0
+T5	icd_code 168 183	болевой синдром
+N5	Reference T5 ICD_codes:8441	M79.1

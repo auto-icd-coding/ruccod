@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Нарушение проводимости и ритма сердца
+T2	icd_code 39 66	Пролапс митрального клапана
+N1	Reference T1 ICD_codes:6545	I49.9
+N2	Reference T2 ICD_codes:6452	I34.1

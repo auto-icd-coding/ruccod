@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Неалкогольный стеатогепатит
+T2	icd_code 30 52	Хронический панкреатит
+T3	icd_code 75 91	недостаточностью
+N1	Reference T1 ICD_codes:7467	K76.0
+N2	Reference T2 ICD_codes:7514	K86.1
+N3	Reference T3 ICD_codes:2266	E61.9

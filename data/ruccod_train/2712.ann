@@ -1,0 +1,14 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 6 27	ротавирусная инфекция
+N2	Reference T2 ICD_codes:608	B34.1
+T3	icd_code 43 47	ДЖВП
+N3	Reference T3 ICD_codes:7509	K83.8
+T4	icd_code 51 87	Внешнесекреторная недостаточность ПЖ
+N4	Reference T4 ICD_codes:7517	K86.8
+T5	icd_code 90 126	Синдром мальдигестии и мальабсорбции
+N5	Reference T5 ICD_codes:7522	K90
+T6	icd_code 129 148	Хр. гастродуодениит
+N6	Reference T6 ICD_codes:7246	K29
+T7	icd_code 173 176	МКБ
+N7	Reference T7 ICD_codes:8756	N20.0

@@ -1,0 +1,8 @@
+T1	icd_code 2 34	Дорсопатия шейно-грудного отдела
+T2	icd_code 36 50	Нестабильность
+T3	icd_code 73 105	Вертеброгенная цервикоторакалгия
+T4	icd_code 107 143	болевой и мышечно-тонический синдром
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8303	M53.2
+N3	Reference T3 ICD_codes:8310	M54.2
+N4	Reference T4 ICD_codes:8441	M79.1

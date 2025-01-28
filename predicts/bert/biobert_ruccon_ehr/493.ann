@@ -1,0 +1,4 @@
+T1	icd_code 0 10	АГ 2 стад.
+T2	icd_code 18 26	СД 2 тип
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:2076	E11.9

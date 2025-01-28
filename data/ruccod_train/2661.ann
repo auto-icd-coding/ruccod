@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Артериальная  гипертония
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 35 78	Анемия легкой степени неуточненного  генеза
+N2	Reference T2 ICD_codes:1893	D64.9

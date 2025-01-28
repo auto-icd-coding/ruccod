@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 13 30	Кисты шейки матки
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 32 61	Спаечный процесс в малом тазу
+N3	Reference T3 ICD_codes:9115	N99.4
+T4	icd_code 64 83	хронический оофорит
+N4	Reference T4 ICD_codes:8920	N70.1
+T5	icd_code 93 111	Кандидоз влагалища
+N5	Reference T5 ICD_codes:632	B37

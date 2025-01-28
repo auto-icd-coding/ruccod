@@ -1,0 +1,8 @@
+T1	icd_code 17 34	цервикобрахиалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 43 53	торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 152 177	S-образный  сколиоз ШГрОП
+N3	Reference T3 ICD_codes:8224	M41.8
+T4	icd_code 180 199	Хронический гастрит
+N4	Reference T4 ICD_codes:7252	K29.5

@@ -1,0 +1,6 @@
+T1	icd_code 0 8	Себоррея
+N1	Reference T1 ICD_codes:7620	L21.0
+T2	icd_code 10 17	Псориаз
+N2	Reference T2 ICD_codes:7692	L40.9
+T3	icd_code 19 40	Псориатический артрит
+N3	Reference T3 ICD_codes:7690	L40.5

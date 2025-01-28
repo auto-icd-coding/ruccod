@@ -1,0 +1,4 @@
+T1	icd_code 1 9	Аднексит
+T2	icd_code 17 35	Кисты экзоцервикса
+N1	Reference T1 ICD_codes:7274	K37
+N2	Reference T2 ICD_codes:10363	Q51.6

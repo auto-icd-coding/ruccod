@@ -1,0 +1,8 @@
+T1	icd_code 0 10	ДОРСОПАТИЯ
+N1	Reference T1 ICD_codes:8306	M53.9
+N3	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 60 85	миотонический болевой с-м
+N2	Reference T2 ICD_codes:5745	G71.1
+T1	icd_code 12 58	остеохондроз шейногрудного отдела позвоночника
+N1	Reference T1 ICD_codes:8306	M53.9
+N3	Reference T1 ICD_codes:8306	M53.9

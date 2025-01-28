@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Эррозия роговицы правого глаза
+N1	Reference T1 ICD_codes:5951	H18.8
+T2	icd_code 45 68	Миопический астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2

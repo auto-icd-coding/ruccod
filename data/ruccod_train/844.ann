@@ -1,0 +1,12 @@
+T1	icd_code 3 13	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 15 27	Остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 60 77	Люмбаго с ишиазом
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 83 93	гипотериоз
+N4	Reference T4 ICD_codes:2025	E03.9
+T5	icd_code 98 115	дисбиоз кишечника
+N5	Reference T5 ICD_codes:7398	K63
+T6	icd_code 120 139	Хронический гастрит
+N6	Reference T6 ICD_codes:7246	K29

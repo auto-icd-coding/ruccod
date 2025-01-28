@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Гигрома левого л\з сустава
+N1	Reference T1 ICD_codes:8388	M71
+T2	icd_code 27 50	Стилоидит лучевой кости
+N2	Reference T2 ICD_codes:8349	M65
+T3	icd_code 57 91	Гонартроз левого коленного сустава
+N3	Reference T3 ICD_codes:8075	M17

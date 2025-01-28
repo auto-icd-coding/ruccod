@@ -1,0 +1,8 @@
+T1	icd_code 25 34	простатит
+N1	Reference T1 ICD_codes:8847	N41.1
+T2	icd_code 48 55	уретрит
+N2	Reference T2 ICD_codes:8815	N34
+T3	icd_code 70 81	уреаплазмоз
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 83 86	МКБ
+N4	Reference T4 ICD_codes:8754	N20

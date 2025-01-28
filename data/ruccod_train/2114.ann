@@ -1,0 +1,6 @@
+T1	icd_code 0 14	Острый трахеит
+N1	Reference T1 ICD_codes:6797	J04.1
+T2	icd_code 16 20	ОРВИ
+N2	Reference T2 ICD_codes:6777	J00-J06
+T3	icd_code 30 49	Острый назофарингит
+N3	Reference T3 ICD_codes:6776	J00

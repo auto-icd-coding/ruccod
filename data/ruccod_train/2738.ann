@@ -1,0 +1,6 @@
+T1	icd_code 0 15	О. ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 17 33	О. трахеобронхит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 45 78	воспалительные изменения в легких
+N3	Reference T3 ICD_codes:6844	J18.0

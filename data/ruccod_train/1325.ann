@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 31 55	Вертеброгенная люмбалгия
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 78 104	мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1

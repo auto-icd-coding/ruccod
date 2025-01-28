@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Гиперплазия эндометрия
+T2	icd_code 24 35	Миома матки
+T3	icd_code 36 43	Саркома
+N1	Reference T1 ICD_codes:9011	N85.0
+N2	Reference T2 ICD_codes:1647	D25
+N3	Reference T3 ICD_codes:1177	C46.9

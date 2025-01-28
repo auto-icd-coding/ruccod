@@ -1,0 +1,4 @@
+T1	icd_code 0 9	аденомиоз
+T2	icd_code 11 22	миома матки
+N1	Reference T1 ICD_codes:9012	N85.1
+N2	Reference T2 ICD_codes:1647	D25

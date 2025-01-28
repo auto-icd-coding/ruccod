@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Вирусные бородавки правой кисти
+T2	icd_code 33 47	бородавки стоп
+N1	Reference T1 ICD_codes:510	B07
+N2	Reference T2 ICD_codes:510	B07

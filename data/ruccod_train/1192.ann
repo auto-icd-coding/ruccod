@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ОРЗ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 25 34	Аденоидит
+N2	Reference T2 ICD_codes:6899	J35.2
+T3	icd_code 0 23	ОРЗ Острый ринофарингит
+N3	Reference T3 ICD_codes:6787	J02

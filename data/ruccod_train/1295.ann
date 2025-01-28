@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Хр. сальпингит
+N1	Reference T1 ICD_codes:8920	N70.1
+T2	icd_code 17 28	Миома матки
+N2	Reference T2 ICD_codes:1647	D25

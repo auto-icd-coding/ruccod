@@ -1,0 +1,12 @@
+T1	icd_code 2 15	Энцефалопатия
+T2	icd_code 74 84	гемикрания
+T3	icd_code 103 135	вестибуло-атактические нарушения
+T4	icd_code 137 157	церебральная астения
+T5	icd_code 178 189	Цервикалгия
+T6	icd_code 231 259	мышечно-тоническим синдромом
+N1	Reference T1 ICD_codes:5816	G93.4
+N2	Reference T2 ICD_codes:2378	E83.4
+N3	Reference T3 ICD_codes:6265	H81.9
+N4	Reference T4 ICD_codes:5812	G93.0
+N5	Reference T5 ICD_codes:8310	M54.2
+N6	Reference T6 ICD_codes:8441	M79.1

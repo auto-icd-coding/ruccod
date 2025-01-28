@@ -1,0 +1,4 @@
+T1	icd_code 0 38	острая респираторная вирусная инфекция
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 50 58	л/аденит
+N2	Reference T2 ICD_codes:6751	I88.9

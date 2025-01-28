@@ -1,0 +1,5 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 17	Кольпит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 18 39	Кондилома шейки матки

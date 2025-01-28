@@ -1,0 +1,4 @@
+T1	icd_code 1 15	Хр. холецистит
+N1	Reference T1 ICD_codes:7489	K81
+T2	icd_code 30 34	ДЖВП
+N2	Reference T2 ICD_codes:7500	K82.8

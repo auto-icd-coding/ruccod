@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Хронический гастрит
+T2	icd_code 92 115	Язвенная болезнь 12п.к-
+N1	Reference T1 ICD_codes:7252	K29.5
+N2	Reference T2 ICD_codes:7224	K26.7

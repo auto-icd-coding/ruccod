@@ -1,0 +1,6 @@
+T1	icd_code 0 22	Желчнокаменная болезнь
+N1	Reference T1 ICD_codes:7480	K80
+T2	icd_code 25 39	сладж" синдром
+N2	Reference T2 ICD_codes:7499	K82.4
+T3	icd_code 41 94	 Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8

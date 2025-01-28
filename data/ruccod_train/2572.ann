@@ -1,0 +1,8 @@
+T1	icd_code 0 22	Эндометриоз тела матки
+N1	Reference T1 ICD_codes:8964	N80.0
+T2	icd_code 24 49	Множественная миома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 65 76	Полименорея
+N3	Reference T3 ICD_codes:9064	N92
+T4	icd_code 79 107	Фиброаденома молочной железы
+N4	Reference T4 ICD_codes:8900	N60.2

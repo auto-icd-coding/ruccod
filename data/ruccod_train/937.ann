@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 15 23	цервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 26 33	Кольпит
+N3	Reference T3 ICD_codes:8949	N76
+T4	icd_code 36 51	носитель ВПЧ 16
+N4	Reference T4 ICD_codes:928	B97.7

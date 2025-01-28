@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Диарея неуточненная
+N1	Reference T1 ICD_codes:70	A09
+T2	icd_code 22 48	Хронический гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 66 87	Реактивный панкреатит
+N3	Reference T3 ICD_codes:7511	K85
+T4	icd_code 90 129	Состояние после эпизода потери сознания
+N4	Reference T4 ICD_codes:10937	R55
+T5	icd_code 131 160	Ушиб околоушной области слева
+N5	Reference T5 ICD_codes:11141	S00.4

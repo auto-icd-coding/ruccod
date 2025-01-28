@@ -1,0 +1,6 @@
+T1	icd_code 26 67	фоновой ретинопатии по типу диабетической
+N1	Reference T1 ICD_codes:6046	H36.0
+T2	icd_code 69 79	Пресбиопия
+N2	Reference T2 ICD_codes:6131	H52.4
+T3	icd_code 94 115	синдрома сухого глаза
+N3	Reference T3 ICD_codes:5877	H04.1

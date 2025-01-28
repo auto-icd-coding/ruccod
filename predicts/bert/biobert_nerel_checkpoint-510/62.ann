@@ -1,0 +1,10 @@
+T1	icd_code 5 14	Астенопия
+T2	icd_code 16 20	ПИНА
+T3	icd_code 22 49	Ангиопатия сосудов сетчатки
+T4	icd_code 58 68	флебопатии
+T5	icd_code 70 80	флебоспазм
+N1	Reference T1 ICD_codes:6131	H52.4
+N2	Reference T2 ICD_codes:6128	H52.1
+N3	Reference T3 ICD_codes:6035	H35.0
+N4	Reference T4 ICD_codes:12692	T66-T78
+N5	Reference T5 ICD_codes:5533	G24.5

@@ -1,0 +1,18 @@
+T1	icd_code 0 20	Атопический дерматит
+N1	Reference T1 ICD_codes:7618	L20.9
+T2	icd_code 49 68	Аллергический ринит
+N2	Reference T2 ICD_codes:6872	J30.4
+T3	icd_code 84 105	Хронический аденоидит
+N3	Reference T3 ICD_codes:6902	J35.9
+T4	icd_code 122 143	ГИперплазия аденоидов
+N4	Reference T4 ICD_codes:6900	J35.3
+T5	icd_code 153 157	ОРВИ
+N5	Reference T5 ICD_codes:6776	J00
+T6	icd_code 169 201	бронхиты, в т.ч.., обструктивные
+N6	Reference T6 ICD_codes:6929	J42
+T7	icd_code 203 217	ларинготрахеит
+N7	Reference T7 ICD_codes:6798	J04.2
+T8	icd_code 242 260	бронхиальной астмы
+N8	Reference T8 ICD_codes:6945	J45.9
+T9	icd_code 264 334	Пыльцевая (деревья), бытовая, грибковая, эпидермальная сенсибилизация.
+N9	Reference T9 ICD_codes:12745	T78.4

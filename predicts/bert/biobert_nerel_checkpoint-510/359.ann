@@ -1,0 +1,4 @@
+T1	icd_code 0 34	Надрыв сумочно-связочного аппарата
+T2	icd_code 35 39	ПМФС
+N1	Reference T1 ICD_codes:11631	S43.5
+N2	Reference T2 ICD_codes:7373	K59.9

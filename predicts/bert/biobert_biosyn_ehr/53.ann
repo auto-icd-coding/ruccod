@@ -1,0 +1,4 @@
+T1	icd_code 25 34	Ухудшение
+T2	icd_code 36 44	Цефалгия
+N1	Reference T1 ICD_codes:12403	T33-T35
+N2	Reference T2 ICD_codes:10929	R51

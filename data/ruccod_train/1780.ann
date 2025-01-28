@@ -1,0 +1,12 @@
+T1	icd_code 2 42	Варикозное расширение  вен н\конечностей
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 45 56	ХВН -0-1 ст
+N2	Reference T2 ICD_codes:6744	I87.2
+T3	icd_code 62 88	.Остеохондроз позвоночника
+N3	Reference T3 ICD_codes:8228	M42.1
+T4	icd_code 90 140	деформирующий  артроз обоих тазобедренных суставов
+N4	Reference T4 ICD_codes:8066	M16.0
+T5	icd_code 157 184	Хр. поверхностный  гастрит.
+N5	Reference T5 ICD_codes:7252	K29.5
+T6	icd_code 197 216	Хр. колит ремиссия.
+N6	Reference T6 ICD_codes:7337	K52.9

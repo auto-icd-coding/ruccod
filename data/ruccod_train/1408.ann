@@ -1,0 +1,12 @@
+T1	icd_code 0 15	Острый фарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 44 47	МКБ
+N2	Reference T2 ICD_codes:8759	N20.9
+T3	icd_code 49 58	Простатит
+N3	Reference T3 ICD_codes:8846	N41.0
+T4	icd_code 60 89	 Гипертоническая болезнь 1-2 
+N4	Reference T4 ICD_codes:6359	I11.9
+T5	icd_code 116 138	Метаболический синдром
+N5	Reference T5 ICD_codes:2406	E88
+T6	icd_code 140 159	Гиперхолестеринемия
+N6	Reference T6 ICD_codes:2352	E78.2

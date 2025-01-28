@@ -1,0 +1,8 @@
+T1	icd_code 0 18	Варикозная болезнь
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 20 64	Варикозное расширение вен нижних конечностей
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 165 206	Хроническая венозная недостаточность 3 ст
+N3	Reference T3 ICD_codes:6744	I87.2
+T4	icd_code 66 115	Несостоятельность перфорантных вен группы Коккета
+N4	Reference T4 ICD_codes:6715	I83

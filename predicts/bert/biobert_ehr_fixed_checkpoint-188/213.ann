@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ЗЧМТ
+T2	icd_code 6 32	Сотрясение головного мозга
+T3	icd_code 48 73	Ушиб мягких тканей головы
+T4	icd_code 75 77	АГ
+N1	Reference T1 ICD_codes:11245	S06.9.0
+N2	Reference T2 ICD_codes:11217	S06.0
+N3	Reference T3 ICD_codes:11335	S20.2
+N4	Reference T4 ICD_codes:6355	I10

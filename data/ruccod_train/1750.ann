@@ -1,0 +1,4 @@
+T1	icd_code 0 36	Атопический дерматит медикаментозный
+N1	Reference T1 ICD_codes:7617	L20.8
+T2	icd_code 70 88	Грибковая аллергия
+N2	Reference T2 ICD_codes:7674	L30

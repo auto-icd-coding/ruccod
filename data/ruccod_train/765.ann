@@ -1,0 +1,7 @@
+T1	icd_code 0 41	Варикозная болезнь вен нижних конечностей
+N1	Reference T1 ICD_codes:6719	I83.9
+T2	icd_code 119 147	Телеангиэктатическая болезнь
+N2	Reference T2 ICD_codes:6689	I78
+N4	Reference T2 ICD_codes:6693	I78.9
+T3	icd_code 149 152	ХВН
+N3	Reference T3 ICD_codes:6744	I87.2

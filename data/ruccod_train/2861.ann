@@ -1,0 +1,24 @@
+T1	icd_code 0 20	Арахноидальная киста
+N1	Reference T1 ICD_codes:5812	G93.0
+T2	icd_code 35 43	цефалгия
+N2	Reference T2 ICD_codes:5606	G44.2
+T3	icd_code 85 88	ЦВБ
+N3	Reference T3 ICD_codes:6627	I67.9
+T4	icd_code 89 99	ХИМ 1-2 ст
+N4	Reference T4 ICD_codes:6627	I67.9
+T5	icd_code 110 135	церебральном атеросклероз
+N5	Reference T5 ICD_codes:6620	I67.2
+T6	icd_code 138 157	Гиперхолестеринемия
+N6	Reference T6 ICD_codes:2349	E78
+T7	icd_code 160 191	гипоплазия  позвоночной артерии
+N7	Reference T7 ICD_codes:10208	Q27.8
+T8	icd_code 201 230	вестибулоатактический синдром
+N8	Reference T8 ICD_codes:6264	H81.8
+T9	icd_code 259 269	Дорсопатия
+N9	Reference T9 ICD_codes:8305	M53.8
+T10	icd_code 270 309	Остеохондроз шейного отдела позвоночнка
+N10	Reference T10 ICD_codes:8226	M42
+T11	icd_code 312 340	мышечно- тогнический синдром
+N11	Reference T11 ICD_codes:8441	M79.1
+T12	icd_code 342 359	цервикокраниалгия
+N12	Reference T12 ICD_codes:8310	M54.2

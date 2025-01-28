@@ -1,0 +1,16 @@
+T1	icd_code 0 31	Синдром раздраженного кишечника
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 33 36	ВЗК
+N2	Reference T2 ICD_codes:7404	K63.8
+T3	icd_code 38 58	Постинфекционный СРК
+N3	Reference T3 ICD_codes:7363	K58
+T4	icd_code 60 72	Сальмонеллез
+N4	Reference T4 ICD_codes:18	A02.9
+T5	icd_code 74 126	Синдром избыточного бактериального роста в кишечнике
+N5	Reference T5 ICD_codes:10804	R19.8
+T6	icd_code 128 149	Реактивный панкреатит
+N6	Reference T6 ICD_codes:7511	K85
+T7	icd_code 151 173	Желчнокаменная болезнь
+N7	Reference T7 ICD_codes:7480	K80
+T8	icd_code 176 190	сладж" синдром
+N8	Reference T8 ICD_codes:7500	K82.8

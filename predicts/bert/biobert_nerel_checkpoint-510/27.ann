@@ -1,0 +1,4 @@
+T1	icd_code 1 40	Острый  левосторонний  катаральный отит
+T2	icd_code 52 69	вирусной инфекции
+N1	Reference T1 ICD_codes:6179	H60.5
+N2	Reference T2 ICD_codes:613	B34.9

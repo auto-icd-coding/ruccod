@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Острый синусит
+N1	Reference T1 ICD_codes:6779	J01
+T2	icd_code 35 44	Евстахиит
+N2	Reference T2 ICD_codes:6216	H68.0

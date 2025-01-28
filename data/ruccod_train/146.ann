@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Псориаз
+N1	Reference T1 ICD_codes:7683	L40
+T2	icd_code 8 13	Микоз
+N2	Reference T2 ICD_codes:721	B49

@@ -1,0 +1,4 @@
+T1	icd_code 0 25	ОРВИ, острый ринофарингит
+T2	icd_code 46 57	протеинурия
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:11020	R80

@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Сигмоидит
+N1	Reference T1 ICD_codes:7318	K50-K52
+T2	icd_code 11 22	Долихосигма
+N2	Reference T2 ICD_codes:10322	Q43.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 15	О.трахеобронхит
+N1	Reference T1 ICD_codes:6860	J20.9
+T2	icd_code 17 36	Фоликулярная ангина
+N2	Reference T2 ICD_codes:6794	J03.9
+T3	icd_code 40 55	Лимфоаденопатия
+N3	Reference T3 ICD_codes:6747	I88

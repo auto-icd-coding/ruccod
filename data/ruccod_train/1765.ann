@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Бактериальный вагиноз
+N1	Reference T1 ICD_codes:8951	N76.1
+T2	icd_code 24 35	Гарднерелез
+N2	Reference T2 ICD_codes:9044	N89.8

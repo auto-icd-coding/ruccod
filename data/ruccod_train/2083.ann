@@ -1,0 +1,8 @@
+T1	icd_code 2 24	ГЭРБ неэрозивная форма
+N1	Reference T1 ICD_codes:7191	K21.9
+T2	icd_code 26 72	Хронический Нр ассоциированный рефлюкс-гастрит
+N2	Reference T2 ICD_codes:7247	K29.0
+T3	icd_code 89 118	Резекция желудка по Бильрот2 
+N3	Reference T3 ICD_codes:7533	K91.1
+T4	icd_code 129 143	Дискинезия ЖВП
+N4	Reference T4 ICD_codes:7509	K83.8

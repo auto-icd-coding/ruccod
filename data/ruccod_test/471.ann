@@ -1,0 +1,8 @@
+T1	icd_code 19 46	церебро-васкулярной болезни
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 48 61	нарушения сна
+N2	Reference T2 ICD_codes:5635	G47.9
+T3	icd_code 74 102	астено-невротический синдром
+N3	Reference T3 ICD_codes:4934	F48.0
+T4	icd_code 127 151	Диссомнические нарушения
+N4	Reference T4 ICD_codes:5634	G47.8

@@ -1,0 +1,10 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 118 142	Субклинически гипотиреоз
+N2	Reference T2 ICD_codes:2016	E02
+T3	icd_code 144 147	АИТ
+N3	Reference T3 ICD_codes:2048	E06.9
+T4	icd_code 156 177	киста гол мозга плода
+N4	Reference T4 ICD_codes:5812	G93.0
+T5	icd_code 90 117	Угрожаемая по невынашиванию
+N5	Reference T5 ICD_codes:9265	O26.2

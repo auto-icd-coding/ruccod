@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Артропатия мелких суставов кистей рук
+N1	Reference T1 ICD_codes:8093	M19.1
+T2	icd_code 40 48	Тендинит
+N2	Reference T2 ICD_codes:8354	M65.3
+T3	icd_code 61 78	тунельный синдром
+N3	Reference T3 ICD_codes:5682	G56.0

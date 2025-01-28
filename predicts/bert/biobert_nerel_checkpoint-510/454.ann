@@ -1,0 +1,36 @@
+T1	icd_code 11 43	посттравматического ОА левого КС
+T2	icd_code 56 69	тендиноза ПКС
+T3	icd_code 71 74	ЛКС
+T4	icd_code 79 129	разрыва экструдированного медиального мениска IIIb
+T5	icd_code 160 175	повреждения ССН
+T6	icd_code 179 243	гипертрофии медиопателлярной складки с латеральной гиперпрессией
+T7	icd_code 260 264	отёк
+T8	icd_code 275 292	отделов клетчатки
+T9	icd_code 300 318	отёк мягких тканей
+T10	icd_code 337 346	лимфостаз
+T11	icd_code 348 373	эндокринный/почечный отёк
+T12	icd_code 378 383	НФС 1
+T13	icd_code 406 434	комбинированное плоскостопие
+T14	icd_code 439 441	ВБ
+T15	icd_code 443 454	ВР притоков
+T16	icd_code 478 510	недостаточности перфорантных вен
+T17	icd_code 512 515	ХВН
+T18	icd_code 536 546	проявлений
+N1	Reference T1 ICD_codes:8079	M17.3
+N2	Reference T2 ICD_codes:8355	M65.4
+N3	Reference T3 ICD_codes:16931	Z51.8
+N4	Reference T4 ICD_codes:8128	M23.2
+N5	Reference T5 ICD_codes:6378	I20.8
+N6	Reference T6 ICD_codes:8368	M67.2
+N7	Reference T7 ICD_codes:10954	R60.9
+N8	Reference T8 ICD_codes:1213	C50.9
+N9	Reference T9 ICD_codes:8447	M79.8
+N10	Reference T10 ICD_codes:6747	I88
+N11	Reference T11 ICD_codes:8783	N28.8
+N12	Reference T12 ICD_codes:1798	D48.2
+N13	Reference T13 ICD_codes:8111	M21.4
+N14	Reference T14 ICD_codes:5611	G45.0
+N15	Reference T15 ICD_codes:5880	H04.4
+N16	Reference T16 ICD_codes:6745	I87.8
+N17	Reference T17 ICD_codes:6744	I87.2
+N18	Reference T18 ICD_codes:10972	R68

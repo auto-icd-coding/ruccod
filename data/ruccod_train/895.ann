@@ -1,0 +1,14 @@
+T1	icd_code 35 53	разрыв промежности
+N1	Reference T1 ICD_codes:9457	O70
+T2	icd_code 55 65	эндометрит
+N2	Reference T2 ICD_codes:8922	N71
+T3	icd_code 67 77	периметрит
+N3	Reference T3 ICD_codes:8922	N71
+T4	icd_code 80 91	пиелонефрит
+N4	Reference T4 ICD_codes:8707	N11.0
+T5	icd_code 95 129	Спаечный процесс в брюшной полости
+N5	Reference T5 ICD_codes:7412	K66.0
+T6	icd_code 131 155	Дискинезия толстой кишки
+N6	Reference T6 ICD_codes:7363	K58
+T7	icd_code 214 234	Кандидозный фарингит
+N7	Reference T7 ICD_codes:633	B37.0

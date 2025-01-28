@@ -1,0 +1,5 @@
+T1	icd_code 3 19	Папилома в/века.
+N1	Reference T1 ICD_codes:1638	D23.1
+N3	Reference T1 ICD_codes:1638	D23.1
+T2	icd_code 20 26	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1

@@ -1,0 +1,10 @@
+T1	icd_code 0 25	Дорсопатия шейного отдела
+N1	Reference T1 ICD_codes:8284	M50
+T2	icd_code 27 59	Вертеброгенная цервикокраниалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 61 97	болевой и мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 150 153	ВСД
+N4	Reference T4 ICD_codes:5795	G90
+T5	icd_code 99 147	Синдром вертебро-базилярной артериальной системы
+N5	Reference T5 ICD_codes:5611	G45.0

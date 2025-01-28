@@ -1,0 +1,4 @@
+T1	icd_code 0 44	Варикозное расширение вен нижних конечностей
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 47 86	Досропатия грудного отдела позвоночника
+N2	Reference T2 ICD_codes:8307	M54

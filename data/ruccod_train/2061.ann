@@ -1,0 +1,6 @@
+T1	icd_code 0 39	Пневмония в нижней доле левого лкегкого
+N1	Reference T1 ICD_codes:6845	J18.1
+T2	icd_code 66 86	эксудативный плеврит
+N2	Reference T2 ICD_codes:10774	R09.1
+T3	icd_code 97 166	пневмофиброз в средней доле рпавого легкого,апикалльных отделах обоих
+N3	Reference T3 ICD_codes:7006	J84.1

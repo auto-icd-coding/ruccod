@@ -1,0 +1,16 @@
+T1	icd_code 0 31	Хр.билиарнозависимый панкреатит
+N1	Reference T1 ICD_codes:7518	K86.9
+T2	icd_code 68 87	хронический гастрит
+N2	Reference T2 ICD_codes:7251	K29.4
+T3	icd_code 158 161	ЭРБ
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 176 185	эзофагит,
+N4	Reference T4 ICD_codes:7187	K20
+T5	icd_code 187 208	едостаточность кардии
+N5	Reference T5 ICD_codes:7305	K44
+T6	icd_code 210 214	ГПОД
+N6	Reference T6 ICD_codes:7305	K44
+T7	icd_code 216 231	жировой гепатоз
+N7	Reference T7 ICD_codes:7467	K76.0
+T8	icd_code 233 246	СРК с диареей
+N8	Reference T8 ICD_codes:7364	K58.0

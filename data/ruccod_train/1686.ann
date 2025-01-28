@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Дороспатия
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 53 75	Синкопальное состояние
+N2	Reference T2 ICD_codes:10937	R55
+T3	icd_code 41 51	Краниалгия
+N3	Reference T3 ICD_codes:5603	G44
+T4	icd_code 91 113	Ваго-вазальный обморок
+N4	Reference T4 ICD_codes:10937	R55

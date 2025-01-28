@@ -1,0 +1,14 @@
+T1	icd_code 0 4	ЗЧМТ
+N1	Reference T1 ICD_codes:11244	S06.9
+T2	icd_code 18 44	сотрясение головного мозга
+N2	Reference T2 ICD_codes:11217	S06.0
+T3	icd_code 46 66	ушиб головного мозга
+N3	Reference T3 ICD_codes:11134	S00
+T4	icd_code 68 91	Левосторонний гемипарез
+N4	Reference T4 ICD_codes:5776	G81
+T5	icd_code 93 103	Анизокория
+N5	Reference T5 ICD_codes:6158	H57.0
+T6	icd_code 122 160	синкопальные состояния неясного генеза
+N6	Reference T6 ICD_codes:10937	R55
+T7	icd_code 162 198	объемное образование головного мозга
+N7	Reference T7 ICD_codes:1760	D43

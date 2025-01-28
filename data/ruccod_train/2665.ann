@@ -1,0 +1,14 @@
+T1	icd_code 0 4	ЗЧМТ
+N1	Reference T1 ICD_codes:12861	T90.9
+T2	icd_code 21 47	Сотрясение головного мозга
+N2	Reference T2 ICD_codes:11217	S06.0
+T3	icd_code 49 70	Цефалгический синдром
+N3	Reference T3 ICD_codes:10929	R51
+T4	icd_code 85 94	орсопатия
+N4	Reference T4 ICD_codes:8305	M53.8
+T5	icd_code 96 136	Остеохондроз шейного отдела позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 138 204	Мышечно-тонический синдром паравертебральных мышц на шейном уровне
+N6	Reference T6 ICD_codes:8286	M50.0
+T7	icd_code 206 230	Цервикогенная краниалгия
+N7	Reference T7 ICD_codes:8310	M54.2

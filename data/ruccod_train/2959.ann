@@ -1,0 +1,8 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 50 67	цервикоторакалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 69 105	болевой и мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 107 153	Вертеброгенное влияние на ПА с вестибулопатией
+N4	Reference T4 ICD_codes:5839	G97.0

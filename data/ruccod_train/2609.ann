@@ -1,0 +1,4 @@
+T1	icd_code 0 33	Доброкачественные новообразования
+N1	Reference T1 ICD_codes:1538	D10-D36
+T2	icd_code 43 67	гемангиома области спины
+N2	Reference T2 ICD_codes:1607	D18.0

@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Фокальные включения щитовидной железы
+N1	Reference T1 ICD_codes:2029	E04.2
+T2	icd_code 39 62	Железодефицитная анемия
+N2	Reference T2 ICD_codes:1808	D50.0

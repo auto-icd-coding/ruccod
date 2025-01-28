@@ -1,0 +1,6 @@
+T1	icd_code 0 3	ВПЧ
+N1	Reference T1 ICD_codes:928	B97.7
+T2	icd_code 16 42	Уреаплазмоз урогенитальный
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 43 75	Хронический сальпингит и оофорит
+N3	Reference T3 ICD_codes:8917	N70

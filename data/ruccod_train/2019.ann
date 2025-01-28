@@ -1,0 +1,4 @@
+T1	icd_code 0 19	дисфункция яичников
+N1	Reference T1 ICD_codes:2177	E28.9
+T2	icd_code 44 51	кольпит
+N2	Reference T2 ICD_codes:8949	N76

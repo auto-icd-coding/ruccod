@@ -1,0 +1,8 @@
+T1	icd_code 0 13	АМК Менорагия
+N1	Reference T1 ICD_codes:9064	N92
+T2	icd_code 15 42	Мультифолликулярные яичники
+N2	Reference T2 ICD_codes:9095	N97.0
+T3	icd_code 50 70	Носитель 52 типа ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 71 107	Спайки малого таза послеоперационные
+N4	Reference T4 ICD_codes:9115	N99.4

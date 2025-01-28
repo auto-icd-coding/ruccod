@@ -1,0 +1,8 @@
+T1	icd_code 0 42	Распространённый остеохондроз позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 44 85	грудопоясничный мышечно-тоничский синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 99 153	вертеброгенная компрессионно-ишемическая радикулопатия
+N3	Reference T3 ICD_codes:8309	M54.1
+T4	icd_code 172 198	парезом разгибателей стопы
+N4	Reference T4 ICD_codes:5787	G83

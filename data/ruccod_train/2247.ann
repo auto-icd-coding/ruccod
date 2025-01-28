@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Бак.вагиноз
+N1	Reference T1 ICD_codes:9045	N89.9
+T2	icd_code 12 19	Кольпит
+N2	Reference T2 ICD_codes:8957	N76.8

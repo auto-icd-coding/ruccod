@@ -1,0 +1,2 @@
+T1	icd_code 0 18	Психически здорова
+N1	Reference T1 ICD_codes:16599	Z00.0

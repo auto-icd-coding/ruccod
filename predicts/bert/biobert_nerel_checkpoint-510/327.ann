@@ -1,0 +1,14 @@
+T1	icd_code 0 26	Язвенная болезнь желудка и
+T2	icd_code 95 106	Эрозии 12пк
+T3	icd_code 111 130	Деформация луковицы
+T4	icd_code 137 171	Хронический безкаменный холецистит
+T5	icd_code 185 206	Реактивный панкреатит
+T6	icd_code 209 261	Синдром избыточного бактериального роста в кишечнике
+T7	icd_code 263 272	Иерсиниоз
+N1	Reference T1 ICD_codes:7215	K25.9
+N2	Reference T2 ICD_codes:5557	G31.8
+N3	Reference T3 ICD_codes:5946	H18.3
+N4	Reference T4 ICD_codes:7491	K81.1
+N5	Reference T5 ICD_codes:7511	K85
+N6	Reference T6 ICD_codes:7404	K63.8
+N7	Reference T7 ICD_codes:167	A28.2

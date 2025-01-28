@@ -1,0 +1,4 @@
+T1	icd_code 0 13	хр.панкреатит
+N1	Reference T1 ICD_codes:7514	K86.1
+T2	icd_code 35 47	я/б 12п.к-ки
+N2	Reference T2 ICD_codes:7267	K31.9

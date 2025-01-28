@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Деформирующий гонартроз
+N1	Reference T1 ICD_codes:8075	M17
+T2	icd_code 26 56	ендосиновит коленных суставов.
+N2	Reference T2 ICD_codes:8349	M65
+T3	icd_code 57 66	Менисциит
+N3	Reference T3 ICD_codes:8125	M23

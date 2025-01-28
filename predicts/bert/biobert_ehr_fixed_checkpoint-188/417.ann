@@ -1,0 +1,30 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 12 13	S
+T3	icd_code 14 43	образный сколиоз позвоночника
+T4	icd_code 45 96	Кифотическая деформация шейного отдела позвоночника
+T5	icd_code 98 140	Гиполордоз поясничного отдела позвоночника
+T6	icd_code 142 187	Верхний (шейно-плечевой) перекрестный синдром
+T7	icd_code 189 207	Латерофлексия таза
+T8	icd_code 215 240	Остеохондроз позвоночника
+T9	icd_code 259 286	Спондилоартроз позвоночника
+T10	icd_code 288 310	Функциональный блок на
+T11	icd_code 318 321	Th4
+T12	icd_code 328 354	Мышечно-тонический синдром
+T13	icd_code 356 382	Вертеброгенная цервикалгия
+T14	icd_code 410 437	Синдром позвоночной артерии
+T15	icd_code 450 481	вестибулоататактический синдром
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:8189	M34.9
+N3	Reference T3 ICD_codes:8225	M41.9
+N4	Reference T4 ICD_codes:8289	M50.3
+N5	Reference T5 ICD_codes:8228	M42.1
+N6	Reference T6 ICD_codes:5665	G54.0
+N7	Reference T7 ICD_codes:8582	M95.5
+N8	Reference T8 ICD_codes:8228	M42.1
+N9	Reference T9 ICD_codes:8266	M47.9
+N10	Reference T10 ICD_codes:6518	I45.0
+N11	Reference T11 ICD_codes:7827	L68.9
+N12	Reference T12 ICD_codes:8441	M79.1
+N13	Reference T13 ICD_codes:8310	M54.2
+N14	Reference T14 ICD_codes:8262	M47.0
+N15	Reference T15 ICD_codes:6265	H81.9

@@ -1,0 +1,18 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 14 21	Кольпит
+N2	Reference T2 ICD_codes:8960	N77.1
+T3	icd_code 22 34	Гиперкератоз
+N3	Reference T3 ICD_codes:332	A66.3
+T4	icd_code 35 59	Климактерический синдром
+N4	Reference T4 ICD_codes:9088	N95.1
+T5	icd_code 60 81	Перианальный дерматит
+N5	Reference T5 ICD_codes:7681	L30.8
+T6	icd_code 83 92	Аденомиоз
+N6	Reference T6 ICD_codes:9012	N85.1
+T7	icd_code 95 135	Эндометриоз ректовагинальной перегородки
+N7	Reference T7 ICD_codes:8968	N80.4
+T8	icd_code 139 158	Гиперхолестеринемия
+N8	Reference T8 ICD_codes:2349	E78
+T9	icd_code 173 177	ХАИТ
+N9	Reference T9 ICD_codes:2045	E06.3

@@ -1,0 +1,8 @@
+T1	icd_code 1 32	Дискинезия желчевыводящих путей
+N1	Reference T1 ICD_codes:7509	K83.8
+T2	icd_code 72 89	ГЭРБ с эзофагитом
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 90 116	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 142 158	Ксантомы желудка
+N4	Reference T4 ICD_codes:7266	K31.8

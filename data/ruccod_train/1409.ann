@@ -1,0 +1,4 @@
+T1	icd_code 0 14	Острый вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 16 39	цервицит микоплазменной
+N2	Reference T2 ICD_codes:8926	N72

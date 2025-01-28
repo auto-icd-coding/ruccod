@@ -1,0 +1,6 @@
+T1	icd_code 25 46	Остеохондроз грудного
+T2	icd_code 54 66	позвоночника
+T3	icd_code 79 94	нарушение ритма
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:1592	D16.6
+N3	Reference T3 ICD_codes:6545	I49.9

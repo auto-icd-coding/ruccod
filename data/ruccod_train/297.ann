@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6355	I10
+T2	icd_code 52 55	ХСН
+N2	Reference T2 ICD_codes:150	A24.4
+T3	icd_code 68 102	Дисгормональная миокардиодистрофия
+N3	Reference T3 ICD_codes:6505	I43.1
+T4	icd_code 105 108	ИБС
+N4	Reference T4 ICD_codes:6406	I25
+T5	icd_code 111 122	Узловой зоб
+N5	Reference T5 ICD_codes:2028	E04.1

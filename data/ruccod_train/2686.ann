@@ -1,0 +1,10 @@
+T1	icd_code 0 3	ВСД
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 5 58	соматоформная дисфункция вегетативной нервной системы
+N2	Reference T2 ICD_codes:4924	F45.30
+T3	icd_code 61 65	НРС:
+N3	Reference T3 ICD_codes:6545	I49.9
+T4	icd_code 84 92	 аритмия
+N4	Reference T4 ICD_codes:6542	I49.4
+T5	icd_code 96 123	Пролапс митрального клапана
+N5	Reference T5 ICD_codes:6452	I34.1

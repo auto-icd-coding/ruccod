@@ -1,0 +1,13 @@
+T1	icd_code 1 21	Папилломатоз  вульвы
+N1	Reference T1 ICD_codes:9046	N90
+T2	icd_code 23 36	Эндоцервикоз.
+N2	Reference T2 ICD_codes:8962	N80
+T3	icd_code 40 52	Гиперкератоз
+N3	Reference T3 ICD_codes:9027	N88
+T4	icd_code 53 85	Хронический сальпингит и оофорит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 94 123	Спаечный процесс в малом тазу
+N5	Reference T5 ICD_codes:9115	N99.4
+N7	Reference T5 ICD_codes:9115	N99.4
+T6	icd_code 124 141	Эндометриоз матки
+N6	Reference T6 ICD_codes:8964	N80.0

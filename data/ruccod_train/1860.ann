@@ -1,0 +1,6 @@
+T1	icd_code 1 16	Лейкоплакия ш\м
+N1	Reference T1 ICD_codes:9051	N90.4
+T2	icd_code 58 73	Папиллома шейки
+N2	Reference T2 ICD_codes:1653	D26.0
+T3	icd_code 77 80	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7

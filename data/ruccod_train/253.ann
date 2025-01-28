@@ -1,0 +1,14 @@
+T1	icd_code 0 3	ЦВБ
+N1	Reference T1 ICD_codes:6627	I67.9
+T2	icd_code 5 35	Дисциркуляторная энцефалопатия
+N2	Reference T2 ICD_codes:5816	G93.4
+T3	icd_code 44 54	Дорсопатия
+N3	Reference T3 ICD_codes:8306	M53.9
+T4	icd_code 56 67	Остеохондро
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 100 107	Цервико
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 108 118	брахиалгия
+N6	Reference T6 ICD_codes:8418	M75.9
+T7	icd_code 126 136	Люмбалгия.
+N7	Reference T7 ICD_codes:8313	M54.5

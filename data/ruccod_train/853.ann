@@ -1,0 +1,4 @@
+T1	icd_code 0 31	хронический цистит неуточненный
+N1	Reference T1 ICD_codes:8793	N30.2
+T2	icd_code 33 47	Микрогематурия
+N2	Reference T2 ICD_codes:10855	R31

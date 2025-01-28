@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Вертеброгенная цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 75 99	унковертебральный артроз
+N4	Reference T2 ICD_codes:8265	M47.8
+T3	icd_code 117 143	мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 35 73	дегенеративно-дистрофических изменений
+N2	Reference T4 ICD_codes:8228	M42.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 37	Функция ональная неязвенная диспепсия
+T2	icd_code 47 51	ДЖВП
+T3	icd_code 63 96	Хронический Нр-асс гастродуоденит
+N1	Reference T1 ICD_codes:7257	K30
+N2	Reference T2 ICD_codes:7500	K82.8
+N3	Reference T3 ICD_codes:7256	K29.9

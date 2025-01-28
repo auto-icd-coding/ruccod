@@ -1,0 +1,10 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8239	M43.9
+T2	icd_code 28 66	Нестабильность в сегментах С3-С4-С5-С6
+N2	Reference T2 ICD_codes:8303	M53.2
+T3	icd_code 68 100	Вертеброгенная цервикокраниалгия
+N3	Reference T3 ICD_codes:8287	M50.1
+T4	icd_code 148 214	Синдром вертебро-базилярной артериальной системы с вестибулопатией
+N4	Reference T4 ICD_codes:5611	G45.0
+T3	icd_code 130 146	 болевой синдром
+N3	Reference T3 ICD_codes:8287	M50.1

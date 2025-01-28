@@ -1,0 +1,10 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8960	N77.1
+T2	icd_code 28 40	Эндоцервицит
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 46 62	сальпингоофорит 
+N3	Reference T3 ICD_codes:8920	N70.1
+T4	icd_code 81 96	Хр.эндоцервикоз
+N4	Reference T4 ICD_codes:9027	N88
+T5	icd_code 99 125	Кондиломы кожи промежности
+N5	Reference T5 ICD_codes:920	B97

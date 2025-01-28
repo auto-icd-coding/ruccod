@@ -1,0 +1,4 @@
+T1	icd_code 28 62	Гиперхолестеринемия.Гиперлипидемия
+N1	Reference T1 ICD_codes:2349	E78
+T2	icd_code 65 84	Остеохондроз поз-ка
+N2	Reference T2 ICD_codes:8228	M42.1

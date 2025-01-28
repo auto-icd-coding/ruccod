@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Диффузно-токсичный зоб
+N1	Reference T1 ICD_codes:2033	E05.0
+T2	icd_code 23 51	тиреотоксикоз легкой степени
+N2	Reference T2 ICD_codes:2040	E05.9

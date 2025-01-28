@@ -1,0 +1,4 @@
+T1	icd_code 2 19	Кератоконьюктивит
+N1	Reference T1 ICD_codes:5932	H16.2
+T2	icd_code 20 36	эррозия роговицы
+N2	Reference T2 ICD_codes:5942	H18

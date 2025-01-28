@@ -1,0 +1,4 @@
+T1	icd_code 3 24	Халязион нижнего века
+N1	Reference T1 ICD_codes:5854	H00.1
+T2	icd_code 44 50	Милпия
+N2	Reference T2 ICD_codes:6128	H52.1

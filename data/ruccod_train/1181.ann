@@ -1,0 +1,14 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 51 94	Эндоскопическая полипэктомия полипа желудка
+N2	Reference T2 ICD_codes:1565	D13.1
+T3	icd_code 105 157	Гастроэзофагеальная рефлюксная болезнь без эзофагита
+N3	Reference T3 ICD_codes:7191	K21.9
+T4	icd_code 158 183	Дисформия желчного пузыря
+N4	Reference T4 ICD_codes:7500	K82.8
+T5	icd_code 185 216	Синдром раздраженного кишечника
+N5	Reference T5 ICD_codes:7365	K58.9
+T6	icd_code 217 250	Формирующийся полип толстой кишки
+N6	Reference T6 ICD_codes:7404	K63.8
+T7	icd_code 313 365	Синдром избыточного бактериального роста в кишечнике
+N7	Reference T7 ICD_codes:10804	R19.8

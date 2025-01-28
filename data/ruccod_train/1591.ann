@@ -1,0 +1,4 @@
+T1	icd_code 0 17	Дисбиоз влагалища
+N1	Reference T1 ICD_codes:9044	N89.8
+T2	icd_code 19 38	Хронический уретрит
+N2	Reference T2 ICD_codes:8818	N34.2

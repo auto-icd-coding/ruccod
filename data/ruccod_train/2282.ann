@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 60	Остеохондроз шейно-грудного отделов позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 66 98	Вертеброгенная цервикокраниалгия
+N3	Reference T3 ICD_codes:10929	R51
+T4	icd_code 100 154	Мышечно-тонический синдром на шейном и грудном уровнях
+N4	Reference T4 ICD_codes:8287	M50.1
+T5	icd_code 156 177	Статические нарушения
+N5	Reference T5 ICD_codes:8303	M53.2

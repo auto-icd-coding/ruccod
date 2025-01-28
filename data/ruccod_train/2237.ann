@@ -1,0 +1,12 @@
+T1	icd_code 0 12	Люмбоишалгия
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 21 40	радикулопатия L5-S1
+N2	Reference T2 ICD_codes:8294	M51.1
+T3	icd_code 134 157	стойкий болевой синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 160 171	грыжа L5-S1
+N4	Reference T4 ICD_codes:8297	M51.4
+T2	icd_code 50 78	мышечно-тоническим синдромом
+N2	Reference T2 ICD_codes:8294	M51.1
+T2	icd_code 87 132	остеохондроза поясничного отдела позвоночника
+N2	Reference T2 ICD_codes:8294	M51.1

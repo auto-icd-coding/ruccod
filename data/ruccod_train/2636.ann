@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Вегетососудистая дистония
+N1	Reference T1 ICD_codes:4923	F45.3
+T2	icd_code 28 38	Дорсопатия
+N2	Reference T2 ICD_codes:8306	M53.9
+T3	icd_code 40 65	Вертеброгенная торакалгия
+N3	Reference T3 ICD_codes:8314	M54.6

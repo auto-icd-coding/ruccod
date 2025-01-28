@@ -1,0 +1,5 @@
+T1	icd_code 0 12	дисбактериоз
+N1	Reference T1 ICD_codes:7404	K63.8
+T2	icd_code 41 65	дерматит неясного генеза
+N2	Reference T2 ICD_codes:7674	L30
+N3	Reference T2 ICD_codes:7682	L30.9

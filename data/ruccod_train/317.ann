@@ -1,0 +1,8 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 19	Эрозия шм
+N2	Reference T2 ICD_codes:9022	N87
+T3	icd_code 21 43	Рубцовая деформация ШМ
+N3	Reference T3 ICD_codes:9033	N88.8
+T4	icd_code 45 62	Кондилломатоз НПО
+N4	Reference T4 ICD_codes:323	A63.0

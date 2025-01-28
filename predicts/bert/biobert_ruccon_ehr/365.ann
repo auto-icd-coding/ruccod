@@ -1,0 +1,8 @@
+T1	icd_code 0 3	НЦД
+T2	icd_code 7 22	смешанному типу
+T3	icd_code 25 66	Остеохондроз грудного отдела позвоночника
+T4	icd_code 79 94	нарушение ритма
+N1	Reference T1 ICD_codes:5801	G90.8
+N2	Reference T2 ICD_codes:1379	C81.2
+N3	Reference T3 ICD_codes:8228	M42.1
+N4	Reference T4 ICD_codes:6545	I49.9

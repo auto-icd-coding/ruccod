@@ -1,0 +1,6 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 23 46	Хронический пиелонефрит
+N2	Reference T2 ICD_codes:8707	N11.0
+T3	icd_code 64 76	Остеохондроз
+N3	Reference T3 ICD_codes:8228	M42.1

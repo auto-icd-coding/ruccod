@@ -1,0 +1,4 @@
+T1	icd_code 0 16	Острый простатит
+N1	Reference T1 ICD_codes:8846	N41.0
+T2	icd_code 18 38	Хронический геморрой
+N2	Reference T2 ICD_codes:6720	I84

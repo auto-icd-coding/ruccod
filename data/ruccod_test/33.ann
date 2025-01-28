@@ -1,0 +1,4 @@
+T1	icd_code 3 14	Иридоциклит
+N1	Reference T1 ICD_codes:5960	H20.0
+T2	icd_code 53 59	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1

@@ -1,0 +1,4 @@
+T1	icd_code 0 1	о
+T2	icd_code 3 34	затяжнои) гастоэнтероколит легк
+N1	Reference T1 ICD_codes:14637	W87.9
+N2	Reference T2 ICD_codes:6429	I28.9

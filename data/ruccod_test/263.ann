@@ -1,0 +1,8 @@
+T2	icd_code 40 57	цервикокраниалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 59 99	шейно-грудной мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 114 161	Недостаточность в вертебро-базиллярном бассейне
+N4	Reference T4 ICD_codes:5611	G45.0
+T1	icd_code 0 38	Дорсопатия шейного отдела позвоночника
+N1	Reference T1 ICD_codes:8290	M50.8

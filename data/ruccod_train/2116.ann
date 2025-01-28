@@ -1,0 +1,8 @@
+T1	icd_code 0 37	Экзогенно-конституциональное ожирение
+N1	Reference T1 ICD_codes:2282	E66.0
+T2	icd_code 97 99	АГ
+N2	Reference T2 ICD_codes:6355	I10
+T3	icd_code 100 112	Дислипидемия
+N3	Reference T3 ICD_codes:2358	E78.9
+T4	icd_code 113 131	Нарушение гликемии
+N4	Reference T4 ICD_codes:10986	R73.0

@@ -1,0 +1,6 @@
+T1	icd_code 2 9	трахеит
+T2	icd_code 11 27	затяжное течение
+T3	icd_code 29 43	Дискинезия ЖВП
+N1	Reference T1 ICD_codes:6797	J04.1
+N2	Reference T2 ICD_codes:348	A68.9
+N3	Reference T3 ICD_codes:7500	K82.8

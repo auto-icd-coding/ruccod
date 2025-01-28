@@ -1,0 +1,17 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 55 78	Полипоз желчного пузыря
+N2	Reference T2 ICD_codes:7494	K82
+T3	icd_code 80 84	ДЖВП
+N3	Reference T3 ICD_codes:7281	K38.9
+T4	icd_code 108 132	Гемангиома(8*7мм) печени
+T5	icd_code 134 156	Хронический панкреатит
+N5	Reference T5 ICD_codes:7512	K86
+T6	icd_code 170 188	Реактивный гепатит
+N6	Reference T6 ICD_codes:7462	K75.2
+T7	icd_code 190 203	СРК с диареей
+N7	Reference T7 ICD_codes:7363	K58
+T8	icd_code 196 203	диареей
+N8	Reference T8 ICD_codes:7337	K52.9
+T9	icd_code 228 250	Дисбактериоз кишечника
+N9	Reference T9 ICD_codes:7405	K63.9

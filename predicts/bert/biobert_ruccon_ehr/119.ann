@@ -1,0 +1,12 @@
+T1	icd_code 0 39	Дорсопатия шейного  отдела позвоночника
+T2	icd_code 43 69	Вертеброгенная цервикалгия
+T3	icd_code 98 111	остеохондроза
+T4	icd_code 136 143	болевым
+T5	icd_code 146 174	мышечно-тоническим синдромом
+T6	icd_code 177 198	Статические нарушения
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:8310	M54.2
+N3	Reference T3 ICD_codes:8228	M42.1
+N4	Reference T4 ICD_codes:10934	R52.9
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:10840	R27

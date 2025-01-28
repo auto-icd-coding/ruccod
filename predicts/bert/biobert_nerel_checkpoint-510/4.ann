@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 47 85	дегенеративно-дистрофических изменений
+T3	icd_code 87 120	нестабильность сегментов С3-С4-С5
+T4	icd_code 133 151	мышечно-тонический
+T5	icd_code 153 168	болевой синдром
+T6	icd_code 178 192	вестибулопатии
+N1	Reference T1 ICD_codes:8306	M53.9
+N2	Reference T2 ICD_codes:7909	L90.9
+N3	Reference T3 ICD_codes:8303	M53.2
+N4	Reference T4 ICD_codes:8441	M79.1
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:6265	H81.9

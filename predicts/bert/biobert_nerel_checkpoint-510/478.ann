@@ -1,0 +1,12 @@
+T1	icd_code 0 31	Повреждение внутреннего мениска
+T2	icd_code 33 46	хондромаляция
+T3	icd_code 48 80	синовит левого коленного сустава
+T4	icd_code 82 98	Гонартроз справа
+T5	icd_code 115 141	Артроз 1 ПлФС правой стопы
+T6	icd_code 163 183	заболевание суставов
+N1	Reference T1 ICD_codes:8129	M23.3
+N2	Reference T2 ICD_codes:8571	M94.2
+N3	Reference T3 ICD_codes:8357	M65.9
+N4	Reference T4 ICD_codes:8082	M17.9
+N5	Reference T5 ICD_codes:8095	M19.8
+N6	Reference T6 ICD_codes:8155	M25.8

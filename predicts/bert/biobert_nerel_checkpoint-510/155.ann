@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Интерстициальный цистит
+T2	icd_code 25 35	обострение
+N1	Reference T1 ICD_codes:8792	N30.1
+N2	Reference T2 ICD_codes:12781	T81.9

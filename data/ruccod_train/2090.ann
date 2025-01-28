@@ -1,0 +1,14 @@
+T1	icd_code 1 29	Нейропатия тройничного нерва
+N1	Reference T1 ICD_codes:5640	G50.8
+T2	icd_code 48 59	Прозопалгия
+N2	Reference T2 ICD_codes:5639	G50.1
+T3	icd_code 66 84	Мышечно-тонический
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 86 109	цервикоторакоалгический
+N4	Reference T4 ICD_codes:8310	M54.2
+T5	icd_code 126 136	дорсопатии
+N5	Reference T5 ICD_codes:8305	M53.8
+T6	icd_code 156 182	остеохондроза позвоночника
+N6	Reference T6 ICD_codes:8228	M42.1
+T7	icd_code 243 258	болевой синдром
+N7	Reference T7 ICD_codes:8441	M79.1

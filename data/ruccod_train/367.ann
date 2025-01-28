@@ -1,0 +1,6 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 49 53	ДЖВП
+N2	Reference T2 ICD_codes:7281	K38.9
+T3	icd_code 75 95	Астенический синдром
+N3	Reference T3 ICD_codes:4933	F48

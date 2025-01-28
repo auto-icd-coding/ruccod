@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Ожирение
+N1	Reference T1 ICD_codes:2286	E66.9
+T2	icd_code 13 36	инсулинорезистенетность
+N2	Reference T2 ICD_codes:2054	E10
+T3	icd_code 38 51	диффузный зоб
+N3	Reference T3 ICD_codes:2027	E04.0
+T4	icd_code 53 63	гипотиреоз
+N4	Reference T4 ICD_codes:2025	E03.9
+T5	icd_code 64 97	Нарушение толерантности к глюкозе
+N5	Reference T5 ICD_codes:10986	R73.0

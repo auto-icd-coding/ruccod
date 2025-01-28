@@ -1,0 +1,10 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 67 86	Гиперхолестеринемия
+N2	Reference T2 ICD_codes:2350	E78.0
+T3	icd_code 90 100	Дорсопатия
+N3	Reference T3 ICD_codes:8306	M53.9
+T4	icd_code 130 142	Хр. геморрой
+N4	Reference T4 ICD_codes:6720	I84
+T5	icd_code 157 181	Железодефицитная анемия 
+N5	Reference T5 ICD_codes:1805	D50

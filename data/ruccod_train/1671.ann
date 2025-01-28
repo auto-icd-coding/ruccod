@@ -1,0 +1,14 @@
+T1	icd_code 15 27	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 43 67	Внематочная беременность
+N2	Reference T2 ICD_codes:9126	O00.9
+T3	icd_code 5 13	Аменорея
+N3	Reference T3 ICD_codes:9057	N91
+T4	icd_code 70 85	Хрон эндометрит
+N4	Reference T4 ICD_codes:8926	N72
+T5	icd_code 86 105	Эктопия шейки матки
+N5	Reference T5 ICD_codes:9021	N86
+T6	icd_code 106 118	носитель ВПЧ
+N6	Reference T6 ICD_codes:928	B97.7
+T7	icd_code 119 142	Уреаплазменная инфекция
+N7	Reference T7 ICD_codes:324	A63.8

@@ -1,0 +1,10 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 18	Кольпит.
+N2	Reference T2 ICD_codes:8960	N77.1
+T3	icd_code 20 58	Уреаплазменная урогенитальная инфекция
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 61 91	Рубцовая деформация шейки матк
+N4	Reference T4 ICD_codes:9033	N88.8
+T5	icd_code 99 112	миома матки (
+N5	Reference T5 ICD_codes:1651	D25.9

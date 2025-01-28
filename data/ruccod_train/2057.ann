@@ -1,0 +1,6 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 41 68	Дуодено-гастральный рефлюкс
+N2	Reference T2 ICD_codes:7191	K21.9
+T3	icd_code 69 85	 Билиарный сладж
+N3	Reference T3 ICD_codes:7500	K82.8

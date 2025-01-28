@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Аллергический ринит
+N1	Reference T1 ICD_codes:6868	J30.0
+T2	icd_code 59 102	ПИтщевая, пыльцевая. эпидермальная аллергия
+N2	Reference T2 ICD_codes:12745	T78.4

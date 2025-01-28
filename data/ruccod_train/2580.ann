@@ -1,0 +1,6 @@
+T1	icd_code 0 16	ОРЗ,назофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 32 41	Аденоидит
+N2	Reference T2 ICD_codes:6900	J35.3
+T3	icd_code 52 72	Атопический дерматит
+N3	Reference T3 ICD_codes:7614	L20

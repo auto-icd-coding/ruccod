@@ -1,0 +1,16 @@
+T1	icd_code 0 11	Дорсопатия.
+N1	Reference T1 ICD_codes:8210	M40-M54
+T2	icd_code 12 69	Остеохондроз  пояснично-крестцового  отдела  позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 71 81	Полидискоз
+N3	Reference T3 ICD_codes:8292	M51
+T4	icd_code 83 118	Многочисленные протрузии м/п дисков
+N4	Reference T4 ICD_codes:8294	M51.1
+T5	icd_code 133 157	Вертеброгенная люмбалгия
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 179 205	Мышечно-тонический синдром
+N6	Reference T6 ICD_codes:8441	M79.1
+T7	icd_code 207 228	Статические нарушения
+N7	Reference T7 ICD_codes:10840	R27
+T4	icd_code 120 125	грыжа
+N4	Reference T4 ICD_codes:8294	M51.1

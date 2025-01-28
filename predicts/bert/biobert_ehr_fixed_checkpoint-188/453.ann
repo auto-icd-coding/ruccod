@@ -1,0 +1,6 @@
+T1	icd_code 0 26	ОРВИ по типу ринофарингита
+T2	icd_code 28 36	трахеита
+T3	icd_code 38 50	Беременность
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:6797	J04.1
+N3	Reference T3 ICD_codes:16794	Z32.9

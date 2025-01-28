@@ -1,0 +1,6 @@
+T1	icd_code 0 25	Нетоксический узловой зоб
+N1	Reference T1 ICD_codes:2028	E04.1
+T2	icd_code 26 34	Эутиреоз
+N2	Reference T2 ICD_codes:2017	E03
+T3	icd_code 35 57	Сахарный диабет 2 типа
+N3	Reference T3 ICD_codes:2076	E11.9

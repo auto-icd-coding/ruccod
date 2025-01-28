@@ -1,0 +1,8 @@
+T1	icd_code 27 41	Миопия высокой
+T2	icd_code 51 62	Миома матки
+T3	icd_code 64 87	Хронический пиелонефрит
+T4	icd_code 89 100	Бактериурия
+N1	Reference T1 ICD_codes:6128	H52.1
+N2	Reference T2 ICD_codes:1647	D25
+N3	Reference T3 ICD_codes:8707	N11.0
+N4	Reference T4 ICD_codes:8836	N39.0

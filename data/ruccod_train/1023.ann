@@ -1,0 +1,4 @@
+T1	icd_code 0 13	катарр.ангина
+N1	Reference T1 ICD_codes:6793	J03.8
+T2	icd_code 23 29	миозит
+N2	Reference T2 ICD_codes:8317	M60

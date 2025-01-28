@@ -1,0 +1,26 @@
+T1	icd_code 73 92	Аллергический ринит
+N3	Reference T1 ICD_codes:6872	J30.4
+T2	icd_code 128 152	Хр. катаральный ларингит
+N2	Reference T2 ICD_codes:6905	J37.0
+T3	icd_code 154 166	ларингомикоз
+N6	Reference T3 ICD_codes:641	B37.8
+T4	icd_code 170 192	Гипотогнусная дисфония
+N4	Reference T4 ICD_codes:10920	R49.0
+T5	icd_code 196 221	Крапивница рецидивирующая
+N5	Reference T5 ICD_codes:7721	L50.0
+T6	icd_code 224 248	Рецидивирующие отеки губ
+N8	Reference T6 ICD_codes:12744	T78.3
+T7	icd_code 250 256	хейлит
+N7	Reference T7 ICD_codes:7169	K13.0
+T8	icd_code 272 304	Бытовая, грибковая сенсибилизция
+N11	Reference T8 ICD_codes:12746	T78.8
+T9	icd_code 307 311	ХАИТ
+N9	Reference T9 ICD_codes:2045	E06.3
+T10	icd_code 313 324	Узловой зоб
+N10	Reference T10 ICD_codes:2028	E04.1
+T11	icd_code 333 351	Хр. гастродуоденит
+N13	Reference T11 ICD_codes:7246	K29
+T12	icd_code 0 18	Бронхиальная астма
+N1	Reference T12 ICD_codes:6944	J45.8
+T13	icd_code 327 331	ГЭРБ
+N12	Reference T13 ICD_codes:7189	K21

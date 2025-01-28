@@ -1,0 +1,4 @@
+T1	icd_code 22 36	О.конъюнктивит
+N1	Reference T1 ICD_codes:5899	H10
+T2	icd_code 0 21	О.ринофаринготрахеит.
+N2	Reference T2 ICD_codes:6798	J04.2

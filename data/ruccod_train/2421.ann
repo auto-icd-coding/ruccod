@@ -1,0 +1,12 @@
+T1	icd_code 0 44	Недостаточность, пролапс митрального клапана
+N1	Reference T1 ICD_codes:6452	I34.1
+T2	icd_code 46 76	Вторичная легочная гипертензия
+N2	Reference T2 ICD_codes:6424	I27.9
+T3	icd_code 78 104	Вегето-сосудистая дистония
+N3	Reference T3 ICD_codes:4923	F45.3
+T4	icd_code 126 139	Тиреотоксикоз
+N4	Reference T4 ICD_codes:2040	E05.9
+T5	icd_code 162 176	гиперлипидемию
+N5	Reference T5 ICD_codes:2355	E78.5
+T6	icd_code 178 207	Дисэлектролитные расстройства
+N6	Reference T6 ICD_codes:2396	E87

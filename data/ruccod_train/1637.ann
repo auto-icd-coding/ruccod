@@ -1,0 +1,8 @@
+T1	icd_code 0 24	Инсомния неясного генеза
+N1	Reference T1 ICD_codes:4948	F51
+T2	icd_code 157 175	цервикокраниалгией
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 27 48	Цефалгический синдром
+N3	Reference T3 ICD_codes:5603	G44
+T4	icd_code 202 211	цефалгией
+N4	Reference T4 ICD_codes:5603	G44

@@ -1,0 +1,3 @@
+T1	icd_code 0 10	Дорсопатия
+T2	icd_code 43 71	мышечно-тоническим синдромом
+N2	Reference T2 ICD_codes:8333	M62

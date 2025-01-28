@@ -1,0 +1,4 @@
+T1	icd_code 0 26	варикозная болезнь вен н/к
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 28 35	ХВН н/к
+N2	Reference T2 ICD_codes:6744	I87.2

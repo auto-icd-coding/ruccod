@@ -1,0 +1,8 @@
+T1	icd_code 0 15	острый фарингит
+N1	Reference T1 ICD_codes:6787	J02
+T2	icd_code 17 24	трахеит
+N2	Reference T2 ICD_codes:6797	J04.1
+T3	icd_code 26 33	бронхит
+N3	Reference T3 ICD_codes:6849	J20
+T4	icd_code 35 48	серная пробка
+N4	Reference T4 ICD_codes:6185	H61.2

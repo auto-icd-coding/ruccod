@@ -1,0 +1,4 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 13 27	ВПЧ - инфекция
+N2	Reference T2 ICD_codes:928	B97.7

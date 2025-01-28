@@ -1,0 +1,8 @@
+T1	icd_code 0 16	Пищевая аллергия
+N1	Reference T1 ICD_codes:12742	T78.1
+T2	icd_code 18 38	Атопический дерматит
+N2	Reference T2 ICD_codes:7614	L20
+T3	icd_code 62 76	Затяжной ринит
+N3	Reference T3 ICD_codes:6874	J31.0
+T4	icd_code 78 91	Серная пробка
+N4	Reference T4 ICD_codes:6185	H61.2

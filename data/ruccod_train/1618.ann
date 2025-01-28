@@ -1,0 +1,8 @@
+T1	icd_code 0 26	Экссудативный средний отит
+N1	Reference T1 ICD_codes:6180	H60.8
+T2	icd_code 35 53	Вазомоторный ринит
+N2	Reference T2 ICD_codes:6866	J30
+T3	icd_code 71 135	Искривление пергородки носа с нарушением функци носового дыхания
+N3	Reference T3 ICD_codes:6893	J34.2
+T4	icd_code 137 151	Кисты в/ч пазу
+N4	Reference T4 ICD_codes:6892	J34.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8210	M40-M54
+T2	icd_code 23 55	вертеброгенная цервикобрахиалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 67 97	болевой миофасциальный синдром
+N3	Reference T3 ICD_codes:8441	M79.1

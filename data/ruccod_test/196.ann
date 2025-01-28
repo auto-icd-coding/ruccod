@@ -1,0 +1,16 @@
+T1	icd_code 0 38	Железодефицитная анемия легкой степени
+N1	Reference T1 ICD_codes:1810	D50.8
+T2	icd_code 40 65	Латентный дефицит фолатов
+N2	Reference T2 ICD_codes:2251	E56.8
+T3	icd_code 67 84	Дефицит витмина Д
+N3	Reference T3 ICD_codes:2247	E55.9
+T4	icd_code 87 106	Хронический глоссит
+N4	Reference T4 ICD_codes:7178	K14.0
+T5	icd_code 108 134	стоматит неясной этиологии
+N5	Reference T5 ICD_codes:7164	K12
+T6	icd_code 138 171	Функциональная кишечная диспепсия
+N6	Reference T6 ICD_codes:7257	K30
+T7	icd_code 172 176	ДЖВП
+N7	Reference T7 ICD_codes:7500	K82.8
+T8	icd_code 200 221	Полип желчного пузыря
+N8	Reference T8 ICD_codes:7500	K82.8

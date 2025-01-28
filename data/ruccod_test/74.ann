@@ -1,0 +1,2 @@
+T1	icd_code 0 32	Доброкачествнные новообразования
+N1	Reference T1 ICD_codes:1713	D36

@@ -1,0 +1,10 @@
+T1	icd_code 1 31	ретенционные кисты шейки матки
+N1	Reference T1 ICD_codes:10363	Q51.6
+T2	icd_code 32 41	аденомиоз
+N2	Reference T2 ICD_codes:9012	N85.1
+T3	icd_code 43 54	миома матки
+N3	Reference T3 ICD_codes:1647	D25
+T4	icd_code 56 78	гиперплазия эндометрия
+N4	Reference T4 ICD_codes:9011	N85.0
+T5	icd_code 86 107	параовариальная киста
+N5	Reference T5 ICD_codes:8993	N83.0

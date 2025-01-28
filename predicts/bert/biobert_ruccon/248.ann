@@ -1,0 +1,8 @@
+T1	icd_code 0 6	анемия
+T2	icd_code 27 37	холецистит
+T3	icd_code 39 49	Панкреатит
+T4	icd_code 68 78	Гипотиреоз
+N1	Reference T1 ICD_codes:1811	D50.9
+N2	Reference T2 ICD_codes:7489	K81
+N3	Reference T3 ICD_codes:7511	K85
+N4	Reference T4 ICD_codes:2025	E03.9

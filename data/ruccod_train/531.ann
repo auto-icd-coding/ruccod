@@ -1,0 +1,4 @@
+T1	icd_code 0 22	С-м прорезывания зубов
+N1	Reference T1 ICD_codes:7063	K00
+T2	icd_code 24 28	ИМВП
+N2	Reference T2 ICD_codes:8835	N39

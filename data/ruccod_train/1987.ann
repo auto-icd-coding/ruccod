@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Экссудативный отит
+N1	Reference T1 ICD_codes:6198	H65.0
+T2	icd_code 20 29	Евстахиит
+N2	Reference T2 ICD_codes:6216	H68.0
+T3	icd_code 31 46	Адгезивный отит
+N3	Reference T3 ICD_codes:6242	H74.1

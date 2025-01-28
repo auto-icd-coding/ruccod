@@ -1,0 +1,11 @@
+T1	icd_code 0 6	Хейлит
+N1	Reference T1 ICD_codes:7168	K13
+T2	icd_code 8 20	Сухость кожи
+N2	Reference T2 ICD_codes:7888	L85.3
+T3	icd_code 23 28	микоз
+N3	Reference T3 ICD_codes:625	B36
+N6	Reference T3 ICD_codes:721	B49
+T4	icd_code 32 47	Рубиновые пятна
+N4	Reference T4 ICD_codes:1607	D18.0
+T5	icd_code 50 71	Подошвенные бородавки
+N5	Reference T5 ICD_codes:510	B07

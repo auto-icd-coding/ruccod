@@ -1,0 +1,4 @@
+T1	icd_code 0 29	2хсторонний  адгезивный  отит
+T2	icd_code 32 58	нейросенсорная  тугоухость
+N1	Reference T1 ICD_codes:6210	H66.9
+N2	Reference T2 ICD_codes:6284	H90.8

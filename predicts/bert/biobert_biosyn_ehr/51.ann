@@ -1,0 +1,8 @@
+T1	icd_code 0 38	Артериальная гипертензия эссенциальная
+T2	icd_code 71 89	Атеросклероз аорты
+T3	icd_code 92 105	Гиперурикемия
+T4	icd_code 107 121	Гиперлипидемия
+N1	Reference T1 ICD_codes:6355	I10
+N2	Reference T2 ICD_codes:6642	I70.0
+N3	Reference T3 ICD_codes:2360	E79.0
+N4	Reference T4 ICD_codes:2355	E78.5

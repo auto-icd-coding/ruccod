@@ -1,0 +1,8 @@
+T1	icd_code 0 13	постменопауза
+N1	Reference T1 ICD_codes:9088	N95.1
+T2	icd_code 15 26	миома матки
+N2	Reference T2 ICD_codes:1647	D25
+T3	icd_code 53 61	фемостон
+N3	Reference T3 ICD_codes:9088	N95.1
+T4	icd_code 43 52	прием згт
+N4	Reference T4 ICD_codes:9088	N95.1

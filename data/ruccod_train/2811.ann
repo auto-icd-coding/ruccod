@@ -1,0 +1,6 @@
+T1	icd_code 0 29	Флебопатия нижних конечностей
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 80 105	остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 107 161	Вертеброгенная компрессионно-ишемическая радикулопатия
+N3	Reference T3 ICD_codes:8264	M47.2

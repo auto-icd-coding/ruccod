@@ -1,0 +1,22 @@
+T1	icd_code 17 27	дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 51 58	Цервико
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 59 65	торако
+N3	Reference T3 ICD_codes:8314	M54.6
+T4	icd_code 66 75	люмбалгия
+N4	Reference T4 ICD_codes:8312	M54.4
+T5	icd_code 77 89	Остеохондрос
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 91 98	сколиоз
+N6	Reference T6 ICD_codes:8225	M41.9
+T7	icd_code 100 109	спондилез
+N7	Reference T7 ICD_codes:8266	M47.9
+T8	icd_code 139 163	Корешковый синдром L5-S1
+N8	Reference T8 ICD_codes:8294	M51.1
+T9	icd_code 172 183	Грыжа L5-S1
+N9	Reference T9 ICD_codes:8297	M51.4
+T10	icd_code 185 220	Вертебро-базилярная недостаточность
+N10	Reference T10 ICD_codes:5611	G45.0
+T11	icd_code 246 249	МКБ
+N11	Reference T11 ICD_codes:8756	N20.0

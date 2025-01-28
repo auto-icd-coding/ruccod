@@ -1,0 +1,10 @@
+T1	icd_code 50 76	Дискинезия желчного пузыря
+N1	Reference T1 ICD_codes:7500	K82.8
+T2	icd_code 77 98	Реактивный панкреатит
+N2	Reference T2 ICD_codes:7511	K85
+T3	icd_code 0 26	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7256	K29.9
+T4	icd_code 153 156	ПТИ
+N4	Reference T4 ICD_codes:43	A05.8
+T5	icd_code 100 152	Синдром избыточного бактериального роста в кишечнике
+N5	Reference T5 ICD_codes:10804	R19.8

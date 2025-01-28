@@ -1,0 +1,10 @@
+T1	icd_code 5 11	Миопия
+N1	Reference T1 ICD_codes:6128	H52.1
+T2	icd_code 28 38	Пресбиопия
+N2	Reference T2 ICD_codes:6131	H52.4
+T3	icd_code 40 59	Начальная катаракта
+N3	Reference T3 ICD_codes:5980	H25.0
+T4	icd_code 66 97	Сложный миопический астигматизм
+N4	Reference T4 ICD_codes:6129	H52.2
+T5	icd_code 102 154	Ангиопатия сосудов сетчатки по гипертоническому типу
+N5	Reference T5 ICD_codes:6697	I79.2

@@ -1,0 +1,21 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 57 69	остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 71 94	деформирующий спондилез
+N3	Reference T3 ICD_codes:8261	M47
+T4	icd_code 100 114	спондилолистез
+N4	Reference T4 ICD_codes:8232	M43.1
+T5	icd_code 117 142	Нестабильность  позвонков
+N5	Reference T5 ICD_codes:8303	M53.2
+T6	icd_code 167 193	мышечно-тонический синдром
+N6	Reference T6 ICD_codes:8333	M62
+T7	icd_code 236 246	торакалгии
+N7	Reference T7 ICD_codes:5700	G58.0
+T8	icd_code 257 268	остепении?
+
+N8	Reference T8 ICD_codes:8532	M89.9
+T9	icd_code 269 292	Артериальная гипертония
+N9	Reference T9 ICD_codes:6355	I10
+T10	icd_code 294 331	Варикозная болезнь нижних конечностей
+N10	Reference T10 ICD_codes:6719	I83.9

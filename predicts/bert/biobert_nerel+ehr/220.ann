@@ -1,0 +1,6 @@
+T1	icd_code 0 39	Ангиопатия   сетчатки по дистоническому
+T2	icd_code 103 115	сухого глаза
+T3	icd_code 162 167	лимба
+N1	Reference T1 ICD_codes:6697	I79.2
+N2	Reference T2 ICD_codes:6151	H54.4
+N3	Reference T3 ICD_codes:6753	I89.0

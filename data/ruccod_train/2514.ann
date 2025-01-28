@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ИБС
+N1	Reference T1 ICD_codes:6406	I25
+T2	icd_code 5 37	атеросклероз коронарных артерий.
+N2	Reference T2 ICD_codes:6408	I25.1
+T3	icd_code 54 86	БАП и стентирования ПМЖА от 2012
+N3	Reference T3 ICD_codes:17278	Z95.5
+T4	icd_code 93 116	Гипертоническая болезнь
+N4	Reference T4 ICD_codes:6357	I11

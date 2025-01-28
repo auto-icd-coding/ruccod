@@ -1,0 +1,8 @@
+T1	icd_code 0 18	хронический цистит
+N1	Reference T1 ICD_codes:8792	N30.1
+T2	icd_code 51 76	хронического пиелонефрита
+N2	Reference T2 ICD_codes:8707	N11.0
+T3	icd_code 77 89	пиелоэктазия
+N3	Reference T3 ICD_codes:8783	N28.8
+T4	icd_code 97 100	ХПН
+N4	Reference T4 ICD_codes:8749	N18

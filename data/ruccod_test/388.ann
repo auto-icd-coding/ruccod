@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Миофасциальный болевой синдром
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 48 54	Миозит
+N2	Reference T2 ICD_codes:8317	M60

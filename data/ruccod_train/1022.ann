@@ -1,0 +1,6 @@
+T1	icd_code 1 8	Эктопия
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 10 27	ВПЧ инфицирование
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 65 91	Урогенитальный уреаплазмоз
+N3	Reference T3 ICD_codes:324	A63.8

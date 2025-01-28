@@ -1,0 +1,4 @@
+T1	icd_code 0 7	ФН ИЖКТ
+N1	Reference T1 ICD_codes:7373	K59.9
+T2	icd_code 8 22	Пупочная грыжа
+N2	Reference T2 ICD_codes:7300	K42.9

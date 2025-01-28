@@ -1,0 +1,4 @@
+T1	icd_code 0 16	НРС неуточненное
+N1	Reference T1 ICD_codes:6535	I47.9
+T2	icd_code 19 44	Дислипидемия неуточненная
+N2	Reference T2 ICD_codes:2358	E78.9

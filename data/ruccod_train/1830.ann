@@ -1,0 +1,4 @@
+T1	icd_code 25 32	оТАЛГИЯ
+N1	Reference T1 ICD_codes:6293	H92.0
+T2	icd_code 0 21	дВУСТОРОННИЙ ТУБООТИТ
+N2	Reference T2 ICD_codes:6215	H68

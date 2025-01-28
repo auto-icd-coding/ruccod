@@ -1,0 +1,14 @@
+T1	icd_code 0 26	хронический антрум-гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 79 100	хронический  дуоденит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 119 142	ГЭРБ, неэрозивная форма
+N3	Reference T3 ICD_codes:7189	K21
+T4	icd_code 144 164	катаральный эзофагит
+N4	Reference T4 ICD_codes:7187	K20
+T5	icd_code 182 204	недостаточность кардии
+N5	Reference T5 ICD_codes:7258	K31
+T6	icd_code 224 245	реактивный панкреатит
+N6	Reference T6 ICD_codes:7511	K85
+T7	icd_code 206 222	полипоз ж\пузыря
+N7	Reference T7 ICD_codes:7494	K82

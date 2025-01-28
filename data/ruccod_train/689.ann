@@ -1,0 +1,5 @@
+T1	icd_code 0 12	Фарингомикоз
+N1	Reference T1 ICD_codes:632	B37
+N3	Reference T1 ICD_codes:633	B37.0
+T2	icd_code 14 35	Хронический тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0

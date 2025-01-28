@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Резаная рана правого бедра
+N1	Reference T1 ICD_codes:12230	T14.1
+T2	icd_code 28 47	Состояние после ПХО
+N2	Reference T2 ICD_codes:16904	Z48

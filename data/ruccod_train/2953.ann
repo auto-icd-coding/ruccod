@@ -1,0 +1,4 @@
+T1	icd_code 0 23	Псориаз кожи в/ч головы
+N1	Reference T1 ICD_codes:7692	L40.9
+T2	icd_code 25 44	Себорейный дерматит
+N2	Reference T2 ICD_codes:7619	L21

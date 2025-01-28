@@ -1,0 +1,8 @@
+T1	icd_code 0 11	Уреаплазмоз
+N1	Reference T1 ICD_codes:325	A64
+T2	icd_code 12 24	Экзоцервицит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 25 47	Деформация шейки матки
+N3	Reference T3 ICD_codes:9030	N88.2
+T4	icd_code 48 51	СИН
+N4	Reference T4 ICD_codes:9023	N87.0

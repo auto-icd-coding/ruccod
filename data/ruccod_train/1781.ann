@@ -1,0 +1,12 @@
+T1	icd_code 0 8	Цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 10 36	Ретенционные кисты ш\матки
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 39 57	Полипоз эндометрия
+N3	Reference T3 ICD_codes:9004	N84.0
+T4	icd_code 60 106	Хронический двухсторонний сальпингит и оофорит
+N4	Reference T4 ICD_codes:8920	N70.1
+T5	icd_code 121 150	Спаячный процесс в малом тазу
+N5	Reference T5 ICD_codes:9115	N99.4
+T6	icd_code 153 156	ФКМ
+N6	Reference T6 ICD_codes:8899	N60.1

@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Вульвовагинит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 15 36	Дисплазия шейки матки
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 38 64	папилломавирусная инфекция
+N3	Reference T3 ICD_codes:928	B97.7

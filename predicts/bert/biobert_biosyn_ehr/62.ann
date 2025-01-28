@@ -1,0 +1,4 @@
+T1	icd_code 5 14	Астенопия
+T2	icd_code 22 49	Ангиопатия сосудов сетчатки
+N1	Reference T1 ICD_codes:6131	H52.4
+N2	Reference T2 ICD_codes:6035	H35.0

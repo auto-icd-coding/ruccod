@@ -1,0 +1,4 @@
+T1	icd_code 0 42	Правостороннее тубоовариальное образование
+N1	Reference T1 ICD_codes:8935	N73.8
+T2	icd_code 44 60	Пельвиоперитонит
+N2	Reference T2 ICD_codes:8933	N73.5

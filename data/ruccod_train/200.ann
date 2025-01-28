@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 26 50	Артериальная гипертония.
+N2	Reference T2 ICD_codes:6355	I10

@@ -1,0 +1,11 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8316	M54.9
+T2	icd_code 13 25	Остеохондроз
+N2	Reference T2 ICD_codes:8226	M42
+T3	icd_code 98 125	мышечно-тонический синдромы
+N3	Reference T3 ICD_codes:8439	M79
+N6	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 126 135	Дорсалгия
+N4	Reference T4 ICD_codes:8307	M54
+T5	icd_code 136 149	Радикулопатия
+N5	Reference T5 ICD_codes:8309	M54.1

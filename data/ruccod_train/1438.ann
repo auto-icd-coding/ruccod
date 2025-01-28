@@ -1,0 +1,16 @@
+T1	icd_code 0 14	Гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 44 48	ГЭРБ
+N2	Reference T2 ICD_codes:7189	K21
+T3	icd_code 51 55	ДЖВП
+N3	Reference T3 ICD_codes:7280	K38.8
+T4	icd_code 58 103	Состояние после облучения радиоактивным йодом
+N4	Reference T4 ICD_codes:2046	E06.4
+T5	icd_code 105 115	Гипотиреоз
+N5	Reference T5 ICD_codes:2017	E03
+T6	icd_code 131 141	Дорсопатия
+N6	Reference T6 ICD_codes:8307	M54
+T7	icd_code 143 154	Цервикалгия
+N7	Reference T7 ICD_codes:8310	M54.2
+T8	icd_code 156 165	Люмбалгия
+N8	Reference T8 ICD_codes:8312	M54.4

@@ -1,0 +1,4 @@
+T1	icd_code 0 27	Неалкогольный стеатогепатит
+N1	Reference T1 ICD_codes:7467	K76.0
+T2	icd_code 30 52	Хронический панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1

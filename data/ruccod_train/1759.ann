@@ -1,0 +1,6 @@
+T1	icd_code 0 59	Гипертоническая болезнь II ст, медикаментозная компенсация.
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 61 95	Дисциркуляторная энцефолапатия 1с.
+N2	Reference T2 ICD_codes:6626	I67.8
+T3	icd_code 167 202	Шейный остеохондроз вне обострения.
+N3	Reference T3 ICD_codes:8228	M42.1

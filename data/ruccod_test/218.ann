@@ -1,0 +1,10 @@
+T1	icd_code 0 23	Гипертоническая болезнь
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 83 97	Гипертрофия ЛЖ
+N2	Reference T2 ICD_codes:6495	I42.2
+T3	icd_code 99 117	Недостаточность МК
+N3	Reference T3 ICD_codes:6451	I34.0
+T4	icd_code 121 133	Дислипидемия
+N4	Reference T4 ICD_codes:2358	E78.9
+T5	icd_code 135 165	Стенозирующий атеросклероз БЦА
+N5	Reference T5 ICD_codes:6645	I70.8

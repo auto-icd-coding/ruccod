@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Эктопия шейки матки
+N1	Reference T1 ICD_codes:9027	N88
+T2	icd_code 39 58	Носитель ВПЧ 16 тип
+N2	Reference T2 ICD_codes:928	B97.7

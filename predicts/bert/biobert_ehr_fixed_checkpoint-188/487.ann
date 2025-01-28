@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Кольпит
+T2	icd_code 8 10	О.
+T3	icd_code 22 27	матки
+N1	Reference T1 ICD_codes:8957	N76.8
+N2	Reference T2 ICD_codes:16599	Z00.0
+N3	Reference T3 ICD_codes:10358	Q51.1

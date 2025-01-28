@@ -1,0 +1,8 @@
+T1	icd_code 0 30	Перинатальное  поражение   ЦНС
+N1	Reference T1 ICD_codes:9977	P91
+T2	icd_code 65 88	Неонатальная    желтуха
+N2	Reference T2 ICD_codes:9890	P59
+T3	icd_code 106 124	Фетальный  гепатит
+N3	Reference T3 ICD_codes:9799	P35
+T4	icd_code 184 234	Малые  аномалии  сердца:  открытое  овальное  окно
+N4	Reference T4 ICD_codes:10145	Q21

@@ -1,0 +1,8 @@
+T1	icd_code 0 7	Вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 8 16	Цервицит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 17 27	Эрозия ш\м
+N3	Reference T3 ICD_codes:9021	N86
+T4	icd_code 28 47	Дисфункция яичников
+N4	Reference T4 ICD_codes:2171	E28

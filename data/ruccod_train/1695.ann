@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 14 57	Множественные  ретенционные  кисты  ш\матки
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 59 96	Ретенционная  киста  правого  яичника
+N3	Reference T3 ICD_codes:8995	N83.2
+T4	icd_code 99 117	Полипоз эндометрия
+N4	Reference T4 ICD_codes:9004	N84.0

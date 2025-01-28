@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 10 25	Острый ларингит
+N2	Reference T2 ICD_codes:6796	J04.0
+T3	icd_code 26 45	Хронич ринофарингит
+N3	Reference T3 ICD_codes:6876	J31.2

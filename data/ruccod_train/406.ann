@@ -1,0 +1,4 @@
+T1	icd_code 0 24	Железодефицитная анамия.
+N1	Reference T1 ICD_codes:1805	D50
+T2	icd_code 25 37	Дислипидемия
+N2	Reference T2 ICD_codes:2349	E78

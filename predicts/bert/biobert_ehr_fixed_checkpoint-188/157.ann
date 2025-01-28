@@ -1,0 +1,4 @@
+T1	icd_code 0 17	ОРВИ Назофарингит
+T2	icd_code 29 51	ассоциированная диарея
+N1	Reference T1 ICD_codes:6776	J00
+N2	Reference T2 ICD_codes:7364	K58.0

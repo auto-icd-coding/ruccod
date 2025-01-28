@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Двусторонний гонартроз
+N1	Reference T1 ICD_codes:8076	M17.0
+T2	icd_code 50 70	Состояние после ТЭКС
+N2	Reference T2 ICD_codes:17288	Z96.6

@@ -1,0 +1,10 @@
+T1	icd_code 10 29	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 56 83	Урогенитальный  уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 86 89	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 99 108	 вагиноз 
+N4	Reference T4 ICD_codes:9035	N89
+T5	icd_code 0 8	Цервицит
+N5	Reference T5 ICD_codes:8926	N72

@@ -1,0 +1,4 @@
+T1	icd_code 0 19	пресакральная киста
+N1	Reference T1 ICD_codes:7580	L05.9
+T2	icd_code 21 33	кокцигодиния
+N2	Reference T2 ICD_codes:8304	M53.3

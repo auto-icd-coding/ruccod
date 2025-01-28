@@ -1,0 +1,4 @@
+T1	icd_code 0 10	Внутренний
+T2	icd_code 11 31	геморрой с тромбозом
+N1	Reference T1 ICD_codes:1518	D06.0
+N2	Reference T2 ICD_codes:6728	I84.7

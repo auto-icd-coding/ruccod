@@ -1,0 +1,17 @@
+T1	icd_code 15 36	фаринголаринготрахеит
+N1	Reference T1 ICD_codes:6803	J06.0
+T2	icd_code 58 75	Афтозный стоматит
+N2	Reference T2 ICD_codes:7166	K12.1
+T3	icd_code 77 129	Герпесвирусиндуцированное иммунодефицитное состояние
+N3	Reference T3 ICD_codes:1989	D84.8
+T4	icd_code 146 167	Хронический тонзиллит
+N4	Reference T4 ICD_codes:6897	J35.0
+T5	icd_code 179 191	Дисбактериоз
+N5	Reference T5 ICD_codes:7404	K63.8
+T6	icd_code 193 209	Оральный дисбиоз
+N6	Reference T6 ICD_codes:7404	K63.8
+T7	icd_code 211 223	Фарингомикоз
+N7	Reference T7 ICD_codes:720	B48.8
+T8	icd_code 224 240	
+Ляринготрахеит 
+N8	Reference T8 ICD_codes:6798	J04.2

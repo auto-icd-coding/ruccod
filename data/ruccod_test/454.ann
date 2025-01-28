@@ -1,0 +1,18 @@
+T1	icd_code 56 65	тендиноза
+N3	Reference T1 ICD_codes:11973	S83.5
+T2	icd_code 79 124	разрыва экструдированного медиального мениска
+N2	Reference T2 ICD_codes:8128	M23.2
+T5	icd_code 260 298	отёк срединных отделов клетчатки Гоффа
+N4	Reference T5 ICD_codes:10952	R60.0
+T6	icd_code 300 335	отёк мягких тканей по окружности КС
+N5	Reference T6 ICD_codes:10952	R60.0
+T7	icd_code 337 346	лимфостаз
+N7	Reference T7 ICD_codes:6753	I89.0
+T8	icd_code 393 434	Двустороннее комбинированное плоскостопие
+N8	Reference T8 ICD_codes:8111	M21.4
+T9	icd_code 439 469	ВБ: ВР притоков БПВ на голенях
+N9	Reference T9 ICD_codes:6719	I83.9
+T11	icd_code 31 43	ОА левого КС
+N1	Reference T11 ICD_codes:8082	M17.9
+T3	icd_code 512 515	ХВН
+N6	Reference T3 ICD_codes:6744	I87.2

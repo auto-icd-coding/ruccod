@@ -1,0 +1,16 @@
+T1	icd_code 0 22	Артераильная гипотония
+N1	Reference T1 ICD_codes:6759	I95.0
+T2	icd_code 24 42	Бронхиальная астма
+N2	Reference T2 ICD_codes:6941	J45
+T3	icd_code 75 84	Нефроптоз
+N3	Reference T3 ICD_codes:8780	N28
+T4	icd_code 93 104	Нефролитиаз
+N4	Reference T4 ICD_codes:8754	N20
+T5	icd_code 106 124	Хронический цистит
+N5	Reference T5 ICD_codes:8793	N30.2
+T6	icd_code 126 136	Дорсопатия
+N6	Reference T6 ICD_codes:8306	M53.9
+T7	icd_code 138 150	Миома матки.
+N7	Reference T7 ICD_codes:1647	D25
+T8	icd_code 151 180	Фиброзно-кистозная мастопатия
+N8	Reference T8 ICD_codes:1646	D24

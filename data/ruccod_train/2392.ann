@@ -1,0 +1,4 @@
+T1	icd_code 0 21	Бактериальный вагиноз
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 31 63	Хр. спец. вялотекущий сальпингит
+N2	Reference T2 ICD_codes:8920	N70.1

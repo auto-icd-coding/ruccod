@@ -1,0 +1,5 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 30 37	О.ринит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 53 61	тубоотит

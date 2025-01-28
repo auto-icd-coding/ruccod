@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Диффузно-узловой  зоб
+N1	Reference T1 ICD_codes:2027	E04.0
+T2	icd_code 9 16	узловой
+N2	Reference T2 ICD_codes:2028	E04.1
+T3	icd_code 22 29	эутирео
+N3	Reference T3 ICD_codes:2053	E07.9

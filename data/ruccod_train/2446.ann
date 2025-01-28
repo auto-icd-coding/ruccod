@@ -1,0 +1,8 @@
+T1	icd_code 1 20	Овуляторный синдром
+N1	Reference T1 ICD_codes:9076	N94
+T2	icd_code 50 65	гиперандрогения
+N2	Reference T2 ICD_codes:2173	E28.1
+T3	icd_code 24 46	Гиперплазия эндометрия
+N3	Reference T3 ICD_codes:9011	N85.0
+T1	icd_code 1 21	Овуляторный синдром?
+N1	Reference T1 ICD_codes:9076	N94

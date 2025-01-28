@@ -1,0 +1,14 @@
+T1	icd_code 0 21	Хронический простатит
+T2	icd_code 42 62	Хронический  уретрит
+T3	icd_code 86 97	. везикулит
+T4	icd_code 118 132	О.баланопостит
+T5	icd_code 139 154	Микролиты почек
+T6	icd_code 160 168	эпидимит
+T7	icd_code 197 207	Варикоцеле
+N1	Reference T1 ICD_codes:8847	N41.1
+N2	Reference T2 ICD_codes:8817	N34.1
+N3	Reference T3 ICD_codes:8926	N72
+N4	Reference T4 ICD_codes:8872	N48.1
+N5	Reference T5 ICD_codes:8756	N20.0
+N6	Reference T6 ICD_codes:8867	N45.9
+N7	Reference T7 ICD_codes:6736	I86.1

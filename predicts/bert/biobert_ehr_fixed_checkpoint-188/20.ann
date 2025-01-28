@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Паховая эпидермофития
+T2	icd_code 43 83	Атрофические изменения кожи неуточненные
+T3	icd_code 85 106	Очаговая склеродермия
+N1	Reference T1 ICD_codes:622	B35.6
+N2	Reference T2 ICD_codes:7909	L90.9
+N3	Reference T3 ICD_codes:7927	L94.1

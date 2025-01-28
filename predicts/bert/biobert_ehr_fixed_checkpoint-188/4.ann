@@ -1,0 +1,14 @@
+T1	icd_code 0 18	Дорсопатия шейного
+T2	icd_code 26 38	позвоночника
+T3	icd_code 47 85	дегенеративно-дистрофических изменений
+T4	icd_code 112 114	С3
+T5	icd_code 133 151	мышечно-тонический
+T6	icd_code 153 168	болевой синдром
+T7	icd_code 178 192	вестибулопатии
+N1	Reference T1 ICD_codes:8305	M53.8
+N2	Reference T2 ICD_codes:1592	D16.6
+N3	Reference T3 ICD_codes:7909	L90.9
+N4	Reference T4 ICD_codes:10674	Q92.2
+N5	Reference T5 ICD_codes:8441	M79.1
+N6	Reference T6 ICD_codes:8441	M79.1
+N7	Reference T7 ICD_codes:6265	H81.9

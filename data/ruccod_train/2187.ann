@@ -1,0 +1,4 @@
+T1	icd_code 13 28	тораколюмбалгия
+N1	Reference T1 ICD_codes:8314	M54.6
+T2	icd_code 48 51	СРК
+N2	Reference T2 ICD_codes:7363	K58

@@ -1,0 +1,6 @@
+T1	icd_code 11 30	хронического ринита
+N1	Reference T1 ICD_codes:6874	J31.0
+T2	icd_code 43 73	хронического тонзиллофарингита
+N2	Reference T2 ICD_codes:6876	J31.2
+T3	icd_code 86 101	фаринголарингит
+N3	Reference T3 ICD_codes:6904	J37

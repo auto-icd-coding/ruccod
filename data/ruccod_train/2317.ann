@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Хр. цистит
+N1	Reference T1 ICD_codes:8792	N30.1
+T2	icd_code 31 41	Бактерурия
+N2	Reference T2 ICD_codes:8836	N39.0
+T3	icd_code 53 90	Микролитов.Микролитов мочевого пузыря
+N3	Reference T3 ICD_codes:8761	N21.0
+T4	icd_code 92 122	течный синдром неяснего генеза
+N4	Reference T4 ICD_codes:10954	R60.9

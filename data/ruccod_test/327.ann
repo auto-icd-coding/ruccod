@@ -1,0 +1,14 @@
+T1	icd_code 0 24	Язвенная болезнь желудка
+N1	Reference T1 ICD_codes:7206	K25
+T2	icd_code 0 31	Язвенная болезнь желудка и 12пк
+N2	Reference T2 ICD_codes:7216	K26
+T3	icd_code 95 106	Эрозии 12пк
+N3	Reference T3 ICD_codes:7223	K26.6
+T4	icd_code 137 171	Хронический безкаменный холецистит
+N4	Reference T4 ICD_codes:7491	K81.1
+T5	icd_code 185 206	Реактивный панкреатит
+N5	Reference T5 ICD_codes:7514	K86.1
+T6	icd_code 209 261	Синдром избыточного бактериального роста в кишечнике
+N6	Reference T6 ICD_codes:10804	R19.8
+T7	icd_code 263 272	Иерсиниоз
+N7	Reference T7 ICD_codes:33	A04.6

@@ -1,0 +1,10 @@
+T1	icd_code 0 18	Острый коньюктивит
+N1	Reference T1 ICD_codes:5904	H10.3
+T2	icd_code 32 38	Миопия
+N2	Reference T2 ICD_codes:6128	H52.1
+T3	icd_code 67 105	Ангиопатия сосудов сетчатки обоих глаз
+N3	Reference T3 ICD_codes:6034	H35
+T4	icd_code 122 141	Глаукома обоих глаз
+N4	Reference T4 ICD_codes:6051	H40.1
+T5	icd_code 162 181	Начальная катаракта
+N5	Reference T5 ICD_codes:5980	H25.0

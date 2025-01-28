@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Эндоцервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 31 45	альпингоофорит
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 62 105	Остроконечные кондиломы слизистой влагалища
+N3	Reference T3 ICD_codes:1659	D28.0
+T4	icd_code 108 120	Энтероколит?
+N4	Reference T4 ICD_codes:7332	K52

@@ -1,0 +1,8 @@
+T1	icd_code 3 23	синдром сухого глаза
+T2	icd_code 34 41	степени
+T3	icd_code 44 61	Спазм аккомодации
+T4	icd_code 63 86	Миопический астигматизм
+N1	Reference T1 ICD_codes:6148	H54.1
+N2	Reference T2 ICD_codes:17096	Z73.3
+N3	Reference T3 ICD_codes:6132	H52.5
+N4	Reference T4 ICD_codes:6129	H52.2

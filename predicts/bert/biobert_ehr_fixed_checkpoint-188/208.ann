@@ -1,0 +1,2 @@
+T1	icd_code 0 32	Внебольничная пневмония в н\доле
+N1	Reference T1 ICD_codes:6847	J18.8

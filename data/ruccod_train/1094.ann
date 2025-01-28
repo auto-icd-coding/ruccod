@@ -1,0 +1,8 @@
+T1	icd_code 0 7	О.ринит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 9 36	Гемангиома в области темени
+N2	Reference T2 ICD_codes:1607	D18.0
+T3	icd_code 39 44	Рахит
+N3	Reference T3 ICD_codes:2246	E55.0
+T4	icd_code 65 87	Дисбактериоз кишечника
+N4	Reference T4 ICD_codes:7404	K63.8

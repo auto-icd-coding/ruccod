@@ -1,0 +1,4 @@
+T1	icd_code 0 4	ГБ I
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 30 32	НК
+N2	Reference T2 ICD_codes:6546	I50

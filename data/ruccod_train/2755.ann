@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Узловой зоб
+N1	Reference T1 ICD_codes:2028	E04.1
+T2	icd_code 13 17	ХАИТ
+N2	Reference T2 ICD_codes:2045	E06.3
+T3	icd_code 19 32	Тиреотоксикоз
+N3	Reference T3 ICD_codes:2040	E05.9

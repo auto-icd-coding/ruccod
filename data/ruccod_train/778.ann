@@ -1,0 +1,4 @@
+T1	icd_code 25 51	Уреаплазмоз урогенитальный
+N1	Reference T1 ICD_codes:322	A63
+T2	icd_code 53 85	Хронический сальпингит и оофорит
+N2	Reference T2 ICD_codes:8920	N70.1

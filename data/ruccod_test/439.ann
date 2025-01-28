@@ -1,0 +1,6 @@
+T1	icd_code 0 29	Постменопаузальный остеопороз
+N1	Reference T1 ICD_codes:8461	M81.0
+T2	icd_code 31 54	перелом луча левой руки
+N2	Reference T2 ICD_codes:11681	S52
+T3	icd_code 62 107	Диффузно-очаговые изменения щитовидной железы
+N3	Reference T3 ICD_codes:2049	E07

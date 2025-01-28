@@ -1,0 +1,12 @@
+T1	icd_code 1 20	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 46 49	НЛФ
+N2	Reference T2 ICD_codes:2177	E28.9
+T3	icd_code 52 56	ПКЯ.
+N3	Reference T3 ICD_codes:2174	E28.2
+T4	icd_code 57 66	Гирсутизм
+N4	Reference T4 ICD_codes:7822	L68.0
+T5	icd_code 69 88	Эрозия шейки матки.
+N5	Reference T5 ICD_codes:9022	N87
+T6	icd_code 90 103	Угревая б -нь
+N6	Reference T6 ICD_codes:7828	L70

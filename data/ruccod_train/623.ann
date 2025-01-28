@@ -1,0 +1,6 @@
+T1	icd_code 21 54	Остроконечные кондиломы влагалища
+N1	Reference T1 ICD_codes:1659	D28.0
+T2	icd_code 57 63	Уретри
+N2	Reference T2 ICD_codes:8815	N34
+T3	icd_code 0 19	Овуляторный синдром
+N3	Reference T3 ICD_codes:9076	N94

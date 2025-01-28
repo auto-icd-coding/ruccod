@@ -1,0 +1,6 @@
+T1	icd_code 5 34	Гиперметропия средней степени
+N1	Reference T1 ICD_codes:6127	H52.0
+T2	icd_code 40 57	Спазм аккомодации
+N2	Reference T2 ICD_codes:6132	H52.5
+T3	icd_code 63 76	Анизометропия
+N3	Reference T3 ICD_codes:6130	H52.3

@@ -1,0 +1,3 @@
+T1	icd_code 0 9	Катаракта
+N1	Reference T1 ICD_codes:5985	H26
+N2	Reference T1 ICD_codes:5992	H26.9

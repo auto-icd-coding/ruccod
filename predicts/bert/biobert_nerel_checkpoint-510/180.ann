@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Врастание
+T2	icd_code 70 91	медиальной паронихией
+N1	Reference T1 ICD_codes:7347	K56.1
+N2	Reference T2 ICD_codes:7779	L60

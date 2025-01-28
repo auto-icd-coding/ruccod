@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Меноррагия
+T2	icd_code 13 15	Хр
+T3	icd_code 17 32	сальпингоофорит
+N1	Reference T1 ICD_codes:9066	N92.1
+N2	Reference T2 ICD_codes:4513	F20.80*8
+N3	Reference T3 ICD_codes:8920	N70.1

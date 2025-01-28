@@ -1,0 +1,4 @@
+T1	icd_code 0 31	Вазомоторно-аллергический ринит
+T2	icd_code 33 47	Остырй синусит
+N1	Reference T1 ICD_codes:6866	J30
+N2	Reference T2 ICD_codes:6785	J01.8

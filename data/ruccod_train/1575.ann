@@ -1,0 +1,12 @@
+T1	icd_code 0 34	Постмиокардитический кардиосклероз
+N1	Reference T1 ICD_codes:6555	I51.4
+T2	icd_code 36 41	ХСН 0
+N2	Reference T2 ICD_codes:6549	I50.9
+T3	icd_code 43 55	Желудочковая
+N3	Reference T3 ICD_codes:6541	I49.3
+T4	icd_code 58 92	суправентрикулярная экстрасистолия
+N4	Reference T4 ICD_codes:6539	I49.1
+T5	icd_code 94 128	Хронический аутоиммунный тиреоидит
+N5	Reference T5 ICD_codes:2045	E06.3
+T6	icd_code 130 140	Гипотиреоз
+N6	Reference T6 ICD_codes:2024	E03.8

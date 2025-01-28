@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Дисфункция яичников
+N1	Reference T1 ICD_codes:2171	E28
+T2	icd_code 58 67	киста ЖТ
+N2	Reference T2 ICD_codes:8994	N83.1
+T3	icd_code 71 79	эндометр
+N3	Reference T3 ICD_codes:8962	N80
+T4	icd_code 48 57	истома ПЯ
+N4	Reference T4 ICD_codes:8992	N83

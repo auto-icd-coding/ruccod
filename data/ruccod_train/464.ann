@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Гарднереллез
+N1	Reference T1 ICD_codes:9044	N89.8
+T2	icd_code 14 32	Эрозия шейки матки
+N2	Reference T2 ICD_codes:9022	N87
+T3	icd_code 45 65	сальпингит и оофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 66 88	Хронический эндометрит
+N4	Reference T4 ICD_codes:8922	N71

@@ -1,0 +1,8 @@
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7480	K80
+T3	icd_code 44 57	Сладж-синдром
+N3	Reference T3 ICD_codes:7500	K82.8
+T4	icd_code 59 112	Дискинезия желчевыводящих путей по гипомоторному типу
+N4	Reference T4 ICD_codes:7500	K82.8
+T2	icd_code 5 42	Хронический некалькулезный холецистит
+N2	Reference T2 ICD_codes:7491	K81.1

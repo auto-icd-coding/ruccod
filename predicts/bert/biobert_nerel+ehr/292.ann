@@ -1,0 +1,10 @@
+T1	icd_code 0 42	Тендинит сухожилия длинной головки бицепса
+T2	icd_code 63 112	послеоперационный рубец правого плечевого сустава
+T3	icd_code 114 154	Остеохондроз шейного отдела позвоночника
+T4	icd_code 156 182	вертеброгенная цервикалгия
+T5	icd_code 184 218	Триггер правой трапецивидной мышцы
+N1	Reference T1 ICD_codes:8413	M75.2
+N2	Reference T2 ICD_codes:9328	O34.2
+N3	Reference T3 ICD_codes:8228	M42.1
+N4	Reference T4 ICD_codes:8310	M54.2
+N5	Reference T5 ICD_codes:8314	M54.6

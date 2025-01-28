@@ -1,0 +1,4 @@
+T1	icd_code 0 3	ФКМ
+N1	Reference T1 ICD_codes:8899	N60.1
+T2	icd_code 43 82	Дорсопатия грудного отдела позвоночника
+N2	Reference T2 ICD_codes:8306	M53.9

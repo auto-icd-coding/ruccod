@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Острый бронхит
+T2	icd_code 25 29	ОРВИ
+T3	icd_code 31 49	остаточные явления
+T4	icd_code 51 70	Острый назофарингит
+T5	icd_code 91 115	инфильтративные процессы
+N1	Reference T1 ICD_codes:6860	J20.9
+N2	Reference T2 ICD_codes:6777	J00-J06
+N3	Reference T3 ICD_codes:8098	M20-M25
+N4	Reference T4 ICD_codes:6776	J00
+N5	Reference T5 ICD_codes:881	B88.8

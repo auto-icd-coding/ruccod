@@ -1,0 +1,4 @@
+T1	icd_code 0 34	Транзиторный гипотиреоз беременных
+N1	Reference T1 ICD_codes:2017	E03
+T2	icd_code 35 47	Беременность
+N2	Reference T2 ICD_codes:16794	Z32.9

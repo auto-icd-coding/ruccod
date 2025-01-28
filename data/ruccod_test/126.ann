@@ -1,0 +1,6 @@
+T1	icd_code 0 21	Хронический простатит
+N1	Reference T1 ICD_codes:8847	N41.1
+T2	icd_code 39 63	Гипоплазия правого яичка
+N2	Reference T2 ICD_codes:8887	N50.0
+T3	icd_code 65 75	Варикоцеле
+N3	Reference T3 ICD_codes:6736	I86.1

@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Гипертоническая болезнь 2 стадии
+T2	icd_code 69 81	Дилатация ЛП
+T3	icd_code 83 97	Гипертрофия ЛЖ
+T4	icd_code 99 117	Недостаточность МК
+T5	icd_code 121 133	Дислипидемия
+T6	icd_code 135 165	Стенозирующий атеросклероз БЦА
+N1	Reference T1 ICD_codes:6359	I11.9
+N2	Reference T2 ICD_codes:6539	I49.1
+N3	Reference T3 ICD_codes:6541	I49.3
+N4	Reference T4 ICD_codes:6626	I67.8
+N5	Reference T5 ICD_codes:2354	E78.4
+N6	Reference T6 ICD_codes:6645	I70.8

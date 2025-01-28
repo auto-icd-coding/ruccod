@@ -1,0 +1,8 @@
+T1	icd_code 7 44	внебольнчная правосторонняя пневмония
+N1	Reference T1 ICD_codes:6848	J18.9
+T2	icd_code 62 72	Гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9
+T3	icd_code 75 83	Ожирение
+N3	Reference T3 ICD_codes:2286	E66.9
+T4	icd_code 91 130	Нарушение сердечного ритма неуточненное
+N4	Reference T4 ICD_codes:6545	I49.9

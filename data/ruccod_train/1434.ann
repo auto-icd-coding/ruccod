@@ -1,0 +1,8 @@
+T1	icd_code 0 55	Гипертоническая болезнь I стадии. Степень АГ 2.  Риск 3
+N1	Reference T1 ICD_codes:6359	I11.9
+T2	icd_code 63 81	Атеросклероз аорты
+N2	Reference T2 ICD_codes:6642	I70.0
+T3	icd_code 58 61	ИБС
+N3	Reference T3 ICD_codes:6406	I25
+T4	icd_code 82 94	Дислипидемия
+N4	Reference T4 ICD_codes:2354	E78.4

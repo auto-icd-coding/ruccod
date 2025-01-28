@@ -1,0 +1,6 @@
+T1	icd_code 0 13	СРК с диареей
+N1	Reference T1 ICD_codes:7364	K58.0
+T2	icd_code 14 54	Синдром избыточного бактериального роста
+N2	Reference T2 ICD_codes:10804	R19.8
+T3	icd_code 55 59	ДЖВП
+N3	Reference T3 ICD_codes:7509	K83.8

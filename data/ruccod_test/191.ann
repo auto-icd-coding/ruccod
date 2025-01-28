@@ -1,0 +1,4 @@
+T1	icd_code 0 23	ПОСЛЕДСТВИЯ  ОНМК в ЗМА
+N2	Reference T1 ICD_codes:6637	I69.3
+T2	icd_code 26 52	вестибулярными нарушениями
+N1	Reference T2 ICD_codes:6263	H81.4

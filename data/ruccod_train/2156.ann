@@ -1,0 +1,14 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 69 81	Дислипидемия
+N2	Reference T2 ICD_codes:2357	E78.8
+T3	icd_code 84 86	СН
+N3	Reference T3 ICD_codes:6547	I50.0
+T4	icd_code 103 133	Нарушение ритма и проводимости
+N4	Reference T4 ICD_codes:6537	I49
+T5	icd_code 142 158	ед.политопной ЭС
+N5	Reference T5 ICD_codes:6541	I49.3
+T6	icd_code 161 184	преходящей СА-блокады 2
+N6	Reference T6 ICD_codes:6525	I45.8
+T7	icd_code 190 200	Дорсопатия
+N7	Reference T7 ICD_codes:8306	M53.9

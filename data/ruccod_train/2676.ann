@@ -1,0 +1,2 @@
+T1	icd_code 0 20	Гастрит неуточненный
+N1	Reference T1 ICD_codes:7254	K29.7

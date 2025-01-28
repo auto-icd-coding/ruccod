@@ -1,0 +1,10 @@
+T1	icd_code 0 10	Аденомиоз.
+N1	Reference T1 ICD_codes:8964	N80.0
+T2	icd_code 11 46	Железистая гиперплазия эндометрия (
+N2	Reference T2 ICD_codes:9011	N85.0
+T3	icd_code 90 105	сальпингоофорит
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 125 128	АГС
+N4	Reference T4 ICD_codes:2153	E25
+T5	icd_code 197 201	ДЖВП
+N5	Reference T5 ICD_codes:7281	K38.9

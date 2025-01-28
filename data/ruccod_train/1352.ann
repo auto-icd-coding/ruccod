@@ -1,0 +1,6 @@
+T1	icd_code 97 105	Аденоиды
+N1	Reference T1 ICD_codes:6899	J35.2
+T2	icd_code 84 95	Нейтропения
+N2	Reference T2 ICD_codes:1916	D70
+T3	icd_code 0 22	Герпетическая инфекция
+N3	Reference T3 ICD_codes:471	B00

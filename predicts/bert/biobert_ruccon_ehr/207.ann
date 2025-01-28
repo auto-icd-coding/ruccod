@@ -1,0 +1,4 @@
+T1	icd_code 0 26	ОРВИ .. шейный лимфоаденит
+T2	icd_code 29 43	реконвалесцент
+N1	Reference T1 ICD_codes:7572	L04.0
+N2	Reference T2 ICD_codes:6743	I87.1

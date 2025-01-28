@@ -1,0 +1,2 @@
+T1	icd_code 0 30	Нагноившаяся рана правой кисти
+N1	Reference T1 ICD_codes:12753	T79.3

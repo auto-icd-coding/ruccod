@@ -1,0 +1,10 @@
+T1	icd_code 4 39	Хронический калькулезный холецистит
+T2	icd_code 57 87	Липоматоз поджелудочной железы
+T3	icd_code 89 116	Кисты  поджелудочной железы
+T4	icd_code 118 130	Дислипидемия
+T5	icd_code 132 155	Синдром ускоренного СОЭ
+N1	Reference T1 ICD_codes:7491	K81.1
+N2	Reference T2 ICD_codes:7517	K86.8
+N3	Reference T3 ICD_codes:7515	K86.2
+N4	Reference T4 ICD_codes:2354	E78.4
+N5	Reference T5 ICD_codes:10981	R70.0

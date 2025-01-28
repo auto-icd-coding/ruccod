@@ -1,0 +1,4 @@
+T1	icd_code 0 42	Острый катаральный верхнечелюстной синусит
+T2	icd_code 56 58	ИД
+N1	Reference T1 ICD_codes:6780	J01.0
+N2	Reference T2 ICD_codes:12460	T38.4

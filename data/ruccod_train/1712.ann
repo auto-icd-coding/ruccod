@@ -1,0 +1,4 @@
+T1	icd_code 0 39	Артроз-артрит правого плечевого сустава
+N1	Reference T1 ICD_codes:8095	M19.8
+T2	icd_code 61 94	Реактивный постнагрузочный миозит
+N2	Reference T2 ICD_codes:8317	M60

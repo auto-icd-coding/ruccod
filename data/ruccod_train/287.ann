@@ -1,0 +1,4 @@
+T1	icd_code 0 16	Фибромиома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 32 49	Эндометриоз матки
+N2	Reference T2 ICD_codes:8964	N80.0

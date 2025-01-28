@@ -1,0 +1,6 @@
+T1	icd_code 14 29	сальпингоофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 46 49	ВПЧ
+N2	Reference T2 ICD_codes:928	B97.7
+T3	icd_code 69 84	Гиперэстрогения
+N3	Reference T3 ICD_codes:2172	E28.0

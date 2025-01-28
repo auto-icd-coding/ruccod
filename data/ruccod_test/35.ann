@@ -1,0 +1,12 @@
+T1	icd_code 0 22	Хронический холецистит
+N1	Reference T1 ICD_codes:7491	K81.1
+T2	icd_code 36 41	Колит
+N2	Reference T2 ICD_codes:7405	K63.9
+T3	icd_code 43 73	Синдрм раздраженного кишечника
+N3	Reference T3 ICD_codes:7363	K58
+T4	icd_code 76 96	Острый гастроэнтерит
+N4	Reference T4 ICD_codes:7336	K52.8
+T5	icd_code 110 152	Объемное образование хвостатой доли печени
+N5	Reference T5 ICD_codes:1726	D37.6
+T6	icd_code 154 187	Гиперплазия хвостатой доли печени
+N6	Reference T6 ICD_codes:7475	K76.8

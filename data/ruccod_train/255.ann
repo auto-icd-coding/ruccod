@@ -1,0 +1,4 @@
+T1	icd_code 1 19	Хронический цистит
+N1	Reference T1 ICD_codes:8793	N30.2
+T2	icd_code 21 27	уретри
+N2	Reference T2 ICD_codes:8815	N34

@@ -1,0 +1,14 @@
+T1	icd_code 0 12	Эндоцервицит
+T2	icd_code 29 36	Вагинит
+T3	icd_code 37 40	ПВИ
+T4	icd_code 42 53	ВПЧ 44 типа
+T5	icd_code 60 91	Остроконечные кондиломы  вульвы
+T6	icd_code 95 97	Хр
+T7	icd_code 99 106	оофорит
+N1	Reference T1 ICD_codes:8926	N72
+N2	Reference T2 ICD_codes:8950	N76.0
+N3	Reference T3 ICD_codes:928	B97.7
+N4	Reference T4 ICD_codes:928	B97.7
+N5	Reference T5 ICD_codes:323	A63.0
+N6	Reference T6 ICD_codes:4513	F20.80*8
+N7	Reference T7 ICD_codes:8921	N70.9

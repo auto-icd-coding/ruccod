@@ -1,0 +1,4 @@
+T1	icd_code 0 18	Острый коньюктивит
+N1	Reference T1 ICD_codes:5908	H10.9
+T2	icd_code 48 54	Ячмень
+N2	Reference T2 ICD_codes:5853	H00.0

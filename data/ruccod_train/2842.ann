@@ -1,0 +1,10 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16794	Z32.9
+T2	icd_code 25 51	Головное предлежание плода
+N2	Reference T2 ICD_codes:9308	O32.3
+T3	icd_code 53 81	Низкое прикрепление плаценты
+N3	Reference T3 ICD_codes:9376	O44.1
+T4	icd_code 83 104	Хр вирусный гепатит С
+N4	Reference T4 ICD_codes:537	B18.2
+T5	icd_code 160 185	бессимптомная бактертурия
+N5	Reference T5 ICD_codes:8836	N39.0

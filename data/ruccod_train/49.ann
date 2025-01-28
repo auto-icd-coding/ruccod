@@ -1,0 +1,6 @@
+T1	icd_code 0 35	Остеохондроз шейно -грудного отдела
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 50 61	 цервикагия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 64 74	торакалгия
+N3	Reference T3 ICD_codes:5700	G58.0

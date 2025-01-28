@@ -1,0 +1,8 @@
+T1	icd_code 0 11	Узловой зоб
+N1	Reference T1 ICD_codes:2028	E04.1
+T2	icd_code 25 33	Ожирение
+N2	Reference T2 ICD_codes:2282	E66.0
+T3	icd_code 13 23	Гипотиреоз
+N3	Reference T3 ICD_codes:2025	E03.9
+T4	icd_code 40 68	Нарушение углеводного обмена
+N4	Reference T4 ICD_codes:10985	R73

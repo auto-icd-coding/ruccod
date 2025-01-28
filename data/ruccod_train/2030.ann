@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Узловой зоб
+N1	Reference T1 ICD_codes:2028	E04.1
+T2	icd_code 12 22	 Ожирение
+N2	Reference T2 ICD_codes:2282	E66.0
+T3	icd_code 56 93	Остеопения системная постменопаузная.
+N3	Reference T3 ICD_codes:8461	M81.0

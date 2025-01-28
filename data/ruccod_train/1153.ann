@@ -1,0 +1,4 @@
+T1	icd_code 0 8	О. ринит
+N1	Reference T1 ICD_codes:6871	J30.3
+T2	icd_code 28 40	О. аденоидит
+N2	Reference T2 ICD_codes:6899	J35.2

@@ -1,0 +1,12 @@
+T1	icd_code 18 40	двусторонняя пневмония
+T2	icd_code 49 51	ДН
+T3	icd_code 59 103	Системная склеродермия с кожным, суставным с
+T4	icd_code 104 105	м
+T5	icd_code 108 117	поражения
+T6	icd_code 125 137	Пневмофиброз
+N1	Reference T1 ICD_codes:6847	J18.8
+N2	Reference T2 ICD_codes:7048	J96.9
+N3	Reference T3 ICD_codes:7927	L94.1
+N4	Reference T4 ICD_codes:10684	Q93.1
+N5	Reference T5 ICD_codes:10934	R52.9
+N6	Reference T6 ICD_codes:7006	J84.1

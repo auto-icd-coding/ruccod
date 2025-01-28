@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 12 54	Распространенный остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 56 92	Межпозвоночная протрузия диска L3-S1
+N3	Reference T3 ICD_codes:8294	M51.1
+T4	icd_code 94 164	Мышечно-тонический синдром паравертебральных мышц на поясничном уровне
+N4	Reference T4 ICD_codes:8294	M51.1
+T5	icd_code 166 187	Хроническая люмбалгия
+N5	Reference T5 ICD_codes:8312	M54.4
+T6	icd_code 189 214	Умеренный болевой синдром
+N6	Reference T6 ICD_codes:8441	M79.1

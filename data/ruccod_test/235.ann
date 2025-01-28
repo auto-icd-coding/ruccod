@@ -1,0 +1,8 @@
+T1	icd_code 0 4	Ушиб
+N1	Reference T1 ICD_codes:11930	S80.9
+T2	icd_code 6 15	гемартроз
+N2	Reference T2 ICD_codes:8147	M25.0
+T3	icd_code 17 26	Гонартроз
+N3	Reference T3 ICD_codes:8082	M17.9
+T4	icd_code 34 59	разрыввнутреннего мениска
+N4	Reference T4 ICD_codes:8128	M23.2

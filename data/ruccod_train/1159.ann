@@ -1,0 +1,9 @@
+T1	icd_code 0 17	Хр гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 30 45	
+Хр холецистит,
+N2	Reference T2 ICD_codes:7491	K81.1
+T3	icd_code 59 72	Хр панкреатит
+N3	Reference T3 ICD_codes:7514	K86.1
+T4	icd_code 87 99	Беременность
+N4	Reference T4 ICD_codes:16796	Z34

@@ -1,0 +1,18 @@
+T1	icd_code 0 18	Хр. гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 24 38	Хр. панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 41 53	Отечный с- м
+N3	Reference T3 ICD_codes:10954	R60.9
+T4	icd_code 75 85	пиелонефри
+N4	Reference T4 ICD_codes:8707	N11.0
+T5	icd_code 87 97	Гипотиреоз
+N5	Reference T5 ICD_codes:2025	E03.9
+T6	icd_code 100 126	Варикозная болезнь вен н/к
+N6	Reference T6 ICD_codes:6719	I83.9
+T7	icd_code 128 153	Вертеброгенная торакалгия
+N7	Reference T7 ICD_codes:5700	G58.0
+T8	icd_code 156 167	Миома матки
+N8	Reference T8 ICD_codes:1647	D25
+T9	icd_code 168 176	Ожирение
+N9	Reference T9 ICD_codes:2285	E66.8

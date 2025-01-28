@@ -1,0 +1,5 @@
+T1	icd_code 29 41	отека Квинке
+N1	Reference T1 ICD_codes:12740	T78
+N3	Reference T1 ICD_codes:12744	T78.3
+T2	icd_code 43 63	Аденоидные вегетации
+N2	Reference T2 ICD_codes:6899	J35.2

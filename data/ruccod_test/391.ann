@@ -1,0 +1,10 @@
+T1	icd_code 1 43	Внебольничная  очаговая слианая  пневмония
+N1	Reference T1 ICD_codes:6847	J18.8
+T2	icd_code 154 178	Гипертоническая  болезнь
+N2	Reference T2 ICD_codes:6359	I11.9
+T3	icd_code 209 228	Гиперхолестеринемия
+N3	Reference T3 ICD_codes:2355	E78.5
+T4	icd_code 229 278	Вегетососудистая  дистония  по  крдиальному  типу
+N4	Reference T4 ICD_codes:4923	F45.3
+T5	icd_code 293 295	ДН
+N5	Reference T5 ICD_codes:7048	J96.9

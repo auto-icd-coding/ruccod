@@ -1,0 +1,6 @@
+T1	icd_code 17 23	Анемия
+N1	Reference T1 ICD_codes:1811	D50.9
+T2	icd_code 0 3	ВСД
+N2	Reference T2 ICD_codes:5801	G90.8
+T3	icd_code 37 47	Дорсопатия
+N3	Reference T3 ICD_codes:8315	M54.8

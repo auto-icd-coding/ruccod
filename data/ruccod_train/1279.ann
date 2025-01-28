@@ -1,0 +1,6 @@
+T1	icd_code 59 65	Миопия
+N1	Reference T1 ICD_codes:6128	H52.1
+T2	icd_code 28 45	стрый коньюктивит
+N2	Reference T2 ICD_codes:5899	H10
+T3	icd_code 0 11	Иридоциклит
+N3	Reference T3 ICD_codes:5959	H20

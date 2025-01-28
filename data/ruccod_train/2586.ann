@@ -1,0 +1,8 @@
+T1	icd_code 0 57	Синдром утомляемости после перенесенной вирусной инфекции
+N1	Reference T1 ICD_codes:5815	G93.3
+T2	icd_code 81 88	миалгия
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 60 79	стенический синдром
+N3	Reference T3 ICD_codes:4934	F48.0
+T1	icd_code 59 79	астенический синдром
+N1	Reference T1 ICD_codes:5815	G93.3

@@ -1,0 +1,5 @@
+T1	icd_code 0 13	Серная пробка
+N1	Reference T1 ICD_codes:6185	H61.2
+T2	icd_code 26 57	Вазомоторно-аллергический ринит
+N2	Reference T2 ICD_codes:6866	J30
+N3	Reference T2 ICD_codes:6868	J30.0

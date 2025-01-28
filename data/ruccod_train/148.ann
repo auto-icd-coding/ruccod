@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Синдром раздраженной кишки
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 28 47	внутренний геморрой
+N2	Reference T2 ICD_codes:6723	I84.2

@@ -1,0 +1,12 @@
+T1	icd_code 0 26	хронический гастродуоденит
+N1	Reference T1 ICD_codes:7256	K29.9
+T2	icd_code 67 88	реактивный панкреатит
+N2	Reference T2 ICD_codes:7514	K86.1
+T3	icd_code 90 113	ГЭРБ, неэрозивная форма
+N3	Reference T3 ICD_codes:7189	K21
+T4	icd_code 115 135	катаральный эзофагит
+N4	Reference T4 ICD_codes:7187	K20
+T5	icd_code 177 181	ГПОД
+N5	Reference T5 ICD_codes:7305	K44
+T6	icd_code 183 195	СРК сдиареей
+N6	Reference T6 ICD_codes:7364	K58.0

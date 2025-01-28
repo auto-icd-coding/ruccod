@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Аллергический ринит
+N1	Reference T1 ICD_codes:6866	J30
+T2	icd_code 21 36	фаринголарингит
+N2	Reference T2 ICD_codes:6790	J02.9

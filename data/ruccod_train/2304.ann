@@ -1,0 +1,8 @@
+T1	icd_code 0 21	ОРВИ , О ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 24 26	ГБ
+N2	Reference T2 ICD_codes:6357	I11
+T3	icd_code 44 46	НК
+N3	Reference T3 ICD_codes:6547	I50.0
+T4	icd_code 52 71	Контактный дерматит
+N4	Reference T4 ICD_codes:7647	L25

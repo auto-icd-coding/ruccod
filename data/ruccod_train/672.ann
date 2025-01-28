@@ -1,0 +1,11 @@
+T1	icd_code 0 11	Миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 27 59	Хронический сальпингит и оофорит
+N2	Reference T2 ICD_codes:8917	N70
+T3	icd_code 62 81	Гиперпролактинемия.
+N3	Reference T3 ICD_codes:2134	E22.1
+T4	icd_code 82 104	Микроаденома  гипофиза
+N4	Reference T4 ICD_codes:1705	D35.2
+N6	Reference T4 ICD_codes:1705	D35.2
+T5	icd_code 104 126	Параовориальная  киста
+N5	Reference T5 ICD_codes:10354	Q50.5

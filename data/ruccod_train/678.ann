@@ -1,0 +1,12 @@
+T1	icd_code 0 25	Кандидозный вульвовагинит
+N1	Reference T1 ICD_codes:636	B37.3
+T2	icd_code 26 37	Уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 53 56	ВПЧ
+N3	Reference T3 ICD_codes:928	B97.7
+T4	icd_code 84 104	сальпингит и оофорит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 125 128	НЛФ
+N5	Reference T5 ICD_codes:2177	E28.9
+T6	icd_code 153 188	Мелкокистозные  изменения  яичников
+N6	Reference T6 ICD_codes:2171	E28

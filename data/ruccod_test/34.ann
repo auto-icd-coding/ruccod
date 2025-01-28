@@ -1,0 +1,16 @@
+T1	icd_code 5 16	Астигматизм
+N1	Reference T1 ICD_codes:6129	H52.2
+T2	icd_code 18 45	Ангиопатия сосудов сетчатки
+N2	Reference T2 ICD_codes:6016	H31.8
+T3	icd_code 52 58	Миопия
+N3	Reference T3 ICD_codes:6128	H52.1
+T5	icd_code 89 95	Миопия
+N5	Reference T5 ICD_codes:6128	H52.1
+T6	icd_code 113 118	ПВХРД
+N6	Reference T6 ICD_codes:6039	H35.4
+T7	icd_code 120 135	Разрыв сетчатки
+N7	Reference T7 ICD_codes:6022	H33.0
+T8	icd_code 137 164	Локальная отслойка сетчатки
+N8	Reference T8 ICD_codes:6022	H33.0
+T9	icd_code 76 81	ПВХРД
+N4	Reference T9 ICD_codes:6039	H35.4

@@ -1,0 +1,8 @@
+T1	icd_code 1 22	Вегетативная дистония
+T2	icd_code 33 59	психовегетативными кризами
+T3	icd_code 69 100	тревожно-депрессивного синдрома
+T4	icd_code 135 167	пароксизм фибрилляции предсердий
+N1	Reference T1 ICD_codes:5801	G90.8
+N2	Reference T2 ICD_codes:4745	F23
+N3	Reference T3 ICD_codes:4881	F41.2
+N4	Reference T4 ICD_codes:6536	I48

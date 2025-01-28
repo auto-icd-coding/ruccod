@@ -1,0 +1,8 @@
+T1	icd_code 1 5	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 20	О.назофарингит
+N2	Reference T2 ICD_codes:6776	J00
+T3	icd_code 21 30	О.трахеит
+N3	Reference T3 ICD_codes:6797	J04.1
+T4	icd_code 47 59	Дислипидемия
+N4	Reference T4 ICD_codes:2354	E78.4

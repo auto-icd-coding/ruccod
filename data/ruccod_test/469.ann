@@ -1,0 +1,4 @@
+T1	icd_code 1 8	ЦВБ.ДЭП
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 33 59	Невринома 8 пары ЧН справа
+N2	Reference T2 ICD_codes:1697	D33.3

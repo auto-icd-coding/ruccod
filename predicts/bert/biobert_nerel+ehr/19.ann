@@ -1,0 +1,6 @@
+T1	icd_code 0 38	Сахарный диабет неуточненный  Ожирение
+T2	icd_code 67 89	Инсулинорезистентность
+T3	icd_code 91 113	Метаболический синдром
+N1	Reference T1 ICD_codes:2099	E14
+N2	Reference T2 ICD_codes:2065	E10.9
+N3	Reference T3 ICD_codes:2411	E88.9

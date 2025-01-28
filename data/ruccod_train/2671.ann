@@ -1,0 +1,10 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 9 28	Эктопия шейки матки
+N2	Reference T2 ICD_codes:9021	N86
+T3	icd_code 30 51	Киста правого яичника
+N3	Reference T3 ICD_codes:8993	N83.0
+T4	icd_code 53 81	Киста правой молочной железы
+N4	Reference T4 ICD_codes:8898	N60.0
+T5	icd_code 84 115	Лекарственное поражение печение
+N5	Reference T5 ICD_codes:7433	K71.2

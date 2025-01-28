@@ -1,0 +1,4 @@
+T1	icd_code 0 11	узловой зоб
+N1	Reference T1 ICD_codes:2026	E04
+T2	icd_code 13 23	гипотиреоз
+N2	Reference T2 ICD_codes:2025	E03.9

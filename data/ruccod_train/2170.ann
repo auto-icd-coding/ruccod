@@ -1,0 +1,6 @@
+T1	icd_code 0 27	Острый этмоидальный синусит
+N1	Reference T1 ICD_codes:6782	J01.2
+T2	icd_code 41 59	Вазомоторный ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 60 78	О.фаринголарингит,
+N3	Reference T3 ICD_codes:6787	J02

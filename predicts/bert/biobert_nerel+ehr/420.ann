@@ -1,0 +1,4 @@
+T1	icd_code 0 20	Глубокий кариес зуба
+T2	icd_code 34 45	кариес зуба
+N1	Reference T1 ICD_codes:7085	K02.8
+N2	Reference T2 ICD_codes:7085	K02.8

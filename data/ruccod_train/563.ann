@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Острый вагинит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 16 34	Эрозия шейки матки
+N2	Reference T2 ICD_codes:9022	N87
+T3	icd_code 45 54	 яичников
+N3	Reference T3 ICD_codes:2171	E28
+T4	icd_code 66 78	 эндометриоз
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 82 93	Миома матки
+N5	Reference T5 ICD_codes:1647	D25

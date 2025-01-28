@@ -1,0 +1,4 @@
+T1	icd_code 0 22	Анемия неясного генеза
+N1	Reference T1 ICD_codes:1811	D50.9
+T2	icd_code 59 86	Ангиомиолипома правой почки
+N2	Reference T2 ICD_codes:1672	D30

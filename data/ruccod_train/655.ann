@@ -1,0 +1,9 @@
+T1	icd_code 0 3	СРК
+N1	Reference T1 ICD_codes:7363	K58
+T2	icd_code 15 37	Дисбактериоз кишечника
+N2	Reference T2 ICD_codes:7398	K63
+T3	icd_code 72 86	гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 39 86	Хронический Н.р.-ассоциированный гастродуоденит
+T5	icd_code 98 124	Дискинезия желчного пузыря
+N5	Reference T5 ICD_codes:7281	K38.9

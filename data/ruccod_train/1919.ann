@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Аллергический ринит
+N1	Reference T1 ICD_codes:6866	J30
+T2	icd_code 22 50	Дисфункция билиарного тракта
+N2	Reference T2 ICD_codes:7500	K82.8
+T3	icd_code 53 79	Хронический гастродуоденит
+N3	Reference T3 ICD_codes:7246	K29
+T4	icd_code 82 91	Паразитоз
+N4	Reference T4 ICD_codes:851	B82.9
+T5	icd_code 94 116	Герпетическая инфекция
+N5	Reference T5 ICD_codes:480	B00.8

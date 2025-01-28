@@ -1,0 +1,6 @@
+T1	icd_code 0 12	Хр. цервицит
+N1	Reference T1 ICD_codes:8926	N72
+T2	icd_code 13 24	Микоплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T2	icd_code 25 36	Уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8

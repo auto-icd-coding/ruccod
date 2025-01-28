@@ -1,0 +1,8 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 9 33	Климактерический синдром
+N2	Reference T2 ICD_codes:9088	N95.1
+T3	icd_code 35 46	Миома матки
+N3	Reference T3 ICD_codes:1651	D25.9
+T4	icd_code 67 87	Хронический цервицит
+N4	Reference T4 ICD_codes:8926	N72

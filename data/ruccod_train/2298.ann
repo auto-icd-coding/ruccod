@@ -1,0 +1,10 @@
+T1	icd_code 0 63	Систолический шум,обусловленный аномалией подклапанных структур
+N1	Reference T1 ICD_codes:6452	I34.1
+T2	icd_code 72 92	 митрального клапана
+N2	Reference T2 ICD_codes:6452	I34.1
+T3	icd_code 96 132	Нарушение ритма сердца и проводимост
+N3	Reference T3 ICD_codes:6537	I49
+T4	icd_code 136 163	С-м вегетативной дисфункции
+N4	Reference T4 ICD_codes:4923	F45.3
+T5	icd_code 196 234	Экзогенно- конституциональное ожирение
+N5	Reference T5 ICD_codes:2282	E66.0

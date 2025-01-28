@@ -1,0 +1,6 @@
+T1	icd_code 0 13	Острый цистит
+N1	Reference T1 ICD_codes:8791	N30.0
+T2	icd_code 15 22	Вагинит
+N2	Reference T2 ICD_codes:8926	N72
+T3	icd_code 24 51	Хронический сальпингоофорит
+N3	Reference T3 ICD_codes:8920	N70.1

@@ -1,0 +1,8 @@
+T1	icd_code 1 19	Дорсопатия шейного
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 73 84	цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 86 96	торакалгия
+N3	Reference T3 ICD_codes:5700	G58.0
+T4	icd_code 157 203	Вертеброгенное влияние на ПА с вестибулопатией
+N4	Reference T4 ICD_codes:6259	H81.0

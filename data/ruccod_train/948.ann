@@ -1,0 +1,4 @@
+T1	icd_code 0 11	Хр. оофорит
+N1	Reference T1 ICD_codes:8917	N70
+T2	icd_code 37 44	Кольпит
+N2	Reference T2 ICD_codes:8949	N76

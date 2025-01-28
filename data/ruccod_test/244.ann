@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Гигрома
+N1	Reference T1 ICD_codes:8370	M67.4
+T2	icd_code 28 57	Артроз голеностопного сустава
+N2	Reference T2 ICD_codes:8092	M19.0

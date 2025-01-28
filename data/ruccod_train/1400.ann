@@ -1,0 +1,8 @@
+T1	icd_code 0 41	Хронический Н.р.-ассоциированный  гастрит
+N1	Reference T1 ICD_codes:7250	K29.3
+T2	icd_code 75 97	Недостаточность кардии
+N2	Reference T2 ICD_codes:7266	K31.8
+T3	icd_code 99 120	Реактивный панкреатит
+N3	Reference T3 ICD_codes:7511	K85
+T4	icd_code 122 153	Хронический  вирусный гепатит С
+N4	Reference T4 ICD_codes:537	B18.2

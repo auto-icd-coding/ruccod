@@ -1,0 +1,12 @@
+T1	icd_code 0 11	Миома матки
+N1	Reference T1 ICD_codes:1647	D25
+T2	icd_code 28 56	Эндометриоз матки (аденомиоз
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 71 78	метрит,
+N3	Reference T3 ICD_codes:8922	N71
+T4	icd_code 90 110	сальпингит и оофорит
+N4	Reference T4 ICD_codes:8917	N70
+T5	icd_code 111 137	Уреаплазмоз урогенитальный
+N5	Reference T5 ICD_codes:324	A63.8
+T6	icd_code 139 163	Хламидиоз урогенитальный
+N6	Reference T6 ICD_codes:305	A56

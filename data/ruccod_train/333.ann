@@ -1,0 +1,8 @@
+T1	icd_code 0 27	ППЦНС гипоксического генеза
+N1	Reference T1 ICD_codes:5833	G96
+T2	icd_code 29 54	Синдром мышечной дистонии
+N2	Reference T2 ICD_codes:5527	G24
+T3	icd_code 56 81	Слабость пупочного кольца
+N3	Reference T3 ICD_codes:7297	K42
+T4	icd_code 83 101	белой линии живота
+N4	Reference T4 ICD_codes:7304	K43.9

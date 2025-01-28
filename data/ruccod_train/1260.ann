@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8307	M54
+T2	icd_code 12 54	Остеохондроз позвоночника распространенный
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 56 87	Вертеброгенная цервиколюмбалгия
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 99 114	болевой синдром
+N4	Reference T4 ICD_codes:10930	R52
+T5	icd_code 116 142	Мышечно-тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 144 165	Статические нарушения
+N6	Reference T6 ICD_codes:10840	R27

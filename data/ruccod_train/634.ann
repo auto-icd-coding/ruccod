@@ -1,0 +1,8 @@
+T1	icd_code 12 21	простатит
+N1	Reference T1 ICD_codes:8847	N41.1
+T2	icd_code 42 68	Урогенитальный уреаплазмоз
+N2	Reference T2 ICD_codes:324	A63.8
+T3	icd_code 70 82	микоплазмоз.
+N3	Reference T3 ICD_codes:261	A49.3
+T4	icd_code 83 97	Дисбиоз уретры
+N4	Reference T4 ICD_codes:8815	N34

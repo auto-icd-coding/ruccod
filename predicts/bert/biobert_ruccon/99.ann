@@ -1,0 +1,4 @@
+T1	icd_code 13 28	микоз кожи стоп
+T2	icd_code 30 52	интертригинозная форма
+N1	Reference T1 ICD_codes:619	B35.3
+N2	Reference T2 ICD_codes:7829	L70.0

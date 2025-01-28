@@ -1,0 +1,6 @@
+T1	icd_code 0 23	ПОЯСНИЧНЫЙ ОСТЕОХОНДРОЗ
+T2	icd_code 25 46	ДИСКОГКННАЯ ЛЮМБАЛГИЯ
+T3	icd_code 72 116	СТОЙКИЙ БОЛЕВОЙ И МЫШЕЧНО-ТОНИЧЕСКИЙ СИНДРОМ
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:8312	M54.4
+N3	Reference T3 ICD_codes:4939	F50-F59

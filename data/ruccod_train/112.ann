@@ -1,0 +1,6 @@
+T2	icd_code 12 50	гипоксически-ишемической энцефалопатии
+N2	Reference T2 ICD_codes:9977	P91
+T1	icd_code 52 73	с-м мышечной дистонии
+N1	Reference T1 ICD_codes:5527	G24
+T3	icd_code 74 99	-м транзиторной дистензии
+N3	Reference T3 ICD_codes:5610	G45

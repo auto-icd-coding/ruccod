@@ -1,0 +1,6 @@
+T1	icd_code 0 11	Дорсопатия.
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 12 24	Остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 69 77	сколиоз.
+N3	Reference T3 ICD_codes:8217	M41

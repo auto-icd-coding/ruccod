@@ -1,0 +1,6 @@
+T1	icd_code 0 23	Уретрит неспецифический
+T2	icd_code 25 39	микоплазменной
+T3	icd_code 52 61	Простатит
+N1	Reference T1 ICD_codes:8817	N34.1
+N2	Reference T2 ICD_codes:261	A49.3
+N3	Reference T3 ICD_codes:8846	N41.0

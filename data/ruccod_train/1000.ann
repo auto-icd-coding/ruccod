@@ -1,0 +1,4 @@
+T1	icd_code 0 17	Острый пансинусит
+N1	Reference T1 ICD_codes:6784	J01.4
+T2	icd_code 19 58	Киста в/челюстной  пазухи с 2- х сторон
+N2	Reference T2 ICD_codes:6892	J34.1

@@ -1,0 +1,8 @@
+T1	icd_code 0 19	Хронический гастрит
+N1	Reference T1 ICD_codes:7252	K29.5
+T2	icd_code 42 83	Синдром раздраженного кишечника с диареей
+N2	Reference T2 ICD_codes:7364	K58.0
+T3	icd_code 87 139	Синдром избыточного бактериального роста в кишечнике
+N3	Reference T3 ICD_codes:10804	R19.8
+T4	icd_code 141 153	Сальмонеллез
+N4	Reference T4 ICD_codes:18	A02.9

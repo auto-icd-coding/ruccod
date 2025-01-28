@@ -1,0 +1,12 @@
+T1	icd_code 5 57	Герпесвирусиндуцированное иммунодефицитное состояние
+N1	Reference T1 ICD_codes:480	B00.8
+T2	icd_code 74 94	Аллергический ринит,
+N2	Reference T2 ICD_codes:6872	J30.4
+T3	icd_code 95 109	ляринготрахеит
+N3	Reference T3 ICD_codes:6798	J04.2
+T4	icd_code 111 133	Эпидермальная аллергия
+N4	Reference T4 ICD_codes:7625	L23
+T5	icd_code 135 154	Гиперглобулин-Еемия
+N5	Reference T5 ICD_codes:11003	R77.8
+T6	icd_code 156 166	Гельминтоз
+N6	Reference T6 ICD_codes:859	B83.9

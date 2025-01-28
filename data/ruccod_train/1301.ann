@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 27	Ротавирусная инфекция
+N2	Reference T2 ICD_codes:64	A08.0
+T3	icd_code 29 34	ФНЖКТ
+N3	Reference T3 ICD_codes:7373	K59.9

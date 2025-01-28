@@ -1,0 +1,7 @@
+T1	icd_code 0 4	ПХРД
+N1	Reference T1 ICD_codes:6034	H35
+T2	icd_code 6 40	Гипертоническая ангипатия сетчатки
+N2	Reference T2 ICD_codes:6034	H35
+T3	icd_code 54 63	катаракта
+N3	Reference T3 ICD_codes:5985	H26
+T4	icd_code 65 85	Синдром сухого глаза

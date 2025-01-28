@@ -1,0 +1,8 @@
+T1	icd_code 0 18	Генитальный герпес
+N1	Reference T1 ICD_codes:319	A60.0
+T2	icd_code 28 39	эндометрита
+N2	Reference T2 ICD_codes:8922	N71
+T3	icd_code 48 64	сальпингоофорита
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 74 95	Бактериальный вагиноз
+N4	Reference T4 ICD_codes:9035	N89

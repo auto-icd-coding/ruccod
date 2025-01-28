@@ -1,0 +1,8 @@
+T1	icd_code 26 48	гиперплазии эндометрия
+N1	Reference T1 ICD_codes:9011	N85.0
+T2	icd_code 51 75	мелких кист эндоцервикса
+N2	Reference T2 ICD_codes:9033	N88.8
+T3	icd_code 78 120	спаечного процесса в полости м/таза справа
+N3	Reference T3 ICD_codes:9115	N99.4
+T4	icd_code 145 185	свободной жидкости в полости малого таза
+N4	Reference T4 ICD_codes:9010	N85

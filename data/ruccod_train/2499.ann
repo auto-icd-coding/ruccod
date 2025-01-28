@@ -1,0 +1,10 @@
+T1	icd_code 5 15	Дисменорея
+N1	Reference T1 ICD_codes:9083	N94.6
+T2	icd_code 17 21	СПКЯ
+N2	Reference T2 ICD_codes:2174	E28.2
+T3	icd_code 24 35	Эндометриоз
+N3	Reference T3 ICD_codes:8972	N80.9
+T4	icd_code 36 55	Эктопия шейки матки
+N4	Reference T4 ICD_codes:9021	N86
+T5	icd_code 68 77	Масталгия
+N5	Reference T5 ICD_codes:8913	N64.4

@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Хр бронхит
+N1	Reference T1 ICD_codes:6926	J41.0
+T2	icd_code 54 66	тороколгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 68 89	межреберная невролгия
+N3	Reference T3 ICD_codes:8442	M79.2
+T4	icd_code 99 109	Хр гастрит
+N4	Reference T4 ICD_codes:7252	K29.5
+T5	icd_code 134 147	патологию ПЖЖ
+N5	Reference T5 ICD_codes:7481	K80-K87
+T6	icd_code 150 160	Тугоухость
+N6	Reference T6 ICD_codes:6284	H90.8
+T7	icd_code 164 172	евтахиит
+N7	Reference T7 ICD_codes:6221	H69.9

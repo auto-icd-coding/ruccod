@@ -1,0 +1,4 @@
+T1	icd_code 0 18	острый энтероколит
+T2	icd_code 32 41	этиологии
+N1	Reference T1 ICD_codes:7324	K51.0
+N2	Reference T2 ICD_codes:2869	F07.0

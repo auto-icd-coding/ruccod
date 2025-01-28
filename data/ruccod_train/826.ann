@@ -1,0 +1,8 @@
+T1	icd_code 0 24	Язвенная болезнь желудка
+N1	Reference T1 ICD_codes:7206	K25
+T2	icd_code 44 61	Эрозивный бульбит
+N2	Reference T2 ICD_codes:7255	K29.8
+T3	icd_code 63 90	Дуодено-гастральный рефлюкс
+N3	Reference T3 ICD_codes:7266	K31.8
+T4	icd_code 92 113	Реактивный панкреатит
+N4	Reference T4 ICD_codes:7514	K86.1

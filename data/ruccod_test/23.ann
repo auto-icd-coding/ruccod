@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Цервикалгия
+N1	Reference T1 ICD_codes:8310	M54.2
+T2	icd_code 13 23	Торакалгия
+N2	Reference T2 ICD_codes:8314	M54.6
+T3	icd_code 25 34	Люмбалгия
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 52 78	Мышечно-тонический синдром
+N4	Reference T4 ICD_codes:8441	M79.1
+T5	icd_code 80 98	Корешковый синдром
+N5	Reference T5 ICD_codes:8309	M54.1

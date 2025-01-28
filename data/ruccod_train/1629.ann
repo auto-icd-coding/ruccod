@@ -1,0 +1,6 @@
+T1	icd_code 27 33	Анемия
+N1	Reference T1 ICD_codes:1805	D50
+T2	icd_code 35 56	Цефалгия неуточненная
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 0 25	Вегетососудистая дистония
+N3	Reference T3 ICD_codes:5801	G90.8

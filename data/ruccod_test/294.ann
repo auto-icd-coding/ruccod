@@ -1,0 +1,12 @@
+T1	icd_code 0 13	Тиреотоксикоз
+N1	Reference T1 ICD_codes:2040	E05.9
+T2	icd_code 15 40	Эндогенный гиперкортицизм
+N2	Reference T2 ICD_codes:2152	E24.9
+T3	icd_code 42 67	Первичный гиперпаратиреоз
+N3	Reference T3 ICD_codes:2126	E21.0
+T4	icd_code 69 98	Первичный гиперальдостеронизм
+N4	Reference T4 ICD_codes:2158	E26.0
+T5	icd_code 100 114	Феохромоцитома
+N5	Reference T5 ICD_codes:1325	C74.9
+T6	icd_code 116 151	Нарушение толерантности к углеводам
+N6	Reference T6 ICD_codes:10986	R73.0

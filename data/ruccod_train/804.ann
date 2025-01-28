@@ -1,0 +1,10 @@
+T1	icd_code 0 15	Гиперандрогения
+N1	Reference T1 ICD_codes:2154	E25.0
+T2	icd_code 21 40	эндометриоз т/матки
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 62 93	Наружно-генитальный эндометриоз
+N3	Reference T3 ICD_codes:8965	N80.1
+T4	icd_code 95 116	Эндометриоидная киста
+N4	Reference T4 ICD_codes:8995	N83.2
+T5	icd_code 118 121	АГС
+N5	Reference T5 ICD_codes:2153	E25

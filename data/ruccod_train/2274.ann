@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 22 39	О фаринголарингит
+N2	Reference T2 ICD_codes:6803	J06.0
+T3	icd_code 66 73	О ринит
+N3	Reference T3 ICD_codes:6776	J00

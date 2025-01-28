@@ -1,0 +1,16 @@
+T1	icd_code 242 254	ЯБ 12п.кишки
+N1	Reference T1 ICD_codes:7224	K26.7
+T2	icd_code 0 26	хронический гастродуоденит
+N2	Reference T2 ICD_codes:7256	K29.9
+T3	icd_code 79 83	ГЭРБ
+N3	Reference T3 ICD_codes:7190	K21.0
+T4	icd_code 104 124	катаральный эзофагит
+N4	Reference T4 ICD_codes:7187	K20
+T5	icd_code 155 177	недостаточность кардии
+N5	Reference T5 ICD_codes:7200	K22.8
+T6	icd_code 179 187	ГПОД 2ст
+N6	Reference T6 ICD_codes:7308	K44.9
+T7	icd_code 212 225	стеатогепатит
+N7	Reference T7 ICD_codes:7467	K76.0
+T8	icd_code 189 210	реактивный панкреатит
+N8	Reference T8 ICD_codes:7511	K85

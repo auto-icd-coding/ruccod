@@ -1,0 +1,10 @@
+T1	icd_code 0 19	Диарея неуточненная
+T2	icd_code 22 48	Хронический гастродуоденит
+T3	icd_code 66 87	Реактивный панкреатит
+T4	icd_code 114 129	потери сознания
+T5	icd_code 131 135	Ушиб
+N1	Reference T1 ICD_codes:7368	K59.1
+N2	Reference T2 ICD_codes:7256	K29.9
+N3	Reference T3 ICD_codes:7511	K85
+N4	Reference T4 ICD_codes:5281	F78
+N5	Reference T5 ICD_codes:11853	S70.0

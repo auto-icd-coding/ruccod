@@ -1,0 +1,19 @@
+T1	icd_code 0 41	Синдром раздраженного кишечника с диареей
+N1	Reference T1 ICD_codes:7364	K58.0
+T2	icd_code 55 72	Дисбиоз кишечника
+N2	Reference T2 ICD_codes:7405	K63.9
+T3	icd_code 74 114	Синдром избыточного бактериального роста
+N3	Reference T3 ICD_codes:10804	R19.8
+T4	icd_code 116 126	Гельминтоз
+N4	Reference T4 ICD_codes:859	B83.9
+T5	icd_code 127 149	
+Реактивный панкреатит
+N5	Reference T5 ICD_codes:7518	K86.9
+T6	icd_code 163 172	Дисформия
+N6	Reference T6 ICD_codes:7509	K83.8
+T7	icd_code 174 198	дисхолия желчного пузыря
+N7	Reference T7 ICD_codes:7509	K83.8
+T8	icd_code 200 204	ДЖВП
+N8	Reference T8 ICD_codes:7509	K83.8
+T9	icd_code 206 225	Хронический гастрит
+N9	Reference T9 ICD_codes:7250	K29.3

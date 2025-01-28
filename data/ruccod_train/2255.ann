@@ -1,0 +1,4 @@
+T1	icd_code 0 9	Гонартроз
+N1	Reference T1 ICD_codes:8075	M17
+T2	icd_code 28 35	синовит
+N2	Reference T2 ICD_codes:8357	M65.9

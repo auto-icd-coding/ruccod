@@ -1,0 +1,14 @@
+T1	icd_code 0 6	Травма
+T2	icd_code 36 46	растяжение
+T3	icd_code 68 83	Болевой синдром
+T4	icd_code 85 89	Ушиб
+T5	icd_code 152 176	Артериальная гипертензия
+T6	icd_code 224 230	диабет
+T7	icd_code 238 246	Ожирение
+N1	Reference T1 ICD_codes:12240	T14.9
+N2	Reference T2 ICD_codes:11378	S23.5
+N3	Reference T3 ICD_codes:8441	M79.1
+N4	Reference T4 ICD_codes:11853	S70.0
+N5	Reference T5 ICD_codes:6355	I10
+N6	Reference T6 ICD_codes:2141	E23.2
+N7	Reference T7 ICD_codes:2286	E66.9

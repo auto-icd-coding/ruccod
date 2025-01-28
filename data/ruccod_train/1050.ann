@@ -1,0 +1,10 @@
+T1	icd_code 0 14	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 20 46	Угрожаема по невынашиванию
+N2	Reference T2 ICD_codes:9265	O26.2
+T3	icd_code 64 79	гиперкоагуляции
+N3	Reference T3 ICD_codes:1898	D68
+T4	icd_code 112 120	краснухе
+N4	Reference T4 ICD_codes:506	B06
+T5	icd_code 96 109	токсоплазмозу
+N5	Reference T5 ICD_codes:756	B58

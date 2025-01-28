@@ -1,0 +1,8 @@
+T1	icd_code 0 10	Пресбиопия
+N1	Reference T1 ICD_codes:6131	H52.4
+T2	icd_code 20 31	астигматизм
+N2	Reference T2 ICD_codes:6129	H52.2
+T3	icd_code 36 42	миопич
+N3	Reference T3 ICD_codes:6128	H52.1
+T4	icd_code 44 55	астигматизм
+N4	Reference T4 ICD_codes:6129	H52.2

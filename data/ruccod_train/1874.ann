@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Диффузно-узловой формы аденомиоз
+N1	Reference T1 ICD_codes:8971	N80.8
+T2	icd_code 33 68	Хронический интерстициальный цистит
+N2	Reference T2 ICD_codes:8796	N30.8
+T3	icd_code 88 103	Болевой синдром
+N3	Reference T3 ICD_codes:10934	R52.9
+T4	icd_code 104 139	несостоятельность мышц тазового дна
+N4	Reference T4 ICD_codes:8976	N81.2
+T5	icd_code 140 165	опущение стенок влагалища
+N5	Reference T5 ICD_codes:8976	N81.2
+T6	icd_code 166 173	Кольпит
+N6	Reference T6 ICD_codes:8926	N72

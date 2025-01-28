@@ -1,0 +1,10 @@
+T1	icd_code 89 111	Миопия средней степени
+N1	Reference T1 ICD_codes:6128	H52.1
+T2	icd_code 78 87	Узкий таз
+N2	Reference T2 ICD_codes:9316	O33.1
+T3	icd_code 58 76	Эрозия шейки матки
+N3	Reference T3 ICD_codes:9021	N86
+T4	icd_code 0 12	Беременность
+N4	Reference T4 ICD_codes:16796	Z34
+T5	icd_code 22 56	Токсикоз беременных легкой степени
+N5	Reference T5 ICD_codes:9232	O21.0

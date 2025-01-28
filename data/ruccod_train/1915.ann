@@ -1,0 +1,20 @@
+T1	icd_code 361 384	Кардиалгический синдром
+N1	Reference T1 ICD_codes:10770	R07.3
+T2	icd_code 417 429	кифосколиоза
+N2	Reference T2 ICD_codes:8224	M41.8
+T3	icd_code 464 493	 мышечно-тоническим синдромом
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 267 281	радикулопатией
+N4	Reference T4 ICD_codes:8309	M54.1
+T5	icd_code 0 28	Цервикраниалгический синдром
+N5	Reference T5 ICD_codes:8310	M54.2
+T6	icd_code 142 185	закрытой травмы шейного отдела позвоночника
+N6	Reference T6 ICD_codes:11312	S14.6
+T7	icd_code 188 200	антелистезом
+N7	Reference T7 ICD_codes:8238	M43.8
+T8	icd_code 230 264	шейного остеохондроза позвоночника
+N8	Reference T8 ICD_codes:8228	M42.1
+T9	icd_code 289 325	умеренными динамическими нарушениями
+N9	Reference T9 ICD_codes:2835	F06.9
+T5	icd_code 31 85	хроническая вертебро-базилярная недостаточность 2 степ
+N5	Reference T5 ICD_codes:8310	M54.2

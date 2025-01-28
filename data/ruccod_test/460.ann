@@ -1,0 +1,20 @@
+T1	icd_code 104 125	Межреберная невралгия
+N1	Reference T1 ICD_codes:5700	G58.0
+T2	icd_code 127 145	Мышечно-тонический
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 147 170	цервикоторакоалгический
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 187 197	дорсопатии
+N4	Reference T4 ICD_codes:8306	M40-M54
+T5	icd_code 199 243	распространенного остеохондроза позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 247 282	Артериальная гипертензия 3 степени,
+N6	Reference T6 ICD_codes:6359	I11.9
+T7	icd_code 347 361	Гиперлипидемия
+N7	Reference T7 ICD_codes:2355	E78.5
+T8	icd_code 366 402	Атеросклероз брахиоцефальных артерий
+N10	Reference T8 ICD_codes:6620	I67.2
+T9	icd_code 407 442	Нарушение толерантности к углеводам
+N9	Reference T9 ICD_codes:10986	R73.0
+T10	icd_code 339 342	МКБ
+N8	Reference T10 ICD_codes:8755	N20-N23

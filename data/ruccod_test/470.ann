@@ -1,0 +1,12 @@
+T1	icd_code 0 3	ЖДА
+N1	Reference T1 ICD_codes:1805	D50
+T2	icd_code 26 38	дефицит В 12
+N2	Reference T2 ICD_codes:1818	D51.9
+T3	icd_code 41 103	Гипертоническая болезнь  II стадии, Артериальная гипертензия 3
+N3	Reference T3 ICD_codes:6359	I11.9
+T4	icd_code 143 156	Гиперурикемия
+N4	Reference T4 ICD_codes:2359	E79
+T5	icd_code 158 165	Подагра
+N5	Reference T5 ICD_codes:8027	M10.9
+T6	icd_code 167 180	Hallus valgus
+N6	Reference T6 ICD_codes:8100	M20.1

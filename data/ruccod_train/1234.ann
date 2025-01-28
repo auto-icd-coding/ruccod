@@ -1,0 +1,8 @@
+T1	icd_code 0 20	хронический фарингит
+N1	Reference T1 ICD_codes:6876	J31.2
+T2	icd_code 46 64	вазомоторный ринит
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 67 104	меренное искривление перегородки носа
+N3	Reference T3 ICD_codes:6893	J34.2
+T4	icd_code 106 134	Гмипотонус голосовых складок
+N4	Reference T4 ICD_codes:6915	J38.7

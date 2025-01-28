@@ -1,0 +1,12 @@
+T1	icd_code 0 5	ХЗВНК
+N1	Reference T1 ICD_codes:9245	O22.9
+T2	icd_code 7 27	Ретикулярный варикоз
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 34 72	Состояние после флебэктомии БПВ справа
+N3	Reference T3 ICD_codes:16949	Z54.0
+T4	icd_code 100 103	ХВН
+N4	Reference T4 ICD_codes:6744	I87.2
+T5	icd_code 126 170	остеохондроз поясничного отдела позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 172 212	Полиостеоартроз правой нижней конечности
+N6	Reference T6 ICD_codes:8064	M15.9

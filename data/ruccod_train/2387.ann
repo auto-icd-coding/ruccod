@@ -1,0 +1,10 @@
+T1	icd_code 0 41	остеохондроз шейного отдела  позвоночника
+N1	Reference T1 ICD_codes:8228	M42.1
+T2	icd_code 43 69	варикозная болезнь вен н/к
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 71 78	ХВН н/к
+N3	Reference T3 ICD_codes:6744	I87.2
+T4	icd_code 81 117	двусторонние поперечное плоскостопие
+N4	Reference T4 ICD_codes:10470	Q66.5
+T5	icd_code 119 145	двусторонний HALLUS VALGUS
+N5	Reference T5 ICD_codes:8100	M20.1

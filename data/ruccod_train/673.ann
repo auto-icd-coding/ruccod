@@ -1,0 +1,8 @@
+T1	icd_code 0 12	Беременность
+N1	Reference T1 ICD_codes:16796	Z34
+T2	icd_code 33 43	хламидиоза
+N2	Reference T2 ICD_codes:305	A56
+T3	icd_code 45 57	уреаплазмоза
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 63 74	пиелонефрит
+N4	Reference T4 ICD_codes:8707	N11.0

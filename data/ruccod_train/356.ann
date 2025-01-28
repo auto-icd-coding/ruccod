@@ -1,0 +1,15 @@
+T1	icd_code 0 21	Бактериальный вагиноз
+N1	Reference T1 ICD_codes:9035	N89
+T2	icd_code 23 43	
+Эндометриоз т/матки
+N2	Reference T2 ICD_codes:8964	N80.0
+T3	icd_code 51 58	аднекси
+N3	Reference T3 ICD_codes:8917	N70
+T4	icd_code 75 98	Лейкоплакия шейки матки
+N4	Reference T4 ICD_codes:9028	N88.0
+T5	icd_code 101 116	Полип эндомерия
+N5	Reference T5 ICD_codes:9004	N84.0
+T6	icd_code 119 122	АГС
+N6	Reference T6 ICD_codes:2153	E25
+T7	icd_code 124 133	Гирсутизм
+N7	Reference T7 ICD_codes:7822	L68.0

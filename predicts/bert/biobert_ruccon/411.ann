@@ -1,0 +1,8 @@
+T1	icd_code 0 32	Артрозо-артрит коленных суставов
+T2	icd_code 46 57	Повреждение
+T3	icd_code 105 119	Пяточные шпоры
+T4	icd_code 132 165	Продольно-поперечное плоскостопие
+N1	Reference T1 ICD_codes:8082	M17.9
+N2	Reference T2 ICD_codes:10894	R45.4
+N3	Reference T3 ICD_codes:8434	M77.3
+N4	Reference T4 ICD_codes:8111	M21.4

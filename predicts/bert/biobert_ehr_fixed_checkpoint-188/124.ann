@@ -1,0 +1,6 @@
+T1	icd_code 0 4	ОРВИ
+T2	icd_code 14 33	Острый назофарингит
+T3	icd_code 35 45	Хр синусит
+N1	Reference T1 ICD_codes:6777	J00-J06
+N2	Reference T2 ICD_codes:6776	J00
+N3	Reference T3 ICD_codes:6884	J32.9

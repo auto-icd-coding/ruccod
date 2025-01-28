@@ -1,0 +1,16 @@
+T1	icd_code 0 24	Артериальная гипертензия
+N1	Reference T1 ICD_codes:6357	I11
+T2	icd_code 96 121	хронического пиелонефрита
+N2	Reference T2 ICD_codes:8707	N11.0
+T3	icd_code 46 87	Симптоматическая артериальная гипертензия
+N3	Reference T3 ICD_codes:6373	I15.9
+T4	icd_code 123 142	ВСД смешанного типа
+N4	Reference T4 ICD_codes:4923	F45.3
+T5	icd_code 145 167	Анемия неясного генеза
+N5	Reference T5 ICD_codes:1893	D64.9
+T6	icd_code 170 174	ДЖВП
+N6	Reference T6 ICD_codes:7509	K83.8
+T7	icd_code 176 195	Хронический гастрит
+N7	Reference T7 ICD_codes:7252	K29.5
+T8	icd_code 246 272	Дуоденогастральный рефлюкс
+N8	Reference T8 ICD_codes:7266	K31.8

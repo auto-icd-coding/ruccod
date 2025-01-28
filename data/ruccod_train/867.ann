@@ -1,0 +1,10 @@
+T1	icd_code 0 7	Кольпит
+N1	Reference T1 ICD_codes:8949	N76
+T2	icd_code 9 29	Генитальный кандидоз
+N2	Reference T2 ICD_codes:637	B37.4
+T3	icd_code 30 43	Бак. вагиноз.
+N3	Reference T3 ICD_codes:9035	N89
+T4	icd_code 61 81	эндометриоза т/матки
+N4	Reference T4 ICD_codes:8964	N80.0
+T5	icd_code 87 95	аднексит
+N5	Reference T5 ICD_codes:8917	N70

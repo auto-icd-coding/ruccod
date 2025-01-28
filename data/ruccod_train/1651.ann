@@ -1,0 +1,6 @@
+T1	icd_code 0 36	Дисциркуляторная энцефалопатия II ст
+N1	Reference T1 ICD_codes:6626	I67.8
+T2	icd_code 38 74	Атеросклероз сосудов головного мозга
+N2	Reference T2 ICD_codes:6645	I70.8
+T3	icd_code 77 102	Нейросенсорная тугоухость
+N3	Reference T3 ICD_codes:6279	H90.3

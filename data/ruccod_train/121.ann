@@ -1,0 +1,11 @@
+T1	icd_code 0 21	Цефалгический синдром
+N1	Reference T1 ICD_codes:5606	G44.2
+T2	icd_code 50 67	цервикокраниалгии
+T3	icd_code 70 81	мигренозной
+N3	Reference T3 ICD_codes:5596	G43
+T4	icd_code 206 225	Астенический невроз
+N4	Reference T4 ICD_codes:4933	F48
+T5	icd_code 284 310	инсомническими нарушениями
+N5	Reference T5 ICD_codes:5628	G47
+T6	icd_code 259 282	вегетативной дисфункции
+N6	Reference T6 ICD_codes:5795	G90

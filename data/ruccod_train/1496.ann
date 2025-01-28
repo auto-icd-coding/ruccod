@@ -1,0 +1,12 @@
+T1	icd_code 0 32	Реактивный (ревматоидный) артрит
+N1	Reference T1 ICD_codes:7992	M06
+T2	icd_code 52 73	Хронический тонзиллит
+N2	Reference T2 ICD_codes:6897	J35.0
+T3	icd_code 92 134	Дорсопатия поясничного отдела позвоночника
+N3	Reference T3 ICD_codes:8313	M54.5
+T4	icd_code 173 184	пиелонефрит
+N4	Reference T4 ICD_codes:8710	N11.9
+T5	icd_code 186 230	остеохондроз поясничного отдела позвоночника
+N5	Reference T5 ICD_codes:8228	M42.1
+T6	icd_code 242 281	выраженным мышечно-тоническим синдромом
+N6	Reference T6 ICD_codes:8441	M79.1

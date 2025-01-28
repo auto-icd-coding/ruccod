@@ -1,0 +1,4 @@
+T1	icd_code 0 6	Анемия
+N1	Reference T1 ICD_codes:1893	D64.9
+T2	icd_code 21 33	беременности
+N2	Reference T2 ICD_codes:16794	Z32.9

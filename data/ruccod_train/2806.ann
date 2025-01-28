@@ -1,0 +1,12 @@
+T1	icd_code 0 27	Нейроциркуляторная дистония
+N1	Reference T1 ICD_codes:4924	F45.30
+T2	icd_code 49 55	Анемия
+N2	Reference T2 ICD_codes:1893	D64.9
+T3	icd_code 61 84	Гипертоническая болезнь
+N3	Reference T3 ICD_codes:6357	I11
+T4	icd_code 125 155	 Атеросклероз сонных артерий. 
+N4	Reference T4 ICD_codes:6645	I70.8
+T5	icd_code 157 169	Дислипидемия
+N5	Reference T5 ICD_codes:2358	E78.9
+T6	icd_code 171 185	Гипертрофия ЛЖ
+N6	Reference T6 ICD_codes:6357	I11

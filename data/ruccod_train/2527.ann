@@ -1,0 +1,6 @@
+T1	icd_code 1 16	острый  синусит
+N1	Reference T1 ICD_codes:6779	J01
+T2	icd_code 18 41	2х сторонний  кат  отит
+N2	Reference T2 ICD_codes:6210	H66.9
+T3	icd_code 42 51	о трахеит
+N3	Reference T3 ICD_codes:6797	J04.1

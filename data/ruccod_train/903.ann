@@ -1,0 +1,11 @@
+T2	icd_code 75 92	острого холангита
+N2	Reference T2 ICD_codes:7503	K83.0
+T1	icd_code 0 3	ЖКБ
+N1	Reference T1 ICD_codes:7480	K80
+T3	icd_code 125 133	дисбиоза
+N3	Reference T3 ICD_codes:7398	K63
+T4	icd_code 94 133	Билиарная дигестия с явлениями дисбиоза
+T5	icd_code 135 156	Астенический синдром.
+N5	Reference T5 ICD_codes:4934	F48.0
+T6	icd_code 157 177	Мочекаменная болезнь
+N6	Reference T6 ICD_codes:8754	N20

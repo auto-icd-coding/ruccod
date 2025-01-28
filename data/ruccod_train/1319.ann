@@ -1,0 +1,12 @@
+T1	icd_code 0 3	МКБ
+N1	Reference T1 ICD_codes:8754	N20
+T2	icd_code 5 20	Микролиты почек
+N2	Reference T2 ICD_codes:8756	N20.0
+T3	icd_code 22 39	Камни левой почки
+N3	Reference T3 ICD_codes:8756	N20.0
+T4	icd_code 41 56	Почечная колика
+N4	Reference T4 ICD_codes:8768	N23
+T5	icd_code 65 99	Хронический калькулезный простатит
+N5	Reference T5 ICD_codes:8847	N41.1
+T6	icd_code 114 146	Варикозное расширение вен мошонк
+N6	Reference T6 ICD_codes:6736	I86.1

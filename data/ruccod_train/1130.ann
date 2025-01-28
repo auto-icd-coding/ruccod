@@ -1,0 +1,8 @@
+T1	icd_code 0 17	Шейная дорсопатия
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 31 48	Цервикобрахиалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 50 76	Мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 78 102	Головная боль напряжения
+N4	Reference T4 ICD_codes:5606	G44.2

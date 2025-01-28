@@ -1,0 +1,4 @@
+T1	icd_code 0 19	Средний кариес зуба
+T2	icd_code 24 43	Средний кариес зуба
+N1	Reference T1 ICD_codes:7085	K02.8
+N2	Reference T2 ICD_codes:7085	K02.8

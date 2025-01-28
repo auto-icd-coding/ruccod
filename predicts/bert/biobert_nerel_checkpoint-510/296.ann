@@ -1,0 +1,2 @@
+T1	icd_code 0 27	Образование области грудной
+N1	Reference T1 ICD_codes:8581	M95.4

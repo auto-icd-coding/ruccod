@@ -1,0 +1,20 @@
+T1	icd_code 2 50	Скользящая грыжа пищеводного отверстия диафрагмы
+N1	Reference T1 ICD_codes:7305	K44
+T2	icd_code 52 97	ГЭРБ, неэрозивная форма  катаральный эзофагит
+N2	Reference T2 ICD_codes:7190	K21.0
+T3	icd_code 105 143	Хронический Нр ассоциированный гастрит
+N3	Reference T3 ICD_codes:7252	K29.5
+T4	icd_code 157 174	Эрозивный бульбит
+N4	Reference T4 ICD_codes:7255	K29.8
+T5	icd_code 185 199	Дискинезия ЖВП
+N5	Reference T5 ICD_codes:7509	K83.8
+T6	icd_code 201 227	деформация желчного пузыря
+N6	Reference T6 ICD_codes:7509	K83.8
+T7	icd_code 241 246	НАЖБП
+N7	Reference T7 ICD_codes:7467	K76.0
+T8	icd_code 248 307	Токсическое поражение печени выраженным  синдромом цитолиза
+N8	Reference T8 ICD_codes:7439	K71.8
+T9	icd_code 309 323	Панкреатопатия
+N9	Reference T9 ICD_codes:7514	K86.1
+T10	icd_code 325 336	Субфебрилит
+N10	Reference T10 ICD_codes:10928	R50.9

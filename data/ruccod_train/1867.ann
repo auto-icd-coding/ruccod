@@ -1,0 +1,16 @@
+T1	icd_code 125 137	Кристаллурия
+N1	Reference T1 ICD_codes:11033	R82.9
+T2	icd_code 0 4	ИМВП
+N2	Reference T2 ICD_codes:8836	N39.0
+T3	icd_code 5 37	Хронический простатит,обострение
+N3	Reference T3 ICD_codes:8847	N41.1
+T4	icd_code 38 77	Хронический эпидидимит слева,обострение
+N4	Reference T4 ICD_codes:8865	N45
+T5	icd_code 78 101	Неспецифический уретрит
+N5	Reference T5 ICD_codes:8817	N34.1
+T6	icd_code 102 106	ИППП
+N6	Reference T6 ICD_codes:325	A64
+T7	icd_code 107 110	МКБ
+N7	Reference T7 ICD_codes:8756	N20.0
+T8	icd_code 111 123	Лейкоцитурия
+N8	Reference T8 ICD_codes:11031	R82.7

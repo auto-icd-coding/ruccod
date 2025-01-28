@@ -1,0 +1,20 @@
+T1	icd_code 12 43	S-образный сколиоз позвоночника
+N2	Reference T1 ICD_codes:8225	M41.9
+T2	icd_code 45 96	Кифотическая деформация шейного отдела позвоночника
+N5	Reference T2 ICD_codes:8213	M40.2
+T3	icd_code 98 140	Гиполордоз поясничного отдела позвоночника
+N3	Reference T3 ICD_codes:8216	M40.5
+T4	icd_code 142 187	Верхний (шейно-плечевой) перекрестный синдром
+N4	Reference T4 ICD_codes:8302	M53.1
+T6	icd_code 215 240	Остеохондроз позвоночника
+N6	Reference T6 ICD_codes:8228	M42.1
+T7	icd_code 259 286	Спондилоартроз позвоночника
+N7	Reference T7 ICD_codes:8261	M47
+T8	icd_code 328 354	Мышечно-тонический синдром
+N8	Reference T8 ICD_codes:8441	M79.1
+T9	icd_code 450 481	вестибулоататактический синдром
+N10	Reference T9 ICD_codes:6265	H81.9
+T10	icd_code 0 10	Дорсопатия
+N1	Reference T10 ICD_codes:8306	M53.9
+T5	icd_code 371 382	цервикалгия
+N9	Reference T5 ICD_codes:8310	M54.2

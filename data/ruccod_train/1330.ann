@@ -1,0 +1,4 @@
+T1	icd_code 0 7	Вагинит
+N1	Reference T1 ICD_codes:8950	N76.0
+T2	icd_code 10 21	Бак вагиноз
+N2	Reference T2 ICD_codes:8950	N76.0

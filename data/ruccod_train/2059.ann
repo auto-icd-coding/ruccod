@@ -1,0 +1,6 @@
+T1	icd_code 22 42	микролит левой почки
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 44 62	Киста правой почки
+N2	Reference T2 ICD_codes:8782	N28.1
+T3	icd_code 0 20	Мочекаменная болезнь
+N3	Reference T3 ICD_codes:8756	N20.0

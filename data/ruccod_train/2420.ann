@@ -1,0 +1,6 @@
+T1	icd_code 0 7	Уретрит
+N1	Reference T1 ICD_codes:8817	N34.1
+T2	icd_code 9 35	Нейрогенный мочевой пузырь
+N2	Reference T2 ICD_codes:8801	N31.2
+T3	icd_code 37 58	Синехии крайней плоти
+N3	Reference T3 ICD_codes:8870	N48

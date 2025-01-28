@@ -1,0 +1,6 @@
+T1	icd_code 0 42	варикозное расширение малой подкожной вены
+N1	Reference T1 ICD_codes:6715	I83
+T2	icd_code 133 136	ХВН
+N2	Reference T2 ICD_codes:6715	I83
+T3	icd_code 143 153	Pes planus
+N3	Reference T3 ICD_codes:8111	M21.4

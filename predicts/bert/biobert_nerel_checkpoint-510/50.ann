@@ -1,0 +1,10 @@
+T1	icd_code 0 15	Острый ларингит
+T2	icd_code 18 33	Острый фарингит
+T3	icd_code 35 47	Острый ринит
+T4	icd_code 49 50	О
+T5	icd_code 51 59	синуит в
+N1	Reference T1 ICD_codes:6796	J04.0
+N2	Reference T2 ICD_codes:6790	J02.9
+N3	Reference T3 ICD_codes:6776	J00
+N4	Reference T4 ICD_codes:14903	X16.9
+N5	Reference T5 ICD_codes:6786	J01.9

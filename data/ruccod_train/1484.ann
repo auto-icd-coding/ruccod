@@ -1,0 +1,9 @@
+T1	icd_code 0 22	Хроническая крапивница
+N1	Reference T1 ICD_codes:7728	L50.8
+T2	icd_code 24 45	
+Аллергический ринит?
+N2	Reference T2 ICD_codes:6868	J30.0
+T3	icd_code 47 68	ГИперплазия аденоидов
+N3	Reference T3 ICD_codes:6899	J35.2
+T4	icd_code 79 84	ФНЖКТ
+N4	Reference T4 ICD_codes:7373	K59.9

@@ -1,0 +1,8 @@
+T1	icd_code 0 4	ОРВИ
+N1	Reference T1 ICD_codes:6804	J06.8
+T2	icd_code 6 34	Функциональное нарушение ЖКТ
+N2	Reference T2 ICD_codes:7373	K59.9
+T3	icd_code 36 57	Функциональные запоры
+N3	Reference T3 ICD_codes:7367	K59.0
+T4	icd_code 59 88	Токсико-аллергическая реакция
+N4	Reference T4 ICD_codes:7657	L27

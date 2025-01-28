@@ -1,0 +1,10 @@
+T1	icd_code 2 20	Мышечно-тонический
+N1	Reference T1 ICD_codes:8441	M79.1
+T2	icd_code 22 45	цервикоторакоалгический
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 62 72	дорсопатии
+N3	Reference T3 ICD_codes:8307	M54
+T4	icd_code 74 118	распространенного остеохондроза позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 170 203	 дистония по гипотоническому типу
+N5	Reference T5 ICD_codes:5801	G90.8

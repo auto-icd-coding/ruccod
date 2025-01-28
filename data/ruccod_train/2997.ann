@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 45 57	остеохондроз
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 62 108	Умеренно выраженный мышечно-тонический синдром
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 111 136	Синдром цервикокраниалгии
+N4	Reference T4 ICD_codes:10929	R51
+T5	icd_code 138 181	Нейропатия средней ветви  тройничного нерва
+N5	Reference T5 ICD_codes:5638	G50.0
+T6	icd_code 192 231	артроз височно-нижнечелюстного синдрома
+N6	Reference T6 ICD_codes:7130	K07.6

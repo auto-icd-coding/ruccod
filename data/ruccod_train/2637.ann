@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 20 45	остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 74 85	Цервикалгия
+N3	Reference T3 ICD_codes:8310	M54.2
+T4	icd_code 101 111	Краниалгия
+N4	Reference T4 ICD_codes:10929	R51
+T5	icd_code 114 143	Вестибулоатаксический синдром
+N5	Reference T5 ICD_codes:6259	H81.0
+T6	icd_code 147 151	ДГПЖ
+N6	Reference T6 ICD_codes:8843	N40

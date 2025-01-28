@@ -1,0 +1,8 @@
+T1	icd_code 87 108	Анемия легкой степени
+N1	Reference T1 ICD_codes:1811	D50.9
+T2	icd_code 27 50	Вторичный иммунодефицит
+N2	Reference T2 ICD_codes:1986	D84
+T3	icd_code 68 71	ЦМВ
+N3	Reference T3 ICD_codes:574	B25
+T4	icd_code 73 85	ВЭБ-инфекции
+N4	Reference T4 ICD_codes:471	B00

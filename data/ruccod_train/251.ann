@@ -1,0 +1,6 @@
+T1	icd_code 19 29	остеопороз
+N1	Reference T1 ICD_codes:8460	M81
+T2	icd_code 112 130	Дефицит витамина Д
+N2	Reference T2 ICD_codes:2247	E55.9
+T3	icd_code 161 176	Гиперкальциемия
+N3	Reference T3 ICD_codes:2379	E83.5

@@ -1,0 +1,24 @@
+T1	icd_code 1 11	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 13 53	Остеохондроз шейного отдела позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 56 69	протрузии мпд
+N3	Reference T3 ICD_codes:8299	M51.9
+T4	icd_code 74 104	Спондилоартроз С3-С7 сегментов
+N4	Reference T4 ICD_codes:5678	G55.2
+T5	icd_code 107 134	мышечно- тонический синдром
+N5	Reference T5 ICD_codes:8441	M79.1
+T6	icd_code 183 206	с-м позвоночной артерии
+N6	Reference T6 ICD_codes:8262	M47.0
+T7	icd_code 228 270	Остеохондроз поясничного отдела позвночник
+N7	Reference T7 ICD_codes:8229	M42.9
+T8	icd_code 302 319	синдром люмбалгии
+N8	Reference T8 ICD_codes:8312	M54.4
+T9	icd_code 349 352	ЦВБ
+N9	Reference T9 ICD_codes:6627	I67.9
+T10	icd_code 354 357	ДЭП
+N10	Reference T10 ICD_codes:6622	I67.4
+T11	icd_code 370 396	церебральном атеросклерозе
+N11	Reference T11 ICD_codes:6620	I67.2
+T12	icd_code 400 414	гиперлипидемия
+N12	Reference T12 ICD_codes:2355	E78.5

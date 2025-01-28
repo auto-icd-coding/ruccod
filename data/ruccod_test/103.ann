@@ -1,0 +1,4 @@
+T1	icd_code 0 37	Повреждение левого ахиллова сухожилия
+N1	Reference T1 ICD_codes:11994	S86.0
+T2	icd_code 52 82	окклюзивный тромбоз левых ЗББВ
+N2	Reference T2 ICD_codes:6713	I82.8

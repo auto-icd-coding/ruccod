@@ -1,0 +1,5 @@
+T1	icd_code 0 33	Доброкачественные новообразования
+N1	Reference T1 ICD_codes:1636	D23
+T2	icd_code 35 71	Внутридермальный невус области лица.
+N2	Reference T2 ICD_codes:6691	I78.1
+T3	icd_code 71 80	Папиллома

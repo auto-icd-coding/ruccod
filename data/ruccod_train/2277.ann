@@ -1,0 +1,6 @@
+T1	icd_code 0 54	п/травматический артроз правого голеностопного сустава
+N1	Reference T1 ICD_codes:8079	M17.3
+T2	icd_code 56 64	синовиит
+N2	Reference T2 ICD_codes:8356	M65.8
+T3	icd_code 66 97	умеренно выраженный болевой с-м
+N3	Reference T3 ICD_codes:8441	M79.1

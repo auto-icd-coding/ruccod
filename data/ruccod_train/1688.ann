@@ -1,0 +1,6 @@
+T1	icd_code 0 13	радикулопатия
+N1	Reference T1 ICD_codes:8309	M54.1
+T2	icd_code 25 36	Грыжа диска
+N2	Reference T2 ICD_codes:8298	M51.8
+T3	icd_code 45 59	спондилоартроз
+N3	Reference T3 ICD_codes:8241	M45-M49

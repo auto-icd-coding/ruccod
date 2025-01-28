@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Атрофический вульвовагинит
+N1	Reference T1 ICD_codes:9089	N95.2
+T2	icd_code 27 35	цервицит
+N2	Reference T2 ICD_codes:8926	N72

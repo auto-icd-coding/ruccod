@@ -1,0 +1,8 @@
+T1	icd_code 0 11	Эктопия ш\м
+N1	Reference T1 ICD_codes:9021	N86
+T2	icd_code 13 20	Кольпит
+N2	Reference T2 ICD_codes:8949	N76
+T3	icd_code 21 32	уреаплазмоз
+N3	Reference T3 ICD_codes:324	A63.8
+T4	icd_code 33 36	ВПЧ
+N4	Reference T4 ICD_codes:920	B97

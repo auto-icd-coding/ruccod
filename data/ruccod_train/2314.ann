@@ -1,0 +1,4 @@
+T1	icd_code 0 53	Острое респираторное заболевание, Острый ринофарингит
+N1	Reference T1 ICD_codes:6776	J00
+T2	icd_code 55 77	миофасциальный синдром
+N2	Reference T2 ICD_codes:8441	M79.1

@@ -1,0 +1,14 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8306	M53.9
+T2	icd_code 29 54	остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1
+T3	icd_code 56 88	спондилоартроза на шейном уровне
+N3	Reference T3 ICD_codes:8266	M47.9
+T4	icd_code 94 109	протрузия диска
+N4	Reference T4 ICD_codes:8284	M50
+T5	icd_code 117 130	Радикулопатия
+N5	Reference T5 ICD_codes:8287	M50.1
+T6	icd_code 177 198	Межреберная невралгия
+N6	Reference T6 ICD_codes:5700	G58.0
+T5	icd_code 141 173	синдром чувствительных нарушений
+N5	Reference T5 ICD_codes:8287	M50.1

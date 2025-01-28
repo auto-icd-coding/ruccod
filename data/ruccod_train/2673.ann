@@ -1,0 +1,12 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8305	M53.8
+T2	icd_code 12 23	цервикалгия
+N2	Reference T2 ICD_codes:8310	M54.2
+T3	icd_code 47 69	мышечно-тонический с-м
+N3	Reference T3 ICD_codes:8441	M79.1
+T4	icd_code 71 75	ВБН?
+N4	Reference T4 ICD_codes:5611	G45.0
+T5	icd_code 77 118	Множественные гиперпигментированные пятна
+N5	Reference T5 ICD_codes:7880	L81.9
+T6	icd_code 120 155	Гемангиома кожи передней бр. стенки
+N6	Reference T6 ICD_codes:1607	D18.0

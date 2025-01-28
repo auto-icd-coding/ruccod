@@ -1,0 +1,8 @@
+T1	icd_code 12 18	здоров
+N1	Reference T1 ICD_codes:16596	Z00
+T2	icd_code 21 34	Гиперметропия
+N2	Reference T2 ICD_codes:6127	H52.0
+T3	icd_code 46 68	Плосковальгусная стопа
+N3	Reference T3 ICD_codes:8111	M21.4
+T4	icd_code 70 86	Нарушение осанки
+N4	Reference T4 ICD_codes:8217	M41

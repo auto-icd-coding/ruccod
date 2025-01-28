@@ -1,0 +1,4 @@
+T1	icd_code 53 71	протезированием АК
+N1	Reference T1 ICD_codes:17275	Z95.2
+T2	icd_code 73 97	восходящего отдела аорты
+N2	Reference T2 ICD_codes:17272	Z95

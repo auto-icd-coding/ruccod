@@ -1,0 +1,10 @@
+T1	icd_code 0 11	Ост.бронхит
+N1	Reference T1 ICD_codes:6849	J20
+T2	icd_code 40 42	ДН
+N2	Reference T2 ICD_codes:7045	J96
+T3	icd_code 57 80	респираторный хламидиоз
+N3	Reference T3 ICD_codes:361	A74
+T4	icd_code 82 93	микоплазмоз
+N4	Reference T4 ICD_codes:261	A49.3
+T5	icd_code 96 113	Синусовая аритмия
+N5	Reference T5 ICD_codes:6545	I49.9

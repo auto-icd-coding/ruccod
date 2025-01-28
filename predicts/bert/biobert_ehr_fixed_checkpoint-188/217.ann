@@ -1,0 +1,8 @@
+T1	icd_code 0 3	АМК
+T2	icd_code 4 16	Олигоменорея
+T3	icd_code 17 21	СПКЯ
+T4	icd_code 23 35	Излишний вес
+N1	Reference T1 ICD_codes:8759	N20.9
+N2	Reference T2 ICD_codes:9063	N91.5
+N3	Reference T3 ICD_codes:2174	E28.2
+N4	Reference T4 ICD_codes:10969	R63.5

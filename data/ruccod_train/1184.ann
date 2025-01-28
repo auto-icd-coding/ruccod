@@ -1,0 +1,4 @@
+T1	icd_code 0 26	Неуточненная энцефалопатия
+N1	Reference T1 ICD_codes:6627	I67.9
+T2	icd_code 29 70	Полисегменарный остеохондроз позвоночника
+N2	Reference T2 ICD_codes:8228	M42.1

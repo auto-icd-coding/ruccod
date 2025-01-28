@@ -1,0 +1,6 @@
+T1	icd_code 12 20	глаукома
+N1	Reference T1 ICD_codes:6058	H40.9
+T2	icd_code 27 36	Артифакия
+N2	Reference T2 ICD_codes:5996	H27.8
+T3	icd_code 42 61	Начальная катаракта
+N3	Reference T3 ICD_codes:5980	H25.0

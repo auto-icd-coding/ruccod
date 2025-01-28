@@ -1,0 +1,12 @@
+T1	icd_code 1 21	Атопический дерматит
+N1	Reference T1 ICD_codes:7618	L20.9
+T2	icd_code 51 73	Эпидермальная аллергия
+N2	Reference T2 ICD_codes:7617	L20.8
+T3	icd_code 75 83	Поллиноз
+N3	Reference T3 ICD_codes:6869	J30.1
+T4	icd_code 142 154	Дисбактериоз
+N4	Reference T4 ICD_codes:7398	K63
+T5	icd_code 157 178	Хронический тонзиллит
+N5	Reference T5 ICD_codes:6897	J35.0
+T6	icd_code 180 184	ОРВИ
+N6	Reference T6 ICD_codes:6777	J00-J06

@@ -1,0 +1,8 @@
+T1	icd_code 1 9	Поллиноз
+N1	Reference T1 ICD_codes:6869	J30.1
+T2	icd_code 51 73	Эпидермальная аллергия
+N2	Reference T2 ICD_codes:7625	L23
+T3	icd_code 75 91	Бытовая аллергия
+N3	Reference T3 ICD_codes:12745	T78.4
+T4	icd_code 93 112	Гиперглобулин-Еемия
+N4	Reference T4 ICD_codes:11001	R77.1

@@ -1,0 +1,4 @@
+T1	icd_code 0 6	Миопия
+T2	icd_code 35 44	Астенопия
+N1	Reference T1 ICD_codes:6128	H52.1
+N2	Reference T2 ICD_codes:6131	H52.4

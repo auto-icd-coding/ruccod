@@ -1,0 +1,4 @@
+T1	icd_code 0 29	Фиброзно-кистозная мастопатия
+N1	Reference T1 ICD_codes:8899	N60.1
+T2	icd_code 46 73	кисты левой молочной железы
+N2	Reference T2 ICD_codes:8898	N60.0

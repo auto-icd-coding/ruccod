@@ -1,0 +1,9 @@
+T1	icd_code 0 26	Хронический гастродуоденит
+N1	Reference T1 ICD_codes:7246	K29
+T2	icd_code 46 50	Н.Р.
+T3	icd_code 53 74	Реактивный панкреатит
+N3	Reference T3 ICD_codes:7514	K86.1
+T4	icd_code 76 80	ДЖВП
+N4	Reference T4 ICD_codes:7281	K38.9
+T5	icd_code 84 143	Синдром избыточного бактериального роста в тонком кишечнике
+N5	Reference T5 ICD_codes:10804	R19.8

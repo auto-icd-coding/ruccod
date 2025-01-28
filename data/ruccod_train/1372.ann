@@ -1,0 +1,6 @@
+T1	icd_code 0 18	Терминальный илеит
+N1	Reference T1 ICD_codes:7317	K50
+T2	icd_code 43 85	Массивная гематома передней брюшной стенки
+N2	Reference T2 ICD_codes:11446	S30
+T3	icd_code 101 123	Хронический панкреатит
+N3	Reference T3 ICD_codes:7514	K86.1

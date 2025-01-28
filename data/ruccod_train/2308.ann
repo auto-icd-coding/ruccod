@@ -1,0 +1,8 @@
+T1	icd_code 0 38	НМЦ по типу олигоменореи и гипоменореи
+N1	Reference T1 ICD_codes:9071	N92.6
+T2	icd_code 40 44	НЛФ?
+N2	Reference T2 ICD_codes:2177	E28.9
+T3	icd_code 45 52	Вагинит
+N3	Reference T3 ICD_codes:8960	N77.1
+T4	icd_code 54 62	цервицит
+N4	Reference T4 ICD_codes:8926	N72

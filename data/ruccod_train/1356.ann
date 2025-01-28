@@ -1,0 +1,4 @@
+T1	icd_code 38 58	Мочекаменная болезнь
+N1	Reference T1 ICD_codes:8756	N20.0
+T2	icd_code 1 24	хронический пиелонефрит
+N2	Reference T2 ICD_codes:8707	N11.0

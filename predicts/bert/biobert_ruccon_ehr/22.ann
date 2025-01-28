@@ -1,0 +1,6 @@
+T1	icd_code 0 45	остеома проксимальной фаланги 1п правой стопы
+T2	icd_code 47 62	артрозоартрит 1
+T3	icd_code 74 79	стопы
+N1	Reference T1 ICD_codes:8228	M42.1
+N2	Reference T2 ICD_codes:8095	M19.8
+N3	Reference T3 ICD_codes:10474	Q66.9

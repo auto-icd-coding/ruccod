@@ -1,0 +1,6 @@
+T1	icd_code 0 56	Синдром раздроженного толстого кишечника смешанная форма
+T2	icd_code 58 72	Дискинезия ЖВП
+T3	icd_code 74 114	Синдром избыточного бактериального ровта
+N1	Reference T1 ICD_codes:7363	K58
+N2	Reference T2 ICD_codes:7500	K82.8
+N3	Reference T3 ICD_codes:6804	J06.8

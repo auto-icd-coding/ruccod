@@ -1,0 +1,4 @@
+T1	icd_code 0 30	Посттравматическая нейропатия,
+N1	Reference T1 ICD_codes:5681	G56
+T2	icd_code 31 50	миалгия левой кисти
+N2	Reference T2 ICD_codes:8441	M79.1

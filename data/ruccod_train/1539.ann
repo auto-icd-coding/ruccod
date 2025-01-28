@@ -1,0 +1,6 @@
+T1	icd_code 0 10	Дорсопатия
+N1	Reference T1 ICD_codes:8315	M54.8
+T2	icd_code 47 59	люмбоишалгии
+N2	Reference T2 ICD_codes:8312	M54.4
+T3	icd_code 68 105	межпозвонковой поясничной грыжи диска
+N3	Reference T3 ICD_codes:8294	M51.1

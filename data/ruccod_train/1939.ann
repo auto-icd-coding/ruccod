@@ -1,0 +1,6 @@
+T1	icd_code 2 59	Острый  катаральный верхнечелюстной синусит с 2- х сторон
+N1	Reference T1 ICD_codes:6780	J01.0
+T2	icd_code 69 91	Острый ларингофарингит
+N2	Reference T2 ICD_codes:6803	J06.0
+T3	icd_code 104 140	Хр. вазомоторно-аллергический ринит.
+N3	Reference T3 ICD_codes:6868	J30.0

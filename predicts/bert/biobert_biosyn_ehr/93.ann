@@ -1,0 +1,10 @@
+T1	icd_code 0 63	Варикозная и посттромботическая  болезнь вен нижних конечностей
+T2	icd_code 65 68	ХВН
+T3	icd_code 73 127	Облитерирующий атеросклероз артерий нижних конечностей
+T4	icd_code 129 156	Аденокардинома прямой кишки
+T5	icd_code 191 195	ДГПЖ
+N1	Reference T1 ICD_codes:6719	I83.9
+N2	Reference T2 ICD_codes:6744	I87.2
+N3	Reference T3 ICD_codes:6644	I70.2
+N4	Reference T4 ICD_codes:1552	D12
+N5	Reference T5 ICD_codes:8843	N40

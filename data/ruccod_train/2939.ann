@@ -1,0 +1,10 @@
+T1	icd_code 2 34	Тораколюмбоишиалгический синдром
+N1	Reference T1 ICD_codes:8312	M54.4
+T2	icd_code 36 62	мышечно-тонический синдром
+N2	Reference T2 ICD_codes:8441	M79.1
+T3	icd_code 71 81	дорсопатии
+N3	Reference T3 ICD_codes:8305	M53.8
+T4	icd_code 101 127	остеохондроза позвоночника
+N4	Reference T4 ICD_codes:8228	M42.1
+T5	icd_code 159 170	Грыжа диска
+N5	Reference T5 ICD_codes:8297	M51.4
